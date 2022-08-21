@@ -1,0 +1,30 @@
+name: "Update JSON"
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 */12 * * *" # Every 12 hours
+
+jobs:
+  update-tweets:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set git user
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+      - name: Update JSON
+        run: |
+          wget https://github.com/ericchiang/pup/releases/download/v0.4.0/pup_v0.4.0_linux_amd64.zip
+          unzip pup_v0.4.0_linux_amd64.zip && rm pup_v0.4.0_linux_amd64.zip
+
+          OUTPUT=$(./run.sh)
+
+          rm pup
+
+          if [[ ! -z $(git status --short) ]]; then
+            git add $OUTPUT
+            git commit -m "Update $OUTPUT"
+            git push origin main
+          fi
+
