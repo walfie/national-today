@@ -29,7 +29,7 @@ jobs:
           rm pup
 
           if [[ ! -z $(git status --short) ]]; then
-            git add $OUTPUT
+            git add public
             git commit -m "Update $OUTPUT"
             git push origin main
           fi
@@ -39,4 +39,7 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          force_orphan: true
+          user_name: "github-actions[bot]"
+          user_email: "github-actions[bot]@users.noreply.github.com"
 
