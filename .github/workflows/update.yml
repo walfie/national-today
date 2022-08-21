@@ -2,7 +2,7 @@ name: "Update JSON"
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 */12 * * *" # Every 12 hours
+    - cron: "0 */12 * * *" # At midnight and noon
 
 permissions:
   contents: write
