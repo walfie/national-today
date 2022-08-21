@@ -12,13 +12,13 @@ trap cleanup EXIT
 
 curl 'https://nationaltoday.com/what-is-today/' >$INPUT
 
-OUTPUT=$(
+OUTPUT="public/$(
   pup '.ntdb-holiday-day, .ntdb-holiday-date text{}' <$INPUT \
     | uniq \
     | tr '[:upper:]' '[:lower:]' \
     | tr '\n' '/' \
     | sed 's|/$|.json|' \
-)
+)"
 
 mkdir -p $(dirname $OUTPUT)
 

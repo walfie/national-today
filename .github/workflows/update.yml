@@ -4,15 +4,20 @@ on:
   schedule:
     - cron: "30 */12 * * *" # Every 12 hours
 
+permissions:
+  contents: write
+
 jobs:
   update-json:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+
       - name: Set git user
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
       - name: Update JSON
         run: |
           wget https://github.com/ericchiang/pup/releases/download/v0.4.0/pup_v0.4.0_linux_amd64.zip
@@ -28,4 +33,10 @@ jobs:
             git commit -m "Update $OUTPUT"
             git push origin main
           fi
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
 
