@@ -5,7 +5,7 @@ on:
     - cron: "30 */12 * * *" # Every 12 hours
 
 jobs:
-  update-tweets:
+  update-json:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
