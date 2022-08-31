@@ -1,0 +1,98 @@
+{
+  "month": "aug",
+  "day": 31,
+  "holidays": [
+    {
+      "title": "National Trail Mix Day",
+      "description": "We eat it without thinking about it but trail mix keeps us happy throughout the day."
+    },
+    {
+      "title": "Birth Anniversary of President Ramon Magsaysay",
+      "description": "The Birth Anniversary of President Ramon Magsaysay celebrates a champion of the Filipino masses."
+    },
+    {
+      "title": "Eat Outside Day",
+      "description": "We’ve got some suggestions to make you salivate over Eat Outside Day."
+    },
+    {
+      "title": "Ganesh Chaturthi",
+      "description": "A ten day festival, held to honor the Hindu god of intelligence, Ganesha."
+    },
+    {
+      "title": "Independence Day",
+      "description": "This Merdeka Day, Malaysians celebrate their love for their country with great patriotic spirit."
+    },
+    {
+      "title": "International Day for People of African Descent",
+      "description": "Pay homage to African communities everywhere on the first observance of this international day."
+    },
+    {
+      "title": "International Overdose Awareness Day",
+      "description": "Let’s put up a fight against the issues preventing solutions this International Overdose Awareness Day."
+    },
+    {
+      "title": "Kyrgyzstan Independence Day",
+      "description": "Want to learn more about Kyrgyzstan? Join us as we uncover this beautiful country."
+    },
+    {
+      "title": "La Tomatina",
+      "description": "Get your tomatoes ready as we prepare to celebrate this day with the ultimate tomato fight!"
+    },
+    {
+      "title": "Love Litigating Lawyers Day",
+      "description": "Here are some fun ways to celebrate those in the legal profession."
+    },
+    {
+      "title": "National Dan Day",
+      "description": "Daniel (Dan) was the 14th most popular name in the U.S. in 2021."
+    },
+    {
+      "title": "National Diatomaceous Earth Day",
+      "description": "Diatomaceous earth is a product used even in toothpaste! Learn more here."
+    },
+    {
+      "title": "National Matchmaker Day",
+      "description": "This day raises a toast to the people who create happy endings for others."
+    },
+    {
+      "title": "National South Carolina Day",
+      "description": "Get ready to experience South Carolina hospitality like never before! Read on for more!"
+    },
+    {
+      "title": "National Zoo Awareness Day",
+      "description": "How well do you know your zoos? Read on and find out."
+    },
+    {
+      "title": "Trinidad and Tobago Independence Day",
+      "description": "Join us as we look at the cultural and ecological diversity of Trinidad and Tobago."
+    },
+    {
+      "title": "We Love Memoirs Day",
+      "description": "Study the lives of others and learn some insights on We Love Memoirs Day!"
+    },
+    {
+      "title": "World Distance Learning Day",
+      "description": "A day to embrace the learning that takes place outside of the physical classroom."
+    },
+    {
+      "title": "Debbie Gibson’s Birthday",
+      "description": "This talented pop star, singer-songwriter, and pianist has returned to music with a passion!"
+    },
+    {
+      "title": "Dreka Gates’s Birthday",
+      "description": "The accomplished model and mother of two juggles stardom and raising a family like a pro."
+    },
+    {
+      "title": "Maria Montessori’s Birthday",
+      "description": "We could all learn a thing or two from this incredible lady."
+    },
+    {
+      "title": "Richard Gere’s Birthday",
+      "description": "This talented actor, film producer, pianist, musician, and composer has achieved everything there is to achieve."
+    },
+    {
+      "title": "Van Morrison’s Birthday",
+      "description": "Not only is he a multi-talented artist, but he is also a decorated knight."
+    }
+  ]
+}
