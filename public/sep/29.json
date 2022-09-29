@@ -1,0 +1,78 @@
+{
+  "month": "sep",
+  "day": 29,
+  "holidays": [
+    {
+      "title": "National Coffee Day",
+      "description": "Coffee is an integral part of American culture, like McDonald&#39;s, rock n&#39; roll, and blue jeans."
+    },
+    {
+      "title": "National Starbucks Day",
+      "description": "There are few places you can go in the world and not find a Starbucks."
+    },
+    {
+      "title": "CONFUCIUS DAY",
+      "description": "Learn about the history of the great sage and how he is celebrated around the world!"
+    },
+    {
+      "title": "International Day of Awareness of Food Loss and Waste",
+      "description": "By raising awareness, let us all work together to reduce food loss and waste!"
+    },
+    {
+      "title": "International Happy Goose Day",
+      "description": "Warm up the oven, sharpen your knives and get ready to carve some succulent goose meat."
+    },
+    {
+      "title": "Michaelmas",
+      "description": "Do you think angels are awesome? Get ready to celebrate a special day in their honor."
+    },
+    {
+      "title": "National Biscotti Day",
+      "description": "Dry and crunchy; dipped or dunked, biscotti is enjoyed and celebrated in many ways."
+    },
+    {
+      "title": "National Carson Day",
+      "description": "Despite its ancient origins, Carson is a name that stands the test of time."
+    },
+    {
+      "title": "National Police Remembrance Day",
+      "description": "Be ready to celebrate this day right here with us by honoring all police officers."
+    },
+    {
+      "title": "National Silent Movie Day",
+      "description": "Be ready to watch as many silent movies as possible on this special day!"
+    },
+    {
+      "title": "VFW DAY",
+      "description": "Join us as we celebrate the beloved heroes of America."
+    },
+    {
+      "title": "World Heart Day",
+      "description": "Every year, over 17 million people die from heart disease."
+    },
+    {
+      "title": "World Maritime Day",
+      "description": "Toss your hats in honor of the seafarers on World Maritime Day."
+    },
+    {
+      "title": "Andy Frisella’s Birthday",
+      "description": "For this entrepreneur and podcaster, success in all he does is a way of life."
+    },
+    {
+      "title": "Bria Hamilton’s Birthday",
+      "description": "This gal appeared on a trendy reality show and is now a social media star."
+    },
+    {
+      "title": "Ice Poseidon’s Birthday",
+      "description": "This man is a social media personality known all across YouTube and Twitch."
+    },
+    {
+      "title": "Molly Eskam’s Birthday",
+      "description": "This beautiful YouTube star has what it takes to make it big on social media."
+    },
+    {
+      "title": "Nicholas Galitzine’s Birthday",
+      "description": "He landed major roles and made it big in just a few years since his debut."
+    }
+  ]
+}
