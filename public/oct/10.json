@@ -3,8 +3,8 @@
   "day": 10,
   "holidays": [
     {
-      "title": "Columbus Day",
-      "description": "&#34;In fourteen hundred ninety-two, Columbus sailed the ocean blue.&#34;"
+      "title": "Indigenous Peoples&#39; Day",
+      "description": "Native American people are honored and celebrated on Indigenous Peoples’ Day."
     },
     {
       "title": "World Mental Health Day",
@@ -13,6 +13,10 @@
     {
       "title": "Bonza Bottler Day",
       "description": "With Bonza Bottler Day every month, there&#39;s always a reason to celebrate!"
+    },
+    {
+      "title": "Columbus Day",
+      "description": "&#34;In fourteen hundred ninety-two, Columbus sailed the ocean blue.&#34;"
     },
     {
       "title": "Cuba Independence Day",
@@ -33,10 +37,6 @@
     {
       "title": "Huduma Day",
       "description": "Formerly known as Moi Day, discover why Huduma Day is a special Kenyan holiday."
-    },
-    {
-      "title": "Indigenous Peoples&#39; Day",
-      "description": "Native American people are honored and celebrated on Indigenous Peoples’ Day."
     },
     {
       "title": "International Stage Management Day",
