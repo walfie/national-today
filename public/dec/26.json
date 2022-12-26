@@ -1,0 +1,90 @@
+{
+  "month": "dec",
+  "day": 26,
+  "holidays": [
+    {
+      "title": "Boxing Day",
+      "description": "In the U.K., Boxing Day is known as a shopping holiday, much like Black Friday."
+    },
+    {
+      "title": "Kwanzaa",
+      "description": "An African American and pan-African seven day cultural holiday that celebrates family and community."
+    },
+    {
+      "title": "National Thank You Note Day",
+      "description": "Think thank you notes don&#39;t exist these days? Think again..."
+    },
+    {
+      "title": "Day of Goodwill",
+      "description": "The day after Christmas is celebrated as Day of Goodwill in South Africa."
+    },
+    {
+      "title": "Junkanoo",
+      "description": "Join us as we explore the details of Junkanoo celebrations this holiday season!"
+    },
+    {
+      "title": "National Candy Cane Day",
+      "description": "With beginnings in 17th-century Germany, now we see them everywhere, even on trees."
+    },
+    {
+      "title": "National Homeowners Day",
+      "description": "Purchase the home of your dreams and be a proud homeowner this National Homeowners Day."
+    },
+    {
+      "title": "National Whiners Day",
+      "description": "Whiners have whined their way into getting their own holiday."
+    },
+    {
+      "title": "Slovenia Independence and Unity Day",
+      "description": "Join us as we look into the history of Independence and Unity Day in Slovenia."
+    },
+    {
+      "title": "St. Stephen&#39;s Day (Ireland)",
+      "description": "Pause for a moment to reflect on the life of Saint Stephen this St. Stephen&#39;s Day."
+    },
+    {
+      "title": "Synaxis of the Mother of God",
+      "description": "Travel down memory lane as we honor one of the world’s most famous icons."
+    },
+    {
+      "title": "Andy Biersack’s Birthday",
+      "description": "Let’s celebrate the big day of the star in the emo music industry, Andy Biersack."
+    },
+    {
+      "title": "Barry Wood’s Birthday",
+      "description": "From local clubs to the international pitch, this sportsman is iconic on the cricket field."
+    },
+    {
+      "title": "Chris Daughtry’s Birthday",
+      "description": "Here is the rock artist who made it big, completely on his own!"
+    },
+    {
+      "title": "David Rose’s Birthday",
+      "description": "This talented Youtube star, model, and entrepreneur is here to stay and entertain his fans worldwide."
+    },
+    {
+      "title": "Jade Thirlwall’s Birthday",
+      "description": "From “The X Factor” to international stardom, this singer has made it to the big leagues!"
+    },
+    {
+      "title": "Kit Harington’s Birthday",
+      "description": "From a hit series to a feature in the M.C.U., Kit Harington’s future is bright!"
+    },
+    {
+      "title": "Lars Ulrich’s Birthday",
+      "description": "This legendary metal rock star has always marched to the beat of his own drum!"
+    },
+    {
+      "title": "Luke Gulbranson’s Birthday",
+      "description": "For this small-town boy turned superstar, no spotlight is too big! Read on for more!"
+    },
+    {
+      "title": "Mao Tse Tung’s Birthday",
+      "description": "This world leader was one of the most significant political influences of the 20th century."
+    },
+    {
+      "title": "Natalie Nunn’s Birthday",
+      "description": "From television personality to C.E.O. of her own company, Natalie Nunn is unstoppable!"
+    }
+  ]
+}
