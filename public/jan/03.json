@@ -3,14 +3,6 @@
   "day": 3,
   "holidays": [
     {
-      "title": "JRR Tolkien Day",
-      "description": "It&#39;s “The Lord of the Rings” author’s birthday and you’re encouraged to toast him in celebration!"
-    },
-    {
-      "title": "National Chocolate Covered Cherry Day",
-      "description": "The luscious confection brightens our outlook for whatever waits for us in the new year ahead."
-    },
-    {
       "title": "Drinking Straw Day",
       "description": "Can you even think of living in a world without drinking straws?"
     },
@@ -31,8 +23,16 @@
       "description": "January 3 is International Mind-Body Wellness Day, an opportunity to celebrate how a healthy mind and healthy emotions means a healthy body! The mind, body…"
     },
     {
+      "title": "JRR Tolkien Day",
+      "description": "It&#39;s “The Lord of the Rings” author’s birthday and you’re encouraged to toast him in celebration!"
+    },
+    {
       "title": "Memento Mori &#34;Remember You Die&#34; Day",
       "description": "Memento Mori “Remember You Die” Day has finally arrived. So, what’s your next move?"
+    },
+    {
+      "title": "National Chocolate Covered Cherry Day",
+      "description": "The luscious confection brightens our outlook for whatever waits for us in the new year ahead."
     },
     {
       "title": "National Write to Congress Day",
