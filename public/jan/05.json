@@ -1,0 +1,54 @@
+{
+  "month": "jan",
+  "day": 5,
+  "holidays": [
+    {
+      "title": "Carver Day",
+      "description": "Time to put those green fingers to use as we celebrate an agricultural legend."
+    },
+    {
+      "title": "Day of Dialogue",
+      "description": "Let’s have difficult conversations with compassion and understanding, making the world a better place."
+    },
+    {
+      "title": "National Bird Day",
+      "description": "While birds are amazing, they are also a species under particular threat."
+    },
+    {
+      "title": "National Ellen Day",
+      "description": "No matter where you live or what you do, if you’re Ellen, we’re celebrating you."
+    },
+    {
+      "title": "National Keto Day",
+      "description": "On National Keto Day, January 5, we are reminded that people on ketogenic diets cut carbs out of their diet to an extent where the…"
+    },
+    {
+      "title": "National Screenwriters Day",
+      "description": "Every dialogue you love is written by a dedicated screenwriter — let’s honor their talents today."
+    },
+    {
+      "title": "National Whipped Cream Day",
+      "description": "Whipped cream is a sweet treat that we&#39;ve been creating for centuries."
+    },
+    {
+      "title": "Twelfth Night",
+      "description": "Is it wise to take your decorations down or keep them up on the Twelfth Night?"
+    },
+    {
+      "title": "Bradley Cooper’s Birthday",
+      "description": "It seems like there’s nothing this award-winning actor, director, and producer can’t do. He’s the man!"
+    },
+    {
+      "title": "Diane Keaton’s Birthday",
+      "description": "This one-of-a-kind actress has appeared in numerous films and is well-known for her distinct personality."
+    },
+    {
+      "title": "Hayao Miyazaki’s Birthday",
+      "description": "This well-known director has been honored with dozens of awards — in Japan and worldwide."
+    },
+    {
+      "title": "Kristin Cavallari’s Birthday",
+      "description": "This fashion entrepreneur, actress, T.V. personality started out on a reality T.V. show."
+    }
+  ]
+}
