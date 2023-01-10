@@ -1,0 +1,62 @@
+{
+  "month": "jan",
+  "day": 10,
+  "holidays": [
+    {
+      "title": "National Houseplant Appreciation Day",
+      "description": "Have the post-holiday blues? Brighten up your house with a lovely plant."
+    },
+    {
+      "title": "League of Nations Day",
+      "description": "Join us as we explore the fascinating origins and history of the League of Nations."
+    },
+    {
+      "title": "National Bittersweet Chocolate Day",
+      "description": "Treat your taste buds with the tanginess of dark chocolate and gear up for one wild celebration!"
+    },
+    {
+      "title": "National Cut Your Energy Costs Day",
+      "description": "Wasting energy is among the nastiest things we can do in life, and to the planet."
+    },
+    {
+      "title": "National Oysters Rockefeller Day",
+      "description": "Quick! Get your fork and spoon — there’s a half-shell culinary wonder that needs our attention."
+    },
+    {
+      "title": "National Save The Eagles Day",
+      "description": "Get a birds-eye view of freedom, grit, and democracy as we learn about America’s majestic bird."
+    },
+    {
+      "title": "National Shareholders Day",
+      "description": "Get your stocks up, it’s National Shareholders Day! Join us as we learn more."
+    },
+    {
+      "title": "National Shop For Travel Day",
+      "description": "Revamp your travel experience! Create awesome lifetime memories on this day."
+    },
+    {
+      "title": "Peculiar People Day",
+      "description": "Where’s the fun in being normal? Let’s get extra-ordinary and do great exploits."
+    },
+    {
+      "title": "Poetry at Work Day",
+      "description": "A poem at work a day keeps creativity gushing in all week."
+    },
+    {
+      "title": "Ben Azelart’s Birthday",
+      "description": "The famous and talented YouTuber Ben Azelart is an inspiration to young people."
+    },
+    {
+      "title": "Pat Benatar’s Birthday",
+      "description": "Pat Benatar’s music is addictive! She is one of the most successful musicians in America."
+    },
+    {
+      "title": "Rod Stewart’s Birthday",
+      "description": "A two-time cancer survivor, this energetic musician is an inspiration to millions."
+    },
+    {
+      "title": "Sisi Stringer’s Birthday",
+      "description": "The young Sisi Stringer is the new trendsetter in Hollywood, and we’re impressed by her talent."
+    }
+  ]
+}
