@@ -1,0 +1,54 @@
+{
+  "month": "aug",
+  "day": 25,
+  "holidays": [
+    {
+      "title": "National Banana Split Day",
+      "description": "The original banana split wasn&#39;t created in an ice cream parlor but in a pharmacy!"
+    },
+    {
+      "title": "Day of Songun",
+      "description": "Putting the military first, and recognizing the history and leadership of Kim Jong-il."
+    },
+    {
+      "title": "Kiss and Make Up Day",
+      "description": "Exercise your strength by forgiving — just kiss and make up!"
+    },
+    {
+      "title": "National Burger Day",
+      "description": "Join us as we bring you the best ways to celebrate National Burger Day."
+    },
+    {
+      "title": "National Park Service Founders Day",
+      "description": "On this day, President Woodrow Wilson signed the Organic Act, creating the National Park Service."
+    },
+    {
+      "title": "National Secondhand Wardrobe Day",
+      "description": "Buying clothes second hand and donating used clothing is crucial for cutting back our waste."
+    },
+    {
+      "title": "National Whiskey Sour Day",
+      "description": "Why not kick back and pour yourself a glass of whiskey sour today?"
+    },
+    {
+      "title": "Andrew Hussie’s Birthday",
+      "description": "Hussie lives on the revenue generated from merch sales and advertising revenue from the “Homestuck” website."
+    },
+    {
+      "title": "Billy Ray Cyrus’s Birthday",
+      "description": "He’s had an amazing career and he’s passed on this winning streak to his progeny"
+    },
+    {
+      "title": "Blake Lively’s Birthday",
+      "description": "Lively has done an excellent job balancing a full-time acting career and being a devoted mum"
+    },
+    {
+      "title": "China Anne McClain’s Birthday",
+      "description": "She was only seven years old when she started acting and she’s been going strong since."
+    },
+    {
+      "title": "Tim Burton’s Birthday",
+      "description": "Burton’s style may not be everyone’s cup of tea but his artistic sense is without reproach"
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "month": "oct",
+  "day": 1,
+  "holidays": [
+    {
+      "title": "International Coffee Day",
+      "description": "It energize you, warms you, refreshes you, keep you awake, and makes your life better."
+    },
+    {
+      "title": "National Homemade Cookies Day",
+      "description": "Bakers, homemakers, and cookie enthusiasts, preheat your ovens to serve up these delicious treats."
+    },
+    {
+      "title": "World Vegetarian Day",
+      "description": "Did you know that approximately 10% of the world&#39;s population is vegetarian?"
+    },
+    {
+      "title": "Albuquerque International Balloon Fiesta",
+      "description": "Up, up and away! Look to the sky — The Albuquerque International Balloon Fiesta is here."
+    },
+    {
+      "title": "Balloons Around the World Day",
+      "description": "You don’t need to be good at party tricks to perform these balloon activities!"
+    },
+    {
+      "title": "CD Player Day",
+      "description": "Take a trip down memory lane to listen to music sans &#39;playlists&#39;."
+    },
+    {
+      "title": "Chinese National Day",
+      "description": "Put on your patriotic hat as we get ready to ring in Chinese National Day."
+    },
+    {
+      "title": "Cyprus Independence Day",
+      "description": "Gather your family and friends — it’s time to observe Cyprus Independence Day!"
+    },
+    {
+      "title": "Filipino American History Month",
+      "description": "Celebrating the history, heritage, and culture of the Filipino-American community."
+    },
+    {
+      "title": "Frugal Fun Day",
+      "description": "Frugal Fun Day is the day to have fun without going broke."
+    },
+    {
+      "title": "​International Day of Older Persons",
+      "description": "Older people are fonts of wisdom, experience, and storytelling."
+    },
+    {
+      "title": "International Music Day",
+      "description": "Find out how music can contribute towards creating a more harmonious society."
+    },
+    {
+      "title": "International Raccoon Appreciation Day",
+      "description": "Raccoons might not be the best pets, but they are no pests either."
+    },
+    {
+      "title": "Investiture of the Captains Regent in San Marino",
+      "description": "We join the citizens of San Marino in celebrating the new captain&#39;s regents."
+    },
+    {
+      "title": "Model T Day",
+      "description": "Pay homage to the legendary Henry Ford by remembering one of his most revolutionary creations."
+    },
+    {
+      "title": "National Black Dog Day",
+      "description": "See that picture? Go ahead and say it, &#34;awwwww!&#34;"
+    },
+    {
+      "title": "National Bookshop Day",
+      "description": "If you can read this, you can read a whole book — buy one today!"
+    },
+    {
+      "title": "National Day of China",
+      "description": "The celebrations of National Day of China are a part of China’s “Golden Week.”"
+    },
+    {
+      "title": "National Fire Pup Day",
+      "description": "Dogs have historically worked, lived, and slept alongside members of local fire departments."
+    },
+    {
+      "title": "National Hair Day",
+      "description": "Celebrate your personality as personified by your hair and explore ways to keep it lustrously healthy."
+    },
+    {
+      "title": "National Lace Day",
+      "description": "If you have ever dreamed of a lace wedding dress, then this holiday is for you."
+    },
+    {
+      "title": "Nigeria Independence Day",
+      "description": "Don your best green and white clothes and spend the day celebrating Nigerian Independence!"
+    },
+    {
+      "title": "ROK Alliance Day",
+      "description": "We commemorate the alliance treaty signing between the United States and the Republic of Korea today."
+    },
+    {
+      "title": "Teacher&#39;s Day in Uzbekistan",
+      "description": "On Teacher’s Day in Uzbekistan, we join the nation in recognizing and honoring educators and teachers."
+    },
+    {
+      "title": "Tuvalu Independence Day",
+      "description": "Read on to learn how this island nation got its independence from its British colonial masters."
+    },
+    {
+      "title": "World Ballet Day",
+      "description": "Put on your ballet shoes and celebrate one of the most adored dance forms in history."
+    },
+    {
+      "title": "World Card Making Day",
+      "description": "Get your craft knives and glue ready because we are celebrating a crafter’s perfect holiday."
+    },
+    {
+      "title": "World Sake Day",
+      "description": "Get your best sake, invite your family and friends, and celebrate the day together."
+    },
+    {
+      "title": "Brie Larson’s Birthday",
+      "description": "At just six, she became the youngest person to get into the American Conservatory Theater."
+    },
+    {
+      "title": "Delianna Urena’s Birthday",
+      "description": "This Instagram star has opened two successful businesses and her following continues to grow."
+    },
+    {
+      "title": "Dorian Hunter’s Birthday",
+      "description": "Chef Dorian proves that one decision can lead to your dreams coming true!"
+    },
+    {
+      "title": "Drew Chadwick’s Birthday",
+      "description": "Learn more about this talented rapper whose fame is on the rise."
+    },
+    {
+      "title": "FGTeeV Chase’s Birthday",
+      "description": "FGTeeV Chase is an active and outgoing kid who first appeared on camera at age two!"
+    },
+    {
+      "title": "Isis King’s Birthday",
+      "description": "This transgender model walked so that others in her community would be able to run!"
+    },
+    {
+      "title": "Julie Andrews’s Birthday",
+      "description": "Julie Andrews has built a successful acting career in the course of 75 years."
+    },
+    {
+      "title": "Jurnee Smollett-Bell’s Birthday",
+      "description": "She&#39;s gone from a little girl to a hot mama with a long list of achievements!"
+    },
+    {
+      "title": "Latisha Scott’s Birthday",
+      "description": "We celebrate this strong business-minded reality star, for whom the sky is the limit."
+    },
+    {
+      "title": "Matthew Daddario’s Birthday",
+      "description": "The handsome &#34;Shadowshunter&#34; actor has always been the one to look forward to on the screen!"
+    },
+    {
+      "title": "Myles Parrish’s Birthday",
+      "description": "Could this talented YouTube star and singer be the next big thing in the music industry?"
+    },
+    {
+      "title": "Nathaniel Drew’s Birthday",
+      "description": "The rise of this YouTube star has wowed us in ways we never imagined."
+    },
+    {
+      "title": "Peter Thomas’s Birthday",
+      "description": "This reality star started his career in the music world, gained experience, and built several businesses."
+    },
+    {
+      "title": "Priah Ferguson’s Birthday",
+      "description": "She’s young, talented, and has plenty in store for her rising acting career!"
+    },
+    {
+      "title": "RD Benji’s Birthday",
+      "description": "This talented YouTube star is one post away from true greatness and fame."
+    },
+    {
+      "title": "Zach Galifianakis’s Birthday",
+      "description": "This hilarious actor has created a timeless legacy that will remain relevant."
+    }
+  ]
+}

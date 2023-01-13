@@ -1,0 +1,86 @@
+{
+  "month": "aug",
+  "day": 24,
+  "holidays": [
+    {
+      "title": "National Waffle Day",
+      "description": "Pass the syrup! We’ll welcome any occasion to indulge in this iconic international treat."
+    },
+    {
+      "title": "International Strange Music Day",
+      "description": "Listen to a genre of music or an artist that you’d usually not consider."
+    },
+    {
+      "title": "Kobe Bryant Day",
+      "description": "Kobe Bryant was more than a basketball player; he was an inspiration and a cultural icon."
+    },
+    {
+      "title": "Melaka Governor&#39;s Birthday",
+      "description": "Today is a public holiday to celebrate the officeholder’s birthday — it’s Melaka Governor’s Birthday."
+    },
+    {
+      "title": "National Danny Day",
+      "description": "Join us as we celebrate all the Dannys and Daniels around the world today."
+    },
+    {
+      "title": "National Emory Day",
+      "description": "Though Emory is a gender-neutral name, parents are more likely to name their boys Emory than girls."
+    },
+    {
+      "title": "National Flag Day in Liberia",
+      "description": "It’s not just a flag, it’s proof of independence, courage, and moral excellence."
+    },
+    {
+      "title": "National Knife Day",
+      "description": "Sharpen your knives and get ready to show off your chopping skills."
+    },
+    {
+      "title": "National Peach Pie Day",
+      "description": "Get ready to help yourself to a generous serving of peach pie"
+    },
+    {
+      "title": "National SKAM Artist Day",
+      "description": "Today is all about celebrating the original SKAM artist himself, Sujit Kundu."
+    },
+    {
+      "title": "Pluto Demoted Day",
+      "description": "After nearly 80 years as an official planet, Pluto was demoted down to a dwarf planet."
+    },
+    {
+      "title": "St Bartholomew History",
+      "description": "Learn about the life and teaching of St. Bartholomew and his importance."
+    },
+    {
+      "title": "Ukraine Independence Day",
+      "description": "Let’s wave the blue and yellow flag of Ukraine together and celebrate this day with pride."
+    },
+    {
+      "title": "Vesuvius Day",
+      "description": "Today commemorates the fateful day when Mount Vesuvius erupted in the city of Pompeii."
+    },
+    {
+      "title": "William Wilberforce Day",
+      "description": "William Wilberforce led the anti-slavery movement in Great Britain. Let’s learn more about this extraordinary man."
+    },
+    {
+      "title": "Callum The Dragon’s Birthday",
+      "description": "We love how this young blood pushes boundaries and challenges himself to try new things."
+    },
+    {
+      "title": "Catherine Paiz’s Birthday",
+      "description": "She works tirelessly with her husband, Austin, to create content for their hungry audience."
+    },
+    {
+      "title": "Chad Michael Murray’s Birthday",
+      "description": "This talented and skillful entertainer has created a name for himself throughout his successful career."
+    },
+    {
+      "title": "Dave Chappelle’s Birthday",
+      "description": "You cannot talk about the ‘comedy-greats’ of all time and not mention this funny man."
+    },
+    {
+      "title": "Rupert Grint’s Birthday",
+      "description": "What a privilege we’ve had to watch this performer morph from child actor to seasoned professional"
+    }
+  ]
+}

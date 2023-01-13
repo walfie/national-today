@@ -1,0 +1,54 @@
+{
+  "month": "sep",
+  "day": 12,
+  "holidays": [
+    {
+      "title": "National Video Games Day",
+      "description": "No reason to feel bad about not even seeing the light of day today."
+    },
+    {
+      "title": "National Boss/Employee Exchange Day",
+      "description": "Get ready to step into a different pair of shoes as we celebrate this fun day."
+    },
+    {
+      "title": "National Chocolate Milkshake Day",
+      "description": "Simple, sweet, and delectable, chocolate milkshakes are one of the best treats of all time."
+    },
+    {
+      "title": "National Day of Encouragement",
+      "description": "Do your bit to uplift those around you."
+    },
+    {
+      "title": "National Police Woman Day",
+      "description": "Today, we celebrate all the brave women in our police force."
+    },
+    {
+      "title": "National Report Medicare Fraud Day",
+      "description": "Every year, America loses 10% of Medicare funds to fraud."
+    },
+    {
+      "title": "United Nations Day for South-South Cooperation",
+      "description": "Stand for unity in the south by observing the United Nations Day for South-South Cooperation."
+    },
+    {
+      "title": "2 Chainz’s Birthday",
+      "description": "There is no limiting this talented rapper — the world is his oyster!"
+    },
+    {
+      "title": "Bizzy Bone’s Birthday",
+      "description": "Having overcome some of life’s toughest challenges, this rapper has earned his fame."
+    },
+    {
+      "title": "Jennifer Hudson’s Birthday",
+      "description": "This phenomenal singer and actress continues to build a legacy that is bound to outlive her."
+    },
+    {
+      "title": "Paul Walker’s Birthday",
+      "description": "This talented actor can rest in peace knowing his legacy makes the world better and brighter."
+    },
+    {
+      "title": "RM’s Birthday",
+      "description": "This talented rapper, songwriter, and bandleader is outstanding in every way that matters!"
+    }
+  ]
+}

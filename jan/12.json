@@ -1,0 +1,78 @@
+{
+  "month": "jan",
+  "day": 12,
+  "holidays": [
+    {
+      "title": "Kiss a Ginger Day",
+      "description": "Red hair is slowly disappearing around the world, so kiss a ginger while you still can!"
+    },
+    {
+      "title": "National Pharmacist Day",
+      "description": "The importance of pharmacists is honored how they impact our health and well-being."
+    },
+    {
+      "title": "Feast of Fabulous Wild Men Day",
+      "description": "An ode to eye candy in the form of male homo sapiens."
+    },
+    {
+      "title": "Healthy Weight, Healthy Look Day",
+      "description": "Beef up or cut down on those carbs, and put in some gym time too."
+    },
+    {
+      "title": "National Curried Chicken Day",
+      "description": "Dive in, fork first, as we celebrate one of the most delicious types of chicken dishes."
+    },
+    {
+      "title": "National Hot Tea Day",
+      "description": "A cup of tea for breakfast, lunch, and dinner is never too much on this day."
+    },
+    {
+      "title": "National Kettlebell Day",
+      "description": "Dive into kettlebell’s history, enjoy some fun facts, and check out ways to celebrate this day."
+    },
+    {
+      "title": "National Marzipan Day",
+      "description": "It’s time to celebrate and bite your teeth into this delicious confectionary."
+    },
+    {
+      "title": "National Youth Day",
+      "description": "Today, Indians honor the birthday of Swami Vivekananda, one of India’s greatest spiritual and social leaders."
+    },
+    {
+      "title": "Remembrance Day",
+      "description": "Learn the best ways to observe Remembrance Day and pay tribute to the lives lost."
+    },
+    {
+      "title": "Stick to Your New Year&#39;s Resolution Day",
+      "description": "New Year, same old you? Here’s how you can change things up."
+    },
+    {
+      "title": "Work Harder Day",
+      "description": "Invest more energy, and put in more effort. Be resolute and achieve success. Cheers to you!"
+    },
+    {
+      "title": "Do Kyungsoo’s Birthday",
+      "description": "For this talented South Korean actor and singer, the climb to stardom has only just begun."
+    },
+    {
+      "title": "Howard Stern’s Birthday",
+      "description": "Stern has certainly paved his own way to fame with his natural entertaining personality!"
+    },
+    {
+      "title": "Issa Rae’s Birthday",
+      "description": "There are no limits to ambition for this award-winning actress, best-selling author, and businesswoman!"
+    },
+    {
+      "title": "Jeff Bezos’s Birthday",
+      "description": "Learn about his extraordinary journey and how an idea born from the garage reached every household!"
+    },
+    {
+      "title": "Rob Zombie’s Birthday",
+      "description": "There are no limits to Rob Zombie’s inspiration when it comes to creating all things horror!"
+    },
+    {
+      "title": "Zayn Malik’s Birthday",
+      "description": "Discover everything there is to know about the heartthrob English pop singer, songwriter, and model."
+    }
+  ]
+}

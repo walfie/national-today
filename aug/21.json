@@ -1,0 +1,54 @@
+{
+  "month": "aug",
+  "day": 21,
+  "holidays": [
+    {
+      "title": "International Day of Remembrance and Tribute to the Victims of Terrorism",
+      "description": "Today, we remember those who have died as a result of terrorism and honor the survivors."
+    },
+    {
+      "title": "Internet Self-Care Day",
+      "description": "The internet is full of information. Use that information for some self-care today."
+    },
+    {
+      "title": "National Brazilian Blowout Day",
+      "description": "Let&#39;s get ready to protect our hair from the scorching heat of the summer!"
+    },
+    {
+      "title": "National Report Upcoding Fraud Day",
+      "description": "Let’s stand up and speak out against unethical behavior when we see it."
+    },
+    {
+      "title": "National Senior Citizens Day",
+      "description": "For all they have achieved for the good of their communities, senior citizens deserve our thanks!"
+    },
+    {
+      "title": "National Spumoni Day",
+      "description": "Enjoy a taste or two of this delicious layered Italian ice cream dessert."
+    },
+    {
+      "title": "Ninoy Aquino Day",
+      "description": "This day forever commemorates the life and legacy of a beloved hero of freedom."
+    },
+    {
+      "title": "Hayden Panettiere’s Birthday",
+      "description": "Acting is in her blood, and she’s not about to stop anytime soon."
+    },
+    {
+      "title": "Joe Strummer’s Birthday",
+      "description": "Strummer was a British musician whose career spanned more than two decades."
+    },
+    {
+      "title": "Kyle Creek’s Birthday",
+      "description": "After years of anonymity, Kyle Creek finally steps into the light to share his incredible story."
+    },
+    {
+      "title": "Timmy Thick’s Birthday",
+      "description": "This internet star and social media personality is one upload away from enviable success."
+    },
+    {
+      "title": "Usain Bolt’s Birthday",
+      "description": "Although retired, his record as a sprinter remains unbeaten; ‘Lightning Bolt’ will never be forgotten"
+    }
+  ]
+}

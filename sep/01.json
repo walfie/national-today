@@ -1,0 +1,86 @@
+{
+  "month": "sep",
+  "day": 1,
+  "holidays": [
+    {
+      "title": "American Chess Day",
+      "description": "A game of strategy and skill, chess is played the world over by young and old."
+    },
+    {
+      "title": "Building and Code Staff Appreciation Day",
+      "description": "We celebrate this day because building, securing, and zoning buildings is hard work."
+    },
+    {
+      "title": "Cherry Popover Day",
+      "description": "Forget your worries and treat yourself to a scrumptious cherry popover on this holiday."
+    },
+    {
+      "title": "Chicken Boy Day",
+      "description": "Let’s celebrate the birthday of the man with a chicken head!"
+    },
+    {
+      "title": "Ginger Cat Appreciation Day",
+      "description": "See a ginger, pet a ginger! Let us celebrate our uniquely colored and affectionate feline companions."
+    },
+    {
+      "title": "International Cabernet Day",
+      "description": "Get your wine glasses ready for some Cabernet this International Cabernet Day!"
+    },
+    {
+      "title": "National Acne Positivity Day",
+      "description": "Come and fall in love with yourself this National Acne Positivity Day!"
+    },
+    {
+      "title": "National Child Identity Theft Awareness Day",
+      "description": "This National Child Identity Theft Awareness Day, learn about protecting your children in a digitized world."
+    },
+    {
+      "title": "National No Rhyme Nor Reason Day",
+      "description": "Put your thinking caps on and play around with words that don’t rhyme at all."
+    },
+    {
+      "title": "National Tofu Day",
+      "description": "It is National Tofu Day, so bring out those chopsticks and dipping sauces."
+    },
+    {
+      "title": "Pink Cadillac Day",
+      "description": "Sideburns, hip thrusts, and a pink Cadillac — dare to live larger than life."
+    },
+    {
+      "title": "Slovakia Constitution Day",
+      "description": "Slovakia Constitution Day is the perfect excuse to fill your belly with potato dumplings and beer."
+    },
+    {
+      "title": "Uzbekistan Independence Day",
+      "description": "Get your passport ready for a trip through the pages of Uzbekistan&#39;s history."
+    },
+    {
+      "title": "Wattle Day",
+      "description": "Wattle Day was intended to promote and enhance patriotism in the then-new nation of Australia."
+    },
+    {
+      "title": "World Letter Writing Day",
+      "description": "World Letter Writing Day is a day that is dedicated to expressing yourself in writing!"
+    },
+    {
+      "title": "Barry Gibb’s Birthday",
+      "description": "We are staying alive thanks to this mega superstar’s musical genius! Let’s celebrate!"
+    },
+    {
+      "title": "Chanel West Coast’s Birthday",
+      "description": "This sweet reality star has made an unforgettable impact on the entertainment industry."
+    },
+    {
+      "title": "Dr. Phil’s Birthday",
+      "description": "The doctor is in, so let’s learn more about psychologist and published author, Dr. Phil."
+    },
+    {
+      "title": "Jungkook’s Birthday",
+      "description": "This accomplished singer and dancer has found favor with fans around the world."
+    },
+    {
+      "title": "Zendaya’s Birthday",
+      "description": "This award-winning actress has made a splash in Hollywood and has become an inspiration to all."
+    }
+  ]
+}
