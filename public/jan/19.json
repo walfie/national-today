@@ -1,0 +1,82 @@
+{
+  "month": "jan",
+  "day": 19,
+  "holidays": [
+    {
+      "title": "National Popcorn Day",
+      "description": "Buttered, salted, kettled, drizzled with caramel, popcorn is one of those snacks perfect anytime, anywhere."
+    },
+    {
+      "title": "Artist as Outlaw Day",
+      "description": "Get your paints and spray cans ready as we gear up to celebrate outlaw artists!"
+    },
+    {
+      "title": "Brew a Potion Day",
+      "description": "Get your cauldrons out and brew with us as we celebrate Brew a Potion Day!"
+    },
+    {
+      "title": "Get to Know Your Customers Day",
+      "description": "Today, businesses better understand their customer base and increase their trust and loyalty."
+    },
+    {
+      "title": "Good Memory Day",
+      "description": "What better way to celebrate Good Memory Day than to actually make good memories?"
+    },
+    {
+      "title": "Gun Appreciation Day",
+      "description": "Get ready to discuss gun safety and other ways to appreciate guns."
+    },
+    {
+      "title": "National Annie Day",
+      "description": "Send all your ‘Annie’ friends, family, and relatives a lovely greeting this National Annie Day!"
+    },
+    {
+      "title": "National Lucy Day",
+      "description": "Keep reading to learn the history of Saint Lucy and facts about the name."
+    },
+    {
+      "title": "National Tin Can Day",
+      "description": "Crack open your favorite canned food as we celebrate the most functional food preservation tool!"
+    },
+    {
+      "title": "Robert E. Lee Day",
+      "description": "Here’s everything you need to know about this state holiday and how to celebrate it."
+    },
+    {
+      "title": "Tenderness Toward Existence Day",
+      "description": "Open up your hearts and minds; get ready to celebrate and appreciate life."
+    },
+    {
+      "title": "Women’s Healthy Weight Day",
+      "description": "Get ready ladies as it’s time to flaunt that beautiful body with confidence."
+    },
+    {
+      "title": "World Quark Day",
+      "description": "Get your spoons out to scoop up everything we’ve got for World Quark Day."
+    },
+    {
+      "title": "Dolly Parton’s Birthday",
+      "description": "This altruistic social butterfly and businesswoman who sings, acts, and writes songs is our star."
+    },
+    {
+      "title": "Edgar Allan Poe’s Birthday",
+      "description": "Cheers to the man who pioneered what we refer to as the ambiguous horror story."
+    },
+    {
+      "title": "Janis Joplin’s Birthday",
+      "description": "She was the world’s first true female rock star, the “queen of rock ‘n’ roll.”"
+    },
+    {
+      "title": "Lil Scrappy’s Birthday",
+      "description": "Celebrating a well-respected rapper and a household name in the Southern hip-hop arena."
+    },
+    {
+      "title": "Mac Miller’s Birthday",
+      "description": "He was one of the leaders of the “new school” of young and talented rappers."
+    },
+    {
+      "title": "Paula Deen’s Birthday",
+      "description": "The “queen of Southern cooking” always works her magic in the kitchen."
+    }
+  ]
+}
