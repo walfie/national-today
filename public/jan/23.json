@@ -1,0 +1,98 @@
+{
+  "month": "jan",
+  "day": 23,
+  "holidays": [
+    {
+      "title": "Community Manager Appreciation Day",
+      "description": "We celebrate community managers and appreciate their hard work and dedication."
+    },
+    {
+      "title": "National Handwriting Day",
+      "description": "In a world full of digital devices and voice-to-text apps, handwriting is an art."
+    },
+    {
+      "title": "National Pie Day",
+      "description": "Grab a slice, and celebrate the simple, delicious pleasures of a good pie."
+    },
+    {
+      "title": "Better Business Communication Day",
+      "description": "Help us in our efforts this Better Business Communication day to focus on effective, sound communication."
+    },
+    {
+      "title": "First Philippine Republic Day",
+      "description": "First Philippine Republic Day is a great opportunity to celebrate the birth of Asia’s first republic and its dogged pioneers!"
+    },
+    {
+      "title": "International Sticky Toffee Pudding Day",
+      "description": "Celebrate and enjoy a sticky toffee pudding today by ordering it or making it from scratch."
+    },
+    {
+      "title": "Measure Your Feet Day",
+      "description": "Get out a ruler and find out if you’re really wearing the right size shoes."
+    },
+    {
+      "title": "National Aiden Day",
+      "description": "If your name is Aiden, today is the perfect opportunity to flex on everyone."
+    },
+    {
+      "title": "National King Day",
+      "description": "We honor you today, whether you are royalty or your name is simply King."
+    },
+    {
+      "title": "National Pedro Day",
+      "description": "Today, we honor all Pedros around the world, regardless of their age!"
+    },
+    {
+      "title": "National Report Pharmaceutical Fraud Day",
+      "description": "Spread the word about this day to help save the Medicare program."
+    },
+    {
+      "title": "National Rhubarb Pie Day",
+      "description": "Celebrate one of the world’s tastiest holidays with a nice warm bowl of rhubarb pie."
+    },
+    {
+      "title": "Parakram Diwas",
+      "description": "Celebrating Netaji’s courage, selflessness, and the spirit of service to Mother India!"
+    },
+    {
+      "title": "Snowplow Mailbox Hockey Day",
+      "description": "Mount your trucks with the best plow blade as we celebrate mailbox thrashing."
+    },
+    {
+      "title": "Wellington Anniversary Day",
+      "description": "Join us as we celebrate Wellington Anniversary Day with flair and in style."
+    },
+    {
+      "title": "Alex Silva’s Birthday",
+      "description": "Inspiring and loved by many, this mixed martial arts expert may be the richest wrestler!"
+    },
+    {
+      "title": "Andrea’s Birthday",
+      "description": "You won’t be able to stop from falling in love with Andrea’s voice and musical prowess."
+    },
+    {
+      "title": "Draya Michele’s Birthday",
+      "description": "Learn more interesting facts about this talented actress, reality TV star, and media personality!"
+    },
+    {
+      "title": "Mariska Hargitay’s Birthday",
+      "description": "Mother, actress, director, and philanthropist — Mariska Hargitay performs excellently in all roles!"
+    },
+    {
+      "title": "Mr Potato’s Birthday",
+      "description": "Known for his adorable features and sleepiness, this cat has won the hearts of many."
+    },
+    {
+      "title": "Rutger Hauer’s Birthday",
+      "description": "We witnessed the magnificence of a movie icon and the Best Dutch Actor of the Century."
+    },
+    {
+      "title": "Tiffani Thiessen’s Birthday",
+      "description": "This actress, producer, and chef continues to reinvent her career throughout the years."
+    },
+    {
+      "title": "XXXentacion’s Birthday",
+      "description": "Known for his musical versatility and depression-themed music, this talented American rapper was an inspiration."
+    }
+  ]
+}
