@@ -1,0 +1,86 @@
+{
+  "month": "jan",
+  "day": 25,
+  "holidays": [
+    {
+      "title": "Burns Night",
+      "description": "Burns Night honors the Scottish poet, who wrote the New Year&#39;s Eve anthem &#34;Auld Lang Syne.&#34;"
+    },
+    {
+      "title": "National Irish Coffee Day",
+      "description": "The perfect occasion to warm yourself up with a tasty, boozy treat."
+    },
+    {
+      "title": "Opposite Day",
+      "description": "Here is a serious question... What is the opposite of Opposite Day?"
+    },
+    {
+      "title": "A Room Of One’s Own Day",
+      "description": "Independence and education are critical for society at large, not just women."
+    },
+    {
+      "title": "Burns Supper",
+      "description": "Get your bagpipes ready to play because the Burns Supper is here again!"
+    },
+    {
+      "title": "Fluoride Day",
+      "description": "Smile wide and let’s look at how the world’s pearly whites benefit from fluoride."
+    },
+    {
+      "title": "Library Shelfie Day",
+      "description": "We love libraries, and we love selfies. Put them together, and you’ve got library shelfies!"
+    },
+    {
+      "title": "National Fish Taco Day",
+      "description": "Tantalize your taste buds as we celebrate one of the world’s most famous fishy dishes."
+    },
+    {
+      "title": "National Florida Day",
+      "description": "Today, we’re celebrating Florida (not the musician, the state). So don’t sleep on these festivities!"
+    },
+    {
+      "title": "National IV Nurse Day",
+      "description": "Join us as we lift our hands to salute these committed and dedicated professionals."
+    },
+    {
+      "title": "Observe the Weather Day",
+      "description": "Get ready to learn about what makes Observe the Weather Day such a special day!"
+    },
+    {
+      "title": "St. Dwynwen&#39;s Day",
+      "description": "As the Welsh equivalent to Valentine’s Day, St. Dwynwen’s is all about spreading love!"
+    },
+    {
+      "title": "Tatiana Day",
+      "description": "Prepare yourself as we celebrate one of the most memorable days of the year!"
+    },
+    {
+      "title": "Vasant Panchami",
+      "description": "A festival that honors a goddess and marks the preparation for the arrival of spring."
+    },
+    {
+      "title": "Alicia Keys’s Birthday",
+      "description": "Nobody does it better than Alicia Keys when it comes to soulful R&amp;B artists!"
+    },
+    {
+      "title": "Calum Hood’s Birthday",
+      "description": "This talented musician has a way of capturing our hearts. How does he do it?"
+    },
+    {
+      "title": "Laura Johnston’s Birthday",
+      "description": "With her incredible charm, this YouTube celebrity is the star of her family’s vlogs."
+    },
+    {
+      "title": "Lil Mosey’s Birthday",
+      "description": "SoundCloud provided him with a taste of success, prompting him to take his musical career seriously."
+    },
+    {
+      "title": "Robert Burns’s Birthday",
+      "description": "A well-known figure with a diverse legacy of poetry ranging from sensitive to politically radical."
+    },
+    {
+      "title": "Wong Yuk-hei’s Birthday",
+      "description": "Lucas Wong is a rising star who will continue to wow and win hearts!"
+    }
+  ]
+}
