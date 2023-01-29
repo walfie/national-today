@@ -1,0 +1,66 @@
+{
+  "month": "jan",
+  "day": 29,
+  "holidays": [
+    {
+      "title": "National Puzzle Day",
+      "description": "Whether it’s a crossword, jigsaw, or Sudoku, puzzles engage our brain in more ways than one."
+    },
+    {
+      "title": "Auckland Anniversary Day",
+      "description": "Let us raise our spirits and toast in honor of Auckland&#39;s Anniversary Day."
+    },
+    {
+      "title": "Curmudgeons Day",
+      "description": "Wave at the fussed-up cashier at your grocery store and call your grumpy old grandpa."
+    },
+    {
+      "title": "Freethinkers Day",
+      "description": "You have the freedom of thought, so feel free to think outside the box."
+    },
+    {
+      "title": "Kansas Day",
+      "description": "Get ready to learn about what makes Kansas Day so deserving of national recognition."
+    },
+    {
+      "title": "National Carnation Day",
+      "description": "Carnations are available all season and for every reason. It&#39;s National Carnation Day."
+    },
+    {
+      "title": "National Colin Day",
+      "description": "If you know or are a Colin, we’re wishing you a happy National Colin Day celebration!"
+    },
+    {
+      "title": "National Corn Chip Day",
+      "description": "Open that big bag of chips and munch away; this day was made for just that!"
+    },
+    {
+      "title": "RNLI SOS day",
+      "description": "Let’s help everyone feel safe even when they’re surrounded by a body of water!"
+    },
+    {
+      "title": "Seeing-Eye Guide Dog Anniversary",
+      "description": "Kudos to all the dogs who act as their humans&#39; eyes and ears."
+    },
+    {
+      "title": "World Leprosy Day",
+      "description": "Leprosy is a reality and, together, we need to care for the people affected by it."
+    },
+    {
+      "title": "Brian David Gilbert’s Birthday",
+      "description": "Let’s celebrate Brian David Gilbert’s wacky comedy and creative genius on his birthday!"
+    },
+    {
+      "title": "Charlie Wilson’s Birthday",
+      "description": "This iconic R.&amp;.B. singer was named “Billboard” magazine’s Number one Adult R.&amp;.B. singer."
+    },
+    {
+      "title": "Oprah Winfrey’s Birthday",
+      "description": "Her interview with Michael Jackson is one of the most watched interviews of all time."
+    },
+    {
+      "title": "Tom Selleck’s Birthday",
+      "description": "Tom Selleck didn&#39;t have any social media accounts — yet he was a very interesting man."
+    }
+  ]
+}
