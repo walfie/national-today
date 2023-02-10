@@ -1,0 +1,78 @@
+{
+  "month": "feb",
+  "day": 10,
+  "holidays": [
+    {
+      "title": "All the News That&#39;s Fit to Print Day",
+      "description": "All the News That’s Fit to Print Day is observed to encourage honest journalism."
+    },
+    {
+      "title": "Children&#39;s Hospice Day",
+      "description": "Children&#39;s Hospice Day also recognizes the importance of hospices in healthcare. Let’s learn more."
+    },
+    {
+      "title": "Feast of St. Paul&#39;s Shipwreck",
+      "description": "Celebrate the event arrival of St. Paul in Malta on this day!"
+    },
+    {
+      "title": "International Cribbage Day",
+      "description": "Play cribbage with your friends or family to commemorate International Cribbage Day."
+    },
+    {
+      "title": "International Winter Bike to Work Day",
+      "description": "Get your helmets and gear ready, we are about to go cycling!"
+    },
+    {
+      "title": "National Cream Cheese Brownie Day",
+      "description": "Get ready to taste some delicious cream cheese brownies and learn fun facts along the way!"
+    },
+    {
+      "title": "National Flannel Day",
+      "description": "Put on your favorite flannel shirts as we dive deeper into the world of flannel."
+    },
+    {
+      "title": "National Home Warranty Day",
+      "description": "Protect your expensive appliances and household apparatuses by getting them covered by a home warranty."
+    },
+    {
+      "title": "National Julio Day",
+      "description": "Get ready to celebrate one of the most iconic names in the world."
+    },
+    {
+      "title": "National Louis Day",
+      "description": "Get ready to honor one of the most unique names in the world."
+    },
+    {
+      "title": "National Umbrella Day",
+      "description": "As part of many cultures since ancient times, umbrellas have a storied history worth commemorating."
+    },
+    {
+      "title": "Plimsoll Day",
+      "description": "Get ready to know why Plimsoll Day is important in the shipping industry!"
+    },
+    {
+      "title": "Scout Sabbath",
+      "description": "Put on your uniform and get ready to honor Shabbat with all the information we have!"
+    },
+    {
+      "title": "Teddy Day",
+      "description": "Get ready to celebrate Teddy Day in style and put a smile on people’s faces!"
+    },
+    {
+      "title": "Valentismas",
+      "description": "Remind yourself of the love that you are surrounded by on Valentismas."
+    },
+    {
+      "title": "Welsh Language Music Day",
+      "description": "Learn more about this style of music and its resurgence in popularity in recent times."
+    },
+    {
+      "title": "World Pulses Day",
+      "description": "Today, we are celebrating healthy, nutritious legumes, and their vast benefits to the environment."
+    },
+    {
+      "title": "Emily Bustamante’s Birthday",
+      "description": "For this stylish and talented mother, there’s nothing she won’t do to follow her passion."
+    }
+  ]
+}
