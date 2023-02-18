@@ -1,0 +1,74 @@
+{
+  "month": "feb",
+  "day": 18,
+  "holidays": [
+    {
+      "title": "National Drink Wine Day",
+      "description": "Get ready to unwind with a glass or two of your favorite Cabernet Sauvignon or Chardonnay."
+    },
+    {
+      "title": "Cow Milked While Flying in an Airplane Day",
+      "description": "Get ready to be amused by Elm Farm Ollie’s calmness and massive generosity."
+    },
+    {
+      "title": "Gambia Independence Day",
+      "description": "Join us as we celebrate Gambia Independence Day and the end of Africa’s colonization."
+    },
+    {
+      "title": "Great Backyard Bird Count",
+      "description": "Get your binoculars ready as we gear up to count and celebrate birds!"
+    },
+    {
+      "title": "Isra and Mi&#39;raj",
+      "description": "Within Islam, Isra and Mi&#39;raj, refers to a miraculous nighttime journey undertaken by the Prophet Muhammad."
+    },
+    {
+      "title": "Maha Shivaratri",
+      "description": "Immerse yourself in a day of prayer as we honor an important Hindu god."
+    },
+    {
+      "title": "National Battery Day",
+      "description": "While remaining charged, batteries will keep you connected even when the power is out."
+    },
+    {
+      "title": "National Crab Stuffed Flounder Day",
+      "description": "Experience this mouth-watering dish created with the savory flavors of the sea."
+    },
+    {
+      "title": "Pluto Day",
+      "description": "Do you know why a day on Pluto is equivalent to 6.4 Earth days?"
+    },
+    {
+      "title": "Thumb Appreciation Day",
+      "description": "Thumbs exhibit the forms of emotion that the body it is attached to feels. Here’s how."
+    },
+    {
+      "title": "World Pangolin Day",
+      "description": "Pangolins are at the mercy of poachers who sell their scales for food."
+    },
+    {
+      "title": "Damien Prince’s Birthday",
+      "description": "From a troubled youth to becoming an icon, Damien Prince’s hustle to fame is truly inspiring!"
+    },
+    {
+      "title": "Dr. Dre’s Birthday",
+      "description": "The music doctor who prescribed the world a large dose of good songs and talent."
+    },
+    {
+      "title": "Chwe Vernon Hansol’s Birthday",
+      "description": "Born in one country and raised in another, today he is a global icon!"
+    },
+    {
+      "title": "John Travolta’s Birthday",
+      "description": "Travolta is a global movie star whose skill and talent shine through every role he plays."
+    },
+    {
+      "title": "Vanna White’s Birthday",
+      "description": "She first made a mark in the ‘80s, then turned into a star that shines forever!"
+    },
+    {
+      "title": "Yoko Ono’s Birthday",
+      "description": "During her more than half-decade career, she had several hit music albums."
+    }
+  ]
+}
