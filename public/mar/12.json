@@ -1,0 +1,66 @@
+{
+  "month": "mar",
+  "day": 12,
+  "holidays": [
+    {
+      "title": "National Girl Scout Day",
+      "description": "National Girl Scout Day commemorates the anniversary of the first Girl Scout meeting in 1912."
+    },
+    {
+      "title": "Alfred Hitchcock Day",
+      "description": "We celebrate the master of nerve-wracking suspense, twist endings, and psychologically complex characters."
+    },
+    {
+      "title": "Aztec New Year",
+      "description": "Celebrate with Mexico’s Nahua communities today. Read on for more on this holiday."
+    },
+    {
+      "title": "Check Your Batteries Day",
+      "description": "Check Your Batteries Day raises awareness about testing your batteries to ensure they are working properly."
+    },
+    {
+      "title": "Daylight Saving Time Starts",
+      "description": "This way of looking at the time maximizes natural light and saves electricity."
+    },
+    {
+      "title": "IUGR Awareness Day",
+      "description": "IUGR Awareness Day helps to create awareness and spread information about the condition."
+    },
+    {
+      "title": "Mauritius Independence Day",
+      "description": "Celebrate all things Mauritian with our informative article about this Mauritian public holiday."
+    },
+    {
+      "title": "National Baked Scallops Day",
+      "description": "Are you hungry yet? We have fun scallop-based stories to go with your scallop dinner!"
+    },
+    {
+      "title": "National Christian Day",
+      "description": "Hey, Christian. Yours is a name associated with holiness and fashion. What’s your secret?"
+    },
+    {
+      "title": "National Plant a Flower Day",
+      "description": "Grab those seed packets, wear flowers in your hair — it’s time for some gardening!"
+    },
+    {
+      "title": "National Ruth Day",
+      "description": "Turn to the “Bible” and you will learn everything you need to know about Ruth."
+    },
+    {
+      "title": "National Working Mom&#39;s day",
+      "description": "Learn how this day came to be and the best ways to celebrate it!"
+    },
+    {
+      "title": "World Day Against Cyber Censorship",
+      "description": "Take control of the websites and information you may access on the internet."
+    },
+    {
+      "title": "World Glaucoma Day",
+      "description": "Put your glasses on and discover all there is to know about these eye diseases."
+    },
+    {
+      "title": "Liza Minnelli’s Birthday",
+      "description": "She’s a powerful actress, singer, and performer who earned her iconic status."
+    }
+  ]
+}
