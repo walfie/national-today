@@ -1,0 +1,98 @@
+{
+  "month": "mar",
+  "day": 30,
+  "holidays": [
+    {
+      "title": "Doctors&#39; Day",
+      "description": "An annual observance aimed at appreciating physicians who help save our lives everywhere."
+    },
+    {
+      "title": "Grass is Always Browner on the Other Side of the Fence Day",
+      "description": "Learn how to appreciate your own life with our great tips and information on this day."
+    },
+    {
+      "title": "Land Day",
+      "description": "Rise up with us as we commemorate Palestine’s resistance to Israel’s land acquisition."
+    },
+    {
+      "title": "National Fitness Recovery Day",
+      "description": "This March 30 will be your recovery day from your daily exercise routine!"
+    },
+    {
+      "title": "National Folding Laundry Day",
+      "description": "Celebrate National Folding Laundry Day by folding up that growing pile of clothes."
+    },
+    {
+      "title": "National I Am In Control Day",
+      "description": "The day is commemorated for two reasons. Read on to find out."
+    },
+    {
+      "title": "National Julia Day",
+      "description": "Julias, stay tuned as we delve deep to find out the origin of your name."
+    },
+    {
+      "title": "National Pencil Day",
+      "description": "Did you know that one pencil can write up to 45,000 words?"
+    },
+    {
+      "title": "National Victoria Day",
+      "description": "The name Victoria symbolizes a strong and independent woman and is both classic and elegant."
+    },
+    {
+      "title": "National Virtual Vacation Day",
+      "description": "Do you know that you can travel the world while sitting in your armchair?"
+    },
+    {
+      "title": "National Wendy Day",
+      "description": "Wendy&#39;s roots are distinct. National Wendy Day celebrates the moniker made famous by &#34;Peter Pan.&#34;"
+    },
+    {
+      "title": "Ram Navami Day",
+      "description": "Get ready to understand the story behind Ram Navami and the importance of the day."
+    },
+    {
+      "title": "Ram Navami",
+      "description": "Devotees of Lord Rama keep a day-long fast on the significant day of Ram Navami."
+    },
+    {
+      "title": "Spiritual Baptist Liberation Day",
+      "description": "The abolition of the religious restriction in 1951 is commemorated on Spiritual Baptist Liberation Day."
+    },
+    {
+      "title": "Take a Walk in the Park Day",
+      "description": "Invest in your health without spending any money!"
+    },
+    {
+      "title": "Torrents Day",
+      "description": "Get torrenting with our great tips and information right here on Torrents Day."
+    },
+    {
+      "title": "Turkey Neck Soup Day",
+      "description": "There’s nothing like the aroma of a simmering soup to add joy on this day."
+    },
+    {
+      "title": "World Bipolar Day",
+      "description": "Living with bipolar disorder is not easy, “but keep heart, it will turn out all right.”"
+    },
+    {
+      "title": "World Tb-303 Appreciation day",
+      "description": "Celebrate an indispensable part of music history this World TB-303 Appreciation Day."
+    },
+    {
+      "title": "Celine Dion’s Birthday",
+      "description": "This talented artist was one of the few to be crowned “The Queen of Pop.”"
+    },
+    {
+      "title": "Eric Clapton’s Birthday",
+      "description": "Few people have ever handled the guitar as well as the legendary Eric Clapton."
+    },
+    {
+      "title": "NF’s Birthday",
+      "description": "N.F. is a talented and driven artist, who has created a successful musical career."
+    },
+    {
+      "title": "Vincent van Gogh’s Birthday",
+      "description": "Vincent van Gogh’s imagination was unlike any other, and it lives on through his work."
+    }
+  ]
+}
