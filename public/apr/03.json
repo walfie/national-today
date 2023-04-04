@@ -3,10 +3,6 @@
   "day": 3,
   "holidays": [
     {
-      "title": "Independent Artist Day™",
-      "description": "We’re celebrating the global community of independent artists and their unparalleled creativity."
-    },
-    {
       "title": "World Cloud Security Day",
       "description": "Let’s raise awareness about the emerging threats facing individuals and organizations as a result of remote work and bring your own device (BYOD) policies."
     },
@@ -49,6 +45,10 @@
     {
       "title": "Holy Monday",
       "description": "Learn how to observe Holy Monday and honor Jesus Christ’s life and his sacrifice."
+    },
+    {
+      "title": "Independent Artist Day™",
+      "description": "We’re celebrating the global community of independent artists and their unparalleled creativity."
     },
     {
       "title": "National Chocolate Mousse Day",
