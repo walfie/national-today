@@ -1,0 +1,86 @@
+{
+  "month": "apr",
+  "day": 20,
+  "holidays": [
+    {
+      "title": "Chinese Language Day",
+      "description": "More than one billion people speak Chinese as their first language!"
+    },
+    {
+      "title": "National Look-Alike Day",
+      "description": "The perfect day to try to convince people that Beyoncé is your look-alike."
+    },
+    {
+      "title": "420",
+      "description": "An international celebration during which people come together to consume cannabis and advocate for its legalization."
+    },
+    {
+      "title": "College Student Grief Awareness Day",
+      "description": "Learn about this less documented issue as we raise some much-needed awareness."
+    },
+    {
+      "title": "International Cli-Fi Day",
+      "description": "International Cli-Fi Day is a perfect opportunity to raise awareness about the importance of sustainable practices."
+    },
+    {
+      "title": "International Pizza Cake Day",
+      "description": "Prepare your belly because today’s not about slices of pizza, but a stack of pizzas."
+    },
+    {
+      "title": "Lima Bean Respect Day",
+      "description": "Prepare your appetite as we enthusiastically celebrate this legume with so many names."
+    },
+    {
+      "title": "Look Alike Day",
+      "description": "Find your long-lost twin and celebrate your duplicate human on National Look Alike Day."
+    },
+    {
+      "title": "National Auctioneers Day",
+      "description": "Place a bid before it’s too late and discover all there is to know about auctioneering."
+    },
+    {
+      "title": "National Cheddar Fries Day",
+      "description": "Today’s about stuffing your face with the best cheddar fries you can get your hands on!"
+    },
+    {
+      "title": "National Death Doula Day",
+      "description": "This day is a special occasion to raise awareness about the work Doulas do!"
+    },
+    {
+      "title": "National High Five Day",
+      "description": "Up high! Make sure to give a &#34;high five&#34; to everyone you meet today!"
+    },
+    {
+      "title": "National Pineapple Upside-Down Cake Day",
+      "description": "Tingle your taste buds with this tropical delight!"
+    },
+    {
+      "title": "National Stop Snoring Week",
+      "description": "Give snoring the boot and explore the roots of the issue during National Stop Snoring Week."
+    },
+    {
+      "title": "UN Chinese Language Day",
+      "description": "Culture and traditions are kept alive with the events on the UN Chinese Language Day."
+    },
+    {
+      "title": "Volunteer Recognition Day",
+      "description": "We’re putting our hands together to applaud these kind heroes of our society."
+    },
+    {
+      "title": "Jay Park’s Birthday",
+      "description": "This multi-talented singer/songwriter has taken the Korean music industry by storm."
+    },
+    {
+      "title": "Luther Vandross’s Birthday",
+      "description": "Vandross has been labeled “The Best Voice of a Generation” for his sweet and soulful vocals."
+    },
+    {
+      "title": "Shemar Moore’s Birthday",
+      "description": "With a career spanning over 25 years, this actor, model, and TV personality is worth celebrating!"
+    },
+    {
+      "title": "Spencer X’s Birthday",
+      "description": "For this gifted star, who has rapidly expanded his fanbase, nothing can stop him."
+    }
+  ]
+}
