@@ -1,0 +1,62 @@
+{
+  "month": "may",
+  "day": 11,
+  "holidays": [
+    {
+      "title": "National Eat What You Want Day",
+      "description": "Treat yourself by giving in to your sweet tooth, and eating breakfast for dinner."
+    },
+    {
+      "title": "Hostess CupCake Day",
+      "description": "We’re ditching our diets and getting a taste of some delicious Hostess CupCakes!"
+    },
+    {
+      "title": "Make a Book Day",
+      "description": "Celebrate the ability of books to open doors to other realms and alternate realities!"
+    },
+    {
+      "title": "National Children&#39;s Mental Health Awareness Day",
+      "description": "Get ready to spend a day with children as their mental support structure."
+    },
+    {
+      "title": "National Foam Rolling Day",
+      "description": "Roll out those muscles and replace soreness and aches with relief and flexibility."
+    },
+    {
+      "title": "National Technology Day",
+      "description": "Join us as we celebrate yet another ground-breaking achievement in technology."
+    },
+    {
+      "title": "National Twilight Zone Day",
+      "description": "Science fiction, horror, supernatural drama, and unexpected twists."
+    },
+    {
+      "title": "Somerset Day",
+      "description": "From cheese and cider to history and culture, let’s explore the origins of Somerset Day!"
+    },
+    {
+      "title": "World Ego Awareness Day",
+      "description": "Assess yourself and your relationship with others this World Ego Awareness Day."
+    },
+    {
+      "title": "Arlene MC’s Birthday",
+      "description": "She’s a rising urban Latino artist in America and there’s no stopping her!"
+    },
+    {
+      "title": "Blac Chyna’s Birthday",
+      "description": "From dancing and modeling to entrepreneurship and reality T.V., Blac Chyna is a true star."
+    },
+    {
+      "title": "Cam Newton’s Birthday",
+      "description": "There’s just no stopping when it comes to this multi-award-winning football player!"
+    },
+    {
+      "title": "Prince Royce’s Birthday",
+      "description": "He launched his professional music career in 2010 with the release of his self-titled album."
+    },
+    {
+      "title": "Sabrina Carpenter’s Birthday",
+      "description": "There’s no stopping once you know where your passion lies and this multi-talented star proves it."
+    }
+  ]
+}
