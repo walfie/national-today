@@ -1,0 +1,70 @@
+{
+  "month": "jun",
+  "day": 8,
+  "holidays": [
+    {
+      "title": "National Best Friends Day",
+      "description": "Whether they’re near or far, old or new, best friends help to us through our lives."
+    },
+    {
+      "title": "World Oceans Day",
+      "description": "Dive in and do your part to keep big blue going strong."
+    },
+    {
+      "title": "Bounty Day",
+      "description": "A mutiny triumphed always calls for a celebration that transcends time."
+    },
+    {
+      "title": "Corpus Christi",
+      "description": "Corpus Christi is a Christian festival that is celebrated annually on the Thursday after Trinity Sunday."
+    },
+    {
+      "title": "International Day of Action for Elephants in Zoos",
+      "description": "Help raise awareness about elephant conservation and protection by doing your part."
+    },
+    {
+      "title": "National Karen Day",
+      "description": "You are a solid and hard-working person, Karen. This day is for you to celebrate!"
+    },
+    {
+      "title": "National Name Your Poison Day",
+      "description": "This day celebrates our ability to choose the ‘poison’ that will be the least harmful to us."
+    },
+    {
+      "title": "National Upsy Daisy Day",
+      "description": "This quirky holiday encourages you to embrace positivity and usher brightness into your life."
+    },
+    {
+      "title": "Temotu Province Day",
+      "description": "Learn about the history of these beautiful islands as we honor and celebrate this special day."
+    },
+    {
+      "title": "Thomas Paine Day",
+      "description": "Reason and human rights were his strides in life. Let’s learn more about Thomas Paine."
+    },
+    {
+      "title": "World Brain Tumor Day",
+      "description": "Wear your gray ribbons as we work hard to support this community."
+    },
+    {
+      "title": "Cody Rigsby’s Birthday",
+      "description": "For the vibrant Cody Rigsby, success in life comes from persistence and dreaming big."
+    },
+    {
+      "title": "Harley Reese’s Birthday",
+      "description": "This young talent is just beginning her journey to success, and we love to see it!"
+    },
+    {
+      "title": "Joan Rivers’s Birthday",
+      "description": "For this matriarch, she can rest in knowing the impact she made is immortal."
+    },
+    {
+      "title": "Kanye West’s Birthday",
+      "description": "Love him or not, this singer, rapper, producer, and designer is unforgettable."
+    },
+    {
+      "title": "Michael FamilyFunPack’s Birthday",
+      "description": "There is no limit to what this cute and talented YouTube Star can achieve."
+    }
+  ]
+}
