@@ -1,0 +1,66 @@
+{
+  "month": "jun",
+  "day": 14,
+  "holidays": [
+    {
+      "title": "Flag Day",
+      "description": "Will we ever go from 50 to 51 stars? Read on for a look at some possible statehood candidates."
+    },
+    {
+      "title": "National Bourbon Day",
+      "description": "What happens when you combine corn, limestone, white oak, fire, and time? You get bourbon."
+    },
+    {
+      "title": "World Blood Donor Day",
+      "description": "From plasma treatments to emergency uses, donating blood has aided the world on several occasions."
+    },
+    {
+      "title": "Army Birthday",
+      "description": "Join the celebration of the U.S. Army Birthday as we remember its creation in 1775."
+    },
+    {
+      "title": "Falkland Islands Liberation Day",
+      "description": "Come celebrate a historical moment in the history of the Falkland Islands with us!"
+    },
+    {
+      "title": "International Bath Day",
+      "description": "Bring out your bubble bath and enjoy a luxurious soak on International Bath Day."
+    },
+    {
+      "title": "Monkey Around Day",
+      "description": "Today is the day to ‘go ape’, so let go and have a good time."
+    },
+    {
+      "title": "National New Mexico Day",
+      "description": "This day is observed to pay tribute to the state of New Mexico and its people."
+    },
+    {
+      "title": "National Pop Goes The Weasel Day",
+      "description": "This day celebrates the nursery rhyme that we all have been singing since we were kids."
+    },
+    {
+      "title": "National Strawberry Shortcake Day",
+      "description": "Let’s dive deep into all the fun things you can do on National Strawberry Shortcake Day."
+    },
+    {
+      "title": "Pahili Day",
+      "description": "There’s no better time than Pahili Raja Day to celebrate womanhood and Mother Earth!"
+    },
+    {
+      "title": "Donald Trump’s Birthday",
+      "description": "Everyone has an opinion about the 45th President of the United States, Donald Trump!"
+    },
+    {
+      "title": "King Diamond’s Birthday",
+      "description": "This Danish heavy metal singer has a vocal range that many others can only dream of."
+    },
+    {
+      "title": "Lucy Hale’s Birthday",
+      "description": "If you want to know more about Lucy Hale, join us as we celebrate her birthday."
+    },
+    {
+      "title": "Tzuyu’s Birthday",
+      "description": "There’s no limit — not even the sky! —  for this amazing singer and dancer."
+    }
+  ]
+}
