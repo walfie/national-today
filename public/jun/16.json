@@ -1,0 +1,74 @@
+{
+  "month": "jun",
+  "day": 16,
+  "holidays": [
+    {
+      "title": "National Fudge Day",
+      "description": "&#34;Oh, fudge!&#34; said a confectioner who flubbed while making caramel, ending up creating something equally tasty."
+    },
+    {
+      "title": "Arborist Appreciation Day",
+      "description": "Show your love and support to all professional arborists in the country this Arborist Appreciation Day."
+    },
+    {
+      "title": "Bloomsday",
+      "description": "Commemorating the life and legend of Irish writer James Joyce on Bloomsday."
+    },
+    {
+      "title": "Fresh Veggies Day",
+      "description": "Celebrate Fresh Veggies Day today by including them in your meals to live a healthy lifestyle."
+    },
+    {
+      "title": "International Day of Family Remittances",
+      "description": "Observe International Day of Family Remittances by recognizing the contributions of hard-working migrants."
+    },
+    {
+      "title": "International Day of the African Child",
+      "description": "The day focuses attention on the barriers African children face in order to receive quality education."
+    },
+    {
+      "title": "International WaterFall Day",
+      "description": "Drive down to your nearest waterfall and marvel at its scenic beauty this International Waterfall Day."
+    },
+    {
+      "title": "Martyrdom of Guru Arjan Dev Sahib",
+      "description": "Observe a day of worship and processions on the Martyrdom of Guru Arjan Dev Sahib."
+    },
+    {
+      "title": "National Casey Day",
+      "description": "Celebrate this day with all those named Casey — not forgetting K.C. and Catharine."
+    },
+    {
+      "title": "National Mohammad Day",
+      "description": "Are you ready to celebrate this day? Call someone named Muhammad and start having fun together."
+    },
+    {
+      "title": "National Richard Day",
+      "description": "If you know someone named Richard, today is the day to reach out and celebrate them."
+    },
+    {
+      "title": "National Take Back the Lunch Break Day",
+      "description": "Want to know why you need to take a lunch break? Read on..."
+    },
+    {
+      "title": "World Sea Turtle Day",
+      "description": "Let’s come together and raise our voices to prevent the extinction of sea turtles."
+    },
+    {
+      "title": "Youth Day",
+      "description": "Remember the heroes of the Soweto uprising as we mark Youth Day in South Africa."
+    },
+    {
+      "title": "Tupac’s Birthday",
+      "description": "He sold 75 million records, and positioned himself as a voice of social and racial justice."
+    },
+    {
+      "title": "JJ Subia’s Birthday",
+      "description": "JJ Subia is the perfect definition of an internet sensation with a charismatic personality."
+    },
+    {
+      "title": "Phil Mickelson’s Birthday",
+      "description": "With multiple championship wins, iconic shots, and a professional legacy, Phil Mickelson has created history."
+    }
+  ]
+}
