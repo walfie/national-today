@@ -1,0 +1,62 @@
+{
+  "month": "jun",
+  "day": 19,
+  "holidays": [
+    {
+      "title": "Juneteenth",
+      "description": "The freedom of African Americans from slavery in the U.S. in 1865 is celebrated."
+    },
+    {
+      "title": "National Martini Day",
+      "description": "Do you prefer it dry, dirty, shaken, or not stirred?"
+    },
+    {
+      "title": "National Take Your Cat to Work Day",
+      "description": "We show our cats the world on the other side of the window."
+    },
+    {
+      "title": "Artigas Birthday",
+      "description": "Honor the sacrifices of José Gervasio Artigas and uphold his contributions to Uruguay on Artigas’ Birthday."
+    },
+    {
+      "title": "International Box Day",
+      "description": "If you don’t have a cat, you may not get what all the fuss is about."
+    },
+    {
+      "title": "International Day for the Elimination of Sexual Violence in Conflict",
+      "description": "Let&#39;s join hands and come together to put an end to these appalling crimes against women."
+    },
+    {
+      "title": "National FreeBSD Day",
+      "description": "Buckle-up! We are about to deep dive deep and look into everything FreeBSD!"
+    },
+    {
+      "title": "National Garfield the Cat Day",
+      "description": "He’s witty, he’s sassy, he’s blunt, he’s saucy…he’s, well, Garfield."
+    },
+    {
+      "title": "National Watch Day",
+      "description": "Can you imagine a world without watches? We can’t either!"
+    },
+    {
+      "title": "Sacred Heart",
+      "description": "It’s all about the greatest love we’ve ever known this holiday, the love of Jesus Christ."
+    },
+    {
+      "title": "World Sauntering Day",
+      "description": "This World Sauntering Day, head out for a stroll and enjoy the beauty of nature."
+    },
+    {
+      "title": "World Sickle Cell Awareness Day",
+      "description": "It’s time to shine the light on sickle cell disease and spread awareness."
+    },
+    {
+      "title": "Symonne Harrison’s Birthday",
+      "description": "She’s a multi-talented performer, model, and content creator who has a positive impact on her audience."
+    },
+    {
+      "title": "Tommie Lee’s Birthday",
+      "description": "She&#39;s a fantastic reality television star who never fails to put on a show."
+    }
+  ]
+}
