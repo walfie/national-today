@@ -1,0 +1,90 @@
+{
+  "month": "jun",
+  "day": 24,
+  "holidays": [
+    {
+      "title": "ARRL Field Day",
+      "description": "An opportunity for amateur radio enthusiasts to setup temporary communications stations and contact like-minded people."
+    },
+    {
+      "title": "Saint-Jean-Baptiste Day",
+      "description": "The traditional feast day of the Nativity — or birth — of St. John the Baptist, is honored."
+    },
+    {
+      "title": "Farmer Day",
+      "description": "Join us as we thank Peru&#39;s farmers for keeping Peruvian markets well-stocked."
+    },
+    {
+      "title": "International Fairy Day",
+      "description": "Time to fill the day with the same enchantment as those of the fairies."
+    },
+    {
+      "title": "International St. Johns Day",
+      "description": "Sing the hymns and praise the Lord as we celebrate St. John the Baptist."
+    },
+    {
+      "title": "Inti Raymi",
+      "description": "Let&#39;s join the residents to celebrate a pivotal aspect of their Incan heritage."
+    },
+    {
+      "title": "Jani",
+      "description": "Let&#39;s celebrate Jani, the festival that combines culture and nature in the spirit of the Midsummer."
+    },
+    {
+      "title": "Midsummer",
+      "description": "Midsummer is a time of pure merriment with food, drinking, and dancing!"
+    },
+    {
+      "title": "Midsummer Day",
+      "description": "It’s not every night you get to see the Midnight Sun!"
+    },
+    {
+      "title": "National Kenneth Day",
+      "description": "Kenneth is a name with a great history behind it, and equally great men carrying it."
+    },
+    {
+      "title": "National Le Day",
+      "description": "Join us as we explore the origins of the name, Le, and its meaning."
+    },
+    {
+      "title": "National Pralines Day",
+      "description": "Pralines are a smooth and sweet treat made with nuts, sugar, and sometimes cream."
+    },
+    {
+      "title": "National Relationship Equity Day",
+      "description": "Drop your stereotypes, adopt this new perception, and give your partner equitable treatment."
+    },
+    {
+      "title": "National Summersgiving Day",
+      "description": "We honor and celebrate life, love, and friendship, during this heartwarming national holiday."
+    },
+    {
+      "title": "St John&#39;s Day (Venezuela)",
+      "description": "On St. John’s Day, expect prayer, song, and dancing the night away."
+    },
+    {
+      "title": "Swim a Lap Day",
+      "description": "Swimming is the only sport that can help save a life, dive in to learn more."
+    },
+    {
+      "title": "Upcycling Day",
+      "description": "To avoid wasting items, make a list of everything that can be reused or upcycled."
+    },
+    {
+      "title": "Lionel Messi’s Birthday",
+      "description": "The best is yet to come for this talented, record-breaking soccer player."
+    },
+    {
+      "title": "Mindy Kaling’s Birthday",
+      "description": "Mindy Kaling went from being an in-demand writer to one of the most unique comedic voices."
+    },
+    {
+      "title": "Stassi Schroeder’s Birthday",
+      "description": "Nothing is impossible for this amazing multi-talented star of the small screen."
+    },
+    {
+      "title": "Tana Mongeau’s Birthday",
+      "description": "Never has there been a sweeter sight than a bikini-clad Tana Mongeau basking under the Miami sun."
+    }
+  ]
+}
