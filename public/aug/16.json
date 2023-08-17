@@ -3,16 +3,8 @@
   "day": 16,
   "holidays": [
     {
-      "title": "National Roller Coaster Day",
-      "description": "At any amusement park, it has the highest &#34;wow&#34; factor."
-    },
-    {
-      "title": "National Rum Day",
-      "description": "We pay tribute to the currency of the Caribbean as we celebrate National Rum Day."
-    },
-    {
-      "title": "National Tell A Joke Day",
-      "description": "A horse walks into a bar. The bartender says, &#34;Why the long face?&#34;"
+      "title": "JUVÉDERM® Day",
+      "description": "On JUVÉDERM® Day, discover why the JUVÉDERM® Collection of Fillers is the US’ #1 chosen collection."
     },
     {
       "title": "National Work From Home for Wellness Day",
@@ -25,10 +17,6 @@
     {
       "title": "Ekka People&#39;s Day",
       "description": "We&#39;ve got some amazing ideas to celebrate Ekka People&#39;s Day so scroll down and check them out."
-    },
-    {
-      "title": "JUVÉDERM® Day",
-      "description": "On JUVÉDERM® Day, discover why the JUVÉDERM® Collection of Fillers is the US’ #1 chosen collection."
     },
     {
       "title": "National Airborne Day",
@@ -49,6 +37,18 @@
     {
       "title": "National Independent Worker Day",
       "description": "We’re wishing a happy National Independent Worker Day to all those who are self-employed!"
+    },
+    {
+      "title": "National Roller Coaster Day",
+      "description": "At any amusement park, it has the highest &#34;wow&#34; factor."
+    },
+    {
+      "title": "National Rum Day",
+      "description": "We pay tribute to the currency of the Caribbean as we celebrate National Rum Day."
+    },
+    {
+      "title": "National Tell A Joke Day",
+      "description": "A horse walks into a bar. The bartender says, &#34;Why the long face?&#34;"
     },
     {
       "title": "Parsi New Year",
