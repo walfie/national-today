@@ -7,8 +7,12 @@
       "description": "Lottery. Lotterie. Lotería. No matter what language, people around the world love lottery games!"
     },
     {
-      "title": "August Moon Festival",
-      "description": "It&#39;s the August Moon Festival! Celebrate this magical night that never ends."
+      "title": "Notting Hill Carnival",
+      "description": "Give yourself over to those wonderful West Indian vibes!"
+    },
+    {
+      "title": "Crab Soup Day",
+      "description": "Feast on the region’s specialty, crab soup, a simple dish full of amazing flavors!"
     },
     {
       "title": "Lyndon Baines Johnson Day",
@@ -31,8 +35,8 @@
       "description": "Satisfy your sweet tooth by celebrating and indulging in this tasty custard dessert."
     },
     {
-      "title": "Pride Cymru",
-      "description": "Join us as we celebrate the LGBTQ+ community this year in honor of Pride Cymru."
+      "title": "Social Justice Sunday",
+      "description": "Today, we are encouraged to listen to and respond to the earth&#39;s cries for help."
     },
     {
       "title": "The Duchess Who Wasn&#39;t Day",
@@ -57,6 +61,14 @@
     {
       "title": "Mase’s Birthday",
       "description": "This rapper has had a huge impact on the world of hip hop!"
+    },
+    {
+      "title": "Rod Wave’s Birthday",
+      "description": "Besides his unique style, Rod Wave has a storytelling ability that not many artists have."
+    },
+    {
+      "title": "Savannah James’s Birthday",
+      "description": "This young woman wears many hats: as a designer, Instagram star, and devoted mother."
     }
   ]
 }
