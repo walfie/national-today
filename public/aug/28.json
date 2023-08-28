@@ -3,14 +3,6 @@
   "day": 28,
   "holidays": [
     {
-      "title": "National Red Wine Day",
-      "description": "Throw out all those stuffy drinking rules and drink this nectar from the gods."
-    },
-    {
-      "title": "Notting Hill Carnival",
-      "description": "Give yourself over to those wonderful West Indian vibes!"
-    },
-    {
       "title": "Crackers Over The Keyboard Day",
       "description": "Get ‘cracking’ to indulge in this rather unusual but fun food holiday."
     },
@@ -19,12 +11,24 @@
       "description": "Today we honor the ladies of the United Arab Emirates. Happy Women&#39;s Day to them."
     },
     {
+      "title": "Late Summer Bank Holiday",
+      "description": "Summer comes to an end, and Autumn begins, but not before the Late Summer Bank Holiday!"
+    },
+    {
       "title": "National Bow Tie Day",
       "description": "The one and only holiday dedicated to everyone’s favorite underrated accessory."
     },
     {
       "title": "National Cherry Turnover Day",
       "description": "Celebrate this day by devouring some of this delicious French puff pastry dessert."
+    },
+    {
+      "title": "National Heroes Day of Philippines",
+      "description": "Get ready to understand the importance of National Heroes of Philippines Day and its history."
+    },
+    {
+      "title": "National Heroes&#39; Day",
+      "description": "Filipinos celebrate and honor the known and unknown heroes of the Philippine Revolution."
     },
     {
       "title": "National Power Rangers Day",
@@ -39,16 +43,20 @@
       "description": "The death of a beloved pet, is a sad occasion."
     },
     {
-      "title": "Social Justice Sunday",
-      "description": "Today, we are encouraged to listen to and respond to the earth&#39;s cries for help."
-    },
-    {
-      "title": "World Alternative Games",
-      "description": "A day cannot get any more eccentric, thrilling, and fantastic than this."
+      "title": "Summer Bank Holiday (England and Wales)",
+      "description": "Enjoy the last dregs of the summer holidays by indulging in fun activities at festivals and more!"
     },
     {
       "title": "Florence Welch’s Birthday",
       "description": "She has had a very fruitful career so far; let&#39;s look at some of those achievements."
+    },
+    {
+      "title": "Honey Boo Boo’s Birthday",
+      "description": "For this viral sensation, the world&#39;s a stage to showcase her unique and funny personality."
+    },
+    {
+      "title": "Jack Black’s Birthday",
+      "description": "The actor isn’t afraid to showcase his goofy personality to entertain people all over the world."
     },
     {
       "title": "John Allen Nelson’s Birthday",
@@ -59,8 +67,16 @@
       "description": "Who doesn&#39;t love LeAnn Rimes? We get closer to the star by learning more about her."
     },
     {
+      "title": "Leo Tolstoy’s Birthday",
+      "description": "The Russian writer, Leo Tolstoy, has made an undeniably huge mark on Western literature!"
+    },
+    {
       "title": "Roxie Roker’s Birthday",
       "description": "Let&#39;s get to know this Hollywood icon a bit better as we celebrate her birthday."
+    },
+    {
+      "title": "Shania Twain’s Birthday",
+      "description": "With her heartfelt lyrics and emotion-inducing songs, Twain has no shortage of musical talent."
     },
     {
       "title": "Tanisha Thomas’s Birthday",
