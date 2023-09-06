@@ -7,14 +7,6 @@
       "description": "In a world deluged by technology, silence the noise and turn the pages for a while."
     },
     {
-      "title": "Telephone Tuesday",
-      "description": "Officially a day notorious for surprisingly, more phone calls than usual."
-    },
-    {
-      "title": "Another Look Unlimited Day",
-      "description": "Declutter, reuse, gift, sell or donate. Turn your unwanted junk into useful items."
-    },
-    {
       "title": "Bonaire Flag Day",
       "description": "Let’s explore the rich history and cultural significance of Bonaire Flag Day."
     },
@@ -23,8 +15,16 @@
       "description": "Join thousands across the country as we enter a glorious battle with the “later” syndrome."
     },
     {
+      "title": "Global Talent Acquisition Day",
+      "description": "Learn about talent acquisition’s origins and its role in employment on Global Talent Acquisition Day."
+    },
+    {
       "title": "Great Egg Toss Day",
       "description": "Buckle up — we are in for an egg-citing game this Great Egg Toss Day!"
+    },
+    {
+      "title": "Janmashtami",
+      "description": "We wish our Indian friends a happy Janmashtami as we commemorate Krishna’s life."
     },
     {
       "title": "National Coffee Ice Cream Day",
@@ -39,12 +39,20 @@
       "description": "Let&#39;s prepare to sing and dance with the natives to celebrate Swaziland&#39;s independence from the British!"
     },
     {
+      "title": "Asher Angel’s Birthday",
+      "description": "Angel started his career at a young age, appearing in various commercials and print ads."
+    },
+    {
       "title": "Bertie Carvel’s Birthday",
       "description": "Carvel was nominated for the Laurence Olivier Award for Best Actor in a Leading Role."
     },
     {
       "title": "Gabriela Gonzalez’s Birthday",
       "description": "Gabriela is a fashionista and a social media sensation who promotes self-love."
+    },
+    {
+      "title": "Idris Elba’s Birthday",
+      "description": "He is a sizzling hot blend of talent — actor, musician, producer, and all-around badass!"
     },
     {
       "title": "Jane Addams’s Birthday",
@@ -57,6 +65,10 @@
     {
       "title": "Roger Waters’s Birthday",
       "description": "According to this multi-talented English rock artist, the most valuable thing in life is discovering your gift."
+    },
+    {
+      "title": "Terrence Clarke’s Birthday",
+      "description": "The NBA lost a young star who gave joy to everyone in the basketball world."
     }
   ]
 }
