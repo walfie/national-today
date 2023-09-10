@@ -3,28 +3,16 @@
   "day": 10,
   "holidays": [
     {
+      "title": "Grandparents Day",
+      "description": "Grandparents Day is an opportunity to treasure our grandparents and spend quality family time together."
+    },
+    {
       "title": "World Suicide Prevention Day",
       "description": "It&#39;s a growing problem and the numbers tell a shocking story."
     },
     {
-      "title": "Carl Garner Federal Lands Cleanup Day",
-      "description": "On Carl Garner Federal Lands Cleanup Day, let’s find out how to get involved in our areas."
-    },
-    {
-      "title": "Drive Your Studebaker Day",
-      "description": "Learn why Studebaker is regarded as the most exquisite car of the 20th century."
-    },
-    {
-      "title": "Farmers&#39; Consumer Awareness Day",
-      "description": "Farmers&#39; Consumer Awareness Day is the most exciting way to learn where your food comes from."
-    },
-    {
-      "title": "Free Dentistry Day",
-      "description": "Say goodbye to that toothache because dentists are available to help you for free today."
-    },
-    {
-      "title": "German Language Day",
-      "description": "German is the language of poets Bertolt Brecht, Rainer Maria Rilke, and classic Weimar-era cinema."
+      "title": "Day of the Homeland",
+      "description": "Day of the Homeland is celebrated annually in the Federal Republic of Germany."
     },
     {
       "title": "Gibraltar National Day",
@@ -35,20 +23,24 @@
       "description": "Break out your forks and knives, it&#39;s time for some feasting and bonding, Korean style!"
     },
     {
-      "title": "Mid-Autumn Festival",
-      "description": "We know what you&#39;re thinking. Why does the Mid-Autumn Festival take place in late summer?"
+      "title": "Hug Your Hound Day",
+      "description": "They say every dog has its day, and today is that day!"
     },
     {
       "title": "National Anti-Junk Light Day",
       "description": "Learn how to prevent your eyes from becoming damaged by different sources of junk light."
     },
     {
+      "title": "National Pet Memorial Day",
+      "description": "Pet owners across the country remember their beloved pets who have passed on."
+    },
+    {
       "title": "National TV Dinner Day",
       "description": "This day brings you all the fun of having a full meal without having to cook."
     },
     {
-      "title": "Pitru Paksha",
-      "description": "Hindus are bound by their Dharma, or religion, to pray for the souls of their ancestors."
+      "title": "St. George&#39;s Caye Day",
+      "description": "St. George Caye Day was declared a national holiday after its 100th anniversary of the victory."
     },
     {
       "title": "Swap Ideas Day",
@@ -67,16 +59,44 @@
       "description": "Learn all about Big Daddy Kane, one of the most skilled MCs of the 80s."
     },
     {
+      "title": "Colin Firth’s Birthday",
+      "description": "British actor best known for his outstanding portrayal of King George VI in “The King’s Speech.”"
+    },
+    {
+      "title": "Emma Kittiesmama’s Birthday",
+      "description": "The young social media icon has taken Youtube and Instagram by storm."
+    },
+    {
       "title": "Jack Gilinsky’s Birthday",
       "description": "For this talented pop singer with endless potential, the sky is the limit."
+    },
+    {
+      "title": "Karl Lagerfeld’s Birthday",
+      "description": "Karl Lagerfeld&#39;s genius designs have marked the fashion universe forever. Celebrate him today!"
+    },
+    {
+      "title": "Madeline Grimaldi’s Birthday",
+      "description": "Madeline Grimaldi is an influential Instagram star and model. She will reach great heights."
+    },
+    {
+      "title": "Matthew Tyler Vorce’s Birthday",
+      "description": "We are excited about all that this talented actor and screenwriter has in store for us."
     },
     {
       "title": "Mikey Way’s Birthday",
       "description": "The world is so much brighter and better with this musician’s talents."
     },
     {
+      "title": "Misty Copeland’s Birthday",
+      "description": "If you enjoy Misty Copeland’s performances, learn interesting facts and insights about this famous personality."
+    },
+    {
       "title": "PaintingRainbows’s Birthday",
       "description": "This YouTuber and Gamer is one post away from inalienable fame and success."
+    },
+    {
+      "title": "Ryan Phillippe’s Birthday",
+      "description": "He came into the game to win it, and he lets no opportunity pass him by."
     },
     {
       "title": "Stella Bennett’s Birthday",
