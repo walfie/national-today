@@ -3,24 +3,12 @@
   "day": 11,
   "holidays": [
     {
-      "title": "Grandparents Day",
-      "description": "Grandparents Day is an opportunity to treasure our grandparents and spend quality family time together."
-    },
-    {
       "title": "National Make Your Bed Day",
       "description": "Did you know that we spend a third of our lives in bed?"
     },
     {
       "title": "Patriot Day",
       "description": "A time to reflect on the devastating 9/11 terror attacks that took nearly 3,000 lives."
-    },
-    {
-      "title": "Day of the Homeland",
-      "description": "Day of the Homeland is celebrated annually in the Federal Republic of Germany."
-    },
-    {
-      "title": "Hug Your Hound Day",
-      "description": "They say every dog has its day, and today is that day!"
     },
     {
       "title": "IRONMAN Wales",
@@ -31,20 +19,28 @@
       "description": "Libraries are a treasure trove of knowledge and some of our most joyful memories."
     },
     {
-      "title": "National Hot Cross Bun Day",
-      "description": "You know what’s for breakfast today!"
+      "title": "National Boss/Employee Exchange Day",
+      "description": "Get ready to step into a different pair of shoes as we celebrate this fun day."
     },
     {
-      "title": "National Pet Memorial Day",
-      "description": "Pet owners across the country remember their beloved pets who have passed on."
+      "title": "National Hot Cross Bun Day",
+      "description": "You know what’s for breakfast today!"
     },
     {
       "title": "No News is Good News Day",
       "description": "Explore the benefits of unplugging from the world on No News is Good News Day"
     },
     {
-      "title": "Bashar Al-Assad’s Birthday",
-      "description": "From medicine to the military, al-Assad has not been content to rest on his father’s laurels."
+      "title": "Angeline Varona’s Birthday",
+      "description": "This fashion model and social media influencer is one post away from irrevocable fame."
+    },
+    {
+      "title": "Ginger Minj’s Birthday",
+      "description": "There are no limits to Ginger Minj&#39;s artistic talent. Celebrate their special day today!"
+    },
+    {
+      "title": "Jc Caylen’s Birthday",
+      "description": "Being an all-rounder, Jc Caylen is one of the most notable names in the YouTube world."
     },
     {
       "title": "Kygo’s Birthday",
