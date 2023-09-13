@@ -19,16 +19,12 @@
       "description": "Ever wondered how chocolate was invented? Well, we’ve got some sweet answers for you!"
     },
     {
-      "title": "National Ants on a Log Day",
-      "description": "This day recognizes an iconic snack enjoyed by millions of Americans."
-    },
-    {
       "title": "National Bald is Beautiful Day",
       "description": "National Bald is Beautiful Day celebrates every bald cutie — whether they be young or old."
     },
     {
       "title": "National Celiac Disease Awareness Day",
-      "description": "National Celiac Disease Awareness Day, every September 13, is a good time to examine this little-known disease that affects about 3 million Americans. Celiac disease…"
+      "description": "Raise awareness about celiac disease, a genetic autoimmune disorder affecting millions of Americans."
     },
     {
       "title": "National Hug Your Boss Day",
@@ -45,6 +41,10 @@
     {
       "title": "National Kids Take Over the Kitchen Day",
       "description": "Get out your apron as we celebrate this fun day!"
+    },
+    {
+      "title": "National Twilighters Day",
+      "description": "Follow the “Twilight” buzz and discover what celebrations on this day look like in Forks."
     },
     {
       "title": "Pet Birth Defect Awareness Day",
@@ -83,8 +83,20 @@
       "description": "This singer/songwriter has achieved more fame and success than most people do in a lifetime."
     },
     {
+      "title": "Playboi Carti’s Birthday",
+      "description": "There is no stopping this talented rapper, the sky is his springboard."
+    },
+    {
+      "title": "Roald Dahl’s Birthday",
+      "description": "This award-winning author’s work still shines bright, even three decades after his demise."
+    },
+    {
       "title": "Snoh Aalegra’s Birthday",
       "description": "An iconic soul singer, she was born to pursue her dream in music."
+    },
+    {
+      "title": "Swizz Beatz’s Birthday",
+      "description": "This talented rapper and record producer has created a legacy that cannot be tainted."
     },
     {
       "title": "Tyler Perry’s Birthday",
