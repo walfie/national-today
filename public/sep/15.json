@@ -19,10 +19,6 @@
       "description": "Felt Hat Day is celebrated to honor the long history of hats."
     },
     {
-      "title": "Get Ready Day",
-      "description": "Are you prepared for emergency crisis situations like natural disasters and pandemics?"
-    },
-    {
       "title": "Greenpeace Day",
       "description": "A day dedicated to environmental activism to create a green and clean future."
     },
@@ -47,12 +43,20 @@
       "description": "We celebrate Make a Hat Day by making hats that suit us the best."
     },
     {
+      "title": "Martyrdom of Imam Reza",
+      "description": "Mourners, pay respect to the revered Shia Imam on the day of the Martyrdom of Imam Reza."
+    },
+    {
       "title": "National Africa Civility Day",
       "description": "Discover what Africa Civility Day is about and the best ways to commemorate the occasion."
     },
     {
       "title": "National Cheese Toast Day",
       "description": "Celebrate the amalgamation of crunchiness and cheesiness of this dish in your mouth."
+    },
+    {
+      "title": "National Concussion Awareness Day",
+      "description": "Learn and educate others on how non-visible physical injuries can also be fatal."
     },
     {
       "title": "National Creme de Menthe Day",
@@ -65,6 +69,10 @@
     {
       "title": "National D.A.R.E. Day",
       "description": "Get ready to learn about preventing drug abuse and how you can help."
+    },
+    {
+      "title": "National Doodle Day",
+      "description": "Check out some National Doodle Day celebration ideas that we&#39;re really drawn to."
     },
     {
       "title": "National Double Cheeseburger Day",
@@ -87,8 +95,8 @@
       "description": "The internet has revolutionized the learning process and offers flexible learning environment to students."
     },
     {
-      "title": "National Pawpaw Day",
-      "description": "It tastes like a cross between mango, banana, and sometimes other fruits."
+      "title": "National POW/MIA Recognition Day",
+      "description": "They’ll always be in our hearts — the gallant and beloved Americans who fought for freedom."
     },
     {
       "title": "National Ruben Day",
@@ -99,12 +107,16 @@
       "description": "National Tackle Kids Cancer Day is observed to raise critical funds for pediatric cancer research."
     },
     {
-      "title": "Shout of Dolores",
-      "description": "¡Viva Mexico! These are the words powerful enough to free a nation!"
+      "title": "National Tradesmen Day",
+      "description": "Let’s come together to express our gratitude to the tradesmen (and -women) of the country."
     },
     {
-      "title": "Wales International Film Festival",
-      "description": "It is ‘on your marks, get set, go!’ As we join in the upcoming movie marathon."
+      "title": "Rosh Hashanah",
+      "description": "Rosh Hashanah, literally translating to ‘head of the year’, is the Jewish New Year."
+    },
+    {
+      "title": "Shout of Dolores",
+      "description": "¡Viva Mexico! These are the words powerful enough to free a nation!"
     },
     {
       "title": "World Afro Day",
@@ -113,6 +125,14 @@
     {
       "title": "World Engineers Day",
       "description": "Get those helmets on and let’s celebrate World Engineers Day right here!"
+    },
+    {
+      "title": "Aaliyah Mendes’s Birthday",
+      "description": "Find out more about Aaliyah Mendes and how she came to be famous!"
+    },
+    {
+      "title": "Agatha Christie’s Birthday",
+      "description": "With over two billion copies sold, this author is the best-selling fiction author in history."
     },
     {
       "title": "Jenna Marbles’s Birthday",
@@ -127,12 +147,32 @@
       "description": "Life isn&#39;t all diamonds and roses, but her life is one to be envious of."
     },
     {
+      "title": "Marco Polo’s Birthday",
+      "description": "The travel book of Marco Polo inspired the likes of Christopher Columbus. Explore his journey here."
+    },
+    {
+      "title": "Nipsey Russell’s Birthday",
+      "description": "We celebrate a great entertainer who was all about fun and living his best life."
+    },
+    {
+      "title": "Park Jae-hyung’s Birthday",
+      "description": "Here’s what the former guitarist of boyband Day6 has been up to."
+    },
+    {
       "title": "Prince Harry’s Birthday",
       "description": "The glory of living lies not in never falling, but in rising, just like Prince Harry."
     },
     {
       "title": "Sommer Ray’s Birthday",
       "description": "Her evolution as a stunning model and social media celebrity is one that everyone should emulate."
+    },
+    {
+      "title": "Tom Hardy’s Birthday",
+      "description": "The British heartthrob who makes us shiver with his performances is celebrating his birthday!"
+    },
+    {
+      "title": "Tommy Lee Jones’s Birthday",
+      "description": "From portraying the villain to the sexy agent, this actor’s skills know no limit."
     }
   ]
 }
