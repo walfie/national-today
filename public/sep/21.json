@@ -15,8 +15,16 @@
       "description": "Feeling festive? This country&#39;s celebration has it all — music, food, friends, and fun."
     },
     {
+      "title": "Belize Independence Day",
+      "description": "Crack open a rum punch and celebrate the anniversary of Belize’s independence."
+    },
+    {
       "title": "Escapology Day",
       "description": "Check out three magical ways you too can enjoy Escapology Day like a professional."
+    },
+    {
+      "title": "Get Ready Day",
+      "description": "Are you prepared for emergency crisis situations like natural disasters and pandemics?"
     },
     {
       "title": "International Day of Peace",
@@ -31,16 +39,8 @@
       "description": "Though one of the smallest nations globally, Malta has a rich political and cultural history."
     },
     {
-      "title": "Mid-Autumn Moon Festival",
-      "description": "Let’s celebrate the glorious moon!"
-    },
-    {
       "title": "Miniature Golf Day",
       "description": "Miniature golf can be traced back to the 19th century."
-    },
-    {
-      "title": "National Black Women&#39;s Equal Pay Day",
-      "description": "Join your voice with the courageous activists rallying to make pay equity a reality."
     },
     {
       "title": "National Brittany Day",
@@ -67,16 +67,20 @@
       "description": "It’s National Opioid Awareness Day; all hands on deck to eliminate the abuse of these drugs."
     },
     {
+      "title": "National Pawpaw Day",
+      "description": "It tastes like a cross between mango, banana, and sometimes other fruits."
+    },
+    {
       "title": "National Pecan Cookie Day",
       "description": "Get your taste buds dancing as we dive into the cookie jar for National Pecan Cookie Day."
     },
     {
-      "title": "National School Backpack Awareness Day",
-      "description": "Improper use can lead to back pain or injury, which can impact learning."
-    },
-    {
       "title": "Telegraph Pole Appreciation Day",
       "description": "It’s time to ramp it up for a day dedicated to the appreciation for telegraph poles!"
+    },
+    {
+      "title": "Wales International Film Festival",
+      "description": "It is ‘on your marks, get set, go!’ As we join in the upcoming movie marathon."
     },
     {
       "title": "World Alzheimer’s Day",
@@ -95,6 +99,10 @@
       "description": "A celebration of America&#39;s favorite actor is a civic duty for all of us."
     },
     {
+      "title": "Chen’s Birthday",
+      "description": "This talented musician has used his beautiful soulful voice to warm the hearts of many."
+    },
+    {
       "title": "Elsy Guevara’s Birthday",
       "description": "This fashion influencer is hard-working and an inspiration to young women everywhere."
     },
@@ -103,8 +111,28 @@
       "description": "This country music star is among the most well-known in the world."
     },
     {
+      "title": "Jason Derulo’s Birthday",
+      "description": "Work hard, have faith, and never stop believing in yourself are his mantras."
+    },
+    {
+      "title": "Jena Frumes’s Birthday",
+      "description": "This is just the beginning of success for this television and social media personality."
+    },
+    {
+      "title": "Liam Gallagher’s Birthday",
+      "description": "Rock’s biggest god has been doing a great job at entertaining us throughout the years."
+    },
+    {
       "title": "Megan Everett’s Birthday",
       "description": "This experienced Twitch streamer has been in the business for a long time."
+    },
+    {
+      "title": "Nicole Richie’s Birthday",
+      "description": "What are some of the things she&#39;s accomplished? Who is she related to?"
+    },
+    {
+      "title": "Shay Shariatzadeh’s Birthday",
+      "description": "This engineer stays out of the spotlight, but she is a very supportive wife."
     },
     {
       "title": "Stephen King’s Birthday",
