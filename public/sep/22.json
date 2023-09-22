@@ -3,20 +3,16 @@
   "day": 22,
   "holidays": [
     {
-      "title": "Fall Equinox",
-      "description": "The days are getting shorter, the nights longer, and the cool, crisp weather rolls in."
-    },
-    {
       "title": "National Ice Cream Cone Day",
-      "description": "How can you eat ice cream in your hands without making a mess?"
-    },
-    {
-      "title": "National Singles Day",
-      "description": "A 24-hour period where it’s okay to be about “me, me, me.”"
+      "description": null
     },
     {
       "title": "American Business Women’s Day",
-      "description": "Who runs the world? Girls! Who runs the business world? Businesswomen!"
+      "description": null
+    },
+    {
+      "title": "American Indian Day",
+      "description": "Get ready to learn everything about Native American Day. Celebrate with us today!"
     },
     {
       "title": "Car-free Sunday",
@@ -39,12 +35,20 @@
       "description": "Gandalf the Grey said it best: “Hobbits really are amazing creatures.”"
     },
     {
+      "title": "Hug A Vegetarian Day",
+      "description": "Be sure to eat your greens today, or hug someone who does this on the reg!"
+    },
+    {
       "title": "International Day of Radiant Peace",
       "description": "Prepare your hearts and minds in celebration of the Radiant Peace that connects us all."
     },
     {
       "title": "Mali Independence Day",
       "description": "We&#39;re exploring the history, culture, celebrations, and importance of Mali Independence Day."
+    },
+    {
+      "title": "Michigan Indian Day",
+      "description": "Join us as we celebrate the native peoples of Michigan this September."
     },
     {
       "title": "National Centenarian&#39;s Day",
@@ -75,8 +79,8 @@
       "description": "Find luscious white chocolate basking in non-debatable sweet creamy goodness!"
     },
     {
-      "title": "Remember Me Thursday",
-      "description": "Honor our stray, abandoned, and orphaned pets today, because their lives matter too."
+      "title": "Native American Day",
+      "description": "This is a holiday observed in several states in celebration of Native American culture."
     },
     {
       "title": "World Car-Free Day",
@@ -87,8 +91,24 @@
       "description": "Rhinos are slowly becoming an endangered species. Awareness is needed to keep all five species alive."
     },
     {
+      "title": "Andrea Bocelli’s Birthday",
+      "description": "With an almost unbelievable range, there is no place that Andrea Bocelli&#39;s voice can’t reach."
+    },
+    {
       "title": "Billie Piper’s Birthday",
       "description": "This talented actress has mastered the art of bringing movie characters to life."
+    },
+    {
+      "title": "Jeremy Harrington’s Birthday",
+      "description": "There is no stopping this talented and creative genius from reaching his full potential."
+    },
+    {
+      "title": "Jinyoung’s Birthday",
+      "description": "He’s got us glued to our screens watching his amazing performances and today we celebrate him!"
+    },
+    {
+      "title": "Joan Jett’s Birthday",
+      "description": "The legacy, impact, and influence of this multi-talented artist is still alive to this day."
     },
     {
       "title": "Mark Johnson’s Birthday",
@@ -105,6 +125,10 @@
     {
       "title": "Mystikal’s Birthday",
       "description": "Mystikal has been a staple in the hip-hop and rap industries for years."
+    },
+    {
+      "title": "Nayeon’s Birthday",
+      "description": "There are endless possibilities for this amazing and talented artist’s career called Nayeon."
     },
     {
       "title": "Tom Felton’s Birthday",
