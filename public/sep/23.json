@@ -3,12 +3,12 @@
   "day": 23,
   "holidays": [
     {
-      "title": "AFL Grand Final Friday",
-      "description": "It&#39;s Aussie Madness as a nation of footy-crazed fans celebrate their most popular sporting event!"
+      "title": "Fall Equinox",
+      "description": null
     },
     {
-      "title": "American Indian Day",
-      "description": "Get ready to learn everything about Native American Day. Celebrate with us today!"
+      "title": "National Singles Day",
+      "description": "A 24-hour period where it’s okay to be about “me, me, me.”"
     },
     {
       "title": "Celebrate Bisexuality Day",
@@ -23,16 +23,20 @@
       "description": "The cool air of autumn approaches — welcome a season that needs warm clothing and hearty meals."
     },
     {
-      "title": "Hug A Vegetarian Day",
-      "description": "Be sure to eat your greens today, or hug someone who does this on the reg!"
+      "title": "Fish Amnesty Day",
+      "description": "Fish deserve as much affection and protection as other vertebrates."
     },
     {
       "title": "International Day of Sign Languages",
       "description": "Want to learn a new language? Sign language is just the perfect pick!"
     },
     {
-      "title": "Michigan Indian Day",
-      "description": "Join us as we celebrate the native peoples of Michigan this September."
+      "title": "International Rabbit Day",
+      "description": "Let’s get to know a bit more about how our cute woodland friends got their holiday."
+    },
+    {
+      "title": "Martyrdom of Imam Hassan Asgari",
+      "description": "No one should be persecuted for their religious beliefs. Take a stand against religious intolerance."
     },
     {
       "title": "National AFM Day",
@@ -47,8 +51,8 @@
       "description": "Baker is the last name with pedigree and ancient roots dating back to the Middle Ages."
     },
     {
-      "title": "National BRAVE Day",
-      "description": "Who runs the world? Women do!"
+      "title": "National Bunny Day",
+      "description": "What&#39;s up, doc? National Bunny Day promotes healthy environments for raising bunnies as pets."
     },
     {
       "title": "National Checkers Day",
@@ -71,16 +75,24 @@
       "description": "Get your bellies ready, and your hearts merry, for this savory celebration."
     },
     {
+      "title": "National Hunting and Fishing Day",
+      "description": "Celebrate the outdoor activities of hunting and fishing while emphasizing conservation."
+    },
+    {
+      "title": "National Public Lands Day",
+      "description": "Appreciate the beauty of our environment and attend events that bring us together."
+    },
+    {
+      "title": "National Seat Check Saturday",
+      "description": "Before you go on a family road trip, be sure to check your child’s car seat."
+    },
+    {
       "title": "National Snack Stick Day",
       "description": "Get yourself some snack sticks as we celebrate a traditional family snack."
     },
     {
       "title": "National Temperature Control Day",
       "description": "Surprise! Summer does not begin on Memorial Day — nor does it end on Labor Day."
-    },
-    {
-      "title": "Native American Day",
-      "description": "This is a holiday observed in several states in celebration of Native American culture."
     },
     {
       "title": "Porthcawl Elvis Festival",
@@ -111,8 +123,28 @@
       "description": "The September Equinox is an important astronomical event with different meanings around the world."
     },
     {
+      "title": "World’s Largest Pet Walk",
+      "description": "Lace up your walking shoes today and get ready for World’s Largest Pet Walk!"
+    },
+    {
       "title": "Za’atar Day",
       "description": "Everyone gather at the dining table because today is Za’atar Day! Celebrate with us!"
+    },
+    {
+      "title": "Anthony Mackie’s Birthday",
+      "description": "This talented actor’s successful career is a testament to never giving up on one&#39;s craft."
+    },
+    {
+      "title": "Bruce Springsteen’s Birthday",
+      "description": "The impact of this rock legend will forever be remembered for generations to come."
+    },
+    {
+      "title": "Chris Sails’s Birthday",
+      "description": "Join us as we celebrate this trail-blazing social media personality, rapper, and all-round funny man."
+    },
+    {
+      "title": "Darcey Silva’s Birthday",
+      "description": "We can only expect greatness from this multi-talented media personality, fashion designer, and influencer."
     },
     {
       "title": "J.I.’s Birthday",
@@ -127,12 +159,32 @@
       "description": "Learn about the jazz legend John Coltrane and how his influence has changed the world."
     },
     {
+      "title": "Jordyn Woods’s Birthday",
+      "description": "This sought-after American model and social media celebrity inspires body confidence and self-acceptance."
+    },
+    {
       "title": "Kalani Hilliker’s Birthday",
       "description": "All the world’s a stage for this incredible young dancer and contortionist."
     },
     {
+      "title": "Key’s Birthday",
+      "description": "Key is truly multi-talented and is admired around the world for his entertainment and fashion."
+    },
+    {
+      "title": "Kimberly Woodruff’s Birthday",
+      "description": "For this celebrity and philanthropist, privacy takes priority over the spotlight. Celebrate her today!"
+    },
+    {
+      "title": "LisaRaye McCoy’s Birthday",
+      "description": "This trendsetting U.S. actress and businesswoman exudes steely confidence and fashion flair."
+    },
+    {
       "title": "Matt Hardy’s Birthday",
       "description": "He may have a few gimmicks, but his wrestling talent sure isn’t one."
+    },
+    {
+      "title": "Ray Charles’s Birthday",
+      "description": "Let’s celebrate the legendary pioneer of soul music whose work lives on today."
     }
   ]
 }
