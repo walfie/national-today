@@ -4,23 +4,15 @@
   "holidays": [
     {
       "title": "National Cherries Jubilee Day",
-      "description": "We invite you to join us in indulging in this most dramatic of desserts."
-    },
-    {
-      "title": "Ancestors&#39; Day",
-      "description": "It is Pchum Ben and time to feed the hungry ghosts of our ancestors."
+      "description": null
     },
     {
       "title": "Bluebird of Happiness Day",
       "description": "Bluebirds are also known as the harbingers of happiness."
     },
     {
-      "title": "Family Health &amp; Fitness Day USA",
-      "description": "A day that promotes physical activity and health with your loved ones."
-    },
-    {
-      "title": "Fish Amnesty Day",
-      "description": "Fish deserve as much affection and protection as other vertebrates."
+      "title": "Gold Star Mother’s and Family Day",
+      "description": "Honoring families of those who have received The Gold Star – the military award no one wants."
     },
     {
       "title": "Heritage Day",
@@ -31,64 +23,24 @@
       "description": "Forget your troubles, and ease into the tranquil spirit of the autumn season."
     },
     {
-      "title": "International Lace Day",
-      "description": "Get ready to celebrate this skill that has been practiced for centuries."
-    },
-    {
-      "title": "International Rabbit Day",
-      "description": "Get ready to celebrate our fluffy rabbit friends this International Rabbit Day!"
-    },
-    {
-      "title": "International Rabbit Day",
-      "description": "Let’s get to know a bit more about how our cute woodland friends got their holiday."
-    },
-    {
       "title": "Lash Stylists’ Day",
       "description": "Call your eyelash stylist and get ready because it’s Lash Stylists’ Day!"
-    },
-    {
-      "title": "National Bunny Day",
-      "description": "What&#39;s up, doc? National Bunny Day promotes healthy environments for raising bunnies as pets."
-    },
-    {
-      "title": "National Ghost Hunting Day",
-      "description": "It’s the day of the spookies!"
     },
     {
       "title": "National Horchata Day",
       "description": "This day has been set aside to indulge in the creamy deliciousness that is horchata."
     },
     {
-      "title": "National Hunting and Fishing Day",
-      "description": "Celebrate the outdoor activities of hunting and fishing while emphasizing conservation."
-    },
-    {
       "title": "National Mofongo Day",
       "description": "Get your taste buds ready to dive deep into all the flavors of this beloved cuisine."
-    },
-    {
-      "title": "National Public Lands Day",
-      "description": "Appreciate the beauty of our environment and attend events that bring us together."
     },
     {
       "title": "National Punctuation Day",
       "description": "“Let’s eat, Grandma!” or “Let’s eat Grandma!” — it’s clear that punctuation saves lives."
     },
     {
-      "title": "National Seat Check Saturday",
-      "description": "Before you go on a family road trip, be sure to check your child’s car seat."
-    },
-    {
       "title": "Our Lady of Mercedes Day",
       "description": "Dominicans celebrate Our Lady of Mercedes Day with processions and church ceremonies."
-    },
-    {
-      "title": "Pchum Ben",
-      "description": "Pchum Ben marks the start of the journey of souls to purgatory."
-    },
-    {
-      "title": "Save Your Photos Day",
-      "description": "Bring out your albums and digital archives and let&#39;s get ready to preserve our photos."
     },
     {
       "title": "Schwenkfelder Thanksgiving",
@@ -99,8 +51,28 @@
       "description": "Release your inner Shah Rukh Khan or Priyanka Chopra!"
     },
     {
+      "title": "World Day of The Deaf",
+      "description": "Let&#39;s celebrate the achievements of deaf people, as we help create a safer environment for them."
+    },
+    {
+      "title": "World Rivers Day",
+      "description": "Observe World Rivers Day by educating yourself and getting involved in clean-up drives."
+    },
+    {
+      "title": "Ben Platt’s Birthday",
+      "description": "This young and dynamic musical actor has already touched the heights of his career"
+    },
+    {
+      "title": "Daisy Márquez’s Birthday",
+      "description": "This influential makeup artist consistently attracts millions of followers with her amazing posts."
+    },
+    {
       "title": "DJ Ghost’s Birthday",
       "description": "This YouTuber has become well-known in the hip-hop scene for his commentary."
+    },
+    {
+      "title": "F. Scott Fitzgerald’s Birthday",
+      "description": "This critically acclaimed novelist and screenwriter had a unique way with words!"
     },
     {
       "title": "Hannah Brown’s Birthday",
