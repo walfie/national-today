@@ -4,43 +4,27 @@
   "holidays": [
     {
       "title": "National Daughters Day",
-      "description": "Celebrate and cherish daughters who bring so much love and into our lives."
+      "description": null
     },
     {
       "title": "National Lobster Day",
       "description": "A fine delicacy throughout most of the world, the crowd-pleasing crustacean has seen darker days."
     },
     {
-      "title": "Bathukamma Starting Day",
-      "description": "Bathukamma is a day that honors the gods for the blessings they have bestowed upon us."
+      "title": "Yom Kippur",
+      "description": "Otherwise known as the Day of Atonement, Yom Kippur is considered the holiest day in Judaism."
     },
     {
       "title": "Binge Day",
       "description": "Ready for a lazy, relaxing day? Grab some popcorn and snacks before we begin."
     },
     {
-      "title": "Death of Prophet Muhammed",
-      "description": "Take time to reflect on the teachings of the Prophet Muhammad as we honor his death."
-    },
-    {
       "title": "German Butterbrot Day",
       "description": "Get the bread, get the butter, it’s time to celebrate German Butterbrot Day!"
     },
     {
-      "title": "Gold Star Mother’s and Family Day",
-      "description": "Honoring families of those who have received The Gold Star – the military award no one wants."
-    },
-    {
       "title": "International Ataxia Awareness Day",
       "description": "A day to recognize the concentrated efforts in throwing light on this rare disease."
-    },
-    {
-      "title": "Mahalaya",
-      "description": "West Bengal, Odisha, Karnataka, and Tripura, your time has come to celebrate Mahalaya."
-    },
-    {
-      "title": "Martyrdom of Imam Reza",
-      "description": "Mourners, pay respect to the revered Shia Imam on the day of the Martyrdom of Imam Reza."
     },
     {
       "title": "Math Storytelling Day",
@@ -99,14 +83,6 @@
       "description": "Celebrate the administrators who put in hard work to conduct important research."
     },
     {
-      "title": "Rosh Hashanah",
-      "description": "Rosh Hashanah, literally translating to ‘head of the year’, is the Jewish New Year."
-    },
-    {
-      "title": "World Day of The Deaf",
-      "description": "Let&#39;s celebrate the achievements of deaf people, as we help create a safer environment for them."
-    },
-    {
       "title": "World Dream Day",
       "description": "Calling all dreamers, achievers, and go-getters; this is the day for you."
     },
@@ -115,28 +91,44 @@
       "description": "We&#39;re shedding light on how Pharmacists Day came to be and sharing fun ideas to celebrate."
     },
     {
-      "title": "World Rivers Day",
-      "description": "Observe World Rivers Day by educating yourself and getting involved in clean-up drives."
-    },
-    {
-      "title": "World’s Largest Pet Walk",
-      "description": "Lace up your walking shoes today and get ready for World’s Largest Pet Walk!"
-    },
-    {
       "title": "Barbara Walters’s Birthday",
       "description": "The possibilities are endless for this incredibly gifted and award-winning journalist, author, and actor."
+    },
+    {
+      "title": "Catherine Zeta-Jones’s Birthday",
+      "description": "Musicals, dramas, horrors, and comedies - there’s nothing this incredible actress cannot do!"
+    },
+    {
+      "title": "Christopher Reeve’s Birthday",
+      "description": "Christopher Reeve never gave up even though he was rejected by producers three times."
+    },
+    {
+      "title": "David S. Jones-snowboarder’s Birthday",
+      "description": "David S. Jones is the perfect example of turning a passion into a business."
     },
     {
       "title": "Donald Glover’s Birthday",
       "description": "The talent of this actor, rapper, comedian, writer, and producer truly knows no bounds."
     },
     {
+      "title": "Heather Locklear’s Birthday",
+      "description": "The talented actress is also a passionate Harley-Davidson rider and member of PETA."
+    },
+    {
       "title": "Jayda Cheaves’s Birthday",
       "description": "The epitome of ‘follow your heart’ is social media celebrity, YouTuber, and businesswoman, Jayda Cheaves."
     },
     {
+      "title": "Jesse Wellens’s Birthday",
+      "description": "With millions of subscribers, the popular YouTuber has cemented his status as an internet star."
+    },
+    {
       "title": "Mark Hamill’s Birthday",
       "description": "This exceptionally talented, award-winning actor and voice artist is a true inspiration to all."
+    },
+    {
+      "title": "Michael Douglas’s Birthday",
+      "description": "For one of Tinseltown’s most acclaimed actors, there’s just no slowing down!"
     },
     {
       "title": "T.I.’s Birthday",
