@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "Better Breakfast Day",
-      "description": "Wake up America — let&#39;s make the most of our mornings!"
+      "description": null
     },
     {
       "title": "Johnny Appleseed Day",
@@ -39,10 +39,6 @@
       "description": "Be inspired and brush up on your language learning skills for an enriching and fulfilling life."
     },
     {
-      "title": "FAMILY AND COMMUNITY DAY",
-      "description": "Spare some time off work to celebrate with your family and community!"
-    },
-    {
       "title": "Human Resource Professional Day",
       "description": "H.R. professional or not, this day can be celebrated by everybody!"
     },
@@ -57,22 +53,6 @@
     {
       "title": "Lumberjack Day",
       "description": "Lumberjacks are the real deal! Join in the celebration as we appreciate these hardworking professionals."
-    },
-    {
-      "title": "Maharaja Agrasen Jayanti",
-      "description": "This Maharaja Agrasen Jayanti, follow in the king’s footsteps and participate in social welfare activities."
-    },
-    {
-      "title": "Maldives: Qaumee Dhuvas",
-      "description": "Observe the day to commemorate the victory in remembrance of Muhammad Thakurufaanu al-Auzam."
-    },
-    {
-      "title": "Mera Chaoren Houba",
-      "description": "Mera Chaoren Houba is observed according to the Manipuri lunar calendar, a region in northeast India."
-    },
-    {
-      "title": "Mysore Dasara",
-      "description": "A celebration where divine fervor meets royal splendor!"
     },
     {
       "title": "National Amanda Day",
@@ -95,6 +75,10 @@
       "description": "Hari is a masculine name of Sanskrit origin with deep religious significance."
     },
     {
+      "title": "National Key Lime Pie Day",
+      "description": "Could you imagine life without key lime pies? We can&#39;t bear to think of it either!"
+    },
+    {
       "title": "National Law Enforcement Suicide Awareness Day",
       "description": "Do not miss celebrating National Law Enforcement Suicide Awareness Day this September 26!"
     },
@@ -105,10 +89,6 @@
     {
       "title": "National Situational Awareness Day",
       "description": "Let us draw your attention to the importance of situational awareness."
-    },
-    {
-      "title": "Navratri",
-      "description": "Sharada Navrati is an autumnal Hindu holiday, held in honor of the divine feminine: &#34;Devi.&#34;"
     },
     {
       "title": "Shamu the Whale Day",
@@ -127,6 +107,14 @@
       "description": "This fierce and feisty Japanese wrestler isn’t planning on retiring any time soon."
     },
     {
+      "title": "Chloe Burrows’s Birthday",
+      "description": "Chloe Burrows is a talented influencer. We can&#39;t wait to see what she does next!"
+    },
+    {
+      "title": "Dat Boi T’s Birthday",
+      "description": "For this Houston-born artist, the bar is set really high! Celebrate his special day with us!"
+    },
+    {
       "title": "Johnny Appleseed’s Birthday",
       "description": "If you enjoy eating apples, it might be the legacy of this historic nurseryman’s work."
     },
@@ -135,12 +123,28 @@
       "description": "This talented rapper is one chart-topping track away from a Grammy award!"
     },
     {
+      "title": "Landon McBroom’s Birthday",
+      "description": "McBroom is an internet personality who’s faced various controversies and keeps fighting to face another day."
+    },
+    {
       "title": "Lilly Singh’s Birthday",
       "description": "Not only is she an entertaining comedian, but she’s also a human and children&#39;s rights activist!"
     },
     {
+      "title": "Russ Diemon’s Birthday",
+      "description": "This rising artist on the rap scene will have you vibing to his amazing beats."
+    },
+    {
+      "title": "Serena Williams’s Birthday",
+      "description": "This incredibly talented tennis player has broken many a record and is a formidable athlete."
+    },
+    {
       "title": "Sherri Gaskins’s Birthday",
       "description": "For this blogger and YouTuber, limitless fame and recognition are a few posts away!"
+    },
+    {
+      "title": "Walker Bryant’s Birthday",
+      "description": "This young actor and social media personality has won the hearts of thousands, including ours."
     }
   ]
 }
