@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "World Tourism Day",
-      "description": "Get your cameras ready, unfold your maps, and make sure your fanny pack still fits snug,"
+      "description": null
     },
     {
       "title": "Ancestor Appreciation Day",
@@ -13,6 +13,14 @@
     {
       "title": "Day of the French Community",
       "description": "We celebrate an important day for Belgium’s French-speaking community."
+    },
+    {
+      "title": "Egypt: Al-Mouled Al-Nabawy",
+      "description": "Egypt celebrates Al-Mouled Al-Nabawy in honor of Prophet Muhammad’s birth. Join us as we commemorate it!"
+    },
+    {
+      "title": "Milad an-Nabi (Mawlid)",
+      "description": "Milad an-Nabi, is celebrated by Muslims as the birthday of the Prophet Muhammad."
     },
     {
       "title": "Morning Show Hosts Day",
@@ -47,8 +55,20 @@
       "description": "Add another dimension to your outfit today and adorn yourself with a scarf."
     },
     {
+      "title": "National Women’s Health And Fitness Day",
+      "description": "Join women all over in commemorating this special day promoting the importance of health awareness and fitness."
+    },
+    {
+      "title": "Prophet Muhammad’s birthday",
+      "description": "Prophet Muhammad’s Birthday commemorates the birth of the religion of Islam’s founder."
+    },
+    {
       "title": "Avril Lavigne’s Birthday",
       "description": "The fruits of passion and ambition bloomed at an early age for this pop-punk icon!"
+    },
+    {
+      "title": "Domics’s Birthday",
+      "description": "Domics is our favorite storyteller, and, boy, does he have stories to tell!"
     },
     {
       "title": "Gwyneth Paltrow’s Birthday",
@@ -63,12 +83,24 @@
       "description": "Jenna Ortega has made a name for herself in the industry! Let’s celebrate her today."
     },
     {
-      "title": "Joie Chavis’s Birthday",
-      "description": "There’s much more to know about the mother of Bow Wow and Future’s kids!"
-    },
-    {
       "title": "Lil Wayne’s Birthday",
       "description": "Starting at the young age of 12, his music career soared to success!"
+    },
+    {
+      "title": "Meat Loaf’s Birthday",
+      "description": "Meat Loaf will always be remembered as a mesmerizing star who exceeded all expectations."
+    },
+    {
+      "title": "Mitski’s Birthday",
+      "description": "This talented artist’s stunning and heartfelt music has won over audiences worldwide!"
+    },
+    {
+      "title": "Rockabillykitty’s Birthday",
+      "description": "This delightfully weird YouTuber once took the internet by storm by creating videos about “Animal Wild.”"
+    },
+    {
+      "title": "Shep Rose’s Birthday",
+      "description": "This handsome writer, actor, and businessman is the definition of Southern charm."
     }
   ]
 }
