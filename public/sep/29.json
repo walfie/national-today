@@ -4,15 +4,27 @@
   "holidays": [
     {
       "title": "National Coffee Day",
-      "description": "Coffee is an integral part of American culture, like McDonald&#39;s, rock n&#39; roll, and blue jeans."
+      "description": null
     },
     {
       "title": "National Starbucks Day",
       "description": "There are few places you can go in the world and not find a Starbucks."
     },
     {
+      "title": "Sukkot",
+      "description": "A Jewish holiday also known as the Feast of Booths."
+    },
+    {
+      "title": "AFL Grand Final Friday",
+      "description": "It&#39;s Aussie Madness as a nation of footy-crazed fans celebrate their most popular sporting event!"
+    },
+    {
       "title": "CONFUCIUS DAY",
       "description": "Learn about the history of the great sage and how he is celebrated around the world!"
+    },
+    {
+      "title": "German Sandwich Day",
+      "description": "An item both beautiful and delicious in its simplicity: the Butterbrot."
     },
     {
       "title": "International Day of Awareness of Food Loss and Waste",
@@ -27,8 +39,20 @@
       "description": "Do you think angels are awesome? Get ready to celebrate a special day in their honor."
     },
     {
+      "title": "Mid-Autumn Festival",
+      "description": "We know what you&#39;re thinking. Why does the Mid-Autumn Festival take place in late summer?"
+    },
+    {
+      "title": "Mid-Autumn Moon Festival",
+      "description": "Let’s celebrate the glorious moon!"
+    },
+    {
       "title": "National Biscotti Day",
       "description": "Dry and crunchy; dipped or dunked, biscotti is enjoyed and celebrated in many ways."
+    },
+    {
+      "title": "National BRAVE Day",
+      "description": "Who runs the world? Women do!"
     },
     {
       "title": "National Carson Day",
@@ -43,6 +67,18 @@
       "description": "Be ready to watch as many silent movies as possible on this special day!"
     },
     {
+      "title": "Pitru Paksha",
+      "description": "Hindus are bound by their Dharma, or religion, to pray for the souls of their ancestors."
+    },
+    {
+      "title": "Save The Koala Day",
+      "description": "The adorable koalas need your help!"
+    },
+    {
+      "title": "Sport Purple for Platelets Day",
+      "description": "Get involved on Sport Purple for Platelets Day: sport purple, raise money and show your support."
+    },
+    {
       "title": "VFW DAY",
       "description": "Join us as we celebrate the beloved heroes of America."
     },
@@ -51,8 +87,8 @@
       "description": "Every year, over 17 million people die from heart disease."
     },
     {
-      "title": "World Maritime Day",
-      "description": "Toss your hats in honor of the seafarers on World Maritime Day."
+      "title": "World’s Biggest Coffee Morning",
+      "description": "Enjoy your favorite beverage and make a difference by helping raise money for people facing cancer."
     },
     {
       "title": "Andy Frisella’s Birthday",
@@ -63,8 +99,20 @@
       "description": "This gal appeared on a trendy reality show and is now a social media star."
     },
     {
+      "title": "Gwen Ifill’s Birthday",
+      "description": "Her first television appearance was in 1994 while working for “The New York Times.”"
+    },
+    {
+      "title": "Halsey’s Birthday",
+      "description": "From drug addict to global superstar! Let&#39;s share everything we know about the singer."
+    },
+    {
       "title": "Ice Poseidon’s Birthday",
       "description": "This man is a social media personality known all across YouTube and Twitch."
+    },
+    {
+      "title": "Jerry Lee Lewis’s Birthday",
+      "description": "This multi-skilled and talented pianist-singer knows the real meaning of working toward success."
     },
     {
       "title": "Molly Eskam’s Birthday",
@@ -73,6 +121,10 @@
     {
       "title": "Nicholas Galitzine’s Birthday",
       "description": "He landed major roles and made it big in just a few years since his debut."
+    },
+    {
+      "title": "Pepperoni Joe’s Birthday",
+      "description": "Since uploading his first video, he’s accumulated a whopping 1.6 million TikTok followers."
     }
   ]
 }
