@@ -3,16 +3,12 @@
   "day": 28,
   "holidays": [
     {
-      "title": "National Drink Beer Day",
-      "description": "We raise a toast to the oldest and most venerable of all beverages."
+      "title": "Ask a Stupid Question Day",
+      "description": null
     },
     {
       "title": "Fish Tank Floorshow Night",
       "description": "Get ready to be entertained by the fish in the spotlight tonight."
-    },
-    {
-      "title": "Gedaliah Fast",
-      "description": "Join us as we explore one of the sacred Jewish traditions."
     },
     {
       "title": "International Day for Universal Access to Information",
@@ -25,10 +21,6 @@
     {
       "title": "International Right To Know Day",
       "description": "It&#39;s important to know because knowledge is power. Today, we celebrate our right to that power."
-    },
-    {
-      "title": "Ask a Stupid Question Day",
-      "description": "There really is no such thing as a dumb question."
     },
     {
       "title": "National Chris Day",
@@ -55,12 +47,16 @@
       "description": "Today&#39;s just the perfect day to indulge your sweet tooth with your favorite cream pie recipe!"
     },
     {
-      "title": "National Women’s Health And Fitness Day",
-      "description": "Join women all over in commemorating this special day promoting the importance of health awareness and fitness."
+      "title": "Remember Me Thursday",
+      "description": "Honor our stray, abandoned, and orphaned pets today, because their lives matter too."
     },
     {
       "title": "St. Wenceslas Day — Statehood Day",
       "description": "Celebrated for the last two decades, this day honors the patron saint of the Czech Republic."
+    },
+    {
+      "title": "World Maritime Day",
+      "description": "Toss your hats in honor of the seafarers on World Maritime Day."
     },
     {
       "title": "World Rabies Day",
@@ -71,8 +67,16 @@
       "description": "This iconic actress and model is a staple of the 20th-century movie industry."
     },
     {
+      "title": "Hilary Duff’s Birthday",
+      "description": "Multifaceted, extremely talented, and a genuinely lovely person — we all love Hilary Duff!"
+    },
+    {
       "title": "Jasper Dolphin’s Birthday",
       "description": "Jasper Dolphin is a talented and well-loved American actor and rapper. Today, we celebrate him."
+    },
+    {
+      "title": "Jeezy’s Birthday",
+      "description": "As a rap legend, Jeezy has worked hard to make his way to the top!"
     },
     {
       "title": "Momona Tamada’s Birthday",
@@ -83,8 +87,24 @@
       "description": "This actress is ever ready to take her fans to another realm of entertainment."
     },
     {
+      "title": "Nick Viall’s Birthday",
+      "description": "Ruggedly handsome with a heart of gold, what’s not to love about Nick Viall?"
+    },
+    {
       "title": "Spencer Rattler’s Birthday",
       "description": "For this athlete, irrevocable fame and success are a few games away!"
+    },
+    {
+      "title": "St. Vincent’s Birthday",
+      "description": "Take the chance to know more about the unique and extraordinary singer St. Vincent."
+    },
+    {
+      "title": "The Anime Man’s Birthday",
+      "description": "Anime, YouTube, acting, and more — The Anime Man continues to excel in them all."
+    },
+    {
+      "title": "Tokyoxvanity’s Birthday",
+      "description": "This social media and reality star knows the meaning of never giving up!"
     }
   ]
 }
