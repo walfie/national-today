@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "International Podcast Day",
-      "description": "A forced marriage between &#34;iPod&#34; and &#34;broadcasting&#34; lead to the creation of the word."
+      "description": null
     },
     {
       "title": "Botswana Day",
@@ -15,16 +15,24 @@
       "description": "Be ready to try as many olive oils as you can on this day!"
     },
     {
-      "title": "Fiesta de San Jerónimo (Nicaragua)",
-      "description": "Let us celebrate Fiesta de San Jerónimo, Nicaragua&#39;s most splendid cultural and religious celebration."
+      "title": "Family Health &amp; Fitness Day USA",
+      "description": "A day that promotes physical activity and health with your loved ones."
     },
     {
-      "title": "German Sandwich Day",
-      "description": "An item both beautiful and delicious in its simplicity: the Butterbrot."
+      "title": "Fiesta de San Jerónimo in Nicaragua",
+      "description": "Let us celebrate Fiesta de San Jerónimo, Nicaragua&#39;s most splendid cultural and religious celebration."
     },
     {
       "title": "International Blasphemy Rights Day",
       "description": "Honor your freedom by fighting for the oppressed. Raise your voice against blasphemy laws."
+    },
+    {
+      "title": "International Lace Day",
+      "description": "Get ready to celebrate this skill that has been practiced for centuries."
+    },
+    {
+      "title": "International Rabbit Day",
+      "description": "Get ready to celebrate our fluffy rabbit friends this International Rabbit Day!"
     },
     {
       "title": "International Translation Day",
@@ -35,12 +43,12 @@
       "description": "Get ready to decipher the extremely fascinating world of translators with us."
     },
     {
-      "title": "National BRAVE Day",
-      "description": "Who runs the world? Women do!"
-    },
-    {
       "title": "NATIONAL CHEWING GUM DAY",
       "description": "The gummy texture, the translucent bubble, the satisfying pop!"
+    },
+    {
+      "title": "National Ghost Hunting Day",
+      "description": "It’s the day of the spookies!"
     },
     {
       "title": "National Hot Mulled Cider Day",
@@ -71,20 +79,16 @@
       "description": "Get a book with the great works of Rumi and curl up on your couch today!"
     },
     {
-      "title": "Save The Koala Day",
-      "description": "The adorable koalas need your help!"
-    },
-    {
-      "title": "Sport Purple for Platelets Day",
-      "description": "Get involved on Sport Purple for Platelets Day: sport purple, raise money and show your support."
+      "title": "Save Your Photos Day",
+      "description": "Bring out your albums and digital archives and let&#39;s get ready to preserve our photos."
     },
     {
       "title": "Thunderbirds Day",
       "description": "Celebrate Thunderbirds Day by tuning in to “Thunderbirds” or “Thunderbirds Are Go!”"
     },
     {
-      "title": "World’s Biggest Coffee Morning",
-      "description": "Enjoy your favorite beverage and make a difference by helping raise money for people facing cancer."
+      "title": "Captain Kirk Douglas’s Birthday",
+      "description": "Captain Kirk Douglas from The Roots is a talented guitarist and audience favorite."
     },
     {
       "title": "Elie Wiesel’s Birthday",
@@ -93,6 +97,10 @@
     {
       "title": "Fran Drescher’s Birthday",
       "description": "Fran Drescher is a film icon who knows a thing or two about success!"
+    },
+    {
+      "title": "Johnny Mathis’s Birthday",
+      "description": "This musical icon has been making beautiful music since he was a kid."
     },
     {
       "title": "Maddie Ziegler’s Birthday",
@@ -107,8 +115,20 @@
       "description": "The world is eager to watch this talented singer who has shown so much potential."
     },
     {
+      "title": "Rylo Rodriguez’s Birthday",
+      "description": "Rylo has achieved success, but he still acts as a voice for the youth."
+    },
+    {
+      "title": "T-Pain’s Birthday",
+      "description": "This Grammy-winning musical artist has always known how to be a high achiever."
+    },
+    {
       "title": "Trevi Moran’s Birthday",
       "description": "With determination, talent, and acceptance, this YouTube sensation is heading for unstoppable success."
+    },
+    {
+      "title": "Whitney Rose’s Birthday",
+      "description": "Here’s everything you need to know about Whitney Rose, her family, her business, and her children."
     }
   ]
 }
