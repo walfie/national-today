@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "International Coffee Day",
-      "description": "It energize you, warms you, refreshes you, keep you awake, and makes your life better."
+      "description": null
     },
     {
       "title": "National Homemade Cookies Day",
@@ -15,16 +15,16 @@
       "description": "Did you know that approximately 10% of the world&#39;s population is vegetarian?"
     },
     {
-      "title": "Albuquerque International Balloon Fiesta",
-      "description": "Up, up and away! Look to the sky — The Albuquerque International Balloon Fiesta is here."
-    },
-    {
       "title": "Balloons Around the World Day",
       "description": "You don’t need to be good at party tricks to perform these balloon activities!"
     },
     {
       "title": "CD Player Day",
       "description": "Take a trip down memory lane to listen to music sans &#39;playlists&#39;."
+    },
+    {
+      "title": "Change A Light Day",
+      "description": "Let there be light all over as we take you on an amazing journey with LEDs!"
     },
     {
       "title": "Chinese National Day",
@@ -39,10 +39,6 @@
       "description": "Celebrating the history, heritage, and culture of the Filipino-American community."
     },
     {
-      "title": "Frugal Fun Day",
-      "description": "Frugal Fun Day is the day to have fun without going broke."
-    },
-    {
       "title": "​International Day of Older Persons",
       "description": "Older people are fonts of wisdom, experience, and storytelling."
     },
@@ -55,8 +51,8 @@
       "description": "Raccoons might not be the best pets, but they are no pests either."
     },
     {
-      "title": "Investiture of the Captains Regent in San Marino",
-      "description": "We join the citizens of San Marino in celebrating the new captain&#39;s regents."
+      "title": "Investiture Ceremony of the Captains Regent",
+      "description": "Hit the streets as we celebrate the historic Investiture Ceremony of the Captain’s Regent."
     },
     {
       "title": "Model T Day",
@@ -65,10 +61,6 @@
     {
       "title": "National Black Dog Day",
       "description": "See that picture? Go ahead and say it, &#34;awwwww!&#34;"
-    },
-    {
-      "title": "National Bookshop Day",
-      "description": "If you can read this, you can read a whole book — buy one today!"
     },
     {
       "title": "National Day of China",
@@ -87,6 +79,14 @@
       "description": "If you have ever dreamed of a lace wedding dress, then this holiday is for you."
     },
     {
+      "title": "National Poetry Day",
+      "description": "&#34;Roses are red, violets are blue, we are so happy, to be celebrating poetry with you!&#34;"
+    },
+    {
+      "title": "National Police Memorial Day",
+      "description": "Join us as we explore the story behind National Police Memorial Day."
+    },
+    {
       "title": "Nigeria Independence Day",
       "description": "Don your best green and white clothes and spend the day celebrating Nigerian Independence!"
     },
@@ -103,12 +103,8 @@
       "description": "Read on to learn how this island nation got its independence from its British colonial masters."
     },
     {
-      "title": "World Ballet Day",
-      "description": "Put on your ballet shoes and celebrate one of the most adored dance forms in history."
-    },
-    {
-      "title": "World Card Making Day",
-      "description": "Get your craft knives and glue ready because we are celebrating a crafter’s perfect holiday."
+      "title": "World Communion Sunday",
+      "description": "Every Christian Church and any denomination that promotes Christian unity are one."
     },
     {
       "title": "World Sake Day",
