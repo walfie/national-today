@@ -4,11 +4,7 @@
   "holidays": [
     {
       "title": "International Day of Non-Violence",
-      "description": "We honor Gandhi and how his work and legacy has impacted global, non-violent protests."
-    },
-    {
-      "title": "Change A Light Day",
-      "description": "Let there be light all over as we take you on an amazing journey with LEDs!"
+      "description": null
     },
     {
       "title": "Guardian Angels Day",
@@ -19,12 +15,16 @@
       "description": "Guinea, a former French colony, gained its complete independence from the French in 1958."
     },
     {
-      "title": "International Blessings of The Fishing Fleet Day",
-      "description": "This festival&#39;s main aim is to bless the fishing fleet right before the fishing season begins."
+      "title": "Labour Day",
+      "description": "Workers in Australia were the first to achieve a reduction in working time without a salary cut!"
     },
     {
-      "title": "Maha Saptami",
-      "description": "An intriguing and religious festival dedicated to a goddess celebrated in India."
+      "title": "National Child Health Day",
+      "description": "Family income is a major factor in the health of children both physically and mentally."
+    },
+    {
+      "title": "National Consignment Day",
+      "description": "For everyone that likes to be on-trend and still live green, this day is for you!"
     },
     {
       "title": "National Custodian Day",
@@ -43,10 +43,6 @@
       "description": "Name your little red corvette, &#34;Swifty,&#34; and see what happens."
     },
     {
-      "title": "National Police Memorial Day",
-      "description": "Join us as we explore the story behind National Police Memorial Day."
-    },
-    {
       "title": "National Produce Misting Day",
       "description": "If you love fresh produce, then National Produce Misting Day is for you."
     },
@@ -55,12 +51,8 @@
       "description": "This National Report Long Term Acute Care Hospital Fraud Day, join the battle against Medicare fraud."
     },
     {
-      "title": "Nepal: Phulpati",
-      "description": "The word ‘Phul’ is Hindi for ‘flower,’ and ‘pati’ translates to ‘petal.’"
-    },
-    {
-      "title": "World Communion Sunday",
-      "description": "Every Christian Church and any denomination that promotes Christian unity are one."
+      "title": "World Architecture Day",
+      "description": "Today, we appreciate the great architectural works of the ancient and modern worlds."
     },
     {
       "title": "World Farm Animals Day",
