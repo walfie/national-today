@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "Mean Girls Day",
-      "description": "You can&#39;t sit with them, but you can celebrate them on Mean Girls Day!"
+      "description": null
     },
     {
       "title": "National Boyfriend Day",
@@ -19,10 +19,6 @@
       "description": "Time to fill your cart with the best British products, and don’t forget the tea."
     },
     {
-      "title": "Durga Ashtami",
-      "description": "People gather on this day to perform &#39;garba&#39; and wear colorful costumes to honor Durga Ashtami."
-    },
-    {
       "title": "Francisco Morazán&#39;s Day",
       "description": "Francisco Morazán is one of the most memorable figures of 20th century Central America."
     },
@@ -35,16 +31,8 @@
       "description": "Learn about the event and history that marks the anniversary of Iraq&#39;s independence from the British."
     },
     {
-      "title": "Labour Day",
-      "description": "Workers in Australia were the first to achieve a reduction in working time without a salary cut!"
-    },
-    {
-      "title": "National Child Health Day",
-      "description": "Family income is a major factor in the health of children both physically and mentally."
-    },
-    {
-      "title": "National Consignment Day",
-      "description": "For everyone that likes to be on-trend and still live green, this day is for you!"
+      "title": "National Fruit at Work Day",
+      "description": "This day celebrates every fruit that has given us its delicious juiciness and boost in work performance."
     },
     {
       "title": "National Kevin Day",
@@ -61,14 +49,6 @@
     {
       "title": "National Wide Awakes Day",
       "description": "On National Wide Awakes Day, we celebrate the American youth movement that helped elect Abraham Lincoln."
-    },
-    {
-      "title": "Nepal: Maha Ashtami",
-      "description": "Honor Goddess Durga and celebrate the triumph of good against evil on this Maha Ashtami."
-    },
-    {
-      "title": "World Architecture Day",
-      "description": "Today, we appreciate the great architectural works of the ancient and modern worlds."
     },
     {
       "title": "A$AP Rocky’s Birthday",
@@ -133,10 +113,6 @@
     {
       "title": "Michele Morrone’s Birthday",
       "description": "Nothing can stop the shine of this multi-talented actor, not even the stars."
-    },
-    {
-      "title": "Michelle Choi’s Birthday",
-      "description": "This young social media star has helped others like her by sharing her life&#39;s experiences."
     },
     {
       "title": "Neve Campbell’s Birthday",
