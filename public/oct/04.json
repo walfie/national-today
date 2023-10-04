@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "​National Cinnamon Roll Day",
-      "description": "Whether you buy &#39;em or bake &#39;em, let the sweet times roll!"
+      "description": null
     },
     {
       "title": "National Taco Day",
@@ -15,8 +15,8 @@
       "description": "Today, vodka is the most widely-consumed spirit in the world — quite the accomplishment!"
     },
     {
-      "title": "Ayudha Puja",
-      "description": "Celebrate Ayudha Puja and explore the fascinating mythology behind this unique Indian festival."
+      "title": "Coffee with a Cop Day",
+      "description": "Get your cup ready and go to the nearest restaurant to drink coffee with a cop."
     },
     {
       "title": "Feast of St. Francis of Assisi",
@@ -27,8 +27,8 @@
       "description": "Even if your office is your bedroom, we’ve got ideas to make it extra special."
     },
     {
-      "title": "International: Chung Yeung Festival",
-      "description": "During Chung Yeung, we celebrate family by spending time with loved ones and remembering the lost."
+      "title": "International Walk to School Day",
+      "description": "Make sure your shoes are made for walking; it’s Walk to School Day!"
     },
     {
       "title": "Kindness to Animal Day",
@@ -39,44 +39,32 @@
       "description": "Commemorate Lesotho’s anniversary of national independence, marking its liberation from the British Empire."
     },
     {
-      "title": "Maha Navami",
-      "description": "Get ready to light ‘diyas’ (lamps), learn about Hindu myths, and try delicious Indian sweets."
-    },
-    {
-      "title": "Mahanavami",
-      "description": "We celebrate this nine-day holiday with tremendous zeal and appreciation, particularly in North and West India."
-    },
-    {
-      "title": "Martyrdom of Imam Hassan Asgari",
-      "description": "No one should be persecuted for their religious beliefs. Take a stand against religious intolerance."
-    },
-    {
-      "title": "National Fruit at Work Day",
-      "description": "This day celebrates every fruit that has given us its delicious juiciness and boost in work performance."
-    },
-    {
       "title": "National Golf Lovers Day",
       "description": "Hit the links and play a round with your fellow sufferers."
+    },
+    {
+      "title": "National Kale Day",
+      "description": "Eating healthy never tasted this good as we celebrate National Kale Day."
+    },
+    {
+      "title": "National Pumpkin Seed Day",
+      "description": "It’s pumpkin seeds bingeing time!"
     },
     {
       "title": "National Truckers Appreciation Day",
       "description": "Settle in, put on your favorite playlist, and hit the road as we celebrate truckers."
     },
     {
-      "title": "Navami of Durga Puja",
-      "description": "Let’s see how Navami is celebrated on the ninth day of this holiday."
+      "title": "National Walk and Bike to School Day",
+      "description": "You&#39;ve probably heard stories of how your parents or grandparents had to walk miles to school."
     },
     {
-      "title": "Nepal: Maha Navami",
-      "description": "Let’s get to know more about Maha Navami, where people rejoice in goddess Durga’s victory."
+      "title": "Semana Morazánica",
+      "description": "Celebrate Semana Morazánic with the people of Honduras, a day established to honor Franciso Morazán."
     },
     {
       "title": "World Animal Day",
       "description": "It&#39;s World Animal Day and we’re planning to make a big roar."
-    },
-    {
-      "title": "World Dyslexia Day",
-      "description": "World Dyslexia Day helps patients and caretakers find ways to live a fulfilling life."
     },
     {
       "title": "World Habitat Day",
