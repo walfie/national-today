@@ -4,31 +4,19 @@
   "holidays": [
     {
       "title": "National Do Something Nice Day",
-      "description": "This holiday encourages us to perform acts of kindness for strangers or loved ones — or both!"
+      "description": null
     },
     {
       "title": "World Teachers&#39; Day",
       "description": "Matilda had Ms. Honey, Harry had Dumbledore, and Cady had Ms. Norbury!"
     },
     {
-      "title": "Yom Kippur",
-      "description": "Otherwise known as the Day of Atonement, Yom Kippur is considered the holiest day in Judaism."
+      "title": "Bring Your Bible To School Day",
+      "description": "Take up your Bible as we read and share God’s Word, expressing our religious freedom."
     },
     {
-      "title": "Coffee with a Cop Day",
-      "description": "Get your cup ready and go to the nearest restaurant to drink coffee with a cop."
-    },
-    {
-      "title": "Dashain",
-      "description": "Let us celebrate this time of year when families come together and extend kindness to others."
-    },
-    {
-      "title": "International Walk to School Day",
-      "description": "Make sure your shoes are made for walking; it’s Walk to School Day!"
-    },
-    {
-      "title": "Janmostav of Srimatna Sankardev",
-      "description": "Honor the legacy and spirit of the founder of Assamese culture and be inspired."
+      "title": "Hoshana Rabbah",
+      "description": "The Jewish holiday&#39;s roots are in celebration of thanksgiving for a bountiful harvest."
     },
     {
       "title": "Kiribati: Education Day",
@@ -51,12 +39,12 @@
       "description": "Support the true leaders of Caribbean communities by celebrating their achievements in humanitarian work."
     },
     {
-      "title": "National Get Funky Day",
-      "description": "We&#39;re not talking funk as in depressing, but funk as in get-happy-and-celebrate-life!"
+      "title": "National Depression Screening Day",
+      "description": "Roughly 40 million adults in the U.S. struggle with depression or anxiety."
     },
     {
-      "title": "National Kale Day",
-      "description": "Eating healthy never tasted this good as we celebrate National Kale Day."
+      "title": "National Get Funky Day",
+      "description": "We&#39;re not talking funk as in depressing, but funk as in get-happy-and-celebrate-life!"
     },
     {
       "title": "National Kiss a Wrestler Day",
@@ -67,32 +55,16 @@
       "description": "If you’re struggling with P.T.S.D. from war, press play and start healing."
     },
     {
-      "title": "National Pumpkin Seed Day",
-      "description": "It’s pumpkin seeds bingeing time!"
-    },
-    {
       "title": "National Rhode Island Day",
       "description": "Let’s take a deep dive into some interesting facts about National Rhode Island Day."
-    },
-    {
-      "title": "National Walk and Bike to School Day",
-      "description": "You&#39;ve probably heard stories of how your parents or grandparents had to walk miles to school."
     },
     {
       "title": "Portugal Republic Day",
       "description": "Celebrate Portugal’s Republic Day which ushered in a new form of government in a bloodless revolution!"
     },
     {
-      "title": "Semana Morazánica",
-      "description": "Celebrate Semana Morazánic with the people of Honduras, a day established to honor Franciso Morazán."
-    },
-    {
       "title": "Vanuatu Constitution Day",
       "description": "Thanks to its constitution, Vanuatu can finally live and govern according to its own values."
-    },
-    {
-      "title": "Vijayadashami",
-      "description": "Vijaydashmi, or Dusshera is the 10th and the last day of Durga Puja."
     },
     {
       "title": "World Meningitis Day",
