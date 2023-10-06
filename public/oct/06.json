@@ -4,11 +4,11 @@
   "holidays": [
     {
       "title": "National Noodle Day",
-      "description": "Can you believe that noodles have been around for over 4,000 years?"
+      "description": null
     },
     {
-      "title": "Bring Your Bible To School Day",
-      "description": "Take up your Bible as we read and share God’s Word, expressing our religious freedom."
+      "title": "World Smile Day",
+      "description": "Let&#39;s see those pearly whites—it&#39;s World Smile Day!"
     },
     {
       "title": "Egypt: Armed Forces Day",
@@ -23,16 +23,24 @@
       "description": "Learn how to manage your emails effectively and keep a zero inbox."
     },
     {
+      "title": "Kids Music Day",
+      "description": "Strike some melodious notes with your kids while allowing them to soak themselves in music."
+    },
+    {
+      "title": "Manufacturing Day",
+      "description": "Read on for tips to participate in celebrating America&#39;s most exceptional minds and machines."
+    },
+    {
       "title": "National Badger Day",
       "description": "Show your love and appreciation for this iconic animal this National Badger Day!"
     },
     {
-      "title": "National Coaches Day",
-      "description": "Let&#39;s not forget about the role coaches — play in shaping a young person&#39;s life."
+      "title": "National Body Language Day",
+      "description": "This National Body Language Day, let’s try and understand each other even better."
     },
     {
-      "title": "National Depression Screening Day",
-      "description": "Roughly 40 million adults in the U.S. struggle with depression or anxiety."
+      "title": "National Coaches Day",
+      "description": "Let&#39;s not forget about the role coaches — play in shaping a young person&#39;s life."
     },
     {
       "title": "National Energy Geek Day",
