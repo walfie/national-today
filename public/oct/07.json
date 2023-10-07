@@ -3,24 +3,16 @@
   "day": 7,
   "holidays": [
     {
-      "title": "World Smile Day",
-      "description": "Let&#39;s see those pearly whites—it&#39;s World Smile Day!"
+      "title": "Albuquerque International Balloon Fiesta",
+      "description": null
+    },
+    {
+      "title": "Frugal Fun Day",
+      "description": "Frugal Fun Day is the day to have fun without going broke."
     },
     {
       "title": "International Day of Peaceful Communication",
       "description": "Can peaceful dialogues indeed put an end to long-standing conflicts? It’s time to find out."
-    },
-    {
-      "title": "Kids Music Day",
-      "description": "Strike some melodious notes with your kids while allowing them to soak themselves in music."
-    },
-    {
-      "title": "Manufacturing Day",
-      "description": "Read on for tips to participate in celebrating America&#39;s most exceptional minds and machines."
-    },
-    {
-      "title": "National Body Language Day",
-      "description": "This National Body Language Day, let’s try and understand each other even better."
     },
     {
       "title": "National Forgiveness &amp; Happiness Day",
@@ -41,6 +33,14 @@
     {
       "title": "National LED Light Day",
       "description": "LED lights are good for the world — and they make a space look super attractive."
+    },
+    {
+      "title": "Shemini Atzeret",
+      "description": "Shemini Atzeret is the postscript to the seven days of Sukkot."
+    },
+    {
+      "title": "World Card Making Day",
+      "description": "Get your craft knives and glue ready because we are celebrating a crafter’s perfect holiday."
     },
     {
       "title": "World Cotton Day",
@@ -103,10 +103,6 @@
       "description": "For this memorable reality T.V. star, success is just one episode away!"
     },
     {
-      "title": "Miya Houston’s Birthday",
-      "description": "We love her as a family superstar, not just as a model or a media icon."
-    },
-    {
       "title": "Mookie Betts’s Birthday",
       "description": "In the world of sports, he is considered one of the GOATs (Greatest Of All Time)."
     },
@@ -119,16 +115,8 @@
       "description": "Singer, songwriter, actress, musician, and more! There’s nothing this diva cannot do."
     },
     {
-      "title": "Tracy T’s Birthday",
-      "description": "This rapper is on his way to irrevocable fame and mainstream success."
-    },
-    {
       "title": "Trinity Trinity and Beyond’s Birthday",
       "description": "Trinity from Trinity and Beyond is a brilliant star whose becoming popular every day!"
-    },
-    {
-      "title": "Vladimir Putin’s Birthday",
-      "description": "Let&#39;s dive into what this world leader has done in his lifetime."
     }
   ]
 }
