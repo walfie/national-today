@@ -3,20 +3,28 @@
   "day": 9,
   "holidays": [
     {
-      "title": "National C60 Day",
-      "description": "Scientists, nutritionists, doctors, and the alternative health community love the powerful antioxidant properties of Carbon 60."
+      "title": "Indigenous Peoples&#39; Day",
+      "description": null
     },
     {
-      "title": "Sukkot",
-      "description": "A Jewish holiday also known as the Feast of Booths."
+      "title": "National C60 Day",
+      "description": "Scientists, nutritionists, doctors, and the alternative health community love the powerful antioxidant properties of Carbon 60."
     },
     {
       "title": "World Post Day",
       "description": "Throw back to communication methods of the past with some good old-fashioned letters."
     },
     {
+      "title": "Columbus Day",
+      "description": "&#34;In fourteen hundred ninety-two, Columbus sailed the ocean blue.&#34;"
+    },
+    {
       "title": "CURIOUS EVENTS DAY",
       "description": "It&#39;s the day to wonder about everything we’ve ever wondered about."
+    },
+    {
+      "title": "Health and Sports Day (Japan)",
+      "description": "Keep reading to learn the history of Sports Day and what activities to take part in."
     },
     {
       "title": "Independence of Guayaquil",
@@ -27,24 +35,52 @@
       "description": "We take you on an informative adventure of one of the greatest food pairings in history."
     },
     {
+      "title": "International: Day of respect for cultural diversity",
+      "description": "Make the celebration more inclusive and festive by calling it the International Day of Respect for Cultural Diversity."
+    },
+    {
+      "title": "Lao: Boat Racing Festival",
+      "description": "Participate in the most thrilling boat festivals in Vientiane, Laos, during the Boat Racing Festival!"
+    },
+    {
       "title": "Leif Erikson Day",
       "description": "We remember the explorer credited with bringing the first Nordic people to America."
+    },
+    {
+      "title": "Lotu a Tamaiti Holiday",
+      "description": "On this holiday, let’s join the Samoan Islanders in acknowledging, celebrating, and honoring childhood!"
     },
     {
       "title": "National Digitool Day",
       "description": "Celebrate the day by participating in ballooning events and make sure you install the DBI3 model."
     },
     {
+      "title": "National Heritage Day in Turks and Caicos",
+      "description": "Let’s join the Islanders in Turks and Caicos to celebrate this important day in their history!"
+    },
+    {
+      "title": "National Heroes&#39; Day of Bahamas",
+      "description": "Get ready to celebrate this beautiful day in the Bahamas this National Heroes’ Day."
+    },
+    {
+      "title": "National Kick Butt Day",
+      "description": "Is there a bad habit you wanted to kick in the butt?"
+    },
+    {
       "title": "National Moldy Cheese Day",
       "description": "Get ready to treat yourself to some spectacular gastronomic delights."
     },
     {
-      "title": "National Pro-Life Cupcake Day",
-      "description": "This day was initiated by Cupcakes for Life to raise awareness about abortion."
+      "title": "National Native American Day",
+      "description": "Celebrate National Native American Day as it serves as a reminder of their ongoing legacy of courage."
     },
     {
-      "title": "Pastor Appreciation Day",
-      "description": "On this day, devotees come together to express gratitude to pastors and other staff of the church."
+      "title": "National Online Bank Day",
+      "description": "Do you remember the last time you visited a bank? Neither do we, thanks to online banking."
+    },
+    {
+      "title": "National Pro-Life Cupcake Day",
+      "description": "This day was initiated by Cupcakes for Life to raise awareness about abortion."
     },
     {
       "title": "Saint Barthélemy: Abolition Day",
@@ -57,22 +93,6 @@
     {
       "title": "Uganda Independence Day",
       "description": "Explore the exciting details about Uganda Independence Day and its significance to the nation’s citizens."
-    },
-    {
-      "title": "Valmiki Jayanti",
-      "description": "Soak yourself in devotion while celebrating the birth of the great sage Valmiki."
-    },
-    {
-      "title": "Vap Full Moon Poya",
-      "description": "Vap Full Moon Poya honors the Buddhist fasting month’s completion and Buddha’s sermon in Tavatimsa."
-    },
-    {
-      "title": "White Sunday",
-      "description": "Discover the essence of White Sunday and why it&#39;s an increasingly popular holiday in the Americas."
-    },
-    {
-      "title": "World Hospice and Palliative Care Day",
-      "description": "It started as a single concert titled &#34;Come and Sing&#34; and become a worldwide event."
     },
     {
       "title": "Bella Hadid’s Birthday",
