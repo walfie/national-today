@@ -3,20 +3,12 @@
   "day": 10,
   "holidays": [
     {
-      "title": "Indigenous Peoples&#39; Day",
-      "description": "Native American people are honored and celebrated on Indigenous Peoples’ Day."
-    },
-    {
       "title": "World Mental Health Day",
-      "description": "As our understanding of mental health grows, we grow along with it."
+      "description": null
     },
     {
-      "title": "Bonza Bottler Day",
-      "description": "With Bonza Bottler Day every month, there&#39;s always a reason to celebrate!"
-    },
-    {
-      "title": "Columbus Day",
-      "description": "&#34;In fourteen hundred ninety-two, Columbus sailed the ocean blue.&#34;"
+      "title": "ADA Lovelace Day",
+      "description": "Ada Lovelace Day highlights the achievements of women in science, technology, engineering, and mathematics."
     },
     {
       "title": "Cuba Independence Day",
@@ -31,10 +23,6 @@
       "description": "Immerse yourself in the history and culture of Fiji on this day."
     },
     {
-      "title": "Health and Sports Day (Japan)",
-      "description": "Keep reading to learn the history of Sports Day and what activities to take part in."
-    },
-    {
       "title": "Huduma Day",
       "description": "Formerly known as Moi Day, discover why Huduma Day is a special Kenyan holiday."
     },
@@ -43,20 +31,8 @@
       "description": "Grab a seat while we appreciate the people who rule backstage."
     },
     {
-      "title": "International: Day of respect for cultural diversity",
-      "description": "Make the celebration more inclusive and festive by calling it the International Day of Respect for Cultural Diversity."
-    },
-    {
-      "title": "Lao: End of Buddhist Lent Day",
-      "description": "Light candles and incense to bid farewell to the three-month-long Buddhist Lent."
-    },
-    {
       "title": "Local Government Day",
       "description": "Filipinos commemorate Local Government Day with parades and events for the 1991 enactment of the code."
-    },
-    {
-      "title": "Lotu a Tamaiti Holiday",
-      "description": "On this holiday, let’s join the Samoan Islanders in acknowledging, celebrating, and honoring childhood!"
     },
     {
       "title": "Maroons Day",
@@ -75,16 +51,12 @@
       "description": "With holiday dessert buffets coming up soon, now is the perfect time to practice your technique!"
     },
     {
+      "title": "NATIONAL FACE YOUR FEARS DAY",
+      "description": "It’s time to confront your fears and be bold."
+    },
+    {
       "title": "National Handbag Day",
       "description": "The handbag is an essential item for many women and even some men!"
-    },
-    {
-      "title": "National Heritage Day in Turks and Caicos",
-      "description": "Let’s join the Islanders in Turks and Caicos to celebrate this important day in their history!"
-    },
-    {
-      "title": "National Heroes&#39; Day of Bahamas",
-      "description": "Get ready to celebrate this beautiful day in the Bahamas this National Heroes’ Day."
     },
     {
       "title": "National Hug a Drummer Day",
@@ -93,18 +65,6 @@
     {
       "title": "National Hug a Kevin Day",
       "description": "If you are a Kevin, get ready to receive some premium hugs."
-    },
-    {
-      "title": "National Kick Butt Day",
-      "description": "Is there a bad habit you wanted to kick in the butt?"
-    },
-    {
-      "title": "National Native American Day",
-      "description": "Celebrate National Native American Day as it serves as a reminder of their ongoing legacy of courage."
-    },
-    {
-      "title": "National Online Bank Day",
-      "description": "Do you remember the last time you visited a bank? Neither do we, thanks to online banking."
     },
     {
       "title": "National Porter Day",
