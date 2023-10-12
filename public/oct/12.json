@@ -4,11 +4,7 @@
   "holidays": [
     {
       "title": "Farmers Day",
-      "description": "Take a moment to appreciate all the farmers who work tirelessly to feed us year round."
-    },
-    {
-      "title": "National Pet Obesity Day",
-      "description": "Pets come in all shapes and sizes, but sometimes sizes get a little out of hand."
+      "description": null
     },
     {
       "title": "Day of Respect For Cultural Diversity",
@@ -19,12 +15,12 @@
       "description": "A celebration of identity and cultures."
     },
     {
-      "title": "Emergency Nurses Day",
-      "description": "Honor the crucial roles emergency response (E.R.) nurses or trauma nurses play in the healthcare system."
-    },
-    {
       "title": "Equatorial Guinea Independence Day",
       "description": "Join us as we get ready to celebrate Equatorial Guinea Independence Day!"
+    },
+    {
+      "title": "Harry Potter Book Day",
+      "description": "Calling all witches, wizards, and muggles to celebrate this memorable day with us!"
     },
     {
       "title": "Indigenous Resistance Day",
@@ -33,10 +29,6 @@
     {
       "title": "Indigenous Resistance Day in Venezuela",
       "description": "Learn the origin of Indigenous Resistance Day in Venezuela and how to celebrate it."
-    },
-    {
-      "title": "International Top Spinning Day",
-      "description": "Did you know, this event was initiated by a museum in Burlington, Wisconsin?"
     },
     {
       "title": "Lady of Aparecida",
@@ -49,18 +41,6 @@
     {
       "title": "Mexico: Day of the Pluricultural Nation",
       "description": "The beauty of Mexico lies in its diversity and rich culture that came along with unity."
-    },
-    {
-      "title": "National Bring Your Teddy Bear to School Day",
-      "description": "Look for your teddy bear and bring them to wherever you study or work today."
-    },
-    {
-      "title": "National Curves Day",
-      "description": "Celebrate the day and your curves with confidence, regardless of your style!"
-    },
-    {
-      "title": "​National Fossil Day",
-      "description": "Show some appreciation for these incredible “time capsules” and the paleontologists who excavate them."
     },
     {
       "title": "National Freethought Day",
@@ -83,14 +63,6 @@
       "description": "There are lots of easier ways to save in order to bring your dreams within reach."
     },
     {
-      "title": "National Stop Bullying Day",
-      "description": "Bullying can come in many forms, and leave victims feeling helpless."
-    },
-    {
-      "title": "National Take Your Parents To Lunch Day",
-      "description": "Got parents? Take them to lunch. Got kids? Let them treat you to a school lunch."
-    },
-    {
       "title": "National Vermont Day",
       "description": "Explore the vast history, alluring mountains, and prolific culture of Vermont with your loved ones today."
     },
@@ -105,6 +77,10 @@
     {
       "title": "World Arthritis Day",
       "description": "It&#39;s time to raise awareness about the debilitating and widespread effects of arthritis."
+    },
+    {
+      "title": "World Sight Day",
+      "description": "Read on and get ready to see and appreciate the gift of sight!"
     },
     {
       "title": "Aleister Crowley’s Birthday",
@@ -153,10 +129,6 @@
     {
       "title": "Tahlia Christou’s Birthday",
       "description": "Join us as we celebrate this bikini model who also happens to be a weightlifter!"
-    },
-    {
-      "title": "Tokyo Toni’s Birthday",
-      "description": "Tokyo Toni effortlessly balances life as a reality T.V. star and businesswoman."
     },
     {
       "title": "Tyson Jenkins’s Birthday",
