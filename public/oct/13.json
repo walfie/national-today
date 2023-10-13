@@ -4,7 +4,11 @@
   "holidays": [
     {
       "title": "National No Bra Day",
-      "description": "Also known as: &#34;the moment we get home from work&#34; day."
+      "description": null
+    },
+    {
+      "title": "Ancestors&#39; Day",
+      "description": "It is Pchum Ben and time to feed the hungry ghosts of our ancestors."
     },
     {
       "title": "Disaster Day",
@@ -39,10 +43,6 @@
       "description": "Skepticism is good in moderation but, today, go ahead and question some of your beliefs."
     },
     {
-      "title": "Karva Chauth",
-      "description": "Prepare your hearts as we partake in a spiritual ceremony with benefits for all."
-    },
-    {
       "title": "Metastatic Breast Cancer Awareness Day",
       "description": "As part of Breast Cancer Awareness Month, we champion for scientific advances in ​Metastatic Breast Cancer."
     },
@@ -71,12 +71,20 @@
       "description": "Recognize the brave men and women who have served our country — past and present."
     },
     {
+      "title": "Pchum Ben",
+      "description": "Pchum Ben marks the start of the journey of souls to purgatory."
+    },
+    {
       "title": "Prince Louis Rwagasore Day",
       "description": "Here is some more information about the famous Prince Louis Rwagasore of Burundi."
     },
     {
-      "title": "World Sight Day",
-      "description": "Read on and get ready to see and appreciate the gift of sight!"
+      "title": "Vet Nurse Day",
+      "description": "Vet nurses play a huge part in keeping our furry companions healthy."
+    },
+    {
+      "title": "World Egg Day",
+      "description": "Ready your pans and plates as we celebrate the world’s most versatile and affordable food item."
     },
     {
       "title": "World Thrombosis Day",
