@@ -4,11 +4,19 @@
   "holidays": [
     {
       "title": "National Dessert Day",
-      "description": "&#34;Let them eat cake!&#34; This popular french saying holds true especially today."
+      "description": null
+    },
+    {
+      "title": "Bathukamma Starting Day",
+      "description": "Bathukamma is a day that honors the gods for the blessings they have bestowed upon us."
     },
     {
       "title": "Be Bald and Be Free Day",
       "description": "Get ready for a new style statement. Be bald and be free!"
+    },
+    {
+      "title": "Bookshop Day",
+      "description": "If you can read this, you can read a whole book — buy one today!"
     },
     {
       "title": "Chisinau City Day",
@@ -23,16 +31,40 @@
       "description": "Join us as we celebrate Ukraine’s defenders, history, and rich traditions."
     },
     {
+      "title": "I Love Yarn Day",
+      "description": "Yarn lovers, gather around and share your love. The world needs a little more yarn."
+    },
+    {
+      "title": "International African Penguin Awareness Day",
+      "description": "Get your flippers ready as we enter the world of one of nature’s most endearing birds."
+    },
+    {
       "title": "Liberation Day in Yemen",
       "description": "Today we celebrate Yemen’s freedom as a nation! Join us right here at National Today!"
+    },
+    {
+      "title": "Mahalaya",
+      "description": "West Bengal, Odisha, Karnataka, and Tripura, your time has come to celebrate Mahalaya."
     },
     {
       "title": "Mwalimu Nyerere Day",
       "description": "In 1962, Julius Nyerere became the first elected president of Tanganyika."
     },
     {
+      "title": "National Chess Day",
+      "description": "Mentally stimulate and challenge yourself by playing the timeless game of chess."
+    },
+    {
+      "title": "National Costume Swap Day",
+      "description": "Get ready to make heads turn as we pick out the best costumes for you."
+    },
+    {
       "title": "National I Love You Day",
       "description": "Make your loved ones smile and feel loved on National I Love You Day."
+    },
+    {
+      "title": "National Motorcycle Ride Day",
+      "description": "Gear up to go on a biking adventure of a lifetime."
     },
     {
       "title": "National Ryan Day",
@@ -43,12 +75,12 @@
       "description": "Happy National Veronica Day! Celebrate by getting an “Archie” comic just to spot Veronica."
     },
     {
-      "title": "Vet Nurse Day",
-      "description": "Vet nurses play a huge part in keeping our furry companions healthy."
+      "title": "Universal Music Day",
+      "description": "Join the symphony as we celebrate this day with music."
     },
     {
-      "title": "World Egg Day",
-      "description": "Ready your pans and plates as we celebrate the world’s most versatile and affordable food item."
+      "title": "World Hospice and Palliative Care Day",
+      "description": "It started as a single concert titled &#34;Come and Sing&#34; and become a worldwide event."
     },
     {
       "title": "World Standards Day",
