@@ -3,32 +3,16 @@
   "day": 15,
   "holidays": [
     {
-      "title": "National Fetch Day",
-      "description": "A chance to get out in the yard, get some exercise, and build some memories."
-    },
-    {
-      "title": "Sweetest Day",
-      "description": "It’s a day to give a card with a sweet message to someone you appreciate."
-    },
-    {
-      "title": "Bridge Day",
-      "description": "Join the other adrenaline-fueled daredevils at the New River Gorge Bridge on Bridge Day."
-    },
-    {
       "title": "Commemoration Day of King&#39;s Father",
-      "description": "From his birth in 1922 to his death in 2012, King Norodom Sihanouk lived an interesting life."
+      "description": null
+    },
+    {
+      "title": "Dashain",
+      "description": "Let us celebrate this time of year when families come together and extend kindness to others."
     },
     {
       "title": "Global Handwashing Day",
       "description": "It&#39;s simple: Wash your hands, save lives."
-    },
-    {
-      "title": "Hoshana Rabbah",
-      "description": "The Jewish holiday&#39;s roots are in celebration of thanksgiving for a bountiful harvest."
-    },
-    {
-      "title": "International African Penguin Awareness Day",
-      "description": "Get your flippers ready as we enter the world of one of nature’s most endearing birds."
     },
     {
       "title": "International Day of Rural Women",
@@ -39,8 +23,20 @@
       "description": "Immerse yourself in the rich culture of India by attending the Kullu Dussehra in Himachal Pradesh."
     },
     {
+      "title": "Maharaja Agrasen Jayanti",
+      "description": "This Maharaja Agrasen Jayanti, follow in the king’s footsteps and participate in social welfare activities."
+    },
+    {
+      "title": "Mera Chaoren Houba",
+      "description": "Mera Chaoren Houba is observed according to the Manipuri lunar calendar, a region in northeast India."
+    },
+    {
       "title": "Mother&#39;s Day in Malawi",
       "description": "Mothers are selfless, strong, and beautiful. They deserve to be honored and celebrated."
+    },
+    {
+      "title": "Mysore Dasara",
+      "description": "A celebration where divine fervor meets royal splendor!"
     },
     {
       "title": "National Aesthetician Day",
@@ -49,10 +45,6 @@
     {
       "title": "National Cheese Curd Day",
       "description": "If you’re a total cheese head, then get excited to celebrate National Cheese Curd."
-    },
-    {
-      "title": "National Costume Swap Day",
-      "description": "Get ready to make heads turn as we pick out the best costumes for you."
     },
     {
       "title": "National Grouch Day",
@@ -75,10 +67,6 @@
       "description": "We&#39;re traveling back in time to learn about the sweet history of lemon bars."
     },
     {
-      "title": "National Motorcycle Ride Day",
-      "description": "Gear up to go on a biking adventure of a lifetime."
-    },
-    {
       "title": "National Mushroom Day",
       "description": "Portobello, shiitake, button, truffle — we’re talking mushrooms here."
     },
@@ -95,16 +83,20 @@
       "description": "On National Roast Pheasant Day, learn about one of the most popular U.K. birds."
     },
     {
+      "title": "Navratri",
+      "description": "Sharada Navrati is an autumnal Hindu holiday, held in honor of the divine feminine: &#34;Devi.&#34;"
+    },
+    {
       "title": "Shine a Light Night",
       "description": "On Shine a Light Night, people spend a night outside to show compassion for the homeless."
     },
     {
-      "title": "Tunisia: Evacuation Day",
-      "description": "This day marks the departure of the last French soldiers from Bizerte in Tunisia."
+      "title": "Sunday School Teacher Appreciation Day",
+      "description": "Celebrate regular people who decide to dedicate their time to teach kids about their faith."
     },
     {
-      "title": "Universal Music Day",
-      "description": "Join the symphony as we celebrate this day with music."
+      "title": "Tunisia: Evacuation Day",
+      "description": "This day marks the departure of the last French soldiers from Bizerte in Tunisia."
     },
     {
       "title": "White Cane Safety Day",
@@ -113,6 +105,10 @@
     {
       "title": "World Students’ Day",
       "description": "World Students&#39; Day is a time to pay tribute to A.P.J. Abdul Kalam, the &#34;People&#39;s President.&#34;"
+    },
+    {
+      "title": "World Toy Camera Day",
+      "description": "Get ready to click away as we celebrate the simplest type of camera in the world."
     },
     {
       "title": "Abdul Kalam’s Birthday",
