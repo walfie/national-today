@@ -4,23 +4,27 @@
   "holidays": [
     {
       "title": "National Feral Cat Day",
-      "description": "Start practicing your alley cat strut and get your feline friends together."
+      "description": null
     },
     {
       "title": "World Food Day",
       "description": "Where would we be without food? We certainly wouldn’t be at Starbucks, grocery stores or restaurants."
     },
     {
+      "title": "Day of the Races",
+      "description": "Day of the Race is a significant holiday, despite some resistance in the indigenous community."
+    },
+    {
       "title": "Dictionary Day",
       "description": "Webster was a true pioneer for creating the reference book we use so ubiquitously!"
     },
     {
-      "title": "Ethnicity day",
-      "description": "Celebrate Ethnicity Day by learning about the different ethnic groups in Estonia."
-    },
-    {
       "title": "Global Cat Day",
       "description": "Educating, engaging, and empowering people to defend and protect cats is the right thing to do."
+    },
+    {
+      "title": "Heroes and Forefathers Day",
+      "description": "Creating a more British Virgin Islands-focused holiday honors the territory’s rich past."
     },
     {
       "title": "National Boss&#39;s Day",
@@ -39,6 +43,10 @@
       "description": "National Elaine Day is here! Ready to celebrate what makes you unique? Let’s go!"
     },
     {
+      "title": "National Heroes&#39; Day of Jamaica",
+      "description": "Jamaica has seven great heroes that are remembered and cherished even today."
+    },
+    {
       "title": "​National Liqueur Day",
       "description": "Liqueurs are basically alcoholic beverages made from distilled spirits — with lots of added flavors."
     },
@@ -51,20 +59,12 @@
       "description": "Treat veterans around you with a smoking barbeque cookout and drinks on this day."
     },
     {
-      "title": "Sunday School Teacher Appreciation Day",
-      "description": "Celebrate regular people who decide to dedicate their time to teach kids about their faith."
-    },
-    {
       "title": "World Allergy Awareness Day",
       "description": "Discover all the ways to eliminate, and not exacerbate your allergies."
     },
     {
       "title": "World Spine Day",
       "description": "When your spine hurts, everything hurts. Here’s why World Spine Day is so important!"
-    },
-    {
-      "title": "World Toy Camera Day",
-      "description": "Get ready to click away as we celebrate the simplest type of camera in the world."
     },
     {
       "title": "Aliya Janell’s Birthday",
