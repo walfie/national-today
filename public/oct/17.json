@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Clean Your Virtual Desktop Day",
-      "description": "There are 365 days in a year, yet we neglect the condition of our computers."
+      "description": null
     },
     {
       "title": "National Pasta Day",
@@ -23,16 +23,8 @@
       "description": "Let’s get ready to celebrate the Day of Dignity, a solemn affair for Bolivians."
     },
     {
-      "title": "Day of the Races",
-      "description": "Day of the Race is a significant holiday, despite some resistance in the indigenous community."
-    },
-    {
       "title": "Dessalines Day",
       "description": "Jean-Jacques Dessalines was both a champion of freedom and a strict autocrat."
-    },
-    {
-      "title": "Heroes and Forefathers Day",
-      "description": "Creating a more British Virgin Islands-focused holiday honors the territory’s rich past."
     },
     {
       "title": "International Day for the Eradication of Poverty",
@@ -47,10 +39,6 @@
       "description": "The straight edge lifestyle means refraining from alcohol, drugs, and tobacco."
     },
     {
-      "title": "National Heroes&#39; Day of Jamaica",
-      "description": "Jamaica has seven great heroes that are remembered and cherished even today."
-    },
-    {
       "title": "National Mulligan Day",
       "description": "If at first you don’t succeed, you’ll get another crack at it."
     },
@@ -59,8 +47,12 @@
       "description": "Pull up your mobile payment apps, and start paying your (ex) friends back."
     },
     {
-      "title": "Shemini Atzeret",
-      "description": "Shemini Atzeret is the postscript to the seven days of Sukkot."
+      "title": "National Pharmacy Technician Day",
+      "description": "We celebrate the women and men behind the counter."
+    },
+    {
+      "title": "Pro-Life Day of Silent Solidarity",
+      "description": "Observe this solemn day by standing in solidarity with the unheard voices."
     },
     {
       "title": "Wear Something Gaudy Day",
