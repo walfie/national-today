@@ -4,11 +4,19 @@
   "holidays": [
     {
       "title": "National Chocolate Cupcake Day",
-      "description": "A day when office break rooms fill with joy only brought by chocolate cupcakes."
+      "description": null
+    },
+    {
+      "title": "Day of Unity",
+      "description": "This is the signature event of National Bullying Prevention Month."
     },
     {
       "title": "Flora Duffy Day",
       "description": "Today we join Bermuda in celebrating Flora Duffy and her Olympic achievements."
+    },
+    {
+      "title": "Hagfish Day",
+      "description": "Today, we learn that, although not cuties, these creatures play an important role in nature."
     },
     {
       "title": "Health Care Aide Day",
@@ -21,6 +29,10 @@
     {
       "title": "National Alaska Day",
       "description": "Alaska is the largest state to join the U.S. and it is its last frontier, too."
+    },
+    {
+      "title": "National BRA Day",
+      "description": "Together, let’s honor the strong women fighting breast cancer and help them make informed decisions."
     },
     {
       "title": "National Ken Day",
@@ -39,16 +51,16 @@
       "description": "The potato is so awesome that an entire day is dedicated to celebrating it!"
     },
     {
+      "title": "National Medical Assistants Day",
+      "description": "A great time to explore this important, fast-growing career."
+    },
+    {
       "title": "National Necktie Day",
       "description": "Put on a necktie and prepare to celebrate this special day in style!"
     },
     {
       "title": "National No Beard Day",
       "description": "Going clean shaven could give you a totally new outlook on life!"
-    },
-    {
-      "title": "National Pharmacy Technician Day",
-      "description": "We celebrate the women and men behind the counter."
     },
     {
       "title": "National Prayer Day",
@@ -67,12 +79,12 @@
       "description": "If you or anyone you know is called Zane, now is your day to shine!"
     },
     {
-      "title": "Pro-Life Day of Silent Solidarity",
-      "description": "Observe this solemn day by standing in solidarity with the unheard voices."
+      "title": "Ride To Work Day",
+      "description": "Prepare your bicycles and helmets for a ride to work to help you get in shape!"
     },
     {
-      "title": "Simchat Torah",
-      "description": "On Simchat Torah, Jewish communities celebrate the gift of the Torah."
+      "title": "Support Your Local Chamber of Commerce Day",
+      "description": "Don’t forget to thank your local chambers of commerce for their contribution to sustaining the economy!"
     },
     {
       "title": "World Menopause Day",
@@ -85,10 +97,6 @@
     {
       "title": "Chuck Berry’s Birthday",
       "description": "We celebrate the lasting legacy created by the “Father of Rock ‘n’ Roll,” Chuck Berry."
-    },
-    {
-      "title": "Crystal Hayslett’s Birthday",
-      "description": "Hayslett embodies the concept of a multi-hyphenate talent and we love to see her growth."
     },
     {
       "title": "Dawn Wells’s Birthday",
