@@ -3,36 +3,32 @@
   "day": 19,
   "holidays": [
     {
+      "title": "International Credit Union Day",
+      "description": null
+    },
+    {
       "title": "National New Friends Day",
       "description": "Make room for new connections in your life, and celebrate friendship everywhere you go."
     },
     {
-      "title": "Day of Unity",
-      "description": "This is the signature event of National Bullying Prevention Month."
+      "title": "Conflict Resolution Day",
+      "description": "Join the world to observe a day that promotes peaceful conflict resolution."
     },
     {
       "title": "Evaluate Your Life Day",
       "description": "This day encourages us to reflect on our lives to become better versions of ourselves."
     },
     {
-      "title": "Geelong Cup Day",
-      "description": "The day of the running of the Geelong Cup — a Group 3 thoroughbred horse race."
-    },
-    {
-      "title": "Hagfish Day",
-      "description": "Today, we learn that, although not cuties, these creatures play an important role in nature."
+      "title": "International ShakeOut Day",
+      "description": "We all know how scary it can be when a tremor comes out of nowhere."
     },
     {
       "title": "LGBT Center Awareness Day",
       "description": "Get ready to learn about the importance of L.G.B.T.Q centers in your community!"
     },
     {
-      "title": "National BRA Day",
-      "description": "Together, let’s honor the strong women fighting breast cancer and help them make informed decisions."
-    },
-    {
-      "title": "National Council Hill Day",
-      "description": "Healthcare advocates can directly request funds for mental health programs from their policymakers."
+      "title": "National Get Smart About Credit Day",
+      "description": "Join us as we talk about credit, channel our inner Steve Carell, and get smart!"
     },
     {
       "title": "National Jared Day",
@@ -43,20 +39,12 @@
       "description": "Kentucky is all about horses, food, coal, culture, and astounding historic landmarks."
     },
     {
-      "title": "National Medical Assistants Day",
-      "description": "A great time to explore this important, fast-growing career."
-    },
-    {
       "title": "National Seafood Bisque Day",
       "description": "Get out your spoon as we dig into all the fun facts about this special day."
     },
     {
-      "title": "Ride To Work Day",
-      "description": "Prepare your bicycles and helmets for a ride to work to help you get in shape!"
-    },
-    {
-      "title": "Support Your Local Chamber of Commerce Day",
-      "description": "Don’t forget to thank your local chambers of commerce for their contribution to sustaining the economy!"
+      "title": "Spirit Day",
+      "description": "Show your acceptance and love for the people of this bullied community."
     },
     {
       "title": "World Humanitarian Action Day",
