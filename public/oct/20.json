@@ -3,16 +3,12 @@
   "day": 20,
   "holidays": [
     {
-      "title": "International Credit Union Day",
-      "description": "Join a credit union that helps people like you achieve their dreams in the best way possible!"
-    },
-    {
       "title": "World Osteoporosis Day",
-      "description": "Bone health is important at any age, so it’s important to spread the word."
+      "description": null
     },
     {
-      "title": "Conflict Resolution Day",
-      "description": "Join the world to observe a day that promotes peaceful conflict resolution."
+      "title": "Hawke&#39;s Bay Anniversary Day",
+      "description": "It marks the date when Hawke&#39;s Bay was separated from Auckland Province on November 1, 1858."
     },
     {
       "title": "Information Overload Day",
@@ -21,14 +17,6 @@
     {
       "title": "International Chefs Day",
       "description": "This day celebrates chefs and spreads awareness about eating healthy."
-    },
-    {
-      "title": "International ShakeOut Day",
-      "description": "We all know how scary it can be when a tremor comes out of nowhere."
-    },
-    {
-      "title": "International Sloth Day",
-      "description": "Although sloths look like some kind of furry bear, their closest relatives are anteaters and armadillos."
     },
     {
       "title": "Kenya: Mashujaa Day",
@@ -47,16 +35,16 @@
       "description": "Nothing’s quite as scary as staring at a blank page, but you can do it!"
     },
     {
-      "title": "National Get Smart About Credit Day",
-      "description": "Join us as we talk about credit, channel our inner Steve Carell, and get smart!"
-    },
-    {
       "title": "National Jeff Day",
       "description": "Happy National Jeff Day! The day is full of endless possibilities, so seize them all."
     },
     {
       "title": "National Lane Day",
       "description": "To all the Lanes of the world, be happy! Today is your day!"
+    },
+    {
+      "title": "National Mammography Day",
+      "description": "Early detection means early treatment and the difference between life and death."
     },
     {
       "title": "National Youth Confidence Day",
@@ -71,8 +59,8 @@
       "description": "Read all about how Revolution Day continues to inspire and transform Guatemala today."
     },
     {
-      "title": "Spirit Day",
-      "description": "Show your acceptance and love for the people of this bullied community."
+      "title": "Sŵn Festival",
+      "description": "Let us celebrate this year&#39;s Sŵn Festival with amazing music, fun, and activities."
     },
     {
       "title": "Talent Transformation Day",
