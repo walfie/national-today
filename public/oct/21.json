@@ -4,7 +4,15 @@
   "holidays": [
     {
       "title": "National Apple Day",
-      "description": "Celebrate all things apple: apple pie, apple sauce, apple crisp… we could go on!"
+      "description": null
+    },
+    {
+      "title": "National Fetch Day",
+      "description": "A chance to get out in the yard, get some exercise, and build some memories."
+    },
+    {
+      "title": "Sweetest Day",
+      "description": "It’s a day to give a card with a sweet message to someone you appreciate."
     },
     {
       "title": "American Frog Day",
@@ -19,12 +27,20 @@
       "description": "Throw on your Nikes, pop in a VHS and rev up your DeLorean."
     },
     {
+      "title": "Bridge Day",
+      "description": "Join the other adrenaline-fueled daredevils at the New River Gorge Bridge on Bridge Day."
+    },
+    {
       "title": "Celebration of the Mind Day",
       "description": "Gear up for a day full of logic, learning, and fun — even with numbers involved!"
     },
     {
       "title": "Count Your Buttons Day",
       "description": "A fun day to celebrate this useful innovation that has made our clothes and lives beautiful."
+    },
+    {
+      "title": "Ethnicity day",
+      "description": "Celebrate Ethnicity Day by learning about the different ethnic groups in Estonia."
     },
     {
       "title": "Everyone Writes Day",
@@ -35,20 +51,24 @@
       "description": "The day raises awareness about the importance of iodine and the disorders it prevents."
     },
     {
-      "title": "Hawke&#39;s Bay Anniversary Day",
-      "description": "It marks the date when Hawke&#39;s Bay was separated from Auckland Province on November 1, 1858."
-    },
-    {
       "title": "Honduran Army Day",
       "description": "An important symbol of Honduran unity is celebrated on this day. Join us in commemorating it!"
     },
     {
-      "title": "International Day of the Nacho",
-      "description": "You get permission to eat America’s favorite Tex-Mex treats for a full 24 hours!"
+      "title": "International Raw Milk Cheese Appreciation Day",
+      "description": "Nibbling on cheese helps your gut rather than your waistline, which is worth celebrating."
+    },
+    {
+      "title": "International Sloth Day",
+      "description": "Although sloths look like some kind of furry bear, their closest relatives are anteaters and armadillos."
     },
     {
       "title": "Loud Shirt Day",
       "description": "Let’s all make some noise and get loud for Loud Shirt Day right!"
+    },
+    {
+      "title": "Maha Saptami",
+      "description": "An intriguing and religious festival dedicated to a goddess celebrated in India."
     },
     {
       "title": "National Alexander Day",
@@ -65,10 +85,6 @@
     {
       "title": "National Jameson Day",
       "description": "All James and Jamesons are honored on this day for being the greatest versions of themselves."
-    },
-    {
-      "title": "National Mammography Day",
-      "description": "Early detection means early treatment and the difference between life and death."
     },
     {
       "title": "National Pets for Veterans Day",
@@ -91,16 +107,16 @@
       "description": "The squeamish and admirers alike appreciate the role these creatures play in our ecosystem."
     },
     {
+      "title": "Nepal: Phulpati",
+      "description": "The word ‘Phul’ is Hindi for ‘flower,’ and ‘pati’ translates to ‘petal.’"
+    },
+    {
       "title": "Police Commemoration Day",
       "description": "Let us all come together to raise our hands and salute those who have served."
     },
     {
       "title": "President Ndadaye&#39;s Day",
       "description": "Join us in honoring an unsung African hero who stood for the truth of democracy."
-    },
-    {
-      "title": "Sŵn Festival",
-      "description": "Let us celebrate this year&#39;s Sŵn Festival with amazing music, fun, and activities."
     },
     {
       "title": "Trafalgar Day",
