@@ -4,23 +4,23 @@
   "holidays": [
     {
       "title": "National Nut Day",
-      "description": "Whether you crack &#39;em, peel &#39;em, or buy &#39;em, this is your day for nutty fun!"
+      "description": null
+    },
+    {
+      "title": "Durga Ashtami",
+      "description": "People gather on this day to perform &#39;garba&#39; and wear colorful costumes to honor Durga Ashtami."
     },
     {
       "title": "International Caps Lock Day",
       "description": "Push the Caps Lock key down and give somebody a shout out."
     },
     {
-      "title": "International Stammering Awareness Day",
-      "description": "Today is International Stammering Awareness Day, intending to dispel preconceptions about people who stutter."
-    },
-    {
       "title": "International Stuttering Awareness Day",
       "description": "International Stuttering Awareness Day shines a spotlight on stutterers and educates others about the causes."
     },
     {
-      "title": "Make a Difference Day",
-      "description": "Your time and effort can go a long way towards making a big difference!"
+      "title": "Masskara Festival",
+      "description": "Join the annual and colorful MassKara Festival! Have fun partying on the streets of Bacolod, Philippines."
     },
     {
       "title": "National Anna Day",
@@ -47,8 +47,24 @@
       "description": "What makes dogs the best pets in the world? Let us find out."
     },
     {
+      "title": "National Mother-in-Law Day",
+      "description": "These “second moms” are always there to help, contribute, and, sometimes, lovingly criticize."
+    },
+    {
       "title": "National Scar Appreciation Day",
       "description": "Let us find out how we can heal a scar and move on with life."
+    },
+    {
+      "title": "National Tight Ends Day",
+      "description": "America honors one of the game&#39;s most important yet unappreciated positions, the tight end."
+    },
+    {
+      "title": "Nepal: Maha Ashtami",
+      "description": "Honor Goddess Durga and celebrate the triumph of good against evil on this Maha Ashtami."
+    },
+    {
+      "title": "Newport Wales Marathon",
+      "description": "Get ready to explore the Newport Wales Marathon — held at one of the U.K&#39;s flattest tracks."
     },
     {
       "title": "Smart is Cool Day",
