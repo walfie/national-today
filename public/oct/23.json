@@ -4,27 +4,39 @@
   "holidays": [
     {
       "title": "Slap Your Annoying Coworker Day",
-      "description": "If someone at work is bugging you, don&#39;t be shy — take advantage."
+      "description": null
+    },
+    {
+      "title": "Ayudha Puja",
+      "description": "Celebrate Ayudha Puja and explore the fascinating mythology behind this unique Indian festival."
+    },
+    {
+      "title": "Chulalongkorn Day / Piyamararaj Day",
+      "description": "Are you wondering who King Chulalongkorn is and why this day is important? Let’s find out."
     },
     {
       "title": "Hungarian Republic Day",
       "description": "Learn about the 1956 Hungarian Revolution that led to the creation of the Republic of Hungary."
     },
     {
-      "title": "Hungary Republic Day",
-      "description": "Grab a seat as we inform you about Hungary’s national holiday, Hungary Republic Day!"
-    },
-    {
       "title": "International Swallows Depart from San Juan Capistrano Day",
       "description": "Let us witness and admire the beauty of thousands of swallows taking to the sky."
+    },
+    {
+      "title": "International: Chung Yeung Festival",
+      "description": "During Chung Yeung, we celebrate family by spending time with loved ones and remembering the lost."
     },
     {
       "title": "Libya Liberation Day",
       "description": "Learn how to honor the Libyan people and their struggle for freedom from Muammar Gaddafi&#39;s regime."
     },
     {
-      "title": "Masskara Festival",
-      "description": "Join the annual and colorful MassKara Festival! Have fun partying on the streets of Bacolod, Philippines."
+      "title": "Maha Navami",
+      "description": "Get ready to light ‘diyas’ (lamps), learn about Hindu myths, and try delicious Indian sweets."
+    },
+    {
+      "title": "Mahanavami",
+      "description": "We celebrate this nine-day holiday with tremendous zeal and appreciation, particularly in North and West India."
     },
     {
       "title": "National Boston Cream Pie Day",
@@ -43,24 +55,20 @@
       "description": "It’s a basic chemistry algorithm, and not about those funny looking creatures called moles."
     },
     {
-      "title": "National Mother-in-Law Day",
-      "description": "These “second moms” are always there to help, contribute, and, sometimes, lovingly criticize."
-    },
-    {
-      "title": "National One United Race Day",
-      "description": "See what you can do to support National One United Race Day."
-    },
-    {
       "title": "National Paralegal Day",
       "description": "Attorneys depend greatly on these men and women to get things right."
     },
     {
-      "title": "National Tight Ends Day",
-      "description": "America honors one of the game&#39;s most important yet unappreciated positions, the tight end."
+      "title": "Navami of Durga Puja",
+      "description": "Let’s see how Navami is celebrated on the ninth day of this holiday."
     },
     {
-      "title": "Newport Wales Marathon",
-      "description": "Get ready to explore the Newport Wales Marathon — held at one of the U.K&#39;s flattest tracks."
+      "title": "Nepal: Maha Navami",
+      "description": "Let’s get to know more about Maha Navami, where people rejoice in goddess Durga’s victory."
+    },
+    {
+      "title": "New Zealand Labour Day",
+      "description": "The rights laborers have today were obtained after a long struggle against exploitative corporations."
     },
     {
       "title": "T.V. Talk Show Host Day",
