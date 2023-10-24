@@ -3,32 +3,16 @@
   "day": 24,
   "holidays": [
     {
-      "title": "Chulalongkorn Day / Piyamararaj Day",
-      "description": "Are you wondering who King Chulalongkorn is and why this day is important? Let’s find out."
-    },
-    {
-      "title": "Deepavali",
-      "description": "Let the light bless our homes and hearts on the auspicious day of Deepavali."
+      "title": "My Best Winter Skin Day",
+      "description": null
     },
     {
       "title": "Disarmament Week",
       "description": "If world peace is your mantra or the idea appeals, be a part of the movement."
     },
     {
-      "title": "Diwali",
-      "description": "Lasting over five days, the holiday is celebrated by millions of Hindus, Jains and Sikhs worldwide."
-    },
-    {
-      "title": "Kali Puja",
-      "description": "Settle in for a transformative journey into the world of the goddess Kali."
-    },
-    {
-      "title": "Lakshmi Puja",
-      "description": "Chant Lakshmi&#39;s mantras to manifest abundance and prosperity in your life!"
-    },
-    {
-      "title": "Naraka Chaturdashi",
-      "description": "Indians celebrate the second day of the five-day-long Diwali festival."
+      "title": "Janmostav of Srimatna Sankardev",
+      "description": "Honor the legacy and spirit of the founder of Assamese culture and be inspired."
     },
     {
       "title": "National Bologna Day",
@@ -55,12 +39,12 @@
       "description": "Get informed about U.T.I. symptoms in the elderly with our great information on this day."
     },
     {
-      "title": "New Zealand Labour Day",
-      "description": "The rights laborers have today were obtained after a long struggle against exploitative corporations."
-    },
-    {
       "title": "United Nations Day",
       "description": "We celebrate the anniversary of the UN Charter of 1945."
+    },
+    {
+      "title": "Vijayadashami",
+      "description": "Vijaydashmi, or Dusshera is the 10th and the last day of Durga Puja."
     },
     {
       "title": "World Development Information Day",
