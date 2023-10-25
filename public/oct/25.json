@@ -4,19 +4,23 @@
   "holidays": [
     {
       "title": "World Pasta Day",
-      "description": "Carb lovers of the world, behold; it&#39;s World Pasta Day."
+      "description": null
     },
     {
       "title": "Anniversary of Philippine Military Academy",
       "description": "Get informed about the military academy in the Philippines with our great article on this day."
     },
     {
+      "title": "Geelong Cup Day",
+      "description": "The day of the running of the Geelong Cup — a Group 3 thoroughbred horse race."
+    },
+    {
       "title": "International Artist Day",
       "description": "Art as a creative human expression encapsulates myriad things."
     },
     {
-      "title": "Laxmi Puja",
-      "description": "Let’s celebrate this auspicious Hindawi festival, which is a celebration of fortune and luxury."
+      "title": "Lung Health Day",
+      "description": "Breathe in, breathe out, and learn about the numerous ways to keep your lungs healthy."
     },
     {
       "title": "National Chucky The Notorious Killer Doll Day",
@@ -81,6 +85,10 @@
     {
       "title": "Lynn Toler’s Birthday",
       "description": "We celebrate Lynn Toler, the former arbitrator of the longest-running courtroom television series, “Divorce Court.”"
+    },
+    {
+      "title": "Mia Goth’s Birthday",
+      "description": "Mia Goth started her career as a model when she was discovered by a fashion photographer!"
     },
     {
       "title": "Pablo Picasso’s Birthday",
