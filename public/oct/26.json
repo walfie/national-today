@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Pumpkin Day",
-      "description": "Pumpkins are so much more than just a fun holiday accessory."
+      "description": null
     },
     {
       "title": "Accession Day",
@@ -13,10 +13,6 @@
     {
       "title": "Austrian National Day",
       "description": "Learn why Austrian National Day is celebrated and how the Austrians commemorate this day."
-    },
-    {
-      "title": "Lung Health Day",
-      "description": "Breathe in, breathe out, and learn about the numerous ways to keep your lungs healthy."
     },
     {
       "title": "National Chicken Fried Steak Day",
