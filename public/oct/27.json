@@ -4,15 +4,31 @@
   "holidays": [
     {
       "title": "National American Beer Day",
-      "description": "National American Beer Day celebrates distinctly domestic lagers and ales brewed across the country."
+      "description": null
     },
     {
       "title": "National Black Cat Day",
       "description": "Black cats need some positive PR to dispel their reputation as an omen of bad luck."
     },
     {
+      "title": "Bandana Day",
+      "description": "Discover interesting ways to observe Bandana Day and offer much-needed support to people with cancer."
+    },
+    {
       "title": "Cranky Co-Workers Day",
       "description": "Let&#39;s put on that fashionable frown and be irritable for a whole workday."
+    },
+    {
+      "title": "Frankenstein Friday",
+      "description": "Mary Shelley&#39;s creation spawned an entire genre, countless movie adaptations, and widespread recognition."
+    },
+    {
+      "title": "Global Champagne Day",
+      "description": "Find out the history of champagne and how to celebrate this day with our help!"
+    },
+    {
+      "title": "National Breadstick Day",
+      "description": "Breadsticks are slender sticks of baked crispy dry goodness invented in Italy."
     },
     {
       "title": "National Henry C. Ramos Day",
@@ -23,20 +39,28 @@
       "description": "The perfect time to think of a mentor that shaped you into who you are today."
     },
     {
+      "title": "National Pharmacy Buyer Day",
+      "description": "We have some ideas on how to show love to those who source our meds."
+    },
+    {
       "title": "Navy Day",
       "description": "We celebrate members of the naval warfare branch of the U.S. military."
+    },
+    {
+      "title": "Nevada Day",
+      "description": "Explore the Battle Born State today in celebration of Nevada Day."
     },
     {
       "title": "Saint Vincent and the Grenadines Independence Day",
       "description": "Give the Vincentian Caribs a salute for their resilience and celebrate their well-deserved freedom today."
     },
     {
-      "title": "Turkmenistan Independence Day",
-      "description": "Join us as we celebrate this magnificent occasion. It’s Turkmenistan Independence Day."
-    },
-    {
       "title": "World Day for Audiovisual Heritage",
       "description": "Let’s come together to archive audiovisual sources for our future generations’ benefit."
+    },
+    {
+      "title": "World Lemur Day",
+      "description": "Join us as we celebrate lemurs and their place in the global ecosystem this World Lemur Day!"
     },
     {
       "title": "Claudia Sampedro’s Birthday",
