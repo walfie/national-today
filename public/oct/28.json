@@ -4,15 +4,11 @@
   "holidays": [
     {
       "title": "National Chocolate Day",
-      "description": "Today is nothing short of a special tribute to mankind’s greatest culinary invention. (Sorry, pizza.)"
+      "description": null
     },
     {
-      "title": "Bandana Day",
-      "description": "Discover interesting ways to observe Bandana Day and offer much-needed support to people with cancer."
-    },
-    {
-      "title": "Chhath Puja",
-      "description": "Kartiki Chhath Puja is coming. Learn everything you need to know here."
+      "title": "National Pit Bull Awareness Day",
+      "description": "We celebrate how loving, kind, and compassionate these dogs truly are."
     },
     {
       "title": "Chucks-N-Pearls Day",
@@ -23,20 +19,28 @@
       "description": "Celebrate the National Day of the Czech Republic and learn all about its rich history."
     },
     {
-      "title": "Frankenstein Friday",
-      "description": "Mary Shelley&#39;s creation spawned an entire genre, countless movie adaptations, and widespread recognition."
-    },
-    {
-      "title": "Global Champagne Day",
-      "description": "Find out the history of champagne and how to celebrate this day with our help!"
+      "title": "Hug a Sheep Day",
+      "description": "Join animal lovers as we celebrate the meekest of creatures on National Hug a Sheep Day."
     },
     {
       "title": "International Animation Day",
       "description": "Remember when you thought the best thing you could do in life was to watch cartoons."
     },
     {
-      "title": "National Breadstick Day",
-      "description": "Breadsticks are slender sticks of baked crispy dry goodness invented in Italy."
+      "title": "Lao: End of Buddhist Lent Day",
+      "description": "Light candles and incense to bid farewell to the three-month-long Buddhist Lent."
+    },
+    {
+      "title": "Make a Difference Day",
+      "description": "Your time and effort can go a long way towards making a big difference!"
+    },
+    {
+      "title": "Muddy dog day",
+      "description": "Join us as we celebrate adorable dogs rolling through muddy puddles this October!"
+    },
+    {
+      "title": "Myanmar Full Moon of Thadingyut",
+      "description": "Buddhist Lent, which commemorates Buddha&#39;s return to earth, concludes on this day."
     },
     {
       "title": "National Caroline Day",
@@ -51,16 +55,12 @@
       "description": "As Americans, we are proud of our long history of welcoming immigrants from around the world."
     },
     {
-      "title": "National Pharmacy Buyer Day",
-      "description": "We have some ideas on how to show love to those who source our meds."
+      "title": "National One United Race Day",
+      "description": "See what you can do to support National One United Race Day."
     },
     {
       "title": "National William Day",
       "description": "Don’t forget to send all your love to all the Williams out there!"
-    },
-    {
-      "title": "Nevada Day",
-      "description": "Explore the Battle Born State today in celebration of Nevada Day."
     },
     {
       "title": "Ohi Day",
@@ -71,12 +71,16 @@
       "description": "Celebrate your animal plushies for the memories, comfort, and joy they’ve given you throughout these years!"
     },
     {
-      "title": "Wild Foods Day",
-      "description": "Come and learn more about this hap-pea Wild Foods Day with us!"
+      "title": "Valmiki Jayanti",
+      "description": "Soak yourself in devotion while celebrating the birth of the great sage Valmiki."
     },
     {
-      "title": "World Lemur Day",
-      "description": "Join us as we celebrate lemurs and their place in the global ecosystem this World Lemur Day!"
+      "title": "Vap Full Moon Poya",
+      "description": "Vap Full Moon Poya honors the Buddhist fasting month’s completion and Buddha’s sermon in Tavatimsa."
+    },
+    {
+      "title": "Wild Foods Day",
+      "description": "Come and learn more about this hap-pea Wild Foods Day with us!"
     },
     {
       "title": "Amy Slaton’s Birthday",
