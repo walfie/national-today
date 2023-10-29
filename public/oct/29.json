@@ -4,23 +4,11 @@
   "holidays": [
     {
       "title": "National Cat Day",
-      "description": "Charles Dickens said it best: &#34;What greater gift than the love of a cat?&#34;"
+      "description": null
     },
     {
       "title": "National Internet Day",
       "description": "The world wide web. The information highway. Cyberspace. The interwebz."
-    },
-    {
-      "title": "National Pit Bull Awareness Day",
-      "description": "We celebrate how loving, kind, and compassionate these dogs truly are."
-    },
-    {
-      "title": "Hug a Sheep Day",
-      "description": "Join animal lovers as we celebrate the meekest of creatures on National Hug a Sheep Day."
-    },
-    {
-      "title": "Muddy dog day",
-      "description": "Join us as we celebrate adorable dogs rolling through muddy puddles this October!"
     },
     {
       "title": "National Hermit Day",
@@ -49,6 +37,10 @@
     {
       "title": "Turkey Republic Day",
       "description": "Come join us in celebrating the anniversary of Turkey&#39;s Republic Day!"
+    },
+    {
+      "title": "Visit A Cemetery Day",
+      "description": "Grab a bunch of flowers and pay a visit to that long-lost friend at the cemetery."
     },
     {
       "title": "World Psoriasis Day",
