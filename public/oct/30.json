@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Checklist Day",
-      "description": "We celebrate the humble checklist as the innovative tool that has stood the test of time."
+      "description": null
     },
     {
       "title": "British Summertime Ends",
@@ -17,6 +17,10 @@
     {
       "title": "Haunted Refrigerator Night",
       "description": "There is nothing more terrifying than old moldy food in the fridge."
+    },
+    {
+      "title": "Marlborough Anniversary Day",
+      "description": "Come explore beauty and diversity as we delve deeper into the versatile grape wine state."
     },
     {
       "title": "Mischief Night",
@@ -43,8 +47,8 @@
       "description": "Let your pets have extra fun with their favorite kibbles this National Treat Your Pet Day!"
     },
     {
-      "title": "Visit A Cemetery Day",
-      "description": "Grab a bunch of flowers and pay a visit to that long-lost friend at the cemetery."
+      "title": "October Bank Holiday",
+      "description": "October Bank Holiday is a long weekend for Irish workers to enjoy a little break."
     },
     {
       "title": "Andrew Schulz’s Birthday",
