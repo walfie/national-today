@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "Halloween",
-      "description": "Undoubtedly the creepiest, most ghostly holiday of them all."
+      "description": null
     },
     {
       "title": "​National Caramel Apple Day",
@@ -37,10 +37,6 @@
     {
       "title": "National Prince Day",
       "description": "Make a Prince proud and celebrate National Prince Day in style with excellent background music."
-    },
-    {
-      "title": "October Bank Holiday",
-      "description": "October Bank Holiday is a long weekend for Irish workers to enjoy a little break."
     },
     {
       "title": "Reformation Day",
