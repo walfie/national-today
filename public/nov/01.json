@@ -4,15 +4,11 @@
   "holidays": [
     {
       "title": "National Author&#39;s Day",
-      "description": "Curl up with your favorite book and drifting into another world."
+      "description": null
     },
     {
       "title": "National Cook For Your Pets Day",
       "description": "Take this day to cook a delicious meal for your pets!"
-    },
-    {
-      "title": "National Men Make Dinner Day",
-      "description": "Men! Take the lead, get in there and whip up something nice!"
     },
     {
       "title": "National Vinegar Day",
@@ -71,16 +67,16 @@
       "description": "Commemorating the day when Kannada regions in South India merged to form the state of Karnataka."
     },
     {
+      "title": "Karva Chauth",
+      "description": "Prepare your hearts as we partake in a spiritual ceremony with benefits for all."
+    },
+    {
       "title": "Kut",
       "description": "Kut is an Indian cultural holiday that appreciates nature and harvest time."
     },
     {
-      "title": "Marlborough Anniversary Day",
-      "description": "Come explore beauty and diversity as we delve deeper into the versatile grape wine state."
-    },
-    {
-      "title": "Melbourne Cup Day",
-      "description": "&#34;Cup Day,&#34; as it&#39;s popularly known, is the biggest horse racing event in Australia."
+      "title": "National Advent Calendar Day",
+      "description": "Get your shopping list ready — coffee, mugs, chocolate, and wine all make for a merry season."
     },
     {
       "title": "National Biologic Coordinators Day",
@@ -113,6 +109,10 @@
     {
       "title": "National Mia Day",
       "description": "It is that time of the year again; we’re celebrating all Mias."
+    },
+    {
+      "title": "National Stress Awareness Day",
+      "description": "Don’t worry; everything will be OK! Just live in the moment and destress your life"
     },
     {
       "title": "Pâté Day",
@@ -171,12 +171,28 @@
       "description": "This T.V. actress’s light is so bright that it burns our eyes!"
     },
     {
+      "title": "Jayo Sama’s Birthday",
+      "description": "The late artist Jayo Sama was rising in popularity and lived his last days creating music."
+    },
+    {
       "title": "Jenny McCarthy’s Birthday",
       "description": "This well-known celebrity rose through the ranks to become a widely recognized personality."
     },
     {
+      "title": "Jeongyeon’s Birthday",
+      "description": "Find out more about the elusive wonderful world of the star Jeongyeon."
+    },
+    {
       "title": "JoJo Fletcher’s Birthday",
       "description": "This reality T.V. star has made a huge success since appearing on the show."
+    },
+    {
+      "title": "JP Cooper’s Birthday",
+      "description": "J.P. Cooper is a soul singer who started his career as an independent artist."
+    },
+    {
+      "title": "Kamehameha I’s Birthday",
+      "description": "King Kamehameha was a mighty, forward-thinking leader ahead of his time. Let&#39;s celebrate him today."
     },
     {
       "title": "Lil Peep’s Birthday",
@@ -185,6 +201,10 @@
     {
       "title": "Marc D&#39;Amelio’s Birthday",
       "description": "This internet personality became famous as the father of two of the world&#39;s biggest TikTok stars."
+    },
+    {
+      "title": "Miranda Brooke’s Birthday",
+      "description": "Nothing can stop this charismatic performer who conquers the hearts of more fans every day!"
     },
     {
       "title": "Natalia Tena’s Birthday",
