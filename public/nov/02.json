@@ -4,11 +4,15 @@
   "holidays": [
     {
       "title": "Day of the Dead",
-      "description": "It is believed that the souls of the dead return to visit their living family members."
+      "description": null
     },
     {
       "title": "National Deviled Egg Day",
       "description": "Deviled eggs are hard boiled, cut in half, and filled with — well, that&#39;s up to you!"
+    },
+    {
+      "title": "National Men Make Dinner Day",
+      "description": "Men! Take the lead, get in there and whip up something nice!"
     },
     {
       "title": "All Souls Day",
@@ -43,20 +47,32 @@
       "description": "Let us denounce any assaults and all on journalists and media professionals."
     },
     {
+      "title": "International Stout Day",
+      "description": "Stouts have become some of the most beloved beers in many different nations."
+    },
+    {
       "title": "Look for Circles Day",
       "description": "Get circling and looking for circles with our great article on this day."
     },
     {
-      "title": "National Advent Calendar Day",
-      "description": "Get your shopping list ready — coffee, mugs, chocolate, and wine all make for a merry season."
+      "title": "National Cash Back Day",
+      "description": "It’s National Cash Back Day! We’ve compiled facts and tips to help you celebrate and save!"
     },
     {
       "title": "National Ohio Day",
       "description": "Celebrate the enduring spirit of Ohioans and the alluring landscape of the great state of Ohio!"
     },
     {
-      "title": "National Stress Awareness Day",
-      "description": "Don’t worry; everything will be OK! Just live in the moment and destress your life"
+      "title": "Plan Your Epitaph Day",
+      "description": "This morbid but fun holiday is a pleasant way to accept the inevitable end to every human’s journey."
+    },
+    {
+      "title": "Project Management Day",
+      "description": "There’s no project too big or too small for our heroes in suits to handle."
+    },
+    {
+      "title": "Thanksgiving Liberia",
+      "description": "No matter how much you give thanks, it will always fall short, so give maximum thanks today."
     },
     {
       "title": "Traffic Directors Day",
@@ -95,6 +111,10 @@
       "description": "She might fail at making cheeseless grilled cheese but she never fails to entertain us."
     },
     {
+      "title": "Isobel Yeung’s Birthday",
+      "description": "After Yeung&#39;s sojourn in China, she returned to England and attended the University of Nottingham."
+    },
+    {
       "title": "James K. Polk’s Birthday",
       "description": "Polk was responsible for the territorial expansion of the U.S. into what it is today."
     },
@@ -105,10 +125,6 @@
     {
       "title": "Josh Wiggins’s Birthday",
       "description": "&#34;The Bachelors&#34; received good ratings from critics, and it further strengthened Wiggins&#39; reputation as a star."
-    },
-    {
-      "title": "JP Cooper’s Birthday",
-      "description": "J.P. Cooper is a soul singer who started his career as an independent artist."
     },
     {
       "title": "KD Lang’s Birthday",
@@ -123,12 +139,20 @@
       "description": "Renowned for her extravagance, indifference to public opinion, and fashion sense, she lives large in history!"
     },
     {
+      "title": "Meow Michelle’s Birthday",
+      "description": "From the world of YouTube to the world of biology, nothing can stop this amazing gamer!"
+    },
+    {
       "title": "Nelly’s Birthday",
       "description": "This rapper and singer has blessed the world with his musical gifts."
     },
     {
       "title": "Nickayla Rivera’s Birthday",
       "description": "Beauty is her name inside and out. Today, we get to learn about her."
+    },
+    {
+      "title": "Park Woo Jin’s Birthday",
+      "description": "This Korean idol was born to shine and win hearts across the world!"
     },
     {
       "title": "RanbooLive’s Birthday",
