@@ -3,8 +3,12 @@
   "day": 1,
   "holidays": [
     {
-      "title": "National Author&#39;s Day",
+      "title": "Deck the Everything Day",
       "description": null
+    },
+    {
+      "title": "National Author&#39;s Day",
+      "description": "Curl up with your favorite book and drifting into another world."
     },
     {
       "title": "National Cook For Your Pets Day",
