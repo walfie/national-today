@@ -4,19 +4,15 @@
   "holidays": [
     {
       "title": "National Candy Day",
-      "description": "These sweet and sour treats have been our favorite snack since childhood."
+      "description": null
     },
     {
       "title": "Flag Day in Panama",
       "description": "Uncover the country’s incredible narratives beyond the Panama Canal Learn more with us."
     },
     {
-      "title": "Fountain Pen Day",
-      "description": "Let’s fall in love with writing as we celebrate these elegant, unique writing instruments."
-    },
-    {
-      "title": "Love Your Lawyer Day",
-      "description": "Let us highlight and celebrate all the important works of our legal luminaries."
+      "title": "National Bison Day",
+      "description": "You see them everywhere — on coins, on sports team logos, and a couple of state flags."
     },
     {
       "title": "National Chicken Lady Day",
@@ -29,10 +25,6 @@
     {
       "title": "National Easy-Bake Oven Day",
       "description": "A toy that can cook real food sounds like a child&#39;s dream coming true."
-    },
-    {
-      "title": "National Jersey Friday",
-      "description": "Jerseys are the ultimate symbol of fandom, signifying our allegiance to a sporting team."
     },
     {
       "title": "National Melanie Day",
@@ -53,6 +45,10 @@
     {
       "title": "Use Your Common Sense Day",
       "description": "This day encourages us to think — and act — effectively."
+    },
+    {
+      "title": "World Numbat Day",
+      "description": "The greatness of a nation can be judged by the way its animals are treated."
     },
     {
       "title": "Bethenny Frankel’s Birthday",
