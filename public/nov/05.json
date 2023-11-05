@@ -4,7 +4,11 @@
   "holidays": [
     {
       "title": "American Football Day",
-      "description": "How will you be celebrating this great American pastime?"
+      "description": null
+    },
+    {
+      "title": "Daylight Saving Day",
+      "description": "Not only do you get an extra hour of sleep, but it will become darker earlier."
     },
     {
       "title": "National Love Your Red Hair Day",
@@ -19,8 +23,12 @@
       "description": "Bonfire Night, or Guy Fawkes Day, ignites the historical failed attempt to blow-up the Parliament."
     },
     {
-      "title": "Colón Day",
+      "title": "Colón Day in Panama",
       "description": "Colón Day is a time to commemorate freedom and independence with the people of Panama."
+    },
+    {
+      "title": "Daylight Savings Ends",
+      "description": "Enjoy the morning rays as an early riser to mark the return to standard time."
     },
     {
       "title": "Gunpowder Day",
@@ -29,10 +37,6 @@
     {
       "title": "Guy Fawke&#39;s Night",
       "description": "Anarchist hero or traitor? Discover multiple facets to the legend of Guy Fawkes."
-    },
-    {
-      "title": "National Bison Day",
-      "description": "You see them everywhere — on coins, on sports team logos, and a couple of state flags."
     },
     {
       "title": "National Chinese Take Out Day",
@@ -47,12 +51,12 @@
       "description": "Got a favorite Luke? Now’s the time to tell ‘em. Today is their day!"
     },
     {
-      "title": "World Numbat Day",
-      "description": "The greatness of a nation can be judged by the way its animals are treated."
-    },
-    {
       "title": "World Tsunami Awareness Day",
       "description": "Be prepared to learn important and relevant information about tsunamis. It may save your life."
+    },
+    {
+      "title": "Zero Tasking Day",
+      "description": "Relax, and enjoy the peace that comes with living in the moment and doing nothing."
     },
     {
       "title": "Alexa Chung’s Birthday",
