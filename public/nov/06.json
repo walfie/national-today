@@ -3,16 +3,24 @@
   "day": 6,
   "holidays": [
     {
-      "title": "Daylight Saving Day",
-      "description": "Not only do you get an extra hour of sleep, but it will become darker earlier."
+      "title": "Job Action Day",
+      "description": null
     },
     {
       "title": "National Nachos Day",
       "description": "Chicken or beef? Beans or salsa? Just make sure to pile on cheese!"
     },
     {
-      "title": "Daylight Savings Ends",
-      "description": "Enjoy the morning rays as an early riser to mark the return to standard time."
+      "title": "All Saints Day (Colombia)",
+      "description": "All Saints’ Day is a holiday celebration dedicated to honoring all saints in the Christian tradition."
+    },
+    {
+      "title": "Color the World Orange Day",
+      "description": "It is not always about getting cured but about learning how to live with it."
+    },
+    {
+      "title": "Constitution Day (Dominican Republic)",
+      "description": "Constitution Day commemorates when the Dominican Republic’s first constitution was signed in San Cristóbal."
     },
     {
       "title": "Dog Film Festival",
@@ -47,8 +55,12 @@
       "description": "We celebrate the unsung heroes and the glue that holds every team together: team managers."
     },
     {
-      "title": "Zero Tasking Day",
-      "description": "Relax, and enjoy the peace that comes with living in the moment and doing nothing."
+      "title": "Play Basketball Day",
+      "description": "Channel your inner baller and rack up points as we celebrate Play Basketball Day."
+    },
+    {
+      "title": "Recreation Day",
+      "description": "Recreation Day is celebrated in northern Tasmania, Australia, on the first Monday in November."
     },
     {
       "title": "Adolphe Sax’s Birthday",
@@ -97,10 +109,6 @@
     {
       "title": "Jackie Oshry’s Birthday",
       "description": "A determined and hardworking social media personality like Jackie Oshry is a legendary role model."
-    },
-    {
-      "title": "Kaycee in Wonderland’s Birthday",
-      "description": "Her cheery and pleasant nature has made her a favorite among children worldwide."
     },
     {
       "title": "Kris Wu’s Birthday",
