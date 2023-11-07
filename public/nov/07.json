@@ -3,28 +3,16 @@
   "day": 7,
   "holidays": [
     {
-      "title": "Job Action Day",
-      "description": "A day to recognize and empower those who dream of having a job they love."
-    },
-    {
       "title": "National Canine Lymphoma Awareness Day",
-      "description": "Lymphoma is one of the most common forms of canine cancer."
+      "description": null
     },
     {
-      "title": "All Saints Day (Colombia)",
-      "description": "All Saints’ Day is a holiday celebration dedicated to honoring all saints in the Christian tradition."
+      "title": "Election Day",
+      "description": "Democracy is ideal; election is at its core, and therefore deserves to be celebrated."
     },
     {
-      "title": "Color the World Orange Day",
-      "description": "It is not always about getting cured but about learning how to live with it."
-    },
-    {
-      "title": "Constitution Day (Dominican Republic)",
-      "description": "Constitution Day commemorates when the Dominican Republic’s first constitution was signed in San Cristóbal."
-    },
-    {
-      "title": "Dev Deepawali",
-      "description": "Prepare to be dazzled by some illuminating facts and figures about Dev Deepawali."
+      "title": "Melbourne Cup Day",
+      "description": "&#34;Cup Day,&#34; as it&#39;s popularly known, is the biggest horse racing event in Australia."
     },
     {
       "title": "National Bittersweet Chocolate with Almonds Day",
@@ -57,10 +45,6 @@
     {
       "title": "Notary Public Day",
       "description": "Notaries have served a critical role in the history of the United States."
-    },
-    {
-      "title": "Recreation Day",
-      "description": "Recreation Day is celebrated in northern Tasmania, Australia, on the first Monday in November."
     },
     {
       "title": "Adam DeVine’s Birthday",
