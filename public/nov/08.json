@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "STEM/STEAM Day",
-      "description": "Children are significantly better off with strong science, technology, engineering, art, and mathematics skills."
+      "description": null
     },
     {
       "title": "Abet and Aid Punsters Day",
@@ -13,10 +13,6 @@
     {
       "title": "Cook Something Bold and Pungent Day",
       "description": "Let your adventurous inner chef out and tickle your taste buds with weird and wonderful food!"
-    },
-    {
-      "title": "Election Day",
-      "description": "Democracy is ideal; election is at its core, and therefore deserves to be celebrated."
     },
     {
       "title": "International Day of Radiology",
@@ -153,10 +149,6 @@
     {
       "title": "Nick Mara’s Birthday",
       "description": "Nick Mara is a brilliant artist who came to excel in many disciplines."
-    },
-    {
-      "title": "SZA’s Birthday",
-      "description": "For this unbeatable rising star, success is the only sensible music to her ears."
     },
     {
       "title": "Tech N9ne’s Birthday",
