@@ -4,11 +4,11 @@
   "holidays": [
     {
       "title": "International Accounting Day",
-      "description": "Does the sight of a ledger book make your head spin? That’s why we have accountants!"
+      "description": null
     },
     {
       "title": "Marine Corps Birthday",
-      "description": "The Corps, continues its proud tradition as protectors of the U.S. and its people."
+      "description": "The Corps continues its proud tradition as protectors of the U.S. and its people."
     },
     {
       "title": "National Vanilla Cupcake Day",
@@ -31,8 +31,12 @@
       "description": "The holiday pays tribute to returning soldiers who have endured things that truly can’t be forgotten."
     },
     {
-      "title": "Tempranillo Day",
-      "description": "Here’s why Tempranillo wine is perfect to take along the next time you’re invited to dinner."
+      "title": "National Donor Sabbath",
+      "description": "“A life spent in service of others is a life worthwhile” — Albert Einstein"
+    },
+    {
+      "title": "National DTC (Direct-To-Consumer) Friday",
+      "description": "It’s National Direct-To-Consumer Friday. Join us as we get ready to #shopbetter!"
     },
     {
       "title": "USMC Day",
@@ -47,16 +51,8 @@
       "description": "Let us raise awareness and educate others about this eye disorder on World Keratoconus Day!"
     },
     {
-      "title": "World Quality Day",
-      "description": "This World Quality Day, we’re raising the bar and maintaining excellence in every way."
-    },
-    {
       "title": "World Science Day for Peace and Development",
       "description": "See how you can make a positive contribution for the promotion of scientific knowledge in your community."
-    },
-    {
-      "title": "World Usability Day",
-      "description": "We celebrate efforts by technology experts to unite and deliver products that are inclusive and user-friendly."
     },
     {
       "title": "Big Pun’s Birthday",
@@ -69,10 +65,6 @@
     {
       "title": "Call Me Kevin’s Birthday",
       "description": "Come along as we get to know this famous YouTuber and his successful career."
-    },
-    {
-      "title": "Colby Schnacky’s Birthday",
-      "description": "With his content, Schnacky shows us that sometimes all you need to do is have fun."
     },
     {
       "title": "Corey Gamble’s Birthday",
