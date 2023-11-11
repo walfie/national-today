@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "Veterans Day",
-      "description": "A tribute to military veterans who have served in the U.S. Armed Forces."
+      "description": null
     },
     {
       "title": "Angola Independence Day",
@@ -17,14 +17,6 @@
     {
       "title": "Armistice Day (Saint Barthelemy)",
       "description": "Armistice Day commemorates the day World War I fighting ceased on France’s Western Front."
-    },
-    {
-      "title": "Canterbury Anniversary Day",
-      "description": "Happy Canterbury Anniversary to all New Zealanders! We are delighted to join in your celebrations."
-    },
-    {
-      "title": "Christchurch Show Day",
-      "description": "The perfect day where independence and agriculture meet to create exciting festivities."
     },
     {
       "title": "Death/Duty Day",
@@ -43,20 +35,20 @@
       "description": "Want to observe French Guiana Armistice Day respectfully? Check out its history and our suggestions below!"
     },
     {
+      "title": "Metal Day",
+      "description": "It&#39;s not all doom and gloom; in fact, some metal can even be uplifting!"
+    },
+    {
       "title": "National Chase Day",
       "description": "Join us as we figure out why we’re celebrating Chases this National Chase Day!"
     },
     {
-      "title": "National Donor Sabbath",
-      "description": "“A life spent in service of others is a life worthwhile” — Albert Einstein"
-    },
-    {
-      "title": "National DTC (Direct-To-Consumer) Friday",
-      "description": "It’s National Direct-To-Consumer Friday. Join us as we get ready to #shopbetter!"
-    },
-    {
       "title": "National Education Day",
       "description": "India memorializes the birthday of Maulana Abul Kalam Azad, the first Minister for Education in India."
+    },
+    {
+      "title": "National Indiana Day",
+      "description": "The people of Indiana love basketball, as is portrayed in most cultural references of Hoosiers."
     },
     {
       "title": "National Isabelle Day",
@@ -67,12 +59,12 @@
       "description": "Join us as we figure out why we’re celebrating Leis this National Lei Day!"
     },
     {
-      "title": "National Metal Day",
-      "description": "It&#39;s not all doom and gloom; in fact, some metal can even be uplifting!"
-    },
-    {
       "title": "National Origami Day",
       "description": "We can’t wait to sit down and find our Zen by practicing this ancient art."
+    },
+    {
+      "title": "National Saddle Hunting Day",
+      "description": "Are you ready to try saddle hunting this year? Here’s everything you need to know."
     },
     {
       "title": "National Sundae Day",
