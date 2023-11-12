@@ -4,7 +4,11 @@
   "holidays": [
     {
       "title": "National Happy Hour Day",
-      "description": "Did you know happy hours go all the way back to World War 1?"
+      "description": null
+    },
+    {
+      "title": "National Pupusa Day",
+      "description": "Hearing of National Pupusa Day for the first time? You are in for a tasty treat."
     },
     {
       "title": "American Fancy Rat &amp; Mouse Day",
@@ -15,8 +19,32 @@
       "description": "Chicken Soup for the Soul Day celebrates the victories of people who suffered from loss or pain."
     },
     {
-      "title": "Fancy Rat and Mouse Day",
-      "description": "Let&#39;s get set to rejoice over our adorably happy and sweet little furballs!"
+      "title": "Day of Mourning",
+      "description": "Honor those claimed by war and tyranny on the National Day of Mourning."
+    },
+    {
+      "title": "Deepavali",
+      "description": "Let the light bless our homes and hearts on the auspicious day of Deepavali."
+    },
+    {
+      "title": "Diwali",
+      "description": "Lasting over five days, the holiday is celebrated by millions of Hindus, Jains and Sikhs worldwide."
+    },
+    {
+      "title": "International Tongue Twister Day",
+      "description": "We’re not talking about rolling or curling your taste-tester."
+    },
+    {
+      "title": "Kali Puja",
+      "description": "Settle in for a transformative journey into the world of the goddess Kali."
+    },
+    {
+      "title": "Lakshmi Puja",
+      "description": "Chant Lakshmi&#39;s mantras to manifest abundance and prosperity in your life!"
+    },
+    {
+      "title": "Naraka Chaturdashi",
+      "description": "Indians celebrate the second day of the five-day-long Diwali festival."
     },
     {
       "title": "National French Dip Day",
@@ -31,8 +59,16 @@
       "description": "Toss your dough around, gather your toppings, and celebrate this yummy meal."
     },
     {
-      "title": "National Saddle Hunting Day",
-      "description": "Are you ready to try saddle hunting this year? Here’s everything you need to know."
+      "title": "Orphan Sunday",
+      "description": "Take a stand with people around the world as we shower love on orphans."
+    },
+    {
+      "title": "Remembrance Sunday",
+      "description": "We celebrate fallen war soldiers and their brave acts, which we will never forget."
+    },
+    {
+      "title": "Sigd Day",
+      "description": "Uncover the ancient traditions and history of Jewish communities you didn’t know existed."
     },
     {
       "title": "World Pneumonia Day",
@@ -48,7 +84,7 @@
     },
     {
       "title": "Cuban Link’s Birthday",
-      "description": "This multi-talented Puerto Rican star has been able to build a life for herself."
+      "description": "This multi-talented star has been able to build an impressive life for herself."
     },
     {
       "title": "DJ Esco’s Birthday",
