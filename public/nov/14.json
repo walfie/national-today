@@ -4,15 +4,11 @@
   "holidays": [
     {
       "title": "National Pickle Day",
-      "description": "Celebrate the pickle as one of the world&#39;s favorite fermented foods."
+      "description": null
     },
     {
       "title": "World Diabetes Day",
       "description": "Diabetes is a chronic disease which leads to serious health conditions and, can be preventable."
-    },
-    {
-      "title": "Anti-Bullying Week",
-      "description": "Take a stand against bullying at home, in school, and your community."
     },
     {
       "title": "Children&#39;s Day",
@@ -49,10 +45,6 @@
     {
       "title": "Operating Room Nurse Day",
       "description": "Raise your glasses to our angels in blue, the unspoken heroes of medicine."
-    },
-    {
-      "title": "World Orphans Day",
-      "description": "Join us as we discover the part we can play to improve the lot of orphans."
     },
     {
       "title": "Adina Howard’s Birthday",
