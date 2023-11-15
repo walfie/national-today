@@ -3,16 +3,12 @@
   "day": 15,
   "holidays": [
     {
-      "title": "National Clean Out Your Fridge Day",
-      "description": "Tackle that science experiment that’s been growing way in the back, there."
+      "title": "National Clean Out Your Refrigerator Day",
+      "description": null
     },
     {
       "title": "National Drummer Day",
       "description": "Drummers are so coordinated they can do something different with each limb."
-    },
-    {
-      "title": "National Entrepreneur&#39;s Day",
-      "description": "Radical inventions by brilliant minds have shaped our lives today, not to mention our future."
     },
     {
       "title": "National Recycling Day",
@@ -23,8 +19,28 @@
       "description": "Sort out your recycling bin as we get ready to save the environment."
     },
     {
+      "title": "BOTOX® Cosmetic (onabotulinumtoxinA) Day",
+      "description": "This day is all about Botox and how to safely use it."
+    },
+    {
+      "title": "Christchurch Show Day",
+      "description": "The perfect day where independence and agriculture meet to create exciting festivities."
+    },
+    {
       "title": "Day of the Imprisoned Writer",
       "description": "Learn about the origins of the Day of the Imprisoned Writer and how it combats censorship."
+    },
+    {
+      "title": "Education Support Professionals Day",
+      "description": "Offer love and support to your favorite E.S.P. today. We have ideas and suggestions galore."
+    },
+    {
+      "title": "Geographic Information Systems Day",
+      "description": "To all fans of geography, information, and technology systems, Happy G.I.S. Day!"
+    },
+    {
+      "title": "GIS Day",
+      "description": "Explorers and geographers, get ready to celebrate the innovative technology that is GIS."
     },
     {
       "title": "Govardhan Puja",
@@ -49,6 +65,10 @@
     {
       "title": "National Dylan Day",
       "description": "Respect the namesakes of the Welsh sea god and praise them for their achievements."
+    },
+    {
+      "title": "National Educational Support Professionals Day",
+      "description": "Make sure to thank all the support professionals at your school for their services!"
     },
     {
       "title": "National Family Civility Day",
@@ -77,6 +97,10 @@
     {
       "title": "Steve Irwin Day",
       "description": "Put on your khakis and honor the infamous Crocodile Hunter and his love of wildlife"
+    },
+    {
+      "title": "World COPD Day",
+      "description": "Continue reading to learn the history of C.O.P.D. and how to prevent it."
     },
     {
       "title": "Ariel Fulmer’s Birthday",
