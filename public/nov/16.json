@@ -3,32 +3,20 @@
   "day": 16,
   "holidays": [
     {
+      "title": "Great American Smokeout",
+      "description": null
+    },
+    {
       "title": "International Day For Tolerance",
       "description": "Think back—when’s the last time you had a different perspective than one of your friends?"
     },
     {
+      "title": "Beaujolais Nouveau Day",
+      "description": "Raise a glass to Beaujolais Nouveau Day as we uncork this vintage holiday for you."
+    },
+    {
       "title": "Bhai Dooj",
       "description": "A prominent Hindu festival when women pray for long and prosperous lives for their brothers."
-    },
-    {
-      "title": "BOTOX® Cosmetic (onabotulinumtoxinA) Day",
-      "description": "This day is all about Botox and how to safely use it."
-    },
-    {
-      "title": "Clarinet Day",
-      "description": "Get ready to go on a musical journey as we celebrate Clarinet Day in style!"
-    },
-    {
-      "title": "Education Support Professionals Day",
-      "description": "Offer love and support to your favorite E.S.P. today. We have ideas and suggestions galore."
-    },
-    {
-      "title": "Geographic Information Systems Day",
-      "description": "To all fans of geography, information, and technology systems, Happy G.I.S. Day!"
-    },
-    {
-      "title": "GIS Day",
-      "description": "Explorers and geographers, get ready to celebrate the innovative technology that is GIS."
     },
     {
       "title": "Have a Party with your Bear Day",
@@ -51,24 +39,32 @@
       "description": "We have a whole day to celebrate all the Charles’ we have in our life!"
     },
     {
-      "title": "National Educational Support Professionals Day",
-      "description": "Make sure to thank all the support professionals at your school for their services!"
+      "title": "National Clarinet Day",
+      "description": "Get ready to go on a musical journey as we celebrate National Clarinet Day in style!"
     },
     {
       "title": "National Fast Food Day",
       "description": "Know what that means for you? An easy peasy dinnertime."
     },
     {
-      "title": "National Indiana Day",
-      "description": "The people of Indiana love basketball, as is portrayed in most cultural references of Hoosiers."
+      "title": "National Rural Health Day",
+      "description": "Over 60 million Americans live and work in seemingly idyllic, rural communities."
     },
     {
-      "title": "World COPD Day",
-      "description": "Continue reading to learn the history of C.O.P.D. and how to prevent it."
+      "title": "Social Enterprise Day",
+      "description": "Ready to make a long-lasting impact? Let’s dive straight into it."
+    },
+    {
+      "title": "Use Less Stuff Day",
+      "description": "Clear out the junk and make your house and the Earth a cleaner place!"
     },
     {
       "title": "World Pancreatic Cancer Day",
       "description": "Let’s fight against pancreatic cancer, which has the lowest survival rate among the major cancers."
+    },
+    {
+      "title": "World Philosophy Day",
+      "description": "Share your thoughts, engage in collaborative dialogues, or inspire stimulating debates this World Philosophy Day."
     },
     {
       "title": "Brandi Glanville’s Birthday",
