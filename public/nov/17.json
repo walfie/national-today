@@ -3,12 +3,8 @@
   "day": 17,
   "holidays": [
     {
-      "title": "Great American Smokeout",
-      "description": "The American Cancer Society challenges smokers to give up cigarettes for 24 hours."
-    },
-    {
       "title": "National Testosterone Awareness Day",
-      "description": "Feel alive with elevated testosterone levels."
+      "description": null
     },
     {
       "title": "National Unfriend Day",
@@ -19,8 +15,12 @@
       "description": "These little ones need loads of love and support."
     },
     {
-      "title": "Beaujolais Nouveau Day",
-      "description": "Raise a glass to Beaujolais Nouveau Day as we uncork this vintage holiday for you."
+      "title": "Canterbury Anniversary Day",
+      "description": "Happy Canterbury Anniversary to all New Zealanders! We are delighted to join in your celebrations."
+    },
+    {
+      "title": "Children in Need",
+      "description": "Learn more about a day that supports children in need right here at National Today."
     },
     {
       "title": "International Students Day",
@@ -47,24 +47,8 @@
       "description": "Don&#39;t go too far, today is a day to celebrate the grandfather of the historic Israelites."
     },
     {
-      "title": "National Rural Health Day",
-      "description": "Over 60 million Americans live and work in seemingly idyllic, rural communities."
-    },
-    {
-      "title": "National Take a Hike Day",
-      "description": "Hiking is a great way to get that heart pumping while you breathe in pristine air."
-    },
-    {
-      "title": "Social Enterprise Day",
-      "description": "Ready to make a long-lasting impact? Let’s dive straight into it."
-    },
-    {
-      "title": "Use Less Stuff Day",
-      "description": "Clear out the junk and make your house and the Earth a cleaner place!"
-    },
-    {
-      "title": "World Philosophy Day",
-      "description": "Share your thoughts, engage in collaborative dialogues, or inspire stimulating debates this World Philosophy Day."
+      "title": "World Vasectomy Day",
+      "description": "Let’s learn about vasectomy — the single most effective form of contraception available to men."
     },
     {
       "title": "Zinfandel Day",
