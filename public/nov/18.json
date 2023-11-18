@@ -3,12 +3,20 @@
   "day": 18,
   "holidays": [
     {
+      "title": "International Survivors of Suicide Loss Day",
+      "description": null
+    },
+    {
+      "title": "Mickey Mouse Birthday",
+      "description": "Mad about the mouse? We are too! Mickey reminds us of the magic of childhood."
+    },
+    {
       "title": "Mickey Mouse Day",
       "description": "Mad about the mouse? We are too! Mickey reminds us of the magic of childhood."
     },
     {
-      "title": "Mickey Mouse’s Birthday",
-      "description": "Mad about the mouse? We are too! Mickey reminds us of the magic of childhood."
+      "title": "National Adoption Day",
+      "description": "Thousands of foster children are welcomed into their forever homes!"
     },
     {
       "title": "National Princess Day",
@@ -23,16 +31,16 @@
       "description": "Check out three easy ways to celebrate Haiti and the Battle of Vertières Day."
     },
     {
-      "title": "BBC Children in Need Appeal",
-      "description": "Learn more about a day that supports children in need right here at National Today."
+      "title": "FAMILY AND COMMUNITY DAY",
+      "description": "Spare some time off work to celebrate with your family and community!"
     },
     {
-      "title": "Housing Day",
-      "description": "Let us work together to help ease the plight of the homeless."
+      "title": "Family Volunteer Day",
+      "description": "There are many ways to give back as a family on this global day of service."
     },
     {
-      "title": "International Stand Up to Bullying Day",
-      "description": "International Stand Up to Bullying Day is a part of Anti-Bullying Week."
+      "title": "International Occult Day",
+      "description": "Come with us as we dive deep into the mystic realms of occult elements."
     },
     {
       "title": "Latvia Independence Day",
@@ -43,20 +51,12 @@
       "description": "If your partner is a Scorpio, today is your day for support, advice, and sharing stories!"
     },
     {
-      "title": "Minnie Mouse&#39;s Birthday",
+      "title": "Minnie Mouse Birthday",
       "description": "Whether or not you’re a die hard Disney fan, we all love Minnie Mouse!"
     },
     {
       "title": "National Vichyssoise Day",
       "description": "Be a souperhero and prepare your taste buds to be delighted this National Vichyssoise Day."
-    },
-    {
-      "title": "Occult Day",
-      "description": "Come with us as we dive deep into the mystic realms of occult elements."
-    },
-    {
-      "title": "World Vasectomy Day",
-      "description": "Let’s learn about vasectomy — the single most effective form of contraception available to men."
     },
     {
       "title": "Allyson Felix’s Birthday",
@@ -73,10 +73,6 @@
     {
       "title": "Brene Brown’s Birthday",
       "description": "This American professor was called “a new star of social psychology” by “The New York Times.”"
-    },
-    {
-      "title": "Dakota Laden’s Birthday",
-      "description": "As terrifying as it is, it’s just impossible to stop watching “Destination Fear.”"
     },
     {
       "title": "Denny Hamlin’s Birthday",
