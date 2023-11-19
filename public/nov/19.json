@@ -4,34 +4,18 @@
   "holidays": [
     {
       "title": "International Men’s Day",
-      "description": "On International Men&#39;s Day, celebrate the men in your life!"
-    },
-    {
-      "title": "International Survivors of Suicide Loss Day",
-      "description": "This day is all about showing support and love to the survivors of suicide."
-    },
-    {
-      "title": "National Adoption Day",
-      "description": "Thousands of foster children are welcomed into their forever homes!"
+      "description": null
     },
     {
       "title": "Discovery of Puerto Rico Day",
       "description": "Columbus landed in Puerto Rico during his second voyage — today, we share all about it."
     },
     {
-      "title": "Family Volunteer Day",
-      "description": "There are many ways to give back as a family on this global day of service."
-    },
-    {
       "title": "Garifuna Settlement Day",
       "description": "Out of the nearly 5,000 exiled Garifunas, only 2,500 made it to Belize."
     },
     {
-      "title": "National Have A Bad Day Day",
-      "description": "Take a break, show your true emotions, and enjoy one of the oddest days."
-    },
-    {
-      "title": "International Journalist’s Remembrance Day",
+      "title": "International Journalist Day",
       "description": "Learn more about this day that honors the hard work done by journalists."
     },
     {
@@ -53,6 +37,10 @@
     {
       "title": "National Carla Day",
       "description": "Celebrate National Carla Day, whether you&#39;re Carla, know Carla, or want to know who Carla is!"
+    },
+    {
+      "title": "National Have A Bad Day Day",
+      "description": "Take a break, show your true emotions, and enjoy one of the oddest days."
     },
     {
       "title": "National Integration Day",
@@ -79,16 +67,16 @@
       "description": "Appreciate the (s)heroes who make up a significant part of the entrepreneurial world."
     },
     {
+      "title": "World Day of Remembrance for Road Traffic Victims",
+      "description": "A mother turned her heartbreak into advocacy as she strives to honor millions of lives."
+    },
+    {
       "title": "World Toilet Day",
       "description": "If you&#39;d like an &#34;ode to the commode&#34; read ahead."
     },
     {
       "title": "Adam Driver’s Birthday",
       "description": "Driver is a perfect example of hard work and dedication paying off!"
-    },
-    {
-      "title": "Alonzo Arnold’s Birthday",
-      "description": "This brilliant hairstylist has miles to go in terms of exciting new assignments."
     },
     {
       "title": "Apollo Nida’s Birthday",
