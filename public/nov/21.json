@@ -3,6 +3,10 @@
   "day": 21,
   "holidays": [
     {
+      "title": "National Entrepreneur&#39;s Day",
+      "description": null
+    },
+    {
       "title": "National Stuffing Day",
       "description": "Stuffing is a major player in the world of Thanksgiving."
     },
@@ -27,12 +31,8 @@
       "description": "Awaken the holiday spirit in you by celebrating with this tasty, spicy treat."
     },
     {
-      "title": "National Red Mitten Day",
+      "title": "Red Mitten Day",
       "description": "Red mittens in Canada are more than a fashion statement — they support the nation&#39;s Olympics team."
-    },
-    {
-      "title": "Odd Socks Day",
-      "description": "Today&#39;s not only a great way to express uncanny styles, it’s also promoting a good cause."
     },
     {
       "title": "World Fisheries Day",
@@ -101,10 +101,6 @@
     {
       "title": "Kyle Khou’s Birthday",
       "description": "Let’s learn more about Kyle Khou, one of the most unique pop singers!"
-    },
-    {
-      "title": "Maggie MacDonald’s Birthday",
-      "description": "MacDonald is a promising YouTuber to watch out for in 2022 and beyond."
     },
     {
       "title": "Marlo Thomas’s Birthday",
