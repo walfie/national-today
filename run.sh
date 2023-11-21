@@ -10,7 +10,7 @@ cleanup() {
 
 trap cleanup EXIT
 
-curl 'https://nationaltoday.com/what-is-today/' >$INPUT
+curl 'https://nationaltoday.com/today/' >$INPUT
 
 MONTH=$(pup '.ntdb-holiday-day text{}' <$INPUT | tr '[:upper:]' '[:lower:]' | sed -n 1p)
 DAY="$(pup '.ntdb-holiday-date text{}' <$INPUT | sed -n 1p)"
