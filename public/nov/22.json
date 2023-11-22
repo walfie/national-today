@@ -4,7 +4,19 @@
   "holidays": [
     {
       "title": "Go For A Ride Day",
-      "description": "Set your spirit free and enjoy your wanderlust on whatever mode of transportation suits you best."
+      "description": null
+    },
+    {
+      "title": "Aron Day",
+      "description": "Don’t forget about that remarkable Aron in your life by celebrating their special day!"
+    },
+    {
+      "title": "DrinksGiving",
+      "description": "It&#39;s like a Springsteen song plays out in real life every year."
+    },
+    {
+      "title": "Housing Day",
+      "description": "Let us work together to help ease the plight of the homeless."
     },
     {
       "title": "Humane Society Anniversary Day",
@@ -23,12 +35,12 @@
       "description": "Join us as we shine the spotlight on all the amazing women who bear this name."
     },
     {
-      "title": "National Aron Day",
-      "description": "Don’t forget about that remarkable Aron in your life by celebrating their special day!"
-    },
-    {
       "title": "National Cranberry Relish Day",
       "description": "Thanksgiving Day is around the corner, so let’s put our best cranberry recipes forward."
+    },
+    {
+      "title": "National Jukebox Day",
+      "description": "We’re holding a boombox over our heads to declare our love for the jukebox."
     },
     {
       "title": "National Larimar Day",
@@ -39,8 +51,12 @@
       "description": "Celebrate National Nathan Day! A day dedicated to getting to know Nathans all across the world."
     },
     {
-      "title": "Sigd Day",
-      "description": "Uncover the ancient traditions and history of Jewish communities you didn’t know existed."
+      "title": "National Tie One On Day",
+      "description": "Tie an apron on and cook up some love and kindness today."
+    },
+    {
+      "title": "What Do You Love About America Day",
+      "description": "This is the day for you to remember all that’s great about this country and give thanks."
     },
     {
       "title": "Baby Ariel’s Birthday",
