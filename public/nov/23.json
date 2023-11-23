@@ -3,12 +3,16 @@
   "day": 23,
   "holidays": [
     {
+      "title": "National Day of Mourning",
+      "description": null
+    },
+    {
       "title": "National Espresso Day",
       "description": "It&#39;s all in the way the beans are brewed."
     },
     {
-      "title": "DrinksGiving",
-      "description": "It&#39;s like a Springsteen song plays out in real life every year."
+      "title": "Thanksgiving",
+      "description": "Thanksgiving — a rare celebratory holiday without an established gift-giving component."
     },
     {
       "title": "Eat A Cranberry Day",
@@ -23,28 +27,36 @@
       "description": "Join us as we celebrate and appreciate workers this Labor Appreciation Day!"
     },
     {
+      "title": "Macy’s Thanksgiving Day Parade",
+      "description": "There’s no better way to start Thanksgiving than by enjoying this fun festivity with your family!"
+    },
+    {
       "title": "National Cashew Day",
       "description": "Munch on all the delicious info about America’s popular partying nut."
     },
     {
-      "title": "National Jukebox Day",
-      "description": "We’re holding a boombox over our heads to declare our love for the jukebox."
+      "title": "National Dog Show Broadcast",
+      "description": "Get ready — watch the cream of the crop on one of the most prestigious dog shows in history."
+    },
+    {
+      "title": "National Family Health History Day",
+      "description": "Take some time when everyone in your family is assembled and discuss the family health history."
     },
     {
       "title": "National Margaret Day",
       "description": "Treat them lovingly. Hold them with pride. Today is a day for the human pearls."
     },
     {
-      "title": "National Tie One On Day",
-      "description": "Tie an apron on and cook up some love and kindness today."
-    },
-    {
       "title": "Thankful For My Dog Day",
       "description": "When was the last time you were thankful for your dog’s love and loyalty?"
     },
     {
-      "title": "What Do You Love About America Day",
-      "description": "This is the day for you to remember all that’s great about this country and give thanks."
+      "title": "Turkey-free Thanksgiving",
+      "description": "Whether you’re a vegetarian or just dislike turkey, there are many alternatives for a turkey-free Thanksgiving."
+    },
+    {
+      "title": "Unthanksgiving Day",
+      "description": "Let us explore the rich history and significance of the lesser-known Unthanksgiving Day!"
     },
     {
       "title": "Wolfenoot",
@@ -87,10 +99,6 @@
       "description": "This savvy entrepreneur created one of the most iconic food chains in the United States."
     },
     {
-      "title": "Kim Dracula’s Birthday",
-      "description": "This Australian heavy metal singer and songwriter rose to fame on TikTok."
-    },
-    {
       "title": "Lia Marie Johnson’s Birthday",
       "description": "This talented young woman has been a key part of the early days of YouTube."
     },
@@ -113,10 +121,6 @@
     {
       "title": "Nikachu’s Birthday",
       "description": "This creative YouTuber has amassed a large fanbase, thanks to his entertaining gaming videos."
-    },
-    {
-      "title": "Rain Brown’s Birthday",
-      "description": "The world has definitely not seen the last of this awesome reality T.V. star."
     },
     {
       "title": "Robin Rene Roberts’s Birthday",
