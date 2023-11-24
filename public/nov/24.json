@@ -3,12 +3,12 @@
   "day": 24,
   "holidays": [
     {
-      "title": "National Day of Mourning",
-      "description": "On the National Day of Mourning, Native American people in New England gather together to protest."
+      "title": "Black Friday 2022",
+      "description": null
     },
     {
-      "title": "Thanksgiving",
-      "description": "Thanksgiving — a rare celebratory holiday without an established gift-giving component."
+      "title": "Buy Nothing Day",
+      "description": "An effort to combat the unethical and sometimes even dangerous mob shopping behaviors of Black Friday."
     },
     {
       "title": "Celebrate Your Unique Talent Day",
@@ -19,20 +19,20 @@
       "description": "What more is there to this mysterious case of hijacking, air piracy, and intrepid skydiving?"
     },
     {
-      "title": "Macy’s Thanksgiving Day Parade",
-      "description": "There’s no better way to start Thanksgiving than by enjoying this fun festivity with your family!"
+      "title": "Flossing Day",
+      "description": "Learn the history of flossing and why you need to floss every day."
     },
     {
-      "title": "Mindanao Week of Peace",
-      "description": "Prepare for week-long activities to promote peace and harmony throughout the community."
+      "title": "Fur-Free Friday",
+      "description": "Today we denounce our cruelty, in the name of fashion, to fur-bearing animals."
     },
     {
-      "title": "National Dog Show Broadcast",
-      "description": "Get ready — watch the cream of the crop on one of the most prestigious dog shows in history."
+      "title": "Maize Day",
+      "description": "The time has come to unwrap and savor this gift of nature."
     },
     {
-      "title": "National Family Health History Day",
-      "description": "Take some time when everyone in your family is assembled and discuss the family health history."
+      "title": "National Day of Listening",
+      "description": "There&#39;s something interesting for everyone to say or hear, so listen up!"
     },
     {
       "title": "National Oliver Day",
@@ -43,12 +43,20 @@
       "description": "Sardines are a rich source of omega-3 fatty acids; vitamins D, B12, and B2; phosphorus."
     },
     {
-      "title": "Turkey-free Thanksgiving",
-      "description": "Whether you’re a vegetarian or just dislike turkey, there are many alternatives for a turkey-free Thanksgiving."
+      "title": "Native American Heritage Day",
+      "description": "Native Americans form the foundation of American culture, and that makes this day special."
     },
     {
-      "title": "Unthanksgiving Day",
-      "description": "Let us explore the rich history and significance of the lesser-known Unthanksgiving Day!"
+      "title": "Sinkie Day",
+      "description": "Are you a sinkie? This special day was created just for you!"
+    },
+    {
+      "title": "Systems Engineer Day",
+      "description": "Systems Engineer Day celebrates those who create computer systems and debug those with problems."
+    },
+    {
+      "title": "You’re Welcomegiving Day",
+      "description": "We’re learning new ways to say “you’re welcome” on this exciting day!"
     },
     {
       "title": "Grace Shadrack’s Birthday",
