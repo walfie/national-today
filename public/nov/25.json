@@ -3,36 +3,20 @@
   "day": 25,
   "holidays": [
     {
-      "title": "Black Friday 2022",
-      "description": "Prepare to shell out some cash on the biggest shopping day of the year!"
+      "title": "International Day for the Elimination of Violence Against Women",
+      "description": null
     },
     {
-      "title": "International Day for the Elimination of Violence Against Women",
-      "description": "Today marks the beginning of 16 days of activism, culminating in International Human Rights Day."
+      "title": "Small Business Saturday",
+      "description": "In the age of Black Friday and Cyber Monday, don’t forget about smaller neighborhood shops."
+    },
+    {
+      "title": "Aura Awareness Day",
+      "description": "Have you checked your aura today? It might just be brighter than the sun."
     },
     {
       "title": "Blasé Day",
       "description": "On this unique holiday, take pleasure in not having to pretend to find pleasure in anything!"
-    },
-    {
-      "title": "Buy Nothing Day",
-      "description": "An effort to combat the unethical and sometimes even dangerous mob shopping behaviors of Black Friday."
-    },
-    {
-      "title": "Day of Listening",
-      "description": "There&#39;s something interesting for everyone to say or hear, so listen up!"
-    },
-    {
-      "title": "Flossing Day",
-      "description": "Learn the history of flossing and why you need to floss every day."
-    },
-    {
-      "title": "Fur-Free Friday",
-      "description": "Today we denounce our cruelty, in the name of fashion, to fur-bearing animals."
-    },
-    {
-      "title": "Maize Day",
-      "description": "The time has come to unwrap and savor this gift of nature."
     },
     {
       "title": "National Day of Bosnia &amp; Herzigovina",
@@ -47,28 +31,16 @@
       "description": "Spend the day doing some fun activities with your kids and create life-long memories."
     },
     {
-      "title": "Native American Heritage Day",
-      "description": "Native Americans form the foundation of American culture, and that makes this day special."
-    },
-    {
       "title": "Shopping Reminder Day",
       "description": "On your marks, get set, shop!"
-    },
-    {
-      "title": "Sinkie Day",
-      "description": "Are you a sinkie? This special day was created just for you!"
     },
     {
       "title": "Suriname Independence Day",
       "description": "From Dutch colonization to military regimes, Suriname has seen it all and persevered."
     },
     {
-      "title": "Systems Engineer Day",
-      "description": "Systems Engineer Day celebrates those who create computer systems and debug those with problems."
-    },
-    {
-      "title": "You’re Welcomegiving Day",
-      "description": "We’re learning new ways to say “you’re welcome” on this exciting day!"
+      "title": "White Ribbon Day",
+      "description": "The day is to stand up, speak up, and say no to violence against women."
     },
     {
       "title": "Abby D Phillip’s Birthday",
