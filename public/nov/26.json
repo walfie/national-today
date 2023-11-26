@@ -3,16 +3,24 @@
   "day": 26,
   "holidays": [
     {
+      "title": "International Shift Worker Sunday",
+      "description": null
+    },
+    {
       "title": "National Cake Day",
       "description": "We believe Marie Antoinette said it best when she (allegedly) said &#34;let them eat cake!&#34;"
     },
     {
-      "title": "Small Business Saturday",
-      "description": "In the age of Black Friday and Cyber Monday, don’t forget about smaller neighborhood shops."
+      "title": "Anti Obesity Day",
+      "description": "Learn the history of obesity in the U.S. and Anti-Obesity Day."
     },
     {
-      "title": "Aura Awareness Day",
-      "description": "Have you checked your aura today? It might just be brighter than the sun."
+      "title": "Christ the King Feast",
+      "description": "“No man cometh unto the Father but Christ as he is the way and the truth.&#34;"
+    },
+    {
+      "title": "Dev Diwali",
+      "description": "Prepare to be dazzled by some illuminating facts and figures about Dev Diwali."
     },
     {
       "title": "Good Grief Day",
@@ -27,10 +35,6 @@
       "description": "Get ready to celebrate the very best of every Alexis you know!"
     },
     {
-      "title": "National Anti Obesity Day",
-      "description": "Learn the history of obesity in the U.S. and National Anti-Obesity Day."
-    },
-    {
       "title": "National Eric Day",
       "description": "Get ready to honor the bearers of a name that depicts nobility and leadership today."
     },
@@ -41,6 +45,10 @@
     {
       "title": "National Law Day",
       "description": "National Law Day — also known as Samvidhan Divas — commemorates the adoption of the Constitution of India."
+    },
+    {
+      "title": "Stir-Up Sunday",
+      "description": "Besides delicious family bonding, we cross off one item on our Christmas to-do lists — pudding!"
     },
     {
       "title": "World Lewis Day",
@@ -100,7 +108,7 @@
     },
     {
       "title": "Tina Turner’s Birthday",
-      "description": "This singer has created an unmatched and untainted legacy in the music industry."
+      "description": "This singer created an unmatched and untainted legacy in the music industry."
     }
   ]
 }
