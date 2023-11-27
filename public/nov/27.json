@@ -3,12 +3,12 @@
   "day": 27,
   "holidays": [
     {
-      "title": "International Shift Worker Sunday",
-      "description": "It’s time to recognize all shift workers who make our days easier!"
+      "title": "Cyber Monday",
+      "description": null
     },
     {
-      "title": "First Sunday of Advent",
-      "description": "Light your wreaths and pull out your Advent calendars; it’s the start of something new."
+      "title": "Chatham Islands Anniversary Day",
+      "description": "Fellow island lovers, brace yourself as we gain more knowledge on your favorite topic."
     },
     {
       "title": "Lancashire Day",
@@ -19,12 +19,20 @@
       "description": "Whipped or heavy, or both, this celebration will have you licking your fingers all day long."
     },
     {
+      "title": "National Brand Day",
+      "description": "If you’re an entrepreneur, this is the day to celebrate your brand."
+    },
+    {
       "title": "National Craft Jerky Day",
       "description": "Get ready to chew until you’re blue as we make our own special jerky!"
     },
     {
       "title": "National Lawrence Day",
       "description": "Don’t forget to treat your beloved Lawrence on this special day reserved just for them!"
+    },
+    {
+      "title": "National Sovereignty Day Argentina",
+      "description": "Some battles are won with defeat — or so Sovereignty Day tells us."
     },
     {
       "title": "Pins and Needles Day",
