@@ -3,8 +3,8 @@
   "day": 28,
   "holidays": [
     {
-      "title": "Cyber Monday",
-      "description": "Shop those amazing Black Friday deals from the comfort of your couch or office."
+      "title": "Giving Tuesday",
+      "description": null
     },
     {
       "title": "National French Toast Day",
@@ -15,10 +15,6 @@
       "description": "Keep reading to learn the history leading up to the Albanian Declaration of Independence."
     },
     {
-      "title": "Chatham Islands Anniversary Day",
-      "description": "Fellow island lovers, brace yourself as we gain more knowledge on your favorite topic."
-    },
-    {
       "title": "Mauritania Independence Day",
       "description": "Get ready to celebrate Mauritania Independence Day and learn more about this fascinating country!"
     },
@@ -27,12 +23,12 @@
       "description": "Let’s stand up and celebrate all the Alans in our lives to make them feel special today!"
     },
     {
-      "title": "National Brand Day",
-      "description": "If you’re an entrepreneur, this is the day to celebrate your brand."
-    },
-    {
       "title": "National Cole Day",
       "description": "Show your solidarity to a name that is widely popularized throughout the world, National Cole Day!"
+    },
+    {
+      "title": "National Day of Giving",
+      "description": "Take your generosity to the next level this National Day of Giving."
     },
     {
       "title": "National Madison Day",
@@ -41,10 +37,6 @@
     {
       "title": "National Patrick Day",
       "description": "Roll out the drums, wrap up the gifts, and let’s celebrate with the Patricks!"
-    },
-    {
-      "title": "National Sovereignty Day Argentina",
-      "description": "Some battles are won with defeat — or so Sovereignty Day tells us."
     },
     {
       "title": "Red Planet Day",
@@ -61,10 +53,6 @@
     {
       "title": "Bryshere Gray’s Birthday",
       "description": "Gray has played at several Philadelphia music events, including Jay-Z&#39;s “Made in America” Festival."
-    },
-    {
-      "title": "Charisse Galang’s Birthday",
-      "description": "This social media content creator is among the most successful American YouTube stars."
     },
     {
       "title": "Chase Elliott’s Birthday",
@@ -97,10 +85,6 @@
     {
       "title": "Karen Gillan’s Birthday",
       "description": "This actress is providing the blueprint that future generations can learn from."
-    },
-    {
-      "title": "Kinigra Deon’s Birthday",
-      "description": "Kinigra Deon worked as a clinical laboratory scientist while finishing her postgraduate studies."
     },
     {
       "title": "Rosemarie Vega’s Birthday",
