@@ -4,15 +4,15 @@
   "holidays": [
     {
       "title": "Chadwick Boseman Day",
-      "description": "On Chadwick Boseman&#39;s birthday, we remember the actor who sadly left us too soon."
-    },
-    {
-      "title": "Giving Tuesday",
-      "description": "Giving Tuesday is a day set to benefit the community."
+      "description": null
     },
     {
       "title": "National Lemon Cream Pie Day",
       "description": "We hope your sweet tooth is ready to celebrate National Lemon Cream Pie Day!"
+    },
+    {
+      "title": "Choose Women Wednesday",
+      "description": "Show your appreciation for the woman who can do everything on Choose Women Wednesday."
     },
     {
       "title": "Electronic Greetings Day",
@@ -20,19 +20,15 @@
     },
     {
       "title": "International Day of Solidarity with the Palestinian People",
-      "description": "With the ongoing Israeli-Palestinian conflict, everyone should be informed and raise awareness of the situation."
+      "description": "Stand up for a true cause today — stand up for the independence of Palestinians."
     },
     {
       "title": "International Day of Solidarity with the Palestinian People",
-      "description": "Stand up for a true cause today — stand up for the independence of Palestinians."
+      "description": "With the ongoing Israeli-Palestinian conflict, everyone should be informed and raise awareness of the situation."
     },
     {
       "title": "Isdal Woman Day",
       "description": "Learn about the Isdal Woman case, and the best ways to observe this day."
-    },
-    {
-      "title": "National Day of Giving",
-      "description": "Take your generosity to the next level this National Day of Giving."
     },
     {
       "title": "National Evan Day",
