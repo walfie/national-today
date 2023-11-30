@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Computer Security Day",
-      "description": "Cyber security affects everything from where we bank to who we elect to public office."
+      "description": null
     },
     {
       "title": "St. Andrew&#39;s Day",
@@ -19,8 +19,8 @@
       "description": "Take the time to celebrate the national holiday honoring the Father of the Philippine Revolution."
     },
     {
-      "title": "Choose Women Wednesday",
-      "description": "Show your appreciation for the woman who can do everything on Choose Women Wednesday."
+      "title": "Celebrate Shelter Pets Day",
+      "description": "Show Shelter Pets some love by giving at least one pet from the shelter a treat."
     },
     {
       "title": "Cities for Life Day",
@@ -35,12 +35,16 @@
       "description": "It is one of the most sacred festivals in Sikhism."
     },
     {
-      "title": "National Mason Jar Day",
-      "description": "Celebrate the holiday by trying an out-of-the-box craft with your mason jars."
+      "title": "Meth Awareness Day",
+      "description": "Spread the word and save a life or two from the fatal effects of this drug."
     },
     {
-      "title": "National Methamphetamine Awareness Day",
-      "description": "Spread the word and save a life or two from the fatal effects of this drug."
+      "title": "Mindanao Week of Peace",
+      "description": "Prepare for week-long activities to promote peace and harmony throughout the community."
+    },
+    {
+      "title": "National Mason Jar Day",
+      "description": "Celebrate the holiday by trying an out-of-the-box craft with your mason jars."
     },
     {
       "title": "National Mississippi Day",
