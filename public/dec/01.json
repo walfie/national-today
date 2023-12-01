@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Peppermint Bark Day",
-      "description": "White chocolate, semisweet chocolate, peppermint extract, and crushed candy cane!"
+      "description": null
     },
     {
       "title": "World AIDS Day",
@@ -63,12 +63,12 @@
       "description": "Portugal’s parliamentary democracy has continued to thrive since 1640."
     },
     {
-      "title": "Prisoners for Peace Day",
-      "description": "Preserve the peace and help us bring these brave prisoners to freedom."
+      "title": "Portugal Restoration of Independence Day",
+      "description": "Celebrate the day Portugal regained its independence, a successful revolution against the rule of Spain."
     },
     {
-      "title": "Restoration of Independence in Portugal",
-      "description": "Celebrate the day Portugal regained its independence, a successful revolution against the rule of Spain."
+      "title": "Prisoners for Peace Day",
+      "description": "Preserve the peace and help us bring these brave prisoners to freedom."
     },
     {
       "title": "Rockefeller Center Christmas Tree Lighting",
