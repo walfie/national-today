@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Bartender Day",
-      "description": "Bartenders have a rich history: They have been around since ancient times across cultures."
+      "description": null
     },
     {
       "title": "National Mutt Day",
@@ -55,19 +55,19 @@
       "description": "Get ready for some out-of-the-classroom fun, or just slay in your pajamas on the couch."
     },
     {
-      "title": "Play Basketball Day",
-      "description": "Channel your inner baller and rack up points as we celebrate Play Basketball Day."
-    },
-    {
       "title": "Safety Razor Day",
       "description": "Safety razor shaving is the epitome of classic revolutionary low-tech inventions that changed our lives."
+    },
+    {
+      "title": "SKYWARN™ Recognition Day",
+      "description": "Never fear, SKYWARN™ volunteers are here to keep you informed about the weather."
     },
     {
       "title": "Special Education Day",
       "description": "Today is very special because every child deserves the best education available."
     },
     {
-      "title": "United Arab Emirates National Day",
+      "title": "UAE National Day",
       "description": "The National Day of the UAE is a huge occasion that holds great historic relevance."
     },
     {
