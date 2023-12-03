@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "International Day of Persons with Disabilities",
-      "description": "Become more compassionate and understanding of the challenges faced by people with disabilities."
+      "description": null
     },
     {
       "title": "Candle Day",
@@ -23,6 +23,10 @@
       "description": "Join us for the Day of Navarre and enjoy the event and activities of this celebration."
     },
     {
+      "title": "Farmer’s Day in Ghana",
+      "description": "Farmer’s Day in Ghana celebrates the winners who do not give up and keep working hard."
+    },
+    {
       "title": "Faux Fur Friday",
       "description": "A special celebration for lovers of fuzzy clothes and animals."
     },
@@ -31,16 +35,12 @@
       "description": "Join the community in celebrating the Feast of St. Francis Xavier."
     },
     {
-      "title": "Ghana Farmer’s Day",
-      "description": "Ghana Farmer’s Day celebrates the winners who do not give up and keep working hard."
+      "title": "First Sunday of Advent",
+      "description": "Light your wreaths and pull out your Advent calendars; it’s the start of something new."
     },
     {
       "title": "Let’s Hug Day",
       "description": "Share some love and warmth by giving out (consensual!) hugs all day on December 3."
-    },
-    {
-      "title": "Make a Gift Day",
-      "description": "This unofficial holiday encourages people to create gifts for their loved ones."
     },
     {
       "title": "National Dorothy Day",
@@ -65,6 +65,10 @@
     {
       "title": "National Lisa Day",
       "description": "We’re sure you must know a Lisa or two, so join us in celebrating them today."
+    },
+    {
+      "title": "National Make a Gift Day",
+      "description": "This unofficial holiday encourages people to create gifts for their loved ones."
     },
     {
       "title": "National Rhubarb Vodka Day",
@@ -107,10 +111,6 @@
       "description": "This social media star started from scratch and is now followed by millions of people!"
     },
     {
-      "title": "Daily Dose of Internet’s Birthday",
-      "description": "Read about the progressive and upward spiral of this entertainment guru’s career."
-    },
-    {
       "title": "Emily&#39;s Ears’s Birthday",
       "description": "Emily’s Ears is on the right path to success with a fast-rising internet reputation."
     },
@@ -121,6 +121,10 @@
     {
       "title": "Jake T. Austin’s Birthday",
       "description": "Jake T. Austin has shared the screen with Selena Gomez in “Wizards of Waverly Place.”"
+    },
+    {
+      "title": "Daily Dose of Internet’s Birthday",
+      "description": "Read about the progressive and upward spiral of this entertainment guru’s career."
     },
     {
       "title": "Jenna Dewan’s Birthday",
