@@ -3,12 +3,8 @@
   "day": 4,
   "holidays": [
     {
-      "title": "National Cookie Day",
-      "description": "Who stole the cookies from the cookie jar?  On National Cookie Day, who cares?"
-    },
-    {
       "title": "Cabernet Franc Day",
-      "description": "Let’s bring out those wine glasses and make a toast to Cabernet Franc today."
+      "description": null
     },
     {
       "title": "Chester Greenwood (Earmuff) Day",
@@ -31,6 +27,10 @@
       "description": "We are here to deposit some information on banks and their importance to communities."
     },
     {
+      "title": "National Cookie Day",
+      "description": "National Cookie Day on December 4th is the perfect excuse to eat as many cookies as your stomach demands."
+    },
+    {
       "title": "National Dice Day",
       "description": "Get your board games out as we celebrate one of the planet’s oldest gaming tools — dice!"
     },
@@ -45,10 +45,6 @@
     {
       "title": "Santa’s List Day",
       "description": "Excited? Worried? Which of Santa’s lists do you feature on this year?"
-    },
-    {
-      "title": "SKYWARN™ Recognition Day",
-      "description": "Never fear, SKYWARN™ volunteers are here to keep you informed about the weather."
     },
     {
       "title": "Tree Dressing Day",
