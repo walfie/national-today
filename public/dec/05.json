@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "International Ninja Day",
-      "description": "Wear a ninja mask to plague your peers with ninja-ness and throwing stars!"
+      "description": null
     },
     {
       "title": "National Repeal Day",
@@ -13,10 +13,6 @@
     {
       "title": "Bathtub Party Day",
       "description": "Ditch your clothes, get the bath bombs, and get ready for a bathtub party."
-    },
-    {
-      "title": "Celebrate Shelter Pets Day",
-      "description": "Show Shelter Pets some love by giving at least one pet from the shelter a treat."
     },
     {
       "title": "Discovery Day (Haiti)",
@@ -31,8 +27,8 @@
       "description": "Get your schnapps offerings to celebrate the arrival of the Krampus and his ‘ruten.’"
     },
     {
-      "title": "Light up A Life",
-      "description": "Light up A Life is celebrated to help people keep the memories of loved ones alive."
+      "title": "Light up A Life Day",
+      "description": "Light up A Life Day is celebrated to help people keep the memories of loved ones alive."
     },
     {
       "title": "National AFL-CIO Day",
