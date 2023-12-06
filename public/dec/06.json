@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Gazpacho Day",
-      "description": "Gazpacho originated in Andalusia, a region of Spain, probably way back in the Middle Ages."
+      "description": null
     },
     {
       "title": "National Miners Day",
@@ -19,12 +19,12 @@
       "description": "Celebrate the beginning of the Spanish democracy by speaking up against dictatorship regimes."
     },
     {
-      "title": "Foundation of Quito Day",
-      "description": "Explore the history of Ecuador with us as we take a deep dive into Quito!"
+      "title": "Finland Independence Day",
+      "description": "To all the Finns out there, celebrate this Independence Day with more fervor than ever before!"
     },
     {
-      "title": "Independence Day",
-      "description": "To all the Finns out there, celebrate this Independence Day with more fervor than ever before!"
+      "title": "Foundation of Quito Day",
+      "description": "Explore the history of Ecuador with us as we take a deep dive into Quito!"
     },
     {
       "title": "King Bhumibol’s Birthday",
