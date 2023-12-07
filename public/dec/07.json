@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Letter Writing Day",
-      "description": "Dear reader, it’s been long since we wrote, but fortunately today is National Letter Writing Day."
+      "description": null
     },
     {
       "title": "National Pearl Harbor Day of Remembrance",
@@ -17,6 +17,10 @@
     {
       "title": "Flag Day of India",
       "description": "Real-life superheroes of the Armed forces are honored annually on Flag Day of India."
+    },
+    {
+      "title": "Hanukkah",
+      "description": "Happy Chanukah! The Jewish Festival of Rededication is also called the Festival of Lights."
     },
     {
       "title": "International Civil Aviation Day",
