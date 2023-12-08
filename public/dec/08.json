@@ -4,23 +4,23 @@
   "holidays": [
     {
       "title": "National Brownie Day",
-      "description": "Indulge in gooey goodness and let the world melt away for a delectable moment."
+      "description": null
     },
     {
       "title": "Pretend To Be A Time Traveler Day",
       "description": "On this day of imagination and time-hopping, we go wherever we want."
     },
     {
-      "title": "Albanian National Youth Day",
-      "description": "The future belongs to the youths; encourage youth activities to help the next generation thrive."
-    },
-    {
       "title": "Bodhi Day",
       "description": "Prepare your hearts and minds as we celebrate a day that brings out the best in us."
     },
     {
-      "title": "Feast of the Immaculate Conception",
-      "description": "Let us celebrate Mary and her sinless conception on the Feast of the Immaculate Conception."
+      "title": "Christmas Jumper Day",
+      "description": "From ugly sweaters to cozy mock necks, let&#39;s get into the spirit of the season."
+    },
+    {
+      "title": "Constitution Day of Uzbekistan",
+      "description": "Surviving the Soviets! Celebrate the sovereignty and rich history of the Republic of Uzbekistan."
     },
     {
       "title": "Feast of the Immaculate Conception",
@@ -31,8 +31,8 @@
       "description": "Learn how to kick off Spain’s Christmas season with the Immaculate Conception Day celebrations."
     },
     {
-      "title": "Lard Day",
-      "description": "Get your apron ready as we learn about cooking with lard this Lard Day."
+      "title": "Mother’s Day in Panama",
+      "description": "Get ready to give your time, gifts, and love as we celebrate the women dearest to us."
     },
     {
       "title": "National Blue Collar Day",
@@ -43,12 +43,20 @@
       "description": "It’s time to unite the public and healthcare benefits industry! Let’s learn more."
     },
     {
+      "title": "National Lard Day",
+      "description": "Get your apron ready as we learn about cooking with lard this Lard Day."
+    },
+    {
+      "title": "National Salesperson Day",
+      "description": "Be sure to go out of your way to say &#34;I appreciate you!&#34;"
+    },
+    {
       "title": "National Simon Day",
       "description": "We love celebrations! Today gives us a good reason to honor all the Simons we know."
     },
     {
-      "title": "Panama Mother’s Day",
-      "description": "Get ready to give your time, gifts, and love as we celebrate the women dearest to us."
+      "title": "National Youth Day Albania",
+      "description": "The future belongs to the youths; encourage youth activities to help the next generation thrive."
     },
     {
       "title": "Santa Marian Kamalen Day",
@@ -65,10 +73,6 @@
     {
       "title": "Udhauli Parva",
       "description": "Don your colors and get ready to say thank you to Mother Nature on this Udhauli Parva!"
-    },
-    {
-      "title": "Uzbekistan Constitution Day",
-      "description": "Surviving the Soviets! Celebrate the sovereignty and rich history of the Republic of Uzbekistan."
     },
     {
       "title": "Virgin of Caacupé Day",
