@@ -4,7 +4,11 @@
   "holidays": [
     {
       "title": "National Lager Day",
-      "description": "Lager is the light hoppy drink that is popular throughout the world."
+      "description": null
+    },
+    {
+      "title": "Worldwide Candle Lighting Day",
+      "description": "Believed to be the world’s largest candle lighting ceremony."
     },
     {
       "title": "Dewey Decimal System Day",
@@ -16,11 +20,15 @@
     },
     {
       "title": "Human Rights Day",
-      "description": "It is the most translated document around the world and is available in over 500 languages."
+      "description": "It is one of the most translated documents in the world and is available in over 500 languages."
     },
     {
       "title": "International Animal Rights Day",
       "description": "The holiday is shared with Human Rights Day, as it should be."
+    },
+    {
+      "title": "International Shareware Day",
+      "description": "Fire up that Qwerty and join us in exploring the broad range of shareware available."
     },
     {
       "title": "Iraq Victory Day",
@@ -33,10 +41,6 @@
     {
       "title": "National Derek Day",
       "description": "You most likely know someone called Derek. Shoot them a friendly text today showing your appreciation."
-    },
-    {
-      "title": "National Salesperson Day",
-      "description": "Be sure to go out of your way to say &#34;I appreciate you!&#34;"
     },
     {
       "title": "Nobel Prize Day",
