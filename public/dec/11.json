@@ -4,11 +4,7 @@
   "holidays": [
     {
       "title": "International Mountain Day",
-      "description": "Mountains are some of the most interesting geological features that our world has to offer."
-    },
-    {
-      "title": "Worldwide Candle Lighting Day",
-      "description": "Believed to be the world’s largest candle lighting ceremony."
+      "description": null
     },
     {
       "title": "Anniversary of the Statute of Westminster",
@@ -19,12 +15,8 @@
       "description": "Honor the triumphant independence and sovereignty of the Burkinabe people on Burkina Faso Republic Day."
     },
     {
-      "title": "Holiday Food Drive for the Needy Animals Day",
+      "title": "Holiday Food Drive for Needy Animals Day",
       "description": "Help raise awareness of animal welfare and become part of the solution."
-    },
-    {
-      "title": "International Shareware Day",
-      "description": "Fire up that Qwerty and join us in exploring the broad range of shareware available."
     },
     {
       "title": "National App Day",
@@ -87,10 +79,6 @@
       "description": "Mos Def embodies his quote: “All the things that are worth doing take time.”"
     },
     {
-      "title": "Natalie Viscuso’s Birthday",
-      "description": "Need more info? You’re in the right place. Also, you may know Viscuso from way before."
-    },
-    {
       "title": "Nikki Sixx’s Birthday",
       "description": "Nikki Sixx is spending his 60s celebrating his family, fatherhood, and sobriety."
     },
@@ -105,10 +93,6 @@
     {
       "title": "Sam Wilkinson’s Birthday",
       "description": "Sammy Wilk is infiltrating the hearts of music admirers and impacting the world slowly but surely!"
-    },
-    {
-      "title": "Stephan Labossiere’s Birthday",
-      "description": "This renowned author is changing the world one book at a time."
     },
     {
       "title": "Tommy Sotomayor’s Birthday",
