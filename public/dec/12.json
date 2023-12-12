@@ -4,11 +4,15 @@
   "holidays": [
     {
       "title": "Gingerbread House Day",
-      "description": "Can you think of a scent so warm, comforting, and synonymous with “the holidays are approaching?&#34;"
+      "description": null
     },
     {
       "title": "Choral Day",
       "description": "Join us as thousands of choirs around the world get together to unite in song."
+    },
+    {
+      "title": "Constitution Day in Thailand",
+      "description": "Join the colorful parades and street festivities taking place on Constitution Day in Thailand."
     },
     {
       "title": "Day of the Virgin of Guadalupe",
@@ -25,6 +29,10 @@
     {
       "title": "Green Monday",
       "description": "Leave space on your credit cards, it&#39;s a dash to the finish line!"
+    },
+    {
+      "title": "Guadalupe Day",
+      "description": "She is a remarkable part of believers’ daily lives — in their homes, churches, prayers, and community."
     },
     {
       "title": "International Day of Neutrality",
@@ -55,16 +63,8 @@
       "description": "That pop of floral color in everyone&#39;s home means the holidays are right around the corner."
     },
     {
-      "title": "Our Lady of Guadalupe Day",
-      "description": "She is a remarkable part of believers’ daily lives — in their homes, churches, prayers, and community."
-    },
-    {
       "title": "Pa Togan Nengminza Sangma",
       "description": "Learn more about the history of Pa-Togan Nengminza Sangma and how to celebrate this holiday."
-    },
-    {
-      "title": "Thailand Constitution Day",
-      "description": "Join the colorful parades and street festivities taking place on Thailand Constitution Day."
     },
     {
       "title": "Universal Health Coverage Day",
