@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Ice Cream Day",
-      "description": "You probably won’t hear the ice cream truck, with its delightful tune, roll through your neighborhood."
+      "description": null
     },
     {
       "title": "Malta Republic Day",
@@ -19,10 +19,6 @@
       "description": "Let&#39;s indulge in some delicious cream cheese frosting to whet our appetites."
     },
     {
-      "title": "National Day of Saint Lucia",
-      "description": "The National Day of Saint Lucia falls on December 13, marking the Feast Day of Saint Lucia."
-    },
-    {
       "title": "National Horse Day",
       "description": "It&#39;s a day to remember the economic, historic, and cultural contributions that horses have made."
     },
@@ -33,6 +29,10 @@
     {
       "title": "Pick A Pathologist Pal Day",
       "description": "Let’s look at how pathologists diagnose disease — analyzing tissue, cell, and body fluid samples."
+    },
+    {
+      "title": "St. Lucia National Day",
+      "description": "St. Lucia National Day falls on December 13, marking the Feast Day of Saint Lucia."
     },
     {
       "title": "U.S. National Guard Birthday",
@@ -77,10 +77,6 @@
     {
       "title": "Jasmine Mir’s Birthday",
       "description": "Jasmine Mir began her social media journey at 10, and she hasn&#39;t looked back since."
-    },
-    {
-      "title": "Joey Sasso’s Birthday",
-      "description": "Though he’s still new to the industry, Joey Sasso’s future looks promising."
     },
     {
       "title": "M. Maggie Miller’s Birthday",
