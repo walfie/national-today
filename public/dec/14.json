@@ -3,8 +3,8 @@
   "day": 14,
   "holidays": [
     {
-      "title": "National Free Shipping Day",
-      "description": "You can shop ’til you drop by getting everything online; plus, without the sky-high shipping."
+      "title": "Free Shipping Day",
+      "description": null
     },
     {
       "title": "Monkey Day",
@@ -61,10 +61,6 @@
     {
       "title": "James Comey’s Birthday",
       "description": "Comey went to the University of Chicago Law School where he received a law degree."
-    },
-    {
-      "title": "Jehiely Mora Vergara’s Birthday",
-      "description": "Jehiely’s videos are really hilarious — you will be excited to learn more about her."
     },
     {
       "title": "Kate Bogucharskaia’s Birthday",
