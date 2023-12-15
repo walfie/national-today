@@ -4,27 +4,31 @@
   "holidays": [
     {
       "title": "National Cupcake Day",
-      "description": "Indulge all you want in your favorite cupcake treats today—you&#39;ll probably want seconds."
+      "description": null
+    },
+    {
+      "title": "Ugly Sweater Day",
+      "description": "One thing&#39;s for sure — this holiday will certainly have you laughing all day long!"
     },
     {
       "title": "Bill of Rights Day",
       "description": "It’s an important day to celebrate America’s Constitution and the framework of society."
     },
     {
+      "title": "Cat Herders Day",
+      "description": "Disclaimer: this holiday is not dedicated to cats."
+    },
+    {
       "title": "International Tea Day",
       "description": "Step aside, coffee and Coca Cola, we drink the most popular beverage in the world today!"
     },
     {
-      "title": "Lemon Cupcake Day",
-      "description": "It’s Lemon Cupcake Day! Show some extra love for this humble but zesty dessert today."
+      "title": "National Lemon Cupcake Day",
+      "description": "It’s National Lemon Cupcake Day! Show some extra love for this humble but zesty dessert today."
     },
     {
-      "title": "National Cat Herders Day",
-      "description": "Disclaimer: this holiday is not dedicated to cats."
-    },
-    {
-      "title": "National Re-Gifting Day",
-      "description": "Join us as we learn about the benefits of re-gifting this National Re-Gifting Day!"
+      "title": "National Regifting Day",
+      "description": "Join us as we learn about the benefits of re-gifting this National Regifting Day!"
     },
     {
       "title": "National Wear Your Pearls Day",
@@ -33,10 +37,6 @@
     {
       "title": "Antonio Garza’s Birthday",
       "description": "Don’t miss out! Everything you want to know about the fabulous Antonio Garza."
-    },
-    {
-      "title": "Apryl Jones’s Birthday",
-      "description": "Celebrate this model and reality T.V. star who is enthralling us with her poise"
     },
     {
       "title": "Daniel Ezra’s Birthday",
