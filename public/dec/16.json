@@ -4,19 +4,11 @@
   "holidays": [
     {
       "title": "National Chocolate Covered Anything Day",
-      "description": "What do BBQ potato chips, strawberries, and ants have in common?"
-    },
-    {
-      "title": "National Ugly Sweater Day",
-      "description": "One thing&#39;s for sure — this holiday will certainly have you laughing all day long!"
+      "description": null
     },
     {
       "title": "Bahrain National Day",
       "description": "Today, we honor the Bahrainis and their stories. So go ahead and bring out the biryani!"
-    },
-    {
-      "title": "Bangladesh Victory Day",
-      "description": "Want to learn why Bangladesh Victory Day is one of the most victorious days in history?"
     },
     {
       "title": "Barbie And Barney Backlash Day",
@@ -35,12 +27,20 @@
       "description": "Sit back, relax, and enjoy the way we celebrate these unrecognized heroes."
     },
     {
+      "title": "National Wreaths Across America Day",
+      "description": "“Remember fallen U.S. veterans; honor those who serve; and teach your children the value of freedom.&#34;"
+    },
+    {
       "title": "Stupid Toy Day",
       "description": "Did you spend eight hours a day sustaining the lives of Tamagotchis? Happy Stupid Toy Day!"
     },
     {
       "title": "Underdog Day",
       "description": "Join us as we cheer those who give it their best but do not emerge victorious."
+    },
+    {
+      "title": "Bangladesh Victory Day",
+      "description": "Want to learn why Victory Day of Bangladesh is one of the most victorious days in history?"
     },
     {
       "title": "Vijay Diwas",
