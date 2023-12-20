@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Sangria Day",
-      "description": "The Spanish have spiked the punch and we&#39;re definitely here for it."
+      "description": null
     },
     {
       "title": "Cathode-Ray Tube Day",
@@ -31,8 +31,8 @@
       "description": "Learn about the man who was convicted of aiding in President Abraham Lincoln&#39;s assassination."
     },
     {
-      "title": "National Gregory Day",
-      "description": "Educate yourself on some famous people called Gregory this National Gregory Day."
+      "title": "National Greg Day",
+      "description": "Educate yourself on some famous people called Greg this National Greg Day."
     },
     {
       "title": "National Steven Day",
