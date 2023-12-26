@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "Boxing Day",
-      "description": "In the U.K., Boxing Day is known as a shopping holiday, much like Black Friday."
+      "description": null
     },
     {
       "title": "Kwanzaa",
@@ -35,8 +35,8 @@
       "description": "Whiners have whined their way into getting their own holiday."
     },
     {
-      "title": "Slovenia Independence and Unity Day",
-      "description": "Join us as we look into the history of Independence and Unity Day in Slovenia."
+      "title": "Slovenia Independence Day",
+      "description": "Join us as we look into the history of Slovenia Independence Day."
     },
     {
       "title": "St. Stephen&#39;s Day (Ireland)",
