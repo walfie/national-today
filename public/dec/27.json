@@ -4,27 +4,27 @@
   "holidays": [
     {
       "title": "National Fruitcake Day",
-      "description": "A day for lovers of fruitcake to rejoice in the delights of the most misunderstood fruit."
+      "description": null
+    },
+    {
+      "title": "Abigail Day",
+      "description": "With its biblical roots and a cute, accessible nickname, Abigail’s popularity is hardly strange."
     },
     {
       "title": "Anniversary of Benazir Bhutto&#39;s Death",
       "description": "Did you know Benazir Bhutto spent her life fighting for the cause of democracy?"
     },
     {
+      "title": "Case Day",
+      "description": "Case is a modern, straightforward given name that has a very interesting origin."
+    },
+    {
       "title": "International Day of Epidemic Preparedness",
       "description": "Can epidemics be stopped? Health experts certainly believe so. All that is required is preparedness."
     },
     {
-      "title": "Make Cut-Out Snowflakes Day",
-      "description": "We are ready with our art supplies for Make Cut-Out Snowflakes Day."
-    },
-    {
-      "title": "National Abigail Day",
-      "description": "With its biblical roots and a cute, accessible nickname, Abigail’s popularity is hardly strange."
-    },
-    {
-      "title": "National Case Day",
-      "description": "Case is a modern, straightforward given name that has a very interesting origin."
+      "title": "National Make Cut-Out Snowflakes Day",
+      "description": "We are ready with our art supplies for National Make Cut-Out Snowflakes Day."
     },
     {
       "title": "National Martha Day",
@@ -77,10 +77,6 @@
     {
       "title": "Louis Pasteur’s Birthday",
       "description": "By inventing vaccines and pasteurization, Louis Pasteur changed the course of humanity."
-    },
-    {
-      "title": "Maya Benberry’s Birthday",
-      "description": "This reality star and lifestyle guru is surely making a name for herself!"
     },
     {
       "title": "Nick Chubb’s Birthday",
