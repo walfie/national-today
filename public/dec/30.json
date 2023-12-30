@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Bacon Day",
-      "description": "If you want to scream at the top of your lungs, “I love bacon,” join us!"
+      "description": null
     },
     {
       "title": "National Resolution Planning Day",
@@ -19,16 +19,16 @@
       "description": "There are only two days left to fulfill and accomplish your goals, so get on with it!"
     },
     {
-      "title": "National Bicarbonate of Soda Day",
-      "description": "Bicarbonate of soda is a versatile compound that is a benefit to anyone’s home."
-    },
-    {
       "title": "National Cheryl Day",
       "description": "Join us as we celebrate all the Cheryls this National Cheryl Day!"
     },
     {
       "title": "Rizal Day",
       "description": "Let&#39;s remember and honor the life and works of Dr. Jose Rizal!"
+    },
+    {
+      "title": "Sodium Bicarbonate Day",
+      "description": "Sodium Bicarbonate is a versatile compound that is a benefit to anyone’s home."
     },
     {
       "title": "Bandhunta Izzy’s Birthday",
@@ -60,7 +60,7 @@
     },
     {
       "title": "Kim Taehyung’s Birthday",
-      "description": "Let’s celebrate one of the most famous K-Pop stars, the talented and dashing Kim Taehyung."
+      "description": "Let’s celebrate one of the most famous K-pop stars, the talented and dashing Kim Taehyung."
     },
     {
       "title": "Kristin Kreuk’s Birthday",
