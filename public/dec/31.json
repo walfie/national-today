@@ -4,11 +4,15 @@
   "holidays": [
     {
       "title": "New Year&#39;s Eve",
-      "description": "The last day of the last month of what usually feels like the longest year ever."
+      "description": null
     },
     {
       "title": "Hogmanay",
       "description": "Hogmanay is a Scottish word meaning &#34;the last day of the year.&#34;"
+    },
+    {
+      "title": "International Solidarity Day of Azerbaijanis",
+      "description": "We’re joining Azerbaijanis all over the world in saluting their beautiful country."
     },
     {
       "title": "Make Up Your Mind Day",
@@ -37,10 +41,6 @@
     {
       "title": "Unlucky Day",
       "description": "Unload all the bad from this year and get ready for the upcoming one."
-    },
-    {
-      "title": "World Azerbaijanis Solidarity Day",
-      "description": "We’re joining Azerbaijanis all over the world in saluting their beautiful country."
     },
     {
       "title": "World Peace Meditation Day",
