@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "Apple Gifting Day",
-      "description": "Celebrate the awesomeness of apples with your very own collection of assortments."
+      "description": null
     },
     {
       "title": "Bonza Bottler Day",
@@ -27,12 +27,20 @@
       "description": "Let’s celebrate one of the world’s most valuable currencies, along with the new year, of course."
     },
     {
+      "title": "First-Foot Day",
+      "description": "Observe the custom of first-footing; be the first to step foot in your home."
+    },
+    {
       "title": "Global Family Day",
       "description": "Did you know Global Family Day is an essential step towards world peace?"
     },
     {
-      "title": "Haiti Independence Day",
+      "title": "Haitian Independence Day",
       "description": "Come along with us as we travel back in time to pre-colonial Haiti."
+    },
+    {
+      "title": "Handsel Monday",
+      "description": "Let’s explore the meaning, history, and significance of this Scottish holiday!"
     },
     {
       "title": "International Public Domain Day",
@@ -47,16 +55,16 @@
       "description": "The famous cocktail consists of vodka, tomato juice, lemon juice, Worcestershire, cayenne, and salt."
     },
     {
-      "title": "National First-Foot Day",
-      "description": "Observe the custom of first-footing; be the first to step foot in your home."
-    },
-    {
       "title": "National Hangover Day",
       "description": "New Year&#39;s Day turns into National Hangover Day, read on for some tips on how to feel better."
     },
     {
       "title": "National Shepherd Day",
       "description": "Let’s all set everything aside to celebrate that remarkable Shepherd in our lives!"
+    },
+    {
+      "title": "National Thank God Its Monday Day",
+      "description": "Rewire your minds to be positive about the most hated day of the week."
     },
     {
       "title": "New Year&#39;s Day",
@@ -89,6 +97,10 @@
     {
       "title": "Sudan Independence Day",
       "description": "Get ready for some history lessons about an amazing nation and how they got their independence."
+    },
+    {
+      "title": "Tournament of Roses Parade",
+      "description": "Celebrate the New Year with the entire family by attending the famous Tournament of Roses Parade!"
     },
     {
       "title": "Triumph of the Revolution",
