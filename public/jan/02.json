@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Science Fiction Day",
-      "description": "When it comes to science fiction, the stories are only limited by one’s imagination."
+      "description": null
     },
     {
       "title": "55 mph Speed Limit Day",
@@ -15,12 +15,12 @@
       "description": "On Ancestry Day, we commemorate the labor of past heroes and their struggle for independence."
     },
     {
-      "title": "Day after New Year&#39;s Day",
-      "description": "Let&#39;s get ready to celebrate the best day ever after New Year’s."
-    },
-    {
       "title": "Happy Mew Year for Cats Day",
       "description": "Slip extra catnip, and give cats in need the chance for a fresh start."
+    },
+    {
+      "title": "Motivation and Inspiration Day",
+      "description": "Get up, get inspired, and get moving on National Motivation and Inspiration Day."
     },
     {
       "title": "National Buffet Day",
@@ -31,15 +31,11 @@
       "description": "Visit a favorite bakery. Bring out those baking trays. Do you hear those cream puffs calling?"
     },
     {
-      "title": "National Erika Day",
+      "title": "National Erica Day",
       "description": "Be like Erika and forge your own path in life, as it should be."
     },
     {
-      "title": "Motivation and Inspiration Day",
-      "description": "Get up, get inspired, and get moving on National Motivation and Inspiration Day."
-    },
-    {
-      "title": "National Personal Trainer Awareness Day",
+      "title": "National Personal Trainer Day",
       "description": "Appreciate the individuals who put in time, patience, and sweat to help you get fit."
     },
     {
@@ -47,15 +43,15 @@
       "description": "See our awesome tips to celebrate this day and give your pet the best travel experience!"
     },
     {
-      "title": "National Thank God Its Monday Day",
-      "description": "Rewire your minds to be positive about the most hated day of the week."
+      "title": "New Year&#39;s Day Substitute",
+      "description": "Let&#39;s get ready to celebrate the best day ever after New Year’s."
     },
     {
       "title": "Reconquest Day",
       "description": "Learn about the Reconquest — one of the greatest events that changed the course of Spanish history."
     },
     {
-      "title": "Run Up the Flagpole and See If Anyone Salutes Day",
+      "title": "Run it Up the Flagpole and See If Anyone Salutes it Day",
       "description": "It&#39;s the perfect day to think of the craziest ideas and put them out there."
     },
     {
@@ -65,10 +61,6 @@
     {
       "title": "Swiss Cheese Day",
       "description": "Put on a bib and get ready to dig into the backstory of this creamy cheese."
-    },
-    {
-      "title": "Tournament of Roses Parade",
-      "description": "Celebrate the New Year with the entire family by attending the famous Tournament of Roses Parade!"
     },
     {
       "title": "World Introvert Day",
