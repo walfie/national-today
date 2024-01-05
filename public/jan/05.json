@@ -4,15 +4,15 @@
   "holidays": [
     {
       "title": "Carver Day",
-      "description": "Time to put those green fingers to use as we celebrate an agricultural legend."
-    },
-    {
-      "title": "Day of Dialogue",
-      "description": "Let’s have difficult conversations with compassion and understanding, making the world a better place."
+      "description": null
     },
     {
       "title": "National Bird Day",
       "description": "While birds are amazing, they are also a species under particular threat."
+    },
+    {
+      "title": "National Day of Dialogue",
+      "description": "Let’s have difficult conversations with compassion and understanding, making the world a better place."
     },
     {
       "title": "National Ellen Day",
