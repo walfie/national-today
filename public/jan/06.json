@@ -3,12 +3,8 @@
   "day": 6,
   "holidays": [
     {
-      "title": "National Walker’s Shortbread Day",
-      "description": "Try the irresistible all butter taste of Walker&#39;s Shortbread Today!"
-    },
-    {
       "title": "Three Kings Day",
-      "description": "Three Kings Day marks the glorification of baby Jesus by the Three Wise Men."
+      "description": null
     },
     {
       "title": "Apple Tree Day",
@@ -35,7 +31,7 @@
       "description": "National Bean Day is the perfect excuse to cook our favorite comfort food."
     },
     {
-      "title": "National Cuddle Up Day",
+      "title": "National Cuddle Day",
       "description": "It’s a great excuse to warm up by cuddling with those closest to you!"
     },
     {
@@ -45,10 +41,6 @@
     {
       "title": "National Samantha Day",
       "description": "No matter the surname or the birthday, what kind of Samantha are you?"
-    },
-    {
-      "title": "National Shortbread Day",
-      "description": "Is shortbread really that short? Learn all about the name and fame of this Scottish delight."
     },
     {
       "title": "National Smith Day",
@@ -63,11 +55,15 @@
       "description": "Waiting for the perfect day to take down your Christmas tree? Well, now you have it."
     },
     {
+      "title": "National Walker’s Shortbread Day",
+      "description": "Try the irresistible all butter taste of Walker&#39;s Shortbread Today!"
+    },
+    {
       "title": "Uruguay Children&#39;s Day/Ephiphany",
       "description": "Today we join with the children to celebrate this special day that revolves around receiving gifts."
     },
     {
-      "title": "World Day for War Orphans",
+      "title": "World Day of War Orphans",
       "description": "War affects us all, including children who have to suffer the early pain of parental loss."
     },
     {
@@ -105,10 +101,6 @@
     {
       "title": "Norman Reedus’s Birthday",
       "description": "Norman Reedus has various talents. This actor and singer is also a great T.V. host."
-    },
-    {
-      "title": "Polo G’s Birthday",
-      "description": "In the few years since his career started, this talented rapper has been unstoppable."
     },
     {
       "title": "Ree Drummond’s Birthday",
