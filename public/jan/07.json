@@ -3,8 +3,16 @@
   "day": 7,
   "holidays": [
     {
+      "title": "Baptism of the Lord",
+      "description": null
+    },
+    {
       "title": "Distaff Day",
       "description": "There are some amazing things to discover about Distaff Day, and you’ll find them here."
+    },
+    {
+      "title": "Golden Globe Awards",
+      "description": "Our suggestions will have you glittering and celebrating just like the stars."
     },
     {
       "title": "Harlem Globetrotter’s Day",
@@ -17,10 +25,6 @@
     {
       "title": "I’m Not Going To Take It Anymore Day",
       "description": "Big changes can occur when people are empowered to stand up for themselves."
-    },
-    {
-      "title": "Mahayana New Year",
-      "description": "Celebrating one of the main branches of Buddhism."
     },
     {
       "title": "National Bobblehead Day",
