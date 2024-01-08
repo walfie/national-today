@@ -4,15 +4,31 @@
   "holidays": [
     {
       "title": "National Bubble Bath Day",
-      "description": "Nothing like slipping into the hot water of a bubble bath for a nice relaxing time."
+      "description": null
+    },
+    {
+      "title": "National Clean Your Desk Day",
+      "description": "Here are facts, tips, and motivation to help you organize and declutter today."
+    },
+    {
+      "title": "National Gluten-Free Day",
+      "description": "Many know nothing about it, while 2.5 million people in the U.S. battle against it."
     },
     {
       "title": "Argyle Day",
       "description": "Diamonds are forever — let’s take a look at the popular argyle pattern and its history."
     },
     {
+      "title": "Coming of Age Day",
+      "description": "Coming of Age Day is a Japanese tradition with many interesting elements and much glamour."
+    },
+    {
       "title": "Earth&#39;s Rotation Day",
       "description": "The Earth rotates on an almost-vertical axis every 24 hours, which gives us one Earth day."
+    },
+    {
+      "title": "National 4th Graders Day",
+      "description": "Let&#39;s celebrate the magic of being 9 or 10 and show what fourth graders can do!"
     },
     {
       "title": "National English Toffee Day",
@@ -31,32 +47,24 @@
       "description": "There’s more to this feathery domestic bird than just being an ingredient for a sumptuous meal."
     },
     {
-      "title": "National Sunday Supper Day",
-      "description": "Let us inspire you to create a closer bond with your family members with shared mealtimes."
-    },
-    {
       "title": "National Winter Skin Relief Day",
       "description": "See how you can remedy the drastic effects winter can have on your skin!"
+    },
+    {
+      "title": "Plough Monday",
+      "description": "We have all the details you need to know about this unique farmworkers festival."
     },
     {
       "title": "Show And Tell At Work Day",
       "description": "Join us as we celebrate Show and Tell At Work Day this January 8!"
     },
     {
-      "title": "The Baptism of the Lord",
-      "description": "Let’s see why the Baptism of the Lord is so significant to believers worldwide."
-    },
-    {
-      "title": "Unknown Citizens’ Day",
-      "description": "Join us as we celebrate the backbone of Filipino society this Unknown Citizens’ Day!"
+      "title": "Typing Day",
+      "description": "Rest those fingers as we celebrate typing and the revolution it was back in the day."
     },
     {
       "title": "War on Poverty Day",
       "description": "Here’s how to celebrate War on Poverty Day and the poverty-reducing initiatives the Johnson administration proposed."
-    },
-    {
-      "title": "World Typing Day",
-      "description": "Rest those fingers as we celebrate typing and the revolution it was back in the day."
     },
     {
       "title": "Elvis Presley’s Birthday",
