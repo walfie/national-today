@@ -3,24 +3,12 @@
   "day": 9,
   "holidays": [
     {
-      "title": "National Clean Your Desk Day",
-      "description": "Here are facts, tips, and motivation to help you organize and declutter today."
-    },
-    {
-      "title": "National Law Enforcement Appreciation Day",
-      "description": "The perfect time to show officers we understand how difficult their job is."
+      "title": "National Law Enforcement Day",
+      "description": null
     },
     {
       "title": "Balloon Ascension Day",
       "description": "Hydrogen-powered hot air balloons are an adventurous, graceful gift of the French people to the world."
-    },
-    {
-      "title": "Coming of Age Day",
-      "description": "Coming of Age Day is a Japanese tradition with many interesting elements and much glamour."
-    },
-    {
-      "title": "Golden Globe Awards",
-      "description": "Our suggestions will have you glittering and celebrating just like the stars."
     },
     {
       "title": "International Choreographers Day",
@@ -47,12 +35,8 @@
       "description": "Cherish the ones in your life who are named Faith and express your love for them."
     },
     {
-      "title": "National Fourth Graders Day",
-      "description": "Let&#39;s celebrate the magic of being 9 or 10 and show what fourth graders can do!"
-    },
-    {
-      "title": "National Static Electricity Day",
-      "description": "Let’s ignite a spark as we celebrate National Static Electricity Day together."
+      "title": "National Shop For Travel Day",
+      "description": "Revamp your travel experience! Create awesome lifetime memories on this day."
     },
     {
       "title": "National WONK Day",
@@ -63,10 +47,6 @@
       "description": "Learn some new words, use some old ones, and maybe even borrow them from someone else!"
     },
     {
-      "title": "No Pants Subway Ride Day",
-      "description": "Keep your pants on (for now) and learn more about this quirky yet very real holiday!"
-    },
-    {
       "title": "Panama&#39;s Martyrs&#39; Day",
       "description": "Mount the Panamanian flag and let’s learn more about Martyrs’ Day in Panama!"
     },
@@ -75,8 +55,12 @@
       "description": "God is good, and Play God Day is a day for us to be the same!"
     },
     {
-      "title": "Plough Monday",
-      "description": "We have all the details you need to know about this unique farmworkers festival."
+      "title": "Poetry at Work Day",
+      "description": "A poem at work a day keeps creativity gushing in all week."
+    },
+    {
+      "title": "Static Electricity Day",
+      "description": "Let’s ignite a spark as we celebrate National Static Electricity Day together."
     },
     {
       "title": "Brent Rivera’s Birthday",
@@ -112,7 +96,7 @@
     },
     {
       "title": "Toosii’s Birthday",
-      "description": "A millennial rapper that has gone from internet stardom to signing with well-known labels!"
+      "description": "He&#39;s a Gen Z rapper who has gone from internet stardom to signing with well-known labels."
     },
     {
       "title": "Wengie’s Birthday",
