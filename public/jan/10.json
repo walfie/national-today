@@ -3,8 +3,8 @@
   "day": 10,
   "holidays": [
     {
-      "title": "National Houseplant Appreciation Day",
-      "description": "Have the post-holiday blues? Brighten up your house with a lovely plant."
+      "title": "Houseplant Appreciation Day",
+      "description": null
     },
     {
       "title": "League of Nations Day",
@@ -31,16 +31,12 @@
       "description": "Get your stocks up, it’s National Shareholders Day! Join us as we learn more."
     },
     {
-      "title": "National Shop For Travel Day",
-      "description": "Revamp your travel experience! Create awesome lifetime memories on this day."
+      "title": "National Take the Stairs Day",
+      "description": "How are you getting around today? We hope you’re taking the stairs wherever you can."
     },
     {
       "title": "Peculiar People Day",
       "description": "Where’s the fun in being normal? Let’s get extra-ordinary and do great exploits."
-    },
-    {
-      "title": "Poetry at Work Day",
-      "description": "A poem at work a day keeps creativity gushing in all week."
     },
     {
       "title": "Ben Azelart’s Birthday",
