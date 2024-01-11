@@ -4,11 +4,15 @@
   "holidays": [
     {
       "title": "Birth anniversary of National Artist Atang de la Rama",
-      "description": "Let’s take a trip down memory lane, it’s Atang de la Rama’s birthday!"
+      "description": null
     },
     {
       "title": "Cigarettes are Hazardous to Your Health Day",
       "description": "Stay away from cigarettes and learn how they can negatively impact your health."
+    },
+    {
+      "title": "Healthy Weight, Healthy Look Day",
+      "description": "Beef up or cut down on those carbs, and put in some gym time too."
     },
     {
       "title": "Heritage Treasures Day",
@@ -55,14 +59,6 @@
       "description": "Holy cow, it&#39;s National Milk Day! Celebrate the cornerstone of dairy with these ideas."
     },
     {
-      "title": "National Step in a Puddle and Splash Your Friends Day",
-      "description": "Step in, splash, and have wet fun with friends; the rain brings puddles for a reason."
-    },
-    {
-      "title": "National Take the Stairs Day",
-      "description": "How are you getting around today? We hope you’re taking the stairs wherever you can."
-    },
-    {
       "title": "National Tara Day",
       "description": "You may just be Tara to some, but you’re a goddess worth celebrating to us."
     },
@@ -77,6 +73,10 @@
     {
       "title": "Secret Pal Day",
       "description": "We celebrate the people who listen to our secrets and keep their mouths shut."
+    },
+    {
+      "title": "Step in a Puddle and Splash Your Friends Day",
+      "description": "Step in, splash, and have wet fun with friends; the rain brings puddles for a reason."
     },
     {
       "title": "World Sketchnote Day",
