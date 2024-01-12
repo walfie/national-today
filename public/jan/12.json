@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "Kiss a Ginger Day",
-      "description": "Red hair is slowly disappearing around the world, so kiss a ginger while you still can!"
+      "description": null
     },
     {
       "title": "National Pharmacist Day",
@@ -13,10 +13,6 @@
     {
       "title": "Feast of Fabulous Wild Men Day",
       "description": "An ode to eye candy in the form of male homo sapiens."
-    },
-    {
-      "title": "Healthy Weight, Healthy Look Day",
-      "description": "Beef up or cut down on those carbs, and put in some gym time too."
     },
     {
       "title": "National Curried Chicken Day",
@@ -37,6 +33,10 @@
     {
       "title": "National Youth Day",
       "description": "Today, Indians honor the birthday of Swami Vivekananda, one of India’s greatest spiritual and social leaders."
+    },
+    {
+      "title": "Quitters Day",
+      "description": "Prepare to be well motivated as we mark a day to inspire us not to quit."
     },
     {
       "title": "Remembrance Day",
