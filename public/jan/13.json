@@ -4,11 +4,7 @@
   "holidays": [
     {
       "title": "Korean American Day",
-      "description": "Korean American Day honors people of Korean descent who have made immeasurable contributions to the country."
-    },
-    {
-      "title": "National Gluten-Free Day",
-      "description": "Many know nothing about it, while 2.5 million people in the U.S. battle against it."
+      "description": null
     },
     {
       "title": "National Rubber Ducky Day",
@@ -27,10 +23,6 @@
       "description": "Celebrate the dreams that give your life purpose and make them a reality!"
     },
     {
-      "title": "National Blame Someone Else Day",
-      "description": "We’ve all had plenty of practice so it shouldn’t be a wildly daunting task."
-    },
-    {
       "title": "National Catherine Day",
       "description": "Get ready to celebrate this day and all the Catherines in the world with us!"
     },
@@ -47,16 +39,16 @@
       "description": "Unleash your inner child and get creative with some stickers!"
     },
     {
+      "title": "National Vision Board Day",
+      "description": "Get creative, using your imagination and pictures to envision the goals you desire for your life."
+    },
+    {
       "title": "Poetry Break Day",
       "description": "Ignite your creativity, grab your pen and notebook, and let poetry flow through them!"
     },
     {
       "title": "Public Radio Broadcasting Day",
       "description": "Learn how the radio was invented and how to appreciate and celebrate this day."
-    },
-    {
-      "title": "Quitters Day",
-      "description": "Prepare to be well motivated as we mark a day to inspire us not to quit."
     },
     {
       "title": "Stephen Foster Memorial Day",
