@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Dress Up Your Pet Day",
-      "description": "Dress up your furry family member in comfortable pet clothing — maybe even get matching outfits!"
+      "description": null
     },
     {
       "title": "National Hot Pastrami Sandwich Day",
@@ -23,12 +23,12 @@
       "description": "Let your colorful, creative masterpieces take to the sky as we celebrate International Kite Day."
     },
     {
-      "title": "National Undhiyu Day",
-      "description": "Gather at the table and join in partaking of this mouth-watering delicacy."
+      "title": "National Sunday Supper Day",
+      "description": "Let us inspire you to create a closer bond with your family members with shared mealtimes."
     },
     {
-      "title": "National Vision Board Day",
-      "description": "Get creative, using your imagination and pictures to envision the goals you desire for your life."
+      "title": "National Undhiyu Day",
+      "description": "Gather at the table and join in partaking of this mouth-watering delicacy."
     },
     {
       "title": "Novy God (Russian New Year)",
@@ -49,6 +49,10 @@
     {
       "title": "Take a Missionary to Lunch Day",
       "description": "Today we celebrate missionaries across the globe for their adventurous spirit and selfless acts."
+    },
+    {
+      "title": "Unknown Citizens’ Day",
+      "description": "Join us as we celebrate the backbone of Filipino society this Unknown Citizens’ Day!"
     },
     {
       "title": "World Logic Day",
