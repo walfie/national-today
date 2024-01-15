@@ -3,6 +3,10 @@
   "day": 15,
   "holidays": [
     {
+      "title": "Martin Luther King Day",
+      "description": null
+    },
+    {
       "title": "National Bagel Day",
       "description": "Bagels have a history that is richer than your favorite cream cheese spread!"
     },
@@ -15,8 +19,24 @@
       "description": "Are you a female black college student looking for support? Alpha Kappa Alpha has your back."
     },
     {
-      "title": "Day of Sanctity and Protection of Human Life",
-      "description": "Today reflects on how precious life is — no matter how short it is."
+      "title": "Blue Monday",
+      "description": "Are we destined to be blue on this specific Monday? Read on and decide, if so!"
+    },
+    {
+      "title": "Brew Monday",
+      "description": "Time to schedule a meeting with someone who finds this cold, gray winter’s day an obstacle."
+    },
+    {
+      "title": "Civil Rights Day",
+      "description": "In the words of Frederick Douglass: “If there is no struggle, there is no progress.”"
+    },
+    {
+      "title": "Elementary School Teacher Day",
+      "description": "Elementary school teachers leave a lasting impression on us with their warmth and kindness."
+    },
+    {
+      "title": "Idaho Human Rights Day",
+      "description": "Prepare for a parade honoring the life of Martin Luther King Jr., our favorite civil-rights activist."
     },
     {
       "title": "Indian Army Day",
@@ -53,14 +73,6 @@
     {
       "title": "Wikipedia Day",
       "description": "Explore the love for research by checking out some of the most famous Wikipedia pages."
-    },
-    {
-      "title": "World Religion Day",
-      "description": "Our differences make us stronger, so join us in celebrating our different beliefs and cultures."
-    },
-    {
-      "title": "World Snow Day",
-      "description": "‘Enjoy, experience and explore’ —  the motto of World Snow Day, which we’re taking seriously indeed."
     },
     {
       "title": "Martin Luther King’s Birthday",
