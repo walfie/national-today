@@ -3,12 +3,8 @@
   "day": 16,
   "holidays": [
     {
-      "title": "Martin Luther King Jr. Day",
-      "description": "Take time to reflect and take action on civil rights issues across the globe."
-    },
-    {
       "title": "National Fig Newton Day",
-      "description": "Ready to get figgy with it? We’ve got everything to make your day pretty sweet."
+      "description": null
     },
     {
       "title": "National Nothing Day",
@@ -19,28 +15,8 @@
       "description": "Get ready for some exhilaration as we celebrate one of man’s greatest imaginative creatures."
     },
     {
-      "title": "Blue Monday",
-      "description": "Are we destined to be blue on this specific Monday? Read on and decide, if so!"
-    },
-    {
       "title": "Book Publishers Day",
       "description": "Come along, let’s celebrate industrious people who make books available to us all."
-    },
-    {
-      "title": "Brew Monday",
-      "description": "Time to schedule a meeting with someone who finds this cold, gray winter’s day an obstacle."
-    },
-    {
-      "title": "Civil Rights Day",
-      "description": "In the words of Frederick Douglass: “If there is no struggle, there is no progress.”"
-    },
-    {
-      "title": "Elementary School Teacher Day",
-      "description": "Elementary school teachers leave a lasting impression on us with their warmth and kindness."
-    },
-    {
-      "title": "Idaho Human Rights Day",
-      "description": "Prepare for a parade honoring the life of Martin Luther King Jr., our favorite civil-rights activist."
     },
     {
       "title": "International Hot and Spicy Food Day",
@@ -67,8 +43,16 @@
       "description": "Join in as we celebrate one of the most remarkable medical innovations."
     },
     {
+      "title": "Printing Ink Day",
+      "description": "Let&#39;s celebrate all things inky and learn about one of the world’s most essential office tools."
+    },
+    {
       "title": "Prohibition Remembrance Day",
       "description": "Prepare to observe a day that reminds us of the need to stay clear-headed."
+    },
+    {
+      "title": "Rid the World of Fad Diets &amp; Gimmicks Day",
+      "description": "Get ready for a healthy lifestyle — it’s Rid the World of Fad Diets and Gimmicks Day!"
     },
     {
       "title": "Signing of the Peace Accords",
