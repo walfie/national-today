@@ -3,6 +3,10 @@
   "day": 17,
   "holidays": [
     {
+      "title": "Museum Selfie Day",
+      "description": null
+    },
+    {
       "title": "National Lose the Jet Lag Day",
       "description": "Shining a light on jet lag science and helping travelers adjust rapidly to new time zones!"
     },
@@ -19,6 +23,10 @@
       "description": "Good customer service can be an asset to a brand. Read on to find out why!"
     },
     {
+      "title": "Day of Judgment",
+      "description": "Go on, be your own judge and make up the rules this Day of Judgment!"
+    },
+    {
       "title": "Ditch New Year&#39;s Resolution Day",
       "description": "Grab some ice cream, skip that workout, and spend more time on your phone!"
     },
@@ -29,10 +37,6 @@
     {
       "title": "James Leonard Tagle Gordon Day",
       "description": "Hats off, it’s James Leonard Tagle Gordon Day! Let’s learn more about the late hero."
-    },
-    {
-      "title": "Judgment Day",
-      "description": "Go on, be your own judge and make up the rules this Judgment Day!"
     },
     {
       "title": "Kid Inventors’ Day",
@@ -67,14 +71,6 @@
       "description": "Let us take a stroll through one of the most popular comic cartoons of all time."
     },
     {
-      "title": "Printing Ink Day",
-      "description": "Let&#39;s celebrate all things inky and learn about one of the world’s most essential office tools."
-    },
-    {
-      "title": "Rid the World of Fad Diets &amp; Gimmicks Day",
-      "description": "Get ready for a healthy lifestyle — it’s Rid the World of Fad Diets and Gimmicks Day!"
-    },
-    {
       "title": "Michelle Obama’s Birthday",
       "description": "As first lady, Michelle Obama won our hearts with inspiring speeches and acts of kindness."
     },
@@ -101,10 +97,6 @@
     {
       "title": "James Earl Jones’s Birthday",
       "description": "With his deep voice and infectious laugh, we cannot get enough of Jones."
-    },
-    {
-      "title": "Jeremiah Raber’s Birthday",
-      "description": "This reality star’s career began in 2012 — he’s been the talk of the town ever since."
     },
     {
       "title": "Jim Carrey’s Birthday",
