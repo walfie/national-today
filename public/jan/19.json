@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Popcorn Day",
-      "description": "Buttered, salted, kettled, drizzled with caramel, popcorn is one of those snacks perfect anytime, anywhere."
+      "description": null
     },
     {
       "title": "Artist as Outlaw Day",
@@ -15,16 +15,16 @@
       "description": "Get your cauldrons out and brew with us as we celebrate Brew a Potion Day!"
     },
     {
-      "title": "Get to Know Your Customers Day",
-      "description": "Today, businesses better understand their customer base and increase their trust and loyalty."
-    },
-    {
       "title": "Good Memory Day",
       "description": "What better way to celebrate Good Memory Day than to actually make good memories?"
     },
     {
       "title": "Gun Appreciation Day",
       "description": "Get ready to discuss gun safety and other ways to appreciate guns."
+    },
+    {
+      "title": "International Fetish Day",
+      "description": "Get yourself ready as we mark a day to express and satisfy our wildest fantasies."
     },
     {
       "title": "National Annie Day",
@@ -35,10 +35,6 @@
       "description": "Keep reading to learn the history of Saint Lucy and facts about the name."
     },
     {
-      "title": "National Tin Can Day",
-      "description": "Crack open your favorite canned food as we celebrate the most functional food preservation tool!"
-    },
-    {
       "title": "Robert E. Lee Day",
       "description": "Here’s everything you need to know about this state holiday and how to celebrate it."
     },
@@ -47,8 +43,8 @@
       "description": "Open up your hearts and minds; get ready to celebrate and appreciate life."
     },
     {
-      "title": "Women’s Healthy Weight Day",
-      "description": "Get ready ladies as it’s time to flaunt that beautiful body with confidence."
+      "title": "Tin Can Day",
+      "description": "Crack open your favorite canned food as we celebrate the most functional food preservation tool!"
     },
     {
       "title": "World Quark Day",
