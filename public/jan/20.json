@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Cheese Lover&#39;s Day",
-      "description": "Get ready to ‘havarti’ a ‘gouda’ time, because it’s National Cheese Lover’s Day!"
+      "description": null
     },
     {
       "title": "National DJ Day",
@@ -31,10 +31,6 @@
       "description": "Experience the tranquility as you journey through the divine paths of acceptance."
     },
     {
-      "title": "International Fetish Day",
-      "description": "Get yourself ready as we mark a day to express and satisfy our wildest fantasies."
-    },
-    {
       "title": "National Charlie Day",
       "description": "Keep reading to learn the history of this name and how to celebrate the day!"
     },
@@ -55,8 +51,16 @@
       "description": "Raise a glass to all the Sebastians around the world on National Sebastian Day."
     },
     {
+      "title": "National Use Your Gift Card Day",
+      "description": "Save your cash, and use those leftover gift cards to buy something nice for yourself."
+    },
+    {
       "title": "Penguin Awareness Day",
       "description": "The penguin population needs us! Let’s get ready to raise awareness"
+    },
+    {
+      "title": "Soup Swap Day",
+      "description": "Join your friends and family and sit together for a tasty treat of hot soup."
     },
     {
       "title": "Take A Walk Outdoors Day",
