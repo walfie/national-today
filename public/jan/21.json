@@ -4,15 +4,23 @@
   "holidays": [
     {
       "title": "National Hugging Day",
-      "description": "We love all types of hugs, from the one-armed bro hug to full bear hugs."
+      "description": null
     },
     {
-      "title": "National Squirrel Appreciation Day",
-      "description": "National Squirrel Appreciation Day is a day to learn about and celebrate the world’s cutest rodents."
+      "title": "Squirrel Appreciation Day",
+      "description": "Squirrel Appreciation Day on January 21 is when we show appreciation for the world&#39;s cutest rodents."
     },
     {
-      "title": "Grandma&#39;s Day",
+      "title": "Day of Sanctity and Protection of Human Life",
+      "description": "Today reflects on how precious life is — no matter how short it is."
+    },
+    {
+      "title": "Grandma Day",
       "description": "We have all the reasons why you should show your grandmother appreciation today!"
+    },
+    {
+      "title": "International Playdate Day",
+      "description": "Arrange a playdate for your kids so they can enjoy a fun-filled afternoon."
     },
     {
       "title": "International Sweatpants Day",
@@ -47,10 +55,6 @@
       "description": "Live your life to the fullest! What if your first and last name are both Max?"
     },
     {
-      "title": "National Use Your Gift Card Day",
-      "description": "Save your cash, and use those leftover gift cards to buy something nice for yourself."
-    },
-    {
       "title": "One-Liners Day",
       "description": "You don’t have to be a comedian or even witty to enjoy One-Liners Day."
     },
@@ -63,16 +67,16 @@
       "description": "Owning a home is not exactly easy, so why not celebrate your homeownership status."
     },
     {
-      "title": "Playdate Day",
-      "description": "Arrange a playdate for your kids so they can enjoy a fun-filled afternoon."
-    },
-    {
-      "title": "Soup Swap Day",
-      "description": "Join your friends and family and sit together for a tasty treat of hot soup."
-    },
-    {
       "title": "Thank Your Mentor Day",
       "description": "Pssst! Remember, you can always thank your mentor by giving him or her a surprise!"
+    },
+    {
+      "title": "World Religion Day",
+      "description": "Our differences make us stronger, so join us in celebrating our different beliefs and cultures."
+    },
+    {
+      "title": "World Snow Day",
+      "description": "‘Enjoy, experience and explore’ —  the motto of World Snow Day, which we’re taking seriously indeed."
     },
     {
       "title": "Aleksa Safiya’s Birthday",
