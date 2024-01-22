@@ -4,23 +4,23 @@
   "holidays": [
     {
       "title": "Celebration of Life Day",
-      "description": "It’s easy to forget sometimes, but we are all fortunate to be here."
+      "description": null
+    },
+    {
+      "title": "Community Manager Appreciation Day",
+      "description": "We celebrate community managers and appreciate their hard work and dedication."
     },
     {
       "title": "National Blonde Brownie Day",
       "description": "Blondies are baked bars with brown sugar for a warm, rich butterscotch-flavored treat."
     },
     {
-      "title": "Chinese Lunar New Year&#39;s Day",
-      "description": "We say, “Out with the old and in with the new,” on this auspicious holiday!"
+      "title": "Answer Your Cat&#39;s Questions Day",
+      "description": "Your kitty has questions and today is the day to be answering them."
     },
     {
-      "title": "Chinese New Year",
-      "description": "A celebration marked by good food, red envelopes, and blessings for everyone."
-    },
-    {
-      "title": "Chinese Spring Festival",
-      "description": "We’ll help you discover how thousands of Chinese diaspora in Mauritius celebrate the Spring Festival."
+      "title": "Better Business Communication Day",
+      "description": "Help us in our efforts this Better Business Communication day to focus on effective, sound communication."
     },
     {
       "title": "Come in From the Cold Day",
@@ -31,20 +31,8 @@
       "description": "Whether you’re a dancer or not, there is an activity for you on this day."
     },
     {
-      "title": "Grandpa&#39;s Day",
+      "title": "National Grandpa Day",
       "description": "Let’s celebrate the unparalleled relationship between grandparents and grandchildren."
-    },
-    {
-      "title": "Korean New Year",
-      "description": "Korean New Year, one of the most important national holidays in Korea, is celebrated with great festivities."
-    },
-    {
-      "title": "National Answer Your Cat&#39;s Questions Day",
-      "description": "Your kitty has questions and today is the day to be answering them."
-    },
-    {
-      "title": "National Bible Sunday",
-      "description": "Get your bible and hymn books ready to celebrate National Bible Sunday in style!"
     },
     {
       "title": "National Hot Sauce Day",
@@ -75,20 +63,8 @@
       "description": "Let’s look at this landmark moment in the women’s rights and liberation movement."
     },
     {
-      "title": "Seollal",
-      "description": "Seollal is considered one of the most important traditional Korean holidays."
-    },
-    {
-      "title": "Sonam Lhosar",
-      "description": "Experience the exotic Tamang culture in Nepal on Sonam Lhosar."
-    },
-    {
-      "title": "Tet Eve Vietnam",
-      "description": "Prepare your offerings to ask for peace as you celebrate Tet Eve in Vietnam!"
-    },
-    {
-      "title": "Tet Holiday",
-      "description": "Get ready to celebrate the Vietnamese New Year in style with us!"
+      "title": "Wellington Anniversary Day",
+      "description": "Join us as we celebrate Wellington Anniversary Day with flair and in style."
     },
     {
       "title": "Enya Umanzor’s Birthday",
