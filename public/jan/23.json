@@ -3,20 +3,12 @@
   "day": 23,
   "holidays": [
     {
-      "title": "Community Manager Appreciation Day",
-      "description": "We celebrate community managers and appreciate their hard work and dedication."
-    },
-    {
       "title": "National Handwriting Day",
-      "description": "In a world full of digital devices and voice-to-text apps, handwriting is an art."
+      "description": null
     },
     {
       "title": "National Pie Day",
       "description": "Grab a slice, and celebrate the simple, delicious pleasures of a good pie."
-    },
-    {
-      "title": "Better Business Communication Day",
-      "description": "Help us in our efforts this Better Business Communication day to focus on effective, sound communication."
     },
     {
       "title": "First Philippine Republic Day",
@@ -51,7 +43,7 @@
       "description": "Celebrate one of the world’s tastiest holidays with a nice warm bowl of rhubarb pie."
     },
     {
-      "title": "Parakram Diwas",
+      "title": "Parakram Divas",
       "description": "Celebrating Netaji’s courage, selflessness, and the spirit of service to Mother India!"
     },
     {
@@ -59,8 +51,8 @@
       "description": "Mount your trucks with the best plow blade as we celebrate mailbox thrashing."
     },
     {
-      "title": "Wellington Anniversary Day",
-      "description": "Join us as we celebrate Wellington Anniversary Day with flair and in style."
+      "title": "Speak Up and Succeed Day",
+      "description": "Take a deep breath and raise your voice this Speak Up and Succeed Day."
     },
     {
       "title": "Alex Silva’s Birthday",
@@ -91,7 +83,7 @@
       "description": "This actress, producer, and chef continues to reinvent her career throughout the years."
     },
     {
-      "title": "XXXentacion’s Birthday",
+      "title": "XXXtentacion’s Birthday",
       "description": "Known for his musical versatility and depression-themed music, this talented American rapper was an inspiration."
     }
   ]
