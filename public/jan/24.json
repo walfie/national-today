@@ -3,12 +3,12 @@
   "day": 24,
   "holidays": [
     {
-      "title": "Macintosh Computer Day",
-      "description": "Macintosh ushered in a new age of freedom and creativity."
+      "title": "Beer Can Appreciation Day",
+      "description": null
     },
     {
-      "title": "National Beer Can Appreciation Day",
-      "description": "Drink to the historic, monumental, and thirst-quenching day beer was first sold in cans."
+      "title": "Macintosh Computer Day",
+      "description": "Macintosh ushered in a new age of freedom and creativity."
     },
     {
       "title": "National Compliment Day",
@@ -17,6 +17,10 @@
     {
       "title": "National Peanut Butter Day",
       "description": "Crunchy or smooth, today we put down our phones and pick up our spreading knives."
+    },
+    {
+      "title": "&#34;Just Do It&#34; Day",
+      "description": "Get ready for a change because you&#39;re finally going to “Just Do It!”"
     },
     {
       "title": "Belly Laugh Day",
@@ -35,8 +39,8 @@
       "description": "“The forest is calling” and so are we — to take a good look at your mobile!"
     },
     {
-      "title": "National &#34;Just Do It&#34; Day",
-      "description": "Get ready for a change because you&#39;re finally going to “Just Do It!”"
+      "title": "Library Shelfie Day",
+      "description": "We love libraries, and we love selfies. Put them together, and you’ve got library shelfies!"
     },
     {
       "title": "National Lobster Thermidor Day",
@@ -51,16 +55,20 @@
       "description": "Drink ale, and line up your pitchers, it’s time to celebrate the Conversion of St. Paul!"
     },
     {
-      "title": "Speak Up and Succeed Day",
-      "description": "Take a deep breath and raise your voice this Speak Up and Succeed Day."
-    },
-    {
       "title": "Talk Like a Grizzled Prospector Day",
       "description": "Hold a baby buggy in place as we muck deeper into this annual gold bonanza."
     },
     {
+      "title": "Tu BiShvat",
+      "description": "This is an ecological holiday to celebrate plants, trees, and everything green."
+    },
+    {
       "title": "Unification Day",
       "description": "The “not so little union” is celebrated today, and we have all the facts you need to know!"
+    },
+    {
+      "title": "Weedless Wednesday",
+      "description": "How about quitting smoking just for a day … today?"
     },
     {
       "title": "Briston Maroney’s Birthday",
