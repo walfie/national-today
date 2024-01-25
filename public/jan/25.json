@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "Burns Night",
-      "description": "Burns Night honors the Scottish poet, who wrote the New Year&#39;s Eve anthem &#34;Auld Lang Syne.&#34;"
+      "description": null
     },
     {
       "title": "National Irish Coffee Day",
@@ -12,7 +12,7 @@
     },
     {
       "title": "Opposite Day",
-      "description": "Here is a serious question... What is the opposite of Opposite Day?"
+      "description": "Opposite Day on January 25 is one of the more confusing holidays in the calendar."
     },
     {
       "title": "A Room Of One’s Own Day",
@@ -23,12 +23,20 @@
       "description": "Get your bagpipes ready to play because the Burns Supper is here again!"
     },
     {
+      "title": "Clashing Clothes Day",
+      "description": "Forget about fashion do’s and don’ts and join us as we clash into Clashing Clothes Day!"
+    },
+    {
       "title": "Fluoride Day",
       "description": "Smile wide and let’s look at how the world’s pearly whites benefit from fluoride."
     },
     {
-      "title": "Library Shelfie Day",
-      "description": "We love libraries, and we love selfies. Put them together, and you’ve got library shelfies!"
+      "title": "Mahayana New Year",
+      "description": "Celebrating one of the main branches of Buddhism."
+    },
+    {
+      "title": "NASA&#39;s Day of Remembrance",
+      "description": "Observe this day to remember the warriors who laid down their lives for space exploration."
     },
     {
       "title": "National Fish Taco Day",
@@ -55,8 +63,12 @@
       "description": "Prepare yourself as we celebrate one of the most memorable days of the year!"
     },
     {
-      "title": "Vasant Panchami",
-      "description": "A festival that honors a goddess and marks the preparation for the arrival of spring."
+      "title": "Thaipoosam Cavadee",
+      "description": "Endurance and penance are the sacred mantras during the festival of Thaipoosam Cavadee."
+    },
+    {
+      "title": "Thaipusam",
+      "description": "Join us on a virtual pilgrimage as we celebrate Lord Murugan and Thaipusam."
     },
     {
       "title": "Alicia Keys’s Birthday",
