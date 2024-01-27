@@ -4,43 +4,31 @@
   "holidays": [
     {
       "title": "International Holocaust Remembrance Day",
-      "description": "On International Holocaust Remembrance Day we remember Nazi atrocities so no one suffers like that again."
+      "description": null
     },
     {
       "title": "National Chocolate Cake Day",
       "description": "Layered, molten, Bundt, fluffy, mousse-y, decadent, frosted, it is love at first bite!"
     },
     {
-      "title": "National Fun at Work Day",
-      "description": "From parties, potlucks, goodies, games, awards, and more, there’s no wrong way to celebrate!"
-    },
-    {
       "title": "Auschwitz Liberation Day",
       "description": "We ought to never forget such hate and violence — so let’s observe in unison!"
-    },
-    {
-      "title": "Big Garden Birdwatch",
-      "description": "Big Garden Birdwatch is not only recreational; it also helps keep track of the bird population."
     },
     {
       "title": "Holocaust Memorial Day",
       "description": "Today, we remember the courage and strength of those who suffered and died during the Holocaust."
     },
     {
-      "title": "National Activity Professionals Day",
-      "description": "This National Activity Professional Day, let’s shower these superheroes with our love and appreciation!"
-    },
-    {
-      "title": "National Big Wig Day",
-      "description": "Get ready to celebrate one of the biggest philanthropic gestures in history, National Big Wig Day."
+      "title": "Local Quilt Shop Day",
+      "description": "Get out your wallet — go and spoil a quilter you know at your local quilt shop."
     },
     {
       "title": "National Geographic Day",
       "description": "Come and celebrate with us because there is ‘NAThing’ like “National Geographic,” are we right?"
     },
     {
-      "title": "National Preschool Health and Fitness Day",
-      "description": "Good grades are important, but healthy eating and physical education are paramount, especially for preschoolers!"
+      "title": "National Seed Swap Day",
+      "description": "Pull out your gardening aprons; sharpen your tools. The season to plant new seeds is here."
     },
     {
       "title": "Punch the Clock Day",
@@ -53,6 +41,10 @@
     {
       "title": "Vietnam Peace Day",
       "description": "Join us as we explore some important history this Vietnam Peace Day."
+    },
+    {
+      "title": "Visit Your Local Quilt Shop Day",
+      "description": "Let’s celebrate the beauty of quilts, their origins, and their ingenious artistry!"
     },
     {
       "title": "World Breast Pumping Day",
