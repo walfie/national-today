@@ -3,6 +3,10 @@
   "day": 28,
   "holidays": [
     {
+      "title": "Lego Day",
+      "description": null
+    },
+    {
       "title": "National Daisy Day",
       "description": "Just because daisies are a common flower, doesn&#39;t mean they aren&#39;t a special one."
     },
@@ -11,8 +15,8 @@
       "description": "If you haven’t used a kazoo since elementary school, then get ready to play!"
     },
     {
-      "title": "National Lego Day",
-      "description": "Lego brings a heavy dose of nostalgia and a bucket full of fun. Get building!"
+      "title": "American Immigration Lawyers Association Day of Action",
+      "description": "45 million immigrants who call the U.S. their home, deserve to live in dignity and peace."
     },
     {
       "title": "Christa McAuliffe Day",
@@ -43,12 +47,12 @@
       "description": "Let’s celebrate the birth anniversary of Professor Julian Felipe in recognition of his talent and ingenuity."
     },
     {
-      "title": "Local Quilt Shop Day",
-      "description": "Get out your wallet — go and spoil a quilter you know at your local quilt shop."
-    },
-    {
       "title": "National Amy Day",
       "description": "Today we celebrate all the special people we know who are called Amy."
+    },
+    {
+      "title": "National Bible Sunday",
+      "description": "Get your bible and hymn books ready to celebrate National Bible Sunday in style!"
     },
     {
       "title": "National Blueberry Pancake Day",
@@ -57,10 +61,6 @@
     {
       "title": "National Pediatrician Day",
       "description": "Join us and check out these fun ideas to celebrate National Pediatrician Day."
-    },
-    {
-      "title": "National Seed Swap Day",
-      "description": "Pull out your gardening aprons; sharpen your tools. The season to plant new seeds is here."
     },
     {
       "title": "National Tina Day",
@@ -79,12 +79,12 @@
       "description": "Get ready to show your appreciation for plugin developers this Thank a Plugin Developer Day."
     },
     {
-      "title": "Visit Your Local Quilt Shop Day",
-      "description": "Let’s celebrate the beauty of quilts, their origins, and their ingenious artistry!"
+      "title": "World Leprosy Day",
+      "description": "Leprosy is a reality and, together, we need to care for the people affected by it."
     },
     {
       "title": "Aka’s Birthday",
-      "description": "With every hit music he releases, AKA proves everything is possible with talent and hard work."
+      "description": "With every hit song he released, AKA proved everything is possible with talent and hard work."
     },
     {
       "title": "Anthony Hamilton’s Birthday",
