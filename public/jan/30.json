@@ -4,19 +4,11 @@
   "holidays": [
     {
       "title": "National Croissant Day",
-      "description": "Channel your inner Parisian baker today and say &#34;oui&#34; to these buttery treats!"
+      "description": null
     },
     {
       "title": "Martyrs&#39; Day",
       "description": "Light a candle and say a prayer as we honor the legacy of Mahatma Gandhi."
-    },
-    {
-      "title": "National Bible Day",
-      "description": "Read your &#34;Bible,&#34; buy one for a friend, or attend a church service on this day."
-    },
-    {
-      "title": "National Bubble Wrap Appreciation Day",
-      "description": "Because no one is too old for the exquisite joy of popping bubble wrap."
     },
     {
       "title": "National Draw A Dinosaur Day",
@@ -35,12 +27,8 @@
       "description": "Did you know that the name Maxwell is linked to a physics formula? Now you know."
     },
     {
-      "title": "Nelson Anniversary Day",
-      "description": "Learn about the origin of Nelson City and how its anniversary is celebrated."
-    },
-    {
-      "title": "Northland Anniversary Day",
-      "description": "We&#39;re celebrating the day when Hobson set foot on the lovely shores of New Zealand."
+      "title": "National Plan for Vacation Day",
+      "description": "Get ready to plan for a new adventure this National Plan for Vacation Day!"
     },
     {
       "title": "School Day of Non-violence and Peace",
