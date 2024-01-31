@@ -4,11 +4,15 @@
   "holidays": [
     {
       "title": "National Hot Chocolate Day",
-      "description": "It&#39;s thick, silky, toasty, and usually smothered in whipped cream, what more can one want?"
+      "description": null
     },
     {
       "title": "Appreciate Your Social Security Check Day",
       "description": "Curious to know how to celebrate Appreciate Your Social Security Check Day? Read on."
+    },
+    {
+      "title": "Backwards Day",
+      "description": "Reverse your actions and see how fun and interesting it can be!"
     },
     {
       "title": "Brandy Alexander Day",
@@ -41,14 +45,6 @@
     {
       "title": "International Zebra Day",
       "description": "International Zebra Day promotes the conservation of zebras and their natural habitats."
-    },
-    {
-      "title": "National Backward Day",
-      "description": "Reverse your actions and see how fun and interesting it can be!"
-    },
-    {
-      "title": "National Plan for Vacation Day",
-      "description": "Get ready to plan for a new adventure this National Plan for Vacation Day!"
     },
     {
       "title": "National Seth Day",
