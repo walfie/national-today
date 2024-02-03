@@ -4,11 +4,7 @@
   "holidays": [
     {
       "title": "Doggy Date Night",
-      "description": "Learn all about ways to celebrate man’s best friend and get ready for Doggy Date Night!"
-    },
-    {
-      "title": "National Bubble Gum Day",
-      "description": "Kids learn about the value of charity and break the classic &#34;no-gum&#34; rule."
+      "description": null
     },
     {
       "title": "National Carrot Cake Day",
@@ -19,8 +15,8 @@
       "description": "The calm temperament, intelligence, and playfulness make them ideal best friends for any dog lover."
     },
     {
-      "title": "National Wear Red Day",
-      "description": "Put on your reddest red and paint the city red, for a great cause!"
+      "title": "National Ice Cream for Breakfast Day",
+      "description": "Go ahead and get your treat on. Before noon. We won&#39;t judge!"
     },
     {
       "title": "National Women Physicians Day",
@@ -33,10 +29,6 @@
     {
       "title": "Anniversary of the Liberation of the Battle of Manila",
       "description": "The U.S. and Philippine forces recall the Japanese invasion at the Battle of Manila."
-    },
-    {
-      "title": "Bubblegum Day",
-      "description": "Chew your favorite bubblegum, practice your bubble blowing and give back this Bubblegum Day."
     },
     {
       "title": "Commemoration of the Batepá Massacre",
@@ -55,8 +47,8 @@
       "description": "The Four Chaplains remind us all of our ability to rise above our self-interest."
     },
     {
-      "title": "Give Kids A Smile",
-      "description": "Let&#39;s turn those frowns upside down with the &#34;Give Kids A Smile&#34; program."
+      "title": "Lung Leavin’ Day",
+      "description": "Treasure every moment you live healthily and try to give strength to those afflicted."
     },
     {
       "title": "Mozambican Heroes Day",
@@ -83,16 +75,12 @@
       "description": "Did you know wedding rings weren’t always needed to mark the commitment between couples?"
     },
     {
-      "title": "National Woman&#39;s Heart Day",
-      "description": "Pledge to protect a woman’s life by protecting her from cardiovascular diseases."
-    },
-    {
-      "title": "Number Day",
-      "description": "Every childhood is worth fighting for. Join us in the fight against child abuse."
-    },
-    {
       "title": "Our Lady of Suyapa",
       "description": "Prayerfully prepare for the feast of The Virgin of Suyapa with the following in mind."
+    },
+    {
+      "title": "Pisco Sour Day",
+      "description": "Read on for some lip-smacking ideas to celebrate Pisco Sour Day."
     },
     {
       "title": "Setsubun",
@@ -103,6 +91,10 @@
       "description": "Take a voyage into the vastness of the ocean for a life-changing experience."
     },
     {
+      "title": "Take Your Child To The Library Day",
+      "description": "Better than heading to Disneyland, celebrate Take Your Child to the Library Day today!"
+    },
+    {
       "title": "The Day the Music Died",
       "description": "We pay our respects and honor the lives of these musical talents who died too soon."
     },
@@ -111,8 +103,8 @@
       "description": "This Virgin of Suyapa’s Day, let’s celebrate the Virgin Mary, known as Lady Suyapa."
     },
     {
-      "title": "Working Naked Day",
-      "description": "It is harder than we think to work in our most comfortable state and remain productive."
+      "title": "Yukon Quest",
+      "description": "Join in the fun and enjoy the ideal blend of observation and winter activities!"
     },
     {
       "title": "India Love’s Birthday",
