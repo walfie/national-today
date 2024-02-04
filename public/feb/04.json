@@ -3,12 +3,8 @@
   "day": 4,
   "holidays": [
     {
-      "title": "National Eat Ice Cream for Breakfast Day",
-      "description": "Go ahead and get your treat on. Before noon. We won&#39;t judge!"
-    },
-    {
       "title": "National Thank a Mail Carrier Day",
-      "description": "We salute the mail carriers who ensure our post reaches us."
+      "description": null
     },
     {
       "title": "World Cancer Day",
@@ -19,8 +15,16 @@
       "description": "Angola Liberation Day is the day when Angolans fought tenaciously against colonial rule."
     },
     {
+      "title": "British Yorkshire Pudding Day",
+      "description": "This baked pudding is honored for its centuries-long stalwart place in the British food lexicon."
+    },
+    {
       "title": "Create a Vacuum Day",
       "description": "It’s time to awaken the lab nerd in you and tinker around with vacuums."
+    },
+    {
+      "title": "Dump Your Significant Jerk Day",
+      "description": "This day is observed to help those in a seriously bad relationship get out of it."
     },
     {
       "title": "Facebook&#39;s Birthday",
@@ -35,23 +39,15 @@
       "description": "Here’s everything you need to know about this day and the events leading up to it."
     },
     {
-      "title": "International Pisco Sour Day",
-      "description": "Read on for some lip-smacking ideas to celebrate International Pisco Sour Day."
-    },
-    {
       "title": "Liberace Day",
       "description": "Join us in celebrating this music maverick and pop culture icon today."
     },
     {
-      "title": "Lung Leavin’ Day",
-      "description": "Treasure every moment you live healthily and try to give strength to those afflicted."
-    },
-    {
-      "title": "Medjoola Date Day",
+      "title": "Medjool Date Day",
       "description": "Did you know Medjool dates have more potassium than bananas?"
     },
     {
-      "title": "National Day Sri Lanka",
+      "title": "National Day of Sri Lanka",
       "description": "Celebrate Sri Lanka’s Independence from Great Britain and the colonization that came with their rule."
     },
     {
@@ -65,10 +61,6 @@
     {
       "title": "National Israel Day",
       "description": "Happy Israel Day to everyone bearing this name as well as the nation itself!"
-    },
-    {
-      "title": "National Quacker Day",
-      "description": "Calling out all ‘Quacker’ women! Celebrate your queen and her legacy today."
     },
     {
       "title": "National Stuffed Mushroom Day",
@@ -87,12 +79,20 @@
       "description": "On Philippine-American War Memorial Day, let’s remember those who fought valiantly for freedom."
     },
     {
-      "title": "Sweater Day",
-      "description": "Sweaters and sustainability. Who knew they could benefit each other so well?"
+      "title": "Pork Rind Appreciation Day",
+      "description": "You’re in for a swell time with pork rinds and a fun, sporty day!"
     },
     {
-      "title": "Take Your Child To The Library Day",
-      "description": "Better than heading to Disneyland, celebrate Take Your Child to the Library Day today!"
+      "title": "Quacker Day",
+      "description": "Calling out all ‘Quacker’ women! Celebrate your queen and her legacy today."
+    },
+    {
+      "title": "Scout Sunday",
+      "description": "We celebrate the Scout’s oath and law which helps adolescents reach their full potential!"
+    },
+    {
+      "title": "Sweater Day",
+      "description": "Sweaters and sustainability. Who knew they could benefit each other so well?"
     },
     {
       "title": "Torture Abolition Day",
@@ -103,8 +103,8 @@
       "description": "We have the best suggestions to make your USO Day observance a memorable one."
     },
     {
-      "title": "Yukon Quest",
-      "description": "Join in the fun and enjoy the ideal blend of observation and winter activities!"
+      "title": "Willie Mays Day",
+      "description": "We honor a baseball legend and celebrate his numerous achievements today."
     },
     {
       "title": "Alice Cooper’s Birthday",
