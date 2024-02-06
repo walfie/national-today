@@ -4,7 +4,11 @@
   "holidays": [
     {
       "title": "National Frozen Yogurt Day",
-      "description": "You scream, I scream, we all scream for...Frozen Yogurt?  Yes!"
+      "description": null
+    },
+    {
+      "title": "African American Coaches Day",
+      "description": "Yes, you can! Power a better you on African American Coaches Day."
     },
     {
       "title": "International Day of Zero Tolerance to Female Genital Mutilation",
@@ -23,16 +27,8 @@
       "description": "All types of political lame ducks get our attention on National Lame Duck Day!"
     },
     {
-      "title": "National Sickie Day",
-      "description": "The first Monday of every February is when most workers are likely to call in sick."
-    },
-    {
       "title": "National Valentine Shopping Reminder Day",
       "description": "The day reminds people to buy Valentine&#39;s gifts a week and a day ahead of time."
-    },
-    {
-      "title": "Oatmeal Monday",
-      "description": "Get your pan ready and the fire going — we are making Oatmeal Monday come to life."
     },
     {
       "title": "Pay a Compliment Day",
@@ -53,10 +49,6 @@
     {
       "title": "Time to Talk Day",
       "description": "Help raise awareness about mental health and be a part of changing the narrative."
-    },
-    {
-      "title": "Tu BiShvat",
-      "description": "This is an ecological holiday to celebrate plants, trees, and everything green."
     },
     {
       "title": "Waitangi Day",
