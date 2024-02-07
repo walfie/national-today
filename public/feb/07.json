@@ -4,31 +4,31 @@
   "holidays": [
     {
       "title": "National Send a Card to a Friend Day",
-      "description": "Do you get excited when you find a hand written card or letter in your mailbox?"
+      "description": null
     },
     {
-      "title": "African American Coaches Day",
-      "description": "Yes, you can! Power a better you on African American Coaches Day."
-    },
-    {
-      "title": "Ballet Day",
-      "description": "We love ballet. Here are several magical reasons we think you’ll appreciate it too."
+      "title": "National Signing Day",
+      "description": "Today, high school football players are eligible to commit to the college of their choice."
     },
     {
       "title": "e-Day",
       "description": "Whip out your TI-84 calculator, and spot the little button that bolsters logarithmic and exponential functions."
     },
     {
+      "title": "Global School Play Day",
+      "description": "Today is the day to let the children run around as much as they want."
+    },
+    {
+      "title": "Grenada Independence Day",
+      "description": "Let’s join together and celebrate the day Grenada became an independent nation."
+    },
+    {
       "title": "Hug an Addict or Alcoholic Day",
       "description": "Help in destigmatizing addiction and rehabilitation and help addicts or alcoholics in their recovery."
     },
     {
-      "title": "Independence Day Grenada",
-      "description": "Let’s join together and celebrate the day Grenada became an independent nation."
-    },
-    {
-      "title": "International Clash Day",
-      "description": "Is it surprising that “The Only Band That Matters” has an entire day dedicated to it?"
+      "title": "National Ballet Day",
+      "description": "We love ballet. Here are several magical reasons we think you’ll appreciate it too."
     },
     {
       "title": "National Black HIV/AIDS Awareness Day",
@@ -37,6 +37,10 @@
     {
       "title": "National Fettuccine Alfredo Day",
       "description": "It’s so tasty that it deserves a day all to itself."
+    },
+    {
+      "title": "National Girls and Women in Sports Day",
+      "description": "National Girls and Women in Sports Day, abbreviated as N.G.W.S.D., is observed on February 7 this year and it is all about breaking the gender…"
     },
     {
       "title": "National Jack Day",
@@ -53,6 +57,10 @@
     {
       "title": "Wave All Your Fingers at Your Neighbor Day",
       "description": "Wave All Your Fingers At Your Neighbor Day fosters friendship among neighbors."
+    },
+    {
+      "title": "World Read Aloud Day",
+      "description": "Practice your narrative skill by reading your favorite story aloud to your family, friends, and community."
     },
     {
       "title": "Ashton Kutcher’s Birthday",
