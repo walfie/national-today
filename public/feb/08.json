@@ -3,6 +3,18 @@
   "day": 8,
   "holidays": [
     {
+      "title": "Fat Thursday",
+      "description": null
+    },
+    {
+      "title": "Giving Hearts Day",
+      "description": "Giving is something that brings you joy, satisfaction, and fulfillment like nothing else can."
+    },
+    {
+      "title": "Isra and Mi&#39;raj",
+      "description": "Within Islam, Isra and Mi&#39;raj, refers to a miraculous nighttime journey undertaken by the Prophet Muhammad."
+    },
+    {
       "title": "Laugh and Get Rich Day",
       "description": "Laugh yourself into better spirits and enrich your health and happiness today!"
     },
@@ -27,7 +39,11 @@
       "description": "Opera is one of the oldest and finest forms of entertainment. Today, we celebrate it!"
     },
     {
-      "title": "Preseren Day",
+      "title": "Paczki Day",
+      "description": "Known as a dessert indulged in around lent, Paczki Day isn’t just about the pastries."
+    },
+    {
+      "title": "Prešeren Day",
       "description": "Bring on your best mood as we celebrate one of the greatest men in history."
     },
     {
