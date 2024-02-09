@@ -4,19 +4,23 @@
   "holidays": [
     {
       "title": "National Pizza Day",
-      "description": "This cheesy disc went from a niche cultural meal to the star of the show!"
+      "description": null
+    },
+    {
+      "title": "Brazil Carnival",
+      "description": "Brazil Carnival is a festival held before Ash Wednesday, which hosts many colorful events."
     },
     {
       "title": "Chocolate Day",
       "description": "Everything tastes better with chocolate, so come and explore Chocolate Day in India with us."
     },
     {
-      "title": "Giving Hearts Day",
-      "description": "Giving is something that brings you joy, satisfaction, and fulfillment like nothing else can."
-    },
-    {
       "title": "Gwyl Mabsant",
       "description": "Gŵyl Mabsant is a rural festival that takes place every year in Wales."
+    },
+    {
+      "title": "International Winter Bike to Work Day",
+      "description": "Get your helmets and gear ready, we are about to go cycling!"
     },
     {
       "title": "National Bagel and Lox Day",
@@ -47,8 +51,16 @@
       "description": "No time to read? Do it in the bathtub, it sinks in deeper in there."
     },
     {
+      "title": "Scout Sabbath",
+      "description": "Put on your uniform and get ready to honor Shabbat with all the information we have!"
+    },
+    {
       "title": "St Maroun Day",
       "description": "St. Maroun always sought new ways to accumulate all the treasures of wisdom."
+    },
+    {
+      "title": "Welsh Language Music Day",
+      "description": "Learn more about this style of music and its resurgence in popularity in recent times."
     },
     {
       "title": "Bella Poarch’s Birthday",
