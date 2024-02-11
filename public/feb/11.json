@@ -4,15 +4,27 @@
   "holidays": [
     {
       "title": "International Day of Women and Girls in Science",
-      "description": "Honor women’s achievements in science and place a much-needed focus on girls entering STEM careers."
+      "description": null
     },
     {
       "title": "National Guitar Day",
       "description": "There&#39;s more to the guitar than just the players; a fascinating history of a versatile instrument."
     },
     {
+      "title": "Super Bowl Sunday",
+      "description": "On the first Sunday in February, America&#39;s love affair with football springs into full bloom."
+    },
+    {
       "title": "Armed Forces Day",
       "description": "Get ready to know the facts about the creation of the Armed Forces Day in Liberia."
+    },
+    {
+      "title": "Autism Sunday",
+      "description": "Take time to say a prayer today for those affected by autism spectrum disorders."
+    },
+    {
+      "title": "Battle of the Oranges Ivrea",
+      "description": "Grab your nearest ball of citrus because it&#39;s time for Ivrea&#39;s world-renowned Battle of the Oranges!"
     },
     {
       "title": "Be Electrific Day",
@@ -23,12 +35,12 @@
       "description": "Could you be crying over spilled milk and don’t even know it?"
     },
     {
-      "title": "Get Out Your Guitar Day",
-      "description": "Tune your guitar and grab your favorite pick, we’re going to rock the world of music!"
+      "title": "Fastelavn",
+      "description": "Why is Fastelavn celebrated, and how? Read on to know more about the carnival!"
     },
     {
-      "title": "Global Movie Day",
-      "description": "Grab your popcorn and get ready to celebrate your favorite movies all day!"
+      "title": "Get Out Your Guitar Day",
+      "description": "Tune your guitar and grab your favorite pick, we’re going to rock the world of music!"
     },
     {
       "title": "Grandmother Achievement Day",
@@ -37,6 +49,14 @@
     {
       "title": "Islamic Revolution Day",
       "description": "Let us take you through one of the important events in Iranian history — the Islamic Revolution."
+    },
+    {
+      "title": "Man Day",
+      "description": "Fathers, friends, colleagues, and gym buddies — celebrate every man in your life on Man Day."
+    },
+    {
+      "title": "Mother&#39;s Day Norway",
+      "description": "This day is a special family holiday to celebrate mothers and wives."
     },
     {
       "title": "National Ava Day",
@@ -49,6 +69,10 @@
     {
       "title": "National Foundation Day",
       "description": "National Foundation Day commemorates the establishment of Japan by Emperor Jimmu in 660 B.C."
+    },
+    {
+      "title": "National Homegating Day",
+      "description": "National Homegating Day is for Super Bowl Sunday fans who cannot be at the games personally."
     },
     {
       "title": "National Inventors&#39; Day",
@@ -87,24 +111,28 @@
       "description": "Get ready as we celebrate one of the most special days of Valentine&#39;s week — Promise Day!"
     },
     {
-      "title": "Royal Hobart Regatta",
-      "description": "Join us in celebrating one of the oldest and most prestigious events in Tasmania."
-    },
-    {
       "title": "Satisfied Staying Single Day",
       "description": "Who needs a partner when you can spoil yourself rotten on Satisfied Staying Single Day?"
     },
     {
-      "title": "White T Shirt Day",
-      "description": "Get your White T-shirts ready to celebrate a historic landmark event in the automobile industry."
+      "title": "Super Chicken Wing Day",
+      "description": "It’s time to put that appetite to the test with Super Chicken Wing Day!"
+    },
+    {
+      "title": "White Shirt Day",
+      "description": "Get your White Shirts ready to celebrate a historic landmark event in the automobile industry."
     },
     {
       "title": "World Day of the Sick",
       "description": "Lend a helping hand to the ailing as we mark World Day of the Sick."
     },
     {
-      "title": "Youth Day Cameroon",
-      "description": "Celebrate Youth Day with youths from around the world as we look towards a brighter future."
+      "title": "World Marriage Day",
+      "description": "Today, we reflect on the beautiful gift of marriage and celebrate enduring love!"
+    },
+    {
+      "title": "Youth Day in Cameroon",
+      "description": "Celebrate Youth Day in Cameroon with youths from around the world as we look towards a brighter future."
     },
     {
       "title": "Brandy’s Birthday",
