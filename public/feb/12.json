@@ -4,15 +4,19 @@
   "holidays": [
     {
       "title": "Darwin Day",
-      "description": "There’s a lot to be grateful about for Darwin and his research!"
+      "description": null
     },
     {
-      "title": "Super Bowl Sunday",
-      "description": "On the first Sunday in February, America&#39;s love affair with football springs into full bloom."
+      "title": "National Clean Out Your Computer Day",
+      "description": "Geeks and laypeople unite, it’s National Clean Out Your Computer Day!"
     },
     {
-      "title": "Autism Sunday",
-      "description": "Take time to say a prayer today for those affected by autism spectrum disorders."
+      "title": "Argentina Carnival",
+      "description": "Are you going to Buenos Aires this summer? It&#39;s time to attend the carnival."
+    },
+    {
+      "title": "Carnival Monday",
+      "description": "A Carnival is a cultural festival that puts on a great display of tradition and history."
     },
     {
       "title": "Georgia Day",
@@ -27,12 +31,8 @@
       "description": "This International Day Against the Use of Child Soldiers, help stop the use of child soldiers."
     },
     {
-      "title": "Man Day",
-      "description": "Fathers, friends, colleagues, and gym buddies — celebrate every man in your life on Man Day."
-    },
-    {
-      "title": "Mother&#39;s Day Norway",
-      "description": "This day is a special family holiday to celebrate mothers and wives."
+      "title": "International Epilepsy Day",
+      "description": "Learn more about one of the world’s oldest-known diseases on International Epilepsy Day."
     },
     {
       "title": "NAACP Day",
@@ -47,10 +47,6 @@
       "description": "We&#39;ve come a long way, but normalization of same-sex marriage is still not over."
     },
     {
-      "title": "National Homegating Day",
-      "description": "National Homegating Day is for Super Bowl Sunday fans who cannot be at the games personally."
-    },
-    {
       "title": "National Lost Penny Day",
       "description": "Roll up your sleeves and search the nooks and crannies; you might find a lost penny."
     },
@@ -59,12 +55,16 @@
       "description": "Did you know plum pudding contains no plums?"
     },
     {
-      "title": "Oglethorpe Day",
-      "description": "Let’s tap into the history of Georgia to learn more about its founding father."
+      "title": "National Poop Day",
+      "description": "It’s the day to celebrate one of the body’s most important functions."
     },
     {
-      "title": "Pork Rind Appreciation Day",
-      "description": "You’re in for a swell time with pork rinds and a fun, sporty day!"
+      "title": "Oatmeal Monday",
+      "description": "Get your pan ready and the fire going — we are making Oatmeal Monday come to life."
+    },
+    {
+      "title": "Oglethorpe Day",
+      "description": "Let’s tap into the history of Georgia to learn more about its founding father."
     },
     {
       "title": "Red Hand Day",
@@ -75,16 +75,20 @@
       "description": "It’s time to celebrate the puppets that keep your children safe from harm."
     },
     {
-      "title": "Super Chicken Wing Day",
-      "description": "It’s time to put that appetite to the test with Super Chicken Wing Day!"
+      "title": "Shrove Monday",
+      "description": "Shrove Monday is a part of the Shrovetide celebration that is observed the week before Lent."
+    },
+    {
+      "title": "Sick of Food Waste Day",
+      "description": "The Monday after the Big Game is known for being a major “sick” day, with 16+ million people estimated to call in “sick” from work…"
     },
     {
       "title": "Union Day",
       "description": "Join the Union Day celebrations as the Burmese mark their independence in style."
     },
     {
-      "title": "World Marriage Day",
-      "description": "Today, we reflect on the beautiful gift of marriage and celebrate enduring love!"
+      "title": "Uruguay Carnival",
+      "description": "The Uruguay Carnival is an important cultural festival that is held in February or March."
     },
     {
       "title": "Abraham Lincoln’s Birthday",
