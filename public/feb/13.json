@@ -4,15 +4,27 @@
   "holidays": [
     {
       "title": "Galentine&#39;s Day",
-      "description": "“Oh, it’s only the best day of the year...Ladies celebrating ladies.”"
+      "description": null
     },
     {
-      "title": "National Clean Out Your Computer Day",
-      "description": "Geeks and laypeople unite, it’s National Clean Out Your Computer Day!"
+      "title": "Safer Internet Day",
+      "description": "It&#39;s extraordinary to have an infinite amount of access to information at your fingertips!"
+    },
+    {
+      "title": "Angola Carnival Day",
+      "description": "Color your world with a splash of Africa! It&#39;s Angola Carnival Day."
     },
     {
       "title": "Black Love Day",
       "description": "Black Love Day is about spreading love and promoting peace in our society."
+    },
+    {
+      "title": "Brazilian Carninval",
+      "description": "Brazilian Carnival is marked by colorful costumes, samba music and dance, grand parades, and food festivals."
+    },
+    {
+      "title": "Canada&#39;s Agriculture Day",
+      "description": "Grab your forks as we celebrate the foods we love and the farmers who produce them!"
     },
     {
       "title": "Desperation Day",
@@ -23,12 +35,20 @@
       "description": "The night before Valentine&#39;s Day is the best time to dream about your sweetheart."
     },
     {
-      "title": "Dream Your Sweet Day",
-      "description": "On Dream Your Sweet Day, dream about your partner and the sweet things you’ll do!"
+      "title": "Ecuador Carnival",
+      "description": "The Ecuador Carnival is a popular celebration that takes its origins from the remembrance of Jesus."
     },
     {
       "title": "Employee Legal Awareness Day",
       "description": "It’s time to learn more about your legal rights as an employee."
+    },
+    {
+      "title": "Extraterrestrial Culture Day",
+      "description": "Have you ever wondered about the lives that may exist in other galaxies?"
+    },
+    {
+      "title": "Fasnacht Day",
+      "description": "We encourage you to enjoy fluffy fried pastry on Fasnacht Day! If not now, when?"
     },
     {
       "title": "Get a Different Name Day",
@@ -39,10 +59,6 @@
       "description": "Check the expiration date on your condom box and get ready for this day!"
     },
     {
-      "title": "International Epilepsy Day",
-      "description": "Learn more about one of the world’s oldest-known diseases on International Epilepsy Day."
-    },
-    {
       "title": "International Natural Day",
       "description": "Bask in self-love without any guilt, knowing that you deserve it fully."
     },
@@ -51,8 +67,8 @@
       "description": "Find your worries and anxieties melting away when you tenderly kiss your sweetheart."
     },
     {
-      "title": "Kiss Day",
-      "description": "What makes Kiss Day great is that there are many ways to celebrate it. Wink wink!"
+      "title": "Mardi Gras",
+      "description": "It&#39;s Mardi Gras time, arguably one the best celebrations in the world."
     },
     {
       "title": "National Apology Day",
@@ -83,10 +99,6 @@
       "description": "Get together to celebrate and appreciate all the Jamies around the globe."
     },
     {
-      "title": "National Poop Day",
-      "description": "It’s the day to celebrate one of the body’s most important functions."
-    },
-    {
       "title": "National Tortellini Day",
       "description": "Whether you enjoy them with butter and sage or parmesan, lift a fork to celebrate!"
     },
@@ -95,16 +107,16 @@
       "description": "Gather your mates and get ready to celebrate this day! Here’s everything you need to know!"
     },
     {
-      "title": "Oatmeal Monday",
-      "description": "Get your pan ready and the fire going — we are making Oatmeal Monday come to life."
-    },
-    {
-      "title": "Oatmeal Monday (Meal Monday)",
-      "description": "Let’s indulge in the creamy, fiber-rich delicacy known as oatmeal on this day."
+      "title": "Qatar Sports Day",
+      "description": "Qatar encourages all citizens to get fit by recognizing National Sports Day."
     },
     {
       "title": "Self-Love Day",
       "description": "This Self-Love Day, join us in celebrating the amazing power of self-love."
+    },
+    {
+      "title": "Travel Africa Day",
+      "description": "Africa has its mysteries. Join us as we unravel them on Travel Africa Day!"
     },
     {
       "title": "World Radio Day",
