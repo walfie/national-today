@@ -3,16 +3,20 @@
   "day": 14,
   "holidays": [
     {
-      "title": "Safer Internet Day",
-      "description": "It&#39;s extraordinary to have an infinite amount of access to information at your fingertips!"
+      "title": "Ash Wednesday",
+      "description": null
     },
     {
       "title": "Valentine&#39;s Day",
       "description": "We are ready to shower our significant others with love and tokens of our affection."
     },
     {
-      "title": "Extraterrestrial Culture Day",
-      "description": "Have you ever wondered about the lives that may exist in other galaxies?"
+      "title": "Basant Panchami",
+      "description": "We explain what Basant Panchami is, its importance, and how to observe it."
+    },
+    {
+      "title": "Congenital Heart Defect Awareness Day",
+      "description": "Explore the prevalence of congenital heart defects in the world and how you can help."
     },
     {
       "title": "Frederick Douglass Day",
@@ -23,12 +27,12 @@
       "description": "Let’s raise awareness and funds for the disabled and disadvantaged, so they can have equal opportunities."
     },
     {
-      "title": "International Book Giving Day",
-      "description": "Share the gift of knowledge by donating a book to someone in need."
+      "title": "Have a Heart Day",
+      "description": "On Have a Heart Day, be the change you wish to see in the world."
     },
     {
-      "title": "International Quirkyalone Day",
-      "description": "International Quirkyalone Day is dedicated to the most important kind of love — self-love."
+      "title": "International Book Giving Day",
+      "description": "Share the gift of knowledge by donating a book to someone in need."
     },
     {
       "title": "League of Women Voters Day",
@@ -39,7 +43,7 @@
       "description": "Digest this fact — there was a time when libraries didn’t exist!"
     },
     {
-      "title": "Lui-Ngai-Ni",
+      "title": "Lui-Ngai-Ni Festival",
       "description": "A new year of prosperity is upon us; the Naga tribe comes together to celebrate Lui-Ngai-Ni."
     },
     {
@@ -67,11 +71,11 @@
       "description": "Get ready to celebrate the heritage of one of the most beautiful names in the world."
     },
     {
-      "title": "National Condom Awareness Day",
-      "description": "National Condom Awareness Day promotes the necessary conversations about the proper usage of condoms."
+      "title": "National Condom Day",
+      "description": "National Condom Day promotes the necessary conversations about the proper usage of condoms."
     },
     {
-      "title": "National Cream-Filled Chocolates Day",
+      "title": "National Cream-Filled Chocolate Day",
       "description": "Chocoholics will love this holiday that celebrates the decadent sweetness of cream-filled chocolates."
     },
     {
@@ -87,20 +91,8 @@
       "description": "Take this day to recover from all the football celebrations and excitement."
     },
     {
-      "title": "National Have a Heart Day",
-      "description": "On National Have a Heart Day, be the change you wish to see in the world."
-    },
-    {
       "title": "National Impotence Day",
       "description": "Get ready to learn all about erectile dysfunction and its potential causes."
-    },
-    {
-      "title": "National Pet Theft Awareness Day",
-      "description": "Animal trafficking is a serious issue, and we need to get together to stop it."
-    },
-    {
-      "title": "National Sports Day Qatar",
-      "description": "Qatar encourages all citizens to get fit by recognizing National Sports Day."
     },
     {
       "title": "Organ Donor Day",
@@ -111,6 +103,10 @@
       "description": "If you don’t want your pet to land on a lost animal poster, raise your voice."
     },
     {
+      "title": "Quirkyalone Day",
+      "description": "Quirkyalone Day is dedicated to the most important kind of love — self-love."
+    },
+    {
       "title": "Rafik Hariri Memorial Day",
       "description": "The assassination of Rafik Hariri was a turning point in the history of Lebanon."
     },
@@ -119,24 +115,16 @@
       "description": "Get out your favorite books, gather your kids, and celebrate Read to Your Child Day."
     },
     {
-      "title": "Read to Your Child Day",
-      "description": "This Read to Your Child Day, help children enhance their intellect, imagination, and creativity with books."
-    },
-    {
       "title": "Statehood Day in Arizona",
       "description": "Statehood Day in Arizona also celebrates the rich culture and history of Arizona."
     },
     {
-      "title": "Travel Africa Day",
-      "description": "Africa has its mysteries. Join us as we unravel them on Travel Africa Day!"
+      "title": "Vasant Panchami",
+      "description": "A festival that honors a goddess and marks the preparation for the arrival of spring."
     },
     {
       "title": "World Bonobo Day",
       "description": "Today, we educate and raise awareness about bonobos, a species on the verge of extinction."
-    },
-    {
-      "title": "World Congenital Heart Defect Awareness Day",
-      "description": "Explore the prevalence of congenital heart defects in the world and how you can help."
     },
     {
       "title": "World Sound Healing Day",
