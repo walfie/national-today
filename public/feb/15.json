@@ -4,11 +4,7 @@
   "holidays": [
     {
       "title": "Annoy Squidward Day",
-      "description": "You can think of ways to annoy Squidward – drive him crazy on Annoy Squidward Day."
-    },
-    {
-      "title": "Canada&#39;s Agriculture Day",
-      "description": "Grab your forks as we celebrate the foods we love and the farmers who produce them!"
+      "description": null
     },
     {
       "title": "Day of Ashakalia",
@@ -21,10 +17,6 @@
     {
       "title": "International Childhood Cancer Day",
       "description": "Learn more about cancer’s effect on children and how you can help."
-    },
-    {
-      "title": "Lantern Festival",
-      "description": "Get into the festive mood with us as we celebrate the colorful, wonderful Lantern Festival."
     },
     {
       "title": "Liberation Day Afghanistan",
@@ -89,6 +81,14 @@
     {
       "title": "Total Defense Day",
       "description": "It takes the whole village — nay, the whole nation — to keep itself strong and together."
+    },
+    {
+      "title": "World Anthropology Day",
+      "description": "Learn more about how anthropology explains the factors that influence human lives."
+    },
+    {
+      "title": "World Cholangiocarcinoma Day",
+      "description": "Let’s learn more about one of the rarest and most aggressive types of cancer — cholangiocarcinoma."
     },
     {
       "title": "World Hippo Day",
