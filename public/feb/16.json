@@ -4,11 +4,11 @@
   "holidays": [
     {
       "title": "National Almond Day",
-      "description": "Let’s pay tribute to these tiny powerhouses packed with goodness!"
+      "description": null
     },
     {
-      "title": "Archbishop Janani Luwum Day",
-      "description": "Today we celebrate a man who wasn’t afraid to stand for truth on behalf of Ugandans."
+      "title": "Day of Restoration of the State of Lithuania",
+      "description": "Rejoice in the spirit of patriotism as we celebrate the first independence day of Lithuania."
     },
     {
       "title": "Do a Grouch a Favor Day",
@@ -19,40 +19,36 @@
       "description": "Join us as we celebrate and honor the life of a courageous woman — Elizabeth Peratrovich."
     },
     {
-      "title": "Fat Thursday",
-      "description": "Presenting the ultimate cheat day — join us as we bring good luck and cheer through donuts."
-    },
-    {
-      "title": "Feast of Saint Vartan",
-      "description": "Join us as we celebrate the Feast of Saint Vartan this February."
+      "title": "Friday Fish Fry Day",
+      "description": "Grab your fork and take a bite of your fried fish this Friday Fish Fry Day."
     },
     {
       "title": "Innovation Day",
       "description": "If you want to pursue a career in technology then this day is for you."
     },
     {
+      "title": "Janan Luwum Day",
+      "description": "Today we celebrate a man who wasn’t afraid to stand for truth on behalf of Ugandans."
+    },
+    {
       "title": "Kyoto Protocol Day",
       "description": "Find out what different countries are doing to make the world a more habitable place."
     },
     {
-      "title": "Paczki Day",
-      "description": "Known as a dessert indulged in around lent, Paczki Day isn’t just about the pastries."
+      "title": "National Caregivers Day",
+      "description": "We honor individuals who selflessly provide physical-and emotional support to those who need it most."
     },
     {
-      "title": "Restoration of the State Day in Lithuania",
-      "description": "Rejoice in the spirit of patriotism as we celebrate the first independence day of Lithuania."
+      "title": "National Tartar Sauce Day",
+      "description": "As long as you have your tartar sauce next to it, you can never go wrong with seafood."
+    },
+    {
+      "title": "No One Eats Alone Day",
+      "description": "Sit with the loneliest kid and share your meal with him or her as you bond."
     },
     {
       "title": "Tim Tam Day",
       "description": "Come up with new combinations and variations to enjoy Tim Tam biscuits this year."
-    },
-    {
-      "title": "World Anthropology Day",
-      "description": "Learn more about how anthropology explains the factors that influence human lives."
-    },
-    {
-      "title": "World Cholangiocarcinoma Day",
-      "description": "Let’s learn more about one of the rarest and most aggressive types of cancer — cholangiocarcinoma."
     },
     {
       "title": "Ava Max’s Birthday",
@@ -73,10 +69,6 @@
     {
       "title": "Lupe Fiasco’s Birthday",
       "description": "Lupe Fiasco, a devout Muslim, jazz enthusiast, and self-described geek, is a hip-hop sensation."
-    },
-    {
-      "title": "The Weeknd’s Birthday",
-      "description": "We love his music and more, he donated $250,000 to the Black Lives Matter movement."
     }
   ]
 }
