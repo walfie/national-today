@@ -3,16 +3,12 @@
   "day": 17,
   "holidays": [
     {
-      "title": "Random Act of Kindness Day",
-      "description": "Want to change the world? Start with a random act of kindness!"
+      "title": "National Random Acts of Kindness Day",
+      "description": null
     },
     {
       "title": "Analog to Digital TV Day",
       "description": "Take some time to appreciate the brilliance of digital T.Vs and what they do."
-    },
-    {
-      "title": "Brazil Carnival",
-      "description": "Brazil Carnival is a festival held before Ash Wednesday, which hosts many colorful events."
     },
     {
       "title": "Champion Crab Races Day",
@@ -43,10 +39,6 @@
       "description": "Treat your taste buds to this warm, heavenly delight on National Cafe au Lait Day!"
     },
     {
-      "title": "National Caregivers Day",
-      "description": "We honor individuals who selflessly provide physical-and emotional support to those who need it most."
-    },
-    {
       "title": "National Public Science Day",
       "description": "Get acquainted with the science topics and issues that influence our everyday lives."
     },
@@ -55,16 +47,16 @@
       "description": "It’s time to give credit to the ones that taught us to ace the game."
     },
     {
-      "title": "No One Eats Alone Day",
-      "description": "Sit with the loneliest kid and share your meal with him or her as you bond."
-    },
-    {
       "title": "Who Shall I Be Day",
       "description": "Let us explore the importance of setting future goals and start working for a brighter future."
     },
     {
       "title": "World Human Spirit Day",
       "description": "Celebrate World Human Spirit Day in zen-full fashion! Meditate, be thankful, and stay confident."
+    },
+    {
+      "title": "World Pangolin Day",
+      "description": "Pangolins are at the mercy of poachers who sell their scales for food."
     },
     {
       "title": "Alex Vargas’s Birthday",
