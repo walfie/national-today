@@ -4,27 +4,19 @@
   "holidays": [
     {
       "title": "National Drink Wine Day",
-      "description": "Get ready to unwind with a glass or two of your favorite Cabernet Sauvignon or Chardonnay."
+      "description": null
     },
     {
       "title": "Cow Milked While Flying in an Airplane Day",
       "description": "Get ready to be amused by Elm Farm Ollie’s calmness and massive generosity."
     },
     {
+      "title": "Daytona Pole Day",
+      "description": "Join car racing fans from all over the world for an experience that lasts a lifetime."
+    },
+    {
       "title": "Gambia Independence Day",
       "description": "Join us as we celebrate Gambia Independence Day and the end of Africa’s colonization."
-    },
-    {
-      "title": "Great Backyard Bird Count",
-      "description": "Get your binoculars ready as we gear up to count and celebrate birds!"
-    },
-    {
-      "title": "Isra and Mi&#39;raj",
-      "description": "Within Islam, Isra and Mi&#39;raj, refers to a miraculous nighttime journey undertaken by the Prophet Muhammad."
-    },
-    {
-      "title": "Maha Shivaratri",
-      "description": "Immerse yourself in a day of prayer as we honor an important Hindu god."
     },
     {
       "title": "National Battery Day",
@@ -35,6 +27,10 @@
       "description": "Experience this mouth-watering dish created with the savory flavors of the sea."
     },
     {
+      "title": "NBA All Star Game",
+      "description": "Get ready to cheer your team and enjoy some incredible basketball action!"
+    },
+    {
       "title": "Pluto Day",
       "description": "Do you know why a day on Pluto is equivalent to 6.4 Earth days?"
     },
@@ -43,8 +39,8 @@
       "description": "Thumbs exhibit the forms of emotion that the body it is attached to feels. Here’s how."
     },
     {
-      "title": "World Pangolin Day",
-      "description": "Pangolins are at the mercy of poachers who sell their scales for food."
+      "title": "World Whale Day",
+      "description": "Get ready to dive deep into the celebrations for these majestic ocean creatures."
     },
     {
       "title": "Damien Prince’s Birthday",
@@ -55,7 +51,7 @@
       "description": "The music doctor who prescribed the world a large dose of good songs and talent."
     },
     {
-      "title": "Chwe Vernon Hansol’s Birthday",
+      "title": "Hansol Vernon Chwe’s Birthday",
       "description": "Born in one country and raised in another, today he is a global icon!"
     },
     {
