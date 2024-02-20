@@ -3,36 +3,16 @@
   "day": 20,
   "holidays": [
     {
-      "title": "Argentina Carnival",
-      "description": "Are you going to Buenos Aires this summer? It&#39;s time to attend the carnival."
-    },
-    {
-      "title": "Carnival Monday",
-      "description": "A Carnival is a cultural festival that puts on a great display of tradition and history."
+      "title": "National Love Your Pet Day",
+      "description": null
     },
     {
       "title": "Clean Out Your Bookcase Day",
       "description": "Your old dusty books need some T.L.C. every once in a while. Let’s dive in."
     },
     {
-      "title": "Daisy Gatson Bates Day",
-      "description": "Celebrate this praise-worthy activist who believed in fighting against racial inequality and injustice."
-    },
-    {
-      "title": "Family Day",
-      "description": "Family Day is celebrated in Canada on the third Monday in February."
-    },
-    {
       "title": "Hoodie Hoo Day",
       "description": "Goodbye winter, welcome spring; this is what Hoodie Hoo Day is all about."
-    },
-    {
-      "title": "Islander Day",
-      "description": "Start planning for the short winter break as we glide into Islander Day."
-    },
-    {
-      "title": "Louis Riel Day",
-      "description": "Get ready to dive into Manitoban history as we remember and celebrate Louis Riel."
     },
     {
       "title": "Mizoram State Day",
@@ -75,32 +55,8 @@
       "description": "Leave the politics out of it and read on for fun suggestions!"
     },
     {
-      "title": "Nova Scotia Heritage Day",
-      "description": "Nova Scotia Heritage Day celebrates the unique people, heritage, and history of Nova Scotia."
-    },
-    {
-      "title": "Presidents&#39; Day",
-      "description": "We celebrate America&#39;s greatest in all our patriotic glory."
-    },
-    {
-      "title": "Shrove Monday",
-      "description": "Shrove Monday is a part of the Shrovetide celebration that is observed the week before Lent."
-    },
-    {
-      "title": "Statehood Day in Arunachal Pradesh",
+      "title": "Statehood Day of Arunachal Pradesh",
       "description": "The historic and geographically beautiful state in northeast India is celebrating another year of statehood today."
-    },
-    {
-      "title": "The Day of Illustrious Puerto Ricans",
-      "description": "Get ready to understand the importance of the Day of Illustrious Puerto Ricans and its history."
-    },
-    {
-      "title": "Uruguay Carnival",
-      "description": "The Uruguay Carnival is an important cultural festival that is held in February or March."
-    },
-    {
-      "title": "Venezuela Carnival",
-      "description": "Venezuela Carnival occurs three days before Ash Wednesday, the beginning of Lent."
     },
     {
       "title": "Women in Blue Jeans Days",
