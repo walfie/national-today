@@ -3,36 +3,16 @@
   "day": 21,
   "holidays": [
     {
-      "title": "National Pancake Day",
-      "description": "Nothing like a fluffy batch of Pancakes drizzled with lots of butter and syrup."
-    },
-    {
       "title": "National Sticky Bun Day",
-      "description": "What goes better with coffee than something a little sweet, nutty and possibly oozing with caramel?"
+      "description": null
     },
     {
       "title": "Birth Anniversary of His Majesty the King",
       "description": "We get three days to honor the King of Bhutan. So join in the festivities."
     },
     {
-      "title": "Brazilian Carninval",
-      "description": "Brazilian Carnival is marked by colorful costumes, samba music and dance, grand parades, and food festivals."
-    },
-    {
       "title": "Card Reading Day",
       "description": "The memories and sentiment linger on even with the yellowing of the paper."
-    },
-    {
-      "title": "Earth God&#39;s Birthday",
-      "description": "Looking for a job or need more business? Earth God might grant your wishes."
-    },
-    {
-      "title": "Ecuador Carnival",
-      "description": "The Ecuador Carnival is a popular celebration that takes its origins from the remembrance of Jesus."
-    },
-    {
-      "title": "Fasnacht Day",
-      "description": "We encourage you to enjoy fluffy fried pastry on Fasnacht Day! If not now, when?"
     },
     {
       "title": "Father Lini Day",
@@ -51,16 +31,8 @@
       "description": "Let us all work together to save many of the world&#39;s endangered languages and historical heritage."
     },
     {
-      "title": "Language Martyrs&#39; Day",
+      "title": "Language Movement Day",
       "description": "Let us explore how language became the identity of a nation and how it won freedom."
-    },
-    {
-      "title": "Losar",
-      "description": "Cheers to a new year filled with prosperity as we mark Losar, Bhutanese New Year."
-    },
-    {
-      "title": "Mardi Gras",
-      "description": "It&#39;s Mardi Gras time, arguably one the best celebrations in the world."
     },
     {
       "title": "National Grain Free Day",
@@ -69,14 +41,6 @@
     {
       "title": "Robert Gabriel Mugabe National Youth Day",
       "description": "How much do you know about Robert Gabriel Mugabe? Learn more about him here."
-    },
-    {
-      "title": "Tsagaan Sar",
-      "description": "Get ready to bring in the best of luck this Mongolian Lunar New Year."
-    },
-    {
-      "title": "Zhonge Festival",
-      "description": "Get ready for this yearly festival as “the dragon raises its head.”"
     },
     {
       "title": "Alan Rickman’s Birthday",
