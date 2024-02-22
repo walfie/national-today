@@ -3,15 +3,15 @@
   "day": 22,
   "holidays": [
     {
-      "title": "Ash Wednesday",
-      "description": "Observed 46 days before Easter, Ash Wednesday is considered to be the beginning of Lent in Christianity."
+      "title": "National Chili Day",
+      "description": null
     },
     {
       "title": "National Margarita Day",
       "description": "Up, on ice, or on the rocks, you can’t go wrong!"
     },
     {
-      "title": "National Walking the Dog Day",
+      "title": "National Walk Your Dog Day",
       "description": "Combining two of the most happy-making things we have in this life: dogs and exercise."
     },
     {
@@ -23,10 +23,6 @@
       "description": "Let’s practice humility and try to better ourselves this Be Humble Day."
     },
     {
-      "title": "Cook a Sweet Potato Day",
-      "description": "Tickle your taste buds with a gastronomical experience by relishing this delicious vegetable."
-    },
-    {
       "title": "Day of Fraternity and Cohesion",
       "description": "Let’s celebrate the spirit of democracy and the triumph of the public will!"
     },
@@ -35,8 +31,12 @@
       "description": "Here’s how to work together and reimagine fair trials and safer futures for victims of crime."
     },
     {
-      "title": "Inconvenience Yourself Day",
-      "description": "Get ready to make life a little easier for other people with our tips!"
+      "title": "Founders Day Scouts",
+      "description": "Celebrate one of the oldest and noblest traditions renowned across the globe on Founders Day Scouts."
+    },
+    {
+      "title": "Great American Spit Out",
+      "description": "For Great American Spit Out, we’re removing the deadly effect of tobacco from our lives."
     },
     {
       "title": "Independence Day Saint Lucia",
@@ -47,12 +47,12 @@
       "description": "Get your history appetite ready because today, we dine on California history."
     },
     {
-      "title": "National Heart Valve Disease Awareness Day",
-      "description": "Join the fight against heart valve disease by celebrating National Heart Valve Disease Awareness Day."
+      "title": "National Cook a Sweet Potato Day",
+      "description": "Tickle your taste buds with a gastronomical experience by relishing this delicious vegetable."
     },
     {
-      "title": "Pink Shirt Day in Canada",
-      "description": "It&#39;s time to stand up and stand against bullying today and every other day."
+      "title": "National Heart Valve Disease Awareness Day",
+      "description": "Join the fight against heart valve disease by celebrating National Heart Valve Disease Awareness Day."
     },
     {
       "title": "Play More Cards Day",
@@ -61,10 +61,6 @@
     {
       "title": "Recreational Sports &amp; Fitness Day",
       "description": "Join us as we get ready to celebrate Rec Day on February 22."
-    },
-    {
-      "title": "Scouts Founder&#39;s Day",
-      "description": "Celebrate one of the oldest and noblest traditions renowned across the globe on Scouts Founder’s Day."
     },
     {
       "title": "Single Tasking Day",
