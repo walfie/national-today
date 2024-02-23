@@ -3,12 +3,8 @@
   "day": 23,
   "holidays": [
     {
-      "title": "National Chili Day",
-      "description": "When chili is being served, everyone comes to the table."
-    },
-    {
       "title": "National Hospitality Workers Appreciation Day",
-      "description": "Celebrating the hospitality industry’s frontline workers."
+      "description": null
     },
     {
       "title": "Curling Is Cool Day",
@@ -23,20 +19,16 @@
       "description": "Gear yourselves up as we celebrate one of the world’s most important automotive power sources."
     },
     {
-      "title": "Digital Learning Day",
-      "description": "Get your minds and devices ready as we celebrate the adaptation of technology for learning."
+      "title": "Emperor&#39;s Birthday Japan",
+      "description": "Pull out your Japanese attire and flags as we celebrate the great emperor of Japan!"
     },
     {
       "title": "Guyana Republic Day",
       "description": "Prepare for some interesting history lessons as we explore the fascinating story of Guyana."
     },
     {
-      "title": "International Dog Biscuit Appreciation Day",
-      "description": "We all know that dogs love these treats so we celebrate this wag-tastic holiday!"
-    },
-    {
-      "title": "Launceston Cup",
-      "description": "Get ready because this is another moment to witness the fantastic horse-racing event in Launceston."
+      "title": "International Stand Up to Bullying Day",
+      "description": "International Stand Up to Bullying Day is a part of Anti-Bullying Week."
     },
     {
       "title": "National Banana Bread Day",
@@ -51,6 +43,10 @@
       "description": "Your dog doesn’t to play fetch, or a pat. What he really wants is his biscuit!"
     },
     {
+      "title": "National Play Tennis Day",
+      "description": "Grab your rackets and get on the court as we celebrate the best of tennis!"
+    },
+    {
       "title": "National Rationalization Day",
       "description": "National Rationalization Day allows people to rationalize as much as they wish to."
     },
@@ -63,32 +59,24 @@
       "description": "Get ready to know why National Tile Day is an important day worthy of celebration."
     },
     {
-      "title": "National Toast Day",
-      "description": "This read will definitely have you popping bread into the toaster, so here’s a heads-up."
+      "title": "National Tootsie Roll Day",
+      "description": "Tootsie Rolls are delicious, chewy candies enjoyed by people of all ages."
     },
     {
       "title": "Pinocchio Day",
       "description": "Join us as we celebrate Disney’s iconic film “Pinocchio” this Pinocchio Day"
     },
     {
-      "title": "Play Tennis Day",
-      "description": "Grab your rackets and get on the court as we celebrate the best of tennis!"
+      "title": "Skip the Straw Day",
+      "description": "We can slurp more down by just going straight for the glass’s edge anyway!"
     },
     {
-      "title": "The Emperor&#39;s Birthday",
-      "description": "Pull out your Japanese attire and flags as we celebrate the great emperor of Japan!"
-    },
-    {
-      "title": "The Great American Spit Out",
-      "description": "For The Great American Spit Out, we’re removing the deadly effect of tobacco from our lives."
-    },
-    {
-      "title": "Tootsie Roll Day",
-      "description": "Tootsie Rolls are delicious, chewy candies enjoyed by people of all ages."
-    },
-    {
-      "title": "World Understanding and Peace Day",
+      "title": "World Peace and Understanding Day",
       "description": "Get ready to set aside this day to live peacefully and celebrate organizations championing goodwill."
+    },
+    {
+      "title": "Yukon Heritage Day",
+      "description": "Binging the history and culture of the smallest of Canada’s three territories to the forefront."
     },
     {
       "title": "Dakota Fanning’s Birthday",
