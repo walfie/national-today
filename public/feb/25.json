@@ -4,23 +4,19 @@
   "holidays": [
     {
       "title": "Choiseul Province Day",
-      "description": "Join us as we celebrate Choiseul Province Day and learn the history behind it!"
+      "description": null
     },
     {
       "title": "Day of Liberation and Innovation",
       "description": "We&#39;re saying “No!” to oppression and “Yes!” to standing in solidarity with the persecuted."
     },
     {
-      "title": "EDSA Revolution Anniversary",
+      "title": "EDSA Revolution Holiday",
       "description": "Today we join Filipinos as they remember the activities that led to the restoration of democracy."
     },
     {
-      "title": "International Sword Swallowers Day",
-      "description": "Join us as we explore the world of sword swallowing — it’s an intriguing sight to behold."
-    },
-    {
-      "title": "Introduce A Girl To Engineering Day",
-      "description": "Spark curiosity and discover a whole new exciting world on Introduce a Girl to Engineering Day."
+      "title": "Kuwait National Day",
+      "description": "Kuwait is one of the most prosperous countries in the Gulf, with a rich history."
     },
     {
       "title": "Let&#39;s All Eat Right Day",
@@ -35,10 +31,6 @@
       "description": "Get ready to join us for a chocolaty, crunchy, nutty, and very sweet day!"
     },
     {
-      "title": "National Day Kuwait",
-      "description": "Kuwait is one of the most prosperous countries in the Gulf, with a rich history."
-    },
-    {
       "title": "National Jessica Day",
       "description": "Hey, Jessica. Are you ready to discover who or what inspired your name?"
     },
@@ -49,10 +41,6 @@
     {
       "title": "National Nicholas Day",
       "description": "Join in the celebrations as we give a shout-out to every Nicholas we know!"
-    },
-    {
-      "title": "Open That Bottle Night",
-      "description": "Get your corkscrews and glasses ready. It is Open That Bottle Night!"
     },
     {
       "title": "People Power Revolution",
