@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "Letter to an Elder Day",
-      "description": "The art of letter-writing is honored as a way to send love!"
+      "description": null
     },
     {
       "title": "National Pistachio Day",
@@ -41,10 +41,6 @@
     {
       "title": "National Saul Day",
       "description": "Join us as we wish Sauls a frolicking celebration on National Saul Day."
-    },
-    {
-      "title": "Orthodox Forgiveness Sunday",
-      "description": "Prepare for Great Lent by forgiving those who have wronged you and also asking for forgiveness."
     },
     {
       "title": "Tell a Fairy Tale Day",
