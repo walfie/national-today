@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "International Polar Bear Day",
-      "description": "Let&#39;s reduce our carbon footprint to preserve the future of these magnificent mammals."
+      "description": null
     },
     {
       "title": "National Protein day",
@@ -13,18 +13,6 @@
     {
       "title": "Anosmia Awareness Day",
       "description": "Take a deep breath as we learn more about the loss of the sense of smell!"
-    },
-    {
-      "title": "Battle of the Oranges Ivrea",
-      "description": "Grab your nearest ball of citrus because it&#39;s time for Ivrea&#39;s world-renowned Battle of the Oranges!"
-    },
-    {
-      "title": "Clean Monday",
-      "description": "Let’s fly our kites high up in the sky as we welcome Lent!"
-    },
-    {
-      "title": "Cyprus Green Monday",
-      "description": "Let&#39;s begin the auspicious period of Lent by celebrating a day of gratitude."
     },
     {
       "title": "Dominican Republic Independence Day",
@@ -55,10 +43,6 @@
       "description": "Take this day to relax your mind and stop yourself from overthinking problems."
     },
     {
-      "title": "Orthodox Lent",
-      "description": "Observe the season of fasting, prayer, reflection, and drawing nearer to God during Orthodox Lent."
-    },
-    {
       "title": "Retro Day",
       "description": "Let’s revisit the past on February 27, for it is Retro Day!"
     },
@@ -73,6 +57,10 @@
     {
       "title": "World NGO Day",
       "description": "Join us in celebrating this day that’s observed in over 89 countries and across six continents."
+    },
+    {
+      "title": "World Spay Day",
+      "description": "The truth is, the pain of putting all those animals down is far harsher."
     },
     {
       "title": "Elizabeth Taylor’s Birthday",
