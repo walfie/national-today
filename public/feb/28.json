@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Chocolate Souffle Day",
-      "description": "Get your spoons ready! The chocolate soufflé is the height of French decadence — and deliciousness."
+      "description": null
     },
     {
       "title": "National Pancake Day",
@@ -27,6 +27,10 @@
       "description": "Fasching has various names and is celebrated in several German states each year."
     },
     {
+      "title": "Feast of Saint Vartan",
+      "description": "Join us as we celebrate the Feast of Saint Vartan this February."
+    },
+    {
       "title": "Floral Design Day",
       "description": "Do you love flowers and designs? Then you’re lucky we are celebrating floral designs today!"
     },
@@ -35,8 +39,16 @@
       "description": "Ready for bowls of goodness and recipes with secret something? Get cooking like a Scouser today."
     },
     {
+      "title": "Inconvenience Yourself Day",
+      "description": "Get ready to make life a little easier for other people with our tips!"
+    },
+    {
       "title": "International Repetitive Strain Injury Awareness Day",
       "description": "Today teaches us about injuries of these kinds and steps you can take to prevent them."
+    },
+    {
+      "title": "Launceston Cup",
+      "description": "Get ready because this is another moment to witness the fantastic horse-racing event in Launceston."
     },
     {
       "title": "Linus Pauling Day",
@@ -67,16 +79,16 @@
       "description": "Put on some lipstick, and celebrate cruelty-free cosmetics with us this National Vegan Lipstick Day!"
     },
     {
+      "title": "Pink Shirt Day Canada",
+      "description": "It&#39;s time to stand up and stand against bullying today and every other day."
+    },
+    {
       "title": "Rare Disease Day",
       "description": "Look out for famous landmarks lighting up for Rare Disease Day, click here to learn more."
     },
     {
       "title": "US Snow Shoe Day",
       "description": "Out with the sneakers and in with the snowshoes. We’re celebrating U.S. Snowshoe Day!"
-    },
-    {
-      "title": "World Spay Day",
-      "description": "The truth is, the pain of putting all those animals down is far harsher."
     },
     {
       "title": "Jason Aldean’s Birthday",
