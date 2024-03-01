@@ -3,6 +3,10 @@
   "day": 1,
   "holidays": [
     {
+      "title": "National Day of Unplugging",
+      "description": null
+    },
+    {
       "title": "National Peanut Butter Lover&#39;s Day",
       "description": "Crunchy, smooth, healthy, but also indulgent, let&#39;s celebrate the versatile Peanut Butter!"
     },
@@ -17,6 +21,10 @@
     {
       "title": "Baby Sleep Day",
       "description": "Nap time is happy time!  Give your baby and yourself the valuable gift by sleeping enough."
+    },
+    {
+      "title": "Denim Day for Dementia",
+      "description": "On Denim Day for Dementia, raise funds for dementia patients by wearing denim."
     },
     {
       "title": "Endometriosis Awareness Day",
@@ -39,10 +47,6 @@
       "description": "Let us all celebrate our unity in diversity this International Women of Color Day."
     },
     {
-      "title": "Lavity Stoutt&#39;s Birthday",
-      "description": "A revered leader of the British Virgin Islands with one of the longest parliamentary careers."
-    },
-    {
       "title": "Mărțișor",
       "description": "Celebrate spring like the Romanians by spreading some love, friendship, and respect."
     },
@@ -53,6 +57,14 @@
     {
       "title": "National Dadgum That&#39;s Good Day",
       "description": "Good food, good company, good times: happy National Dadgum That&#39;s Good Day!"
+    },
+    {
+      "title": "National Dress in Blue Day",
+      "description": "Wear your favorite blue outfit today to raise awareness about this deadly disease."
+    },
+    {
+      "title": "National Employee Appreciation Day",
+      "description": "Strong employer-employee relations are at the core of any truly successful business."
     },
     {
       "title": "National Fruit Compote Day",
@@ -83,6 +95,10 @@
       "description": "Celebrate your unique identity as we dive into the mysteries of the name Sage."
     },
     {
+      "title": "National Speech and Debate Education Day",
+      "description": "Join in today’s activities and let’s prepare students for a brighter future and a better world!"
+    },
+    {
       "title": "National Texas Stress Day",
       "description": "Honor the Texas Stress team for their labor and dedication to different industries in the state."
     },
@@ -93,6 +109,10 @@
     {
       "title": "National Welsh Corgi Day",
       "description": "If you are a corgi lover, then don’t miss out on this day!"
+    },
+    {
+      "title": "Overseas N.H.S. Workers Day",
+      "description": "A day to show love and respect to the overseas healthcare workers in the U.K."
     },
     {
       "title": "Peace Corps Day",
@@ -123,10 +143,6 @@
       "description": "The life and work of the famous teacher, and founder of St. David’s Cathedral is celebrated."
     },
     {
-      "title": "Stop Bad Service Day",
-      "description": "Join us and let’s work together to put an end to bad service!"
-    },
-    {
       "title": "World Civil Defense Day",
       "description": "Learn the skills you need to take care of yourself and loved ones in an emergency."
     },
@@ -135,8 +151,8 @@
       "description": "Vocalize your positive thoughts and watch them light up a room!"
     },
     {
-      "title": "World Music Therapy Day",
-      "description": "“Music can heal the wounds which medicine cannot touch.” Debasish Mridha. Find out how with us."
+      "title": "World Day of Prayer",
+      "description": "World Day of Prayer is a truly international day observed in 170 countries across continents."
     },
     {
       "title": "World Seagrass Day",
