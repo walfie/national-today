@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "Adwa Victory Day",
-      "description": "Polish up your history trivia this Adwa Victory Day and celebrate Ethiopia’s independence!"
+      "description": null
     },
     {
       "title": "American Citizenship Day",
@@ -27,31 +27,27 @@
       "description": "Mmm...do you smell that? That&#39;s the smell of a great breakfast!"
     },
     {
-      "title": "National Hospitalist Day",
-      "description": "Do you know what the difference between a hospitalist and a doctor is? No? Read on!"
-    },
-    {
       "title": "National Old Stuff Day",
       "description": "Roll up your sleeves, clean out closets and garages, rediscover old treasures, and declutter your life."
-    },
-    {
-      "title": "National Read Across America Day",
-      "description": "Students, teachers, parents, and community members come together to celebrate the joy of reading!"
     },
     {
       "title": "National Walter Day",
       "description": "The name Walter symbolizes poise, strength, and intellect; it is a popular masculine name."
     },
     {
-      "title": "Peasants Day",
-      "description": "Let us applaud the hard work of farmers and appreciate their significance on Peasants’ Day."
+      "title": "Peasant Day",
+      "description": "Let us applaud the hard work of farmers and appreciate their significance on Peasant Day."
+    },
+    {
+      "title": "Read Across America Day",
+      "description": "Students, teachers, parents, and community members come together to celebrate the joy of reading!"
     },
     {
       "title": "Texas Independence Day",
       "description": "Hold on to your hats and boots as we celebrate Texas Independence Day in style."
     },
     {
-      "title": "The Toddle Waddle",
+      "title": "Toddle Waddle",
       "description": "Join us this March as we get ready to raise funds for meningitis."
     },
     {
