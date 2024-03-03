@@ -3,12 +3,8 @@
   "day": 3,
   "holidays": [
     {
-      "title": "Global Day of Unplugging",
-      "description": "Unplug and relax, reflect, be active, visit the outdoors, and connect with loved ones."
-    },
-    {
       "title": "National If Pets Had Thumbs Day",
-      "description": "Can you imagine what life would be like if our animal friends had that extra digit?"
+      "description": null
     },
     {
       "title": "World Wildlife Day",
@@ -31,8 +27,16 @@
       "description": "Let’s show our appreciation and recognize the millions of selfless caregivers in the U.S."
     },
     {
-      "title": "Denim Day for Dementia",
-      "description": "On Denim Day for Dementia, raise funds for dementia patients by wearing denim."
+      "title": "Clean Up Australia Day",
+      "description": "It&#39;s a great day to be environmentally conscious and support environmental initiatives."
+    },
+    {
+      "title": "Finisher’s Medal Day",
+      "description": "In a world obsessed with performance, Finisher’s Medal Day honors participation."
+    },
+    {
+      "title": "Global Omega-3 Day™",
+      "description": "Discover why omega-3s are always a good idea!"
     },
     {
       "title": "Iditarod Trail Sled Dog Race",
@@ -51,7 +55,7 @@
       "description": "Join millions in celebrating the females in the family as we mark the Japan Dolls Festival."
     },
     {
-      "title": "Martyrs&#39; Day in Malawi",
+      "title": "Martyrs&#39; Day Malawi",
       "description": "Let’s join the people of Malawi to honor the heroes who fought for their nation’s liberation."
     },
     {
@@ -59,8 +63,12 @@
       "description": "Let’s go back in time to find out about the significance of the Missouri Compromise!"
     },
     {
-      "title": "Mothers&#39; Day in Georgia",
+      "title": "Mother&#39;s Day in Georgia",
       "description": "Keep reading to find out the history of Mother’s Day all over the world."
+    },
+    {
+      "title": "Namesake Day",
+      "description": "Are you ready to find out who or what you were named after this Namesake Day?"
     },
     {
       "title": "National Anthem Day",
@@ -69,14 +77,6 @@
     {
       "title": "National Cold Cuts Day",
       "description": "Check out the cold cut history, really offbeat types of processed meats, and more."
-    },
-    {
-      "title": "National Dress in Blue Day",
-      "description": "Wear your favorite blue outfit today to raise awareness about this deadly disease."
-    },
-    {
-      "title": "National Employee Appreciation Day",
-      "description": "Strong employer-employee relations are at the core of any truly successful business."
     },
     {
       "title": "National I Want You to be Happy Day",
@@ -103,24 +103,12 @@
       "description": "Show Robins some much-deserved love as we celebrate them on National Robin Day."
     },
     {
-      "title": "National Soup it Forward Day",
-      "description": "Grab your spoons, it&#39;s time to savor the flavors of a tasty broth and spread kindness."
-    },
-    {
       "title": "National Soup It Forward Day",
       "description": "Step into the kitchen, make some hot, delicious soup, and serve it to those in need."
     },
     {
-      "title": "National Speech and Debate Education Day",
-      "description": "Join in today’s activities and let’s prepare students for a brighter future and a better world!"
-    },
-    {
-      "title": "Navy Reserves Birthday",
+      "title": "Navy Reserve Birthday",
       "description": "It&#39;s time to celebrate another milestone in the U.S. Navy Reserve’s history."
-    },
-    {
-      "title": "Overseas N.H.S. Workers Day",
-      "description": "A day to show love and respect to the overseas healthcare workers in the U.K."
     },
     {
       "title": "Peach Blossom Day",
@@ -131,16 +119,20 @@
       "description": "This is an organizer’s guide to living a simpler, stress-free, financially liberating life."
     },
     {
+      "title": "Soup it Forward Day",
+      "description": "Grab your spoons, it&#39;s time to savor the flavors of a tasty broth and spread kindness."
+    },
+    {
       "title": "Talk in Third Person Day",
       "description": "Put on your creativity cap; get ready to talk in the third person for a day!"
     },
     {
-      "title": "What If Cats and Dogs Had Opposable Thumbs? Day",
-      "description": "Let’s get ready to wrap our brains around the idea of what-ifs."
+      "title": "Venezuela Carnival",
+      "description": "Venezuela Carnival occurs three days before Ash Wednesday, the beginning of Lent."
     },
     {
-      "title": "World Day of Prayer",
-      "description": "World Day of Prayer is a truly international day observed in 170 countries across continents."
+      "title": "What If Cats and Dogs Had Opposable Thumbs? Day",
+      "description": "Let’s get ready to wrap our brains around the idea of what-ifs."
     },
     {
       "title": "World Hearing Day",
