@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Absinthe Day",
-      "description": "“The green fairy” drink enjoys a mystique, making it an especially fun drink to enjoy!"
+      "description": null
     },
     {
       "title": "Arrival Of The First Missionaries",
@@ -15,20 +15,12 @@
       "description": "Loosen up with a tall drink of your favorite alcoholic beverage for Cinco de Marcho."
     },
     {
-      "title": "Clean Up Australia Day",
-      "description": "It&#39;s a great day to be environmentally conscious and support environmental initiatives."
-    },
-    {
       "title": "Custom Chief&#39;s Day",
       "description": "Culture and tradition bind us together as a society, so preserving them is important."
     },
     {
       "title": "Dissociative Identity Disorder Awareness Day",
       "description": "Learn more about dissociative identity disorders and how they can be managed."
-    },
-    {
-      "title": "Finisher’s Medal Day",
-      "description": "In a world obsessed with performance, Finisher’s Medal Day honors participation."
     },
     {
       "title": "International Open Data Day",
@@ -43,10 +35,6 @@
       "description": "There are two approaches to observing this day and celebrating the complexities of the human personality."
     },
     {
-      "title": "Namesake Day",
-      "description": "Are you ready to find out who or what you were named after this Namesake Day?"
-    },
-    {
       "title": "National Cheese Doodle Day",
       "description": "From cheese doodles, to cheese balls, these tasty snacks are sure to leave fingers bright orange."
     },
@@ -59,12 +47,24 @@
       "description": "Celebrate the occasion by appreciating and showing love to all the Scotts you know."
     },
     {
+      "title": "National Sportsmanship Day",
+      "description": "The worst way to lose is to fail to show good sportsmanship this National Sportsmanship Day."
+    },
+    {
+      "title": "National Town Meeting Day",
+      "description": "Here’s your chance to speak up. It’s National Town Meeting Day. Inspire some change."
+    },
+    {
       "title": "Reel Film Day",
       "description": "Are you old enough to remember the time when movies were made on reels?"
     },
     {
       "title": "St. Piran’s Day",
       "description": "The official holiday of Cornwall honors the patron saint of tin miners."
+    },
+    {
+      "title": "Unique Names Day",
+      "description": "Find out how to choose the best name and how to make it unique."
     },
     {
       "title": "World Information Architecture Day",
