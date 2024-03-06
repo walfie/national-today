@@ -3,8 +3,8 @@
   "day": 6,
   "holidays": [
     {
-      "title": "National Dentist&#39;s Day",
-      "description": "Celebrate the professionals who keep our chompers chomping, our gnashers gnashing, and our whites pearly."
+      "title": "National Dentist Day",
+      "description": null
     },
     {
       "title": "National Dress Day",
@@ -15,20 +15,12 @@
       "description": "Stock up your freezers to celebrate subzero sustenance on National Frozen Food Day."
     },
     {
-      "title": "National Oreo Cookie Day",
+      "title": "National Oreo Day",
       "description": "With crisp chocolate cookies and creamy filling, these little cookies have captured hearts  — and our stomachs."
-    },
-    {
-      "title": "Purim",
-      "description": "Jewish people all over the world celebrate the victorious festival of Purim."
     },
     {
       "title": "Alamo Day",
       "description": "Join the celebration for the brave hundreds who gave their lives at the Alamo."
-    },
-    {
-      "title": "Casimir Pulaski Day",
-      "description": "To make America great, several soldiers sacrificed their lives. One of them is Casimir Pulaski."
     },
     {
       "title": "Day of Memorial And Respect For Veterans",
@@ -43,32 +35,20 @@
       "description": "Let’s honor the professionals who work tirelessly to keep our teeth in the finest possible condition."
     },
     {
-      "title": "Fast of Esther",
-      "description": "Fast of Esther is practiced as a way of developing willpower and gaining divine favor."
-    },
-    {
-      "title": "Fun Facts About Names Day",
-      "description": "It’s a fun day to learn about the meaning, history, and importance of your name."
+      "title": "Discover What Your Name Means Day",
+      "description": "Let’s get ready to search for the true meaning of our name this holiday!"
     },
     {
       "title": "Ghana Independence Day",
       "description": "Ghanaians celebrate the heroes who led the way in the country’s struggle for independence."
     },
     {
-      "title": "Guam Discovery Day",
-      "description": "Tune in to celebrate and honor the rich cultural heritage and history of Guam!"
-    },
-    {
-      "title": "Guam History And Chamorro Heritage Day",
-      "description": "Here’s everything you need to know about Guam and the Chamorro people. Read on for more."
-    },
-    {
       "title": "Iraq Day Of Tolerance And Coexistence",
       "description": "Observe Iraq Day of Tolerance and Coexistence to promote religious tolerance in Iraq."
     },
     {
-      "title": "Makha Bucha",
-      "description": "Makha Bucha is the celebration of the conception of an ideal community."
+      "title": "Learn What Your Name Means Day",
+      "description": "What’s in a name? Turns out, a lot. Let’s find out what your name actually means."
     },
     {
       "title": "National Brian Day",
@@ -81,10 +61,6 @@
     {
       "title": "National Ford Day",
       "description": "Indulge yourself further in knowing what the meaning behind your name is."
-    },
-    {
-      "title": "National Heroes and Benefactors Day",
-      "description": "Let us honor those who have generously contributed their service and support to Belize."
     },
     {
       "title": "National Report General Service Administration (GSA) Fraud Day",
@@ -103,8 +79,8 @@
       "description": "No homework, no problem! Move the books over and let’s try something new."
     },
     {
-      "title": "World Tennis Day",
-      "description": "Learn the power of a good serve and watch the court come alive!"
+      "title": "Stop Bad Service Day",
+      "description": "Join us and let’s work together to put an end to bad service!"
     },
     {
       "title": "Biannca Prince’s Birthday",
