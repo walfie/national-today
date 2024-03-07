@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Be Heard Day",
-      "description": "Draft out that business plan, and set the groundwork for your ideas to be heard!"
+      "description": null
     },
     {
       "title": "National Cereal Day",
@@ -15,28 +15,12 @@
       "description": "Alexander Graham Bell revolutionized how we communicate when he invented the telephone."
     },
     {
-      "title": "Dolyatra",
-      "description": "Join in this Dolyatra and help spread the colorful shades of joy."
-    },
-    {
-      "title": "Erev Purim",
-      "description": "Let us celebrate Erev Purim by filling our Purim baskets with love and joy."
-    },
-    {
-      "title": "Holi Guyana",
-      "description": "Check out the awesome ways to celebrate Holi Guyana as the Guyanese do."
-    },
-    {
-      "title": "Holika Dahana",
-      "description": "Bonfires, dancing, splashes of color, and the triumph of good over evil; it’s Holi!"
-    },
-    {
       "title": "Jose Abad Santos Day",
       "description": "Jose Abad Santos was a Philippine Chief Justice and war hero of the second world war."
     },
     {
-      "title": "Lailatul Barat Starts",
-      "description": "It&#39;s Lailatul Barat, it&#39;s time to forgive and be forgiven. Learn more about it right here!"
+      "title": "Nametag Day",
+      "description": "Get ready to introduce yourself to the world by donning a name tag!"
     },
     {
       "title": "National Ben Day",
@@ -59,20 +43,16 @@
       "description": "Indulge in some yummy, fun, and nutrition-rich flapjacks for breakfast to fuel your day."
     },
     {
+      "title": "National Hospitalist Day",
+      "description": "Do you know what the difference between a hospitalist and a doctor is? No? Read on!"
+    },
+    {
       "title": "National Sharon Day",
       "description": "Find out what is the meaning of your name on National Sharon Day."
     },
     {
-      "title": "National Sportsmanship Day",
-      "description": "The worst way to lose is to fail to show good sportsmanship this National Sportsmanship Day."
-    },
-    {
       "title": "National Teresa Day",
       "description": "On National Teresa Day, find out how special your name is and celebrate it."
-    },
-    {
-      "title": "National Town Meeting Day",
-      "description": "Here’s your chance to speak up. It’s National Town Meeting Day. Inspire some change."
     },
     {
       "title": "Plant Power Day",
@@ -81,14 +61,6 @@
     {
       "title": "Sock Monkey Day",
       "description": "Give your old socks a new lease on life as we mark Sock Monkey Day."
-    },
-    {
-      "title": "Suriname Phagwah",
-      "description": "Suriname Phagwa is the Hindu spring festival celebrated in Suriname and other Caribbean countries."
-    },
-    {
-      "title": "Unique Names Day",
-      "description": "Find out how to choose the best name and how to make it unique."
     }
   ]
 }
