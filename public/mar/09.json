@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Barbie Day",
-      "description": "We all have thought of being a &#34;Barbie Girl In A Barbie World.&#34;"
+      "description": null
     },
     {
       "title": "Amerigo Vespucci Day",
@@ -15,20 +15,16 @@
       "description": "Find out more about the historic civil war battle that put wooden ships out of business."
     },
     {
-      "title": "International School Meals Day",
-      "description": "Join over 30 countries to promote healthy eating for children in school and at home today."
+      "title": "Genealogy Day",
+      "description": "Intrigued? We know we are! Here are several reasons why genealogy is so fascinating."
+    },
+    {
+      "title": "International Fanny Pack Day",
+      "description": "It’s time to revamp your style in a fun way on this one-of-a-kind holiday."
     },
     {
       "title": "Joe Franklin Day",
       "description": "Celebrate the life of Joe Franklin, the ‘King of Entertainment’ and the pioneer of talk shows."
-    },
-    {
-      "title": "March Full Moon",
-      "description": "Get ready to see the magic of the full moon materialize before your eyes."
-    },
-    {
-      "title": "Nametag Day",
-      "description": "Get ready to introduce yourself to the world by donning a name tag!"
     },
     {
       "title": "National American Paddlefish Day",
@@ -39,7 +35,7 @@
       "description": "Grab your forks and dig into the most delicious crab meat while learning about the day."
     },
     {
-      "title": "National Dish Washer Appreciation Day",
+      "title": "National Dishwasher Day",
       "description": "The dishwasher that we use today was the brainchild of a rich woman."
     },
     {
@@ -71,8 +67,8 @@
       "description": "Let’s enjoy this day and celebrate Shane’s contributions to the world on National Shane Day!"
     },
     {
-      "title": "Popcorn Lover&#39;s Day",
-      "description": "Prepare your bowls and taste buds, and let&#39;s start popping those kernels!"
+      "title": "National Urban Ballroom Dancing Day",
+      "description": "Wear your dancing shoes and get in touch with your inner self on the dance floor."
     },
     {
       "title": "World Kidney Day",
@@ -81,10 +77,6 @@
     {
       "title": "Bow Wow’s Birthday",
       "description": "He burst into the scene as a kid and shot to stardom very fast!"
-    },
-    {
-      "title": "India Royale’s Birthday",
-      "description": "Exclusive rundown through India Royale’s personal and professional life celebrating her birthday month!"
     },
     {
       "title": "Matthew Gray Gubler’s Birthday",
