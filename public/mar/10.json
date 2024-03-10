@@ -4,11 +4,19 @@
   "holidays": [
     {
       "title": "National Freelancers Day",
-      "description": "Let&#39;s appreciate freelancers for their hard work!"
+      "description": null
     },
     {
       "title": "National Pack Your Lunch Day",
       "description": "Remember the good ol’ days when your mom used to pack you lunch in elementary school?"
+    },
+    {
+      "title": "Check Your Batteries Day",
+      "description": "Check Your Batteries Day raises awareness about testing your batteries to ensure they are working properly."
+    },
+    {
+      "title": "Daylight Savings",
+      "description": "This way of looking at the time maximizes natural light and saves electricity."
     },
     {
       "title": "Festival Of Life In Cracks Day",
@@ -43,8 +51,8 @@
       "description": "Mario Day, or Mar10 Day, celebrates the Super Mario Bros franchise, for gamers and fans, worldwide."
     },
     {
-      "title": "Middle Name Pride Day",
-      "description": "Where first names are often simple and modern, middle names are more personalized, creative, or cultural."
+      "title": "Mothering Sunday U.K.",
+      "description": "Roll out the pipes, hymns, and musical instruments as we celebrate Mothering Sunday in style!"
     },
     {
       "title": "National Blueberry Popover Day",
@@ -67,10 +75,6 @@
       "description": "It’s time to get our skin youthful and radiant this  National Peel Day!"
     },
     {
-      "title": "National Preschooler&#39;s Day",
-      "description": "Let’s celebrate and honor our little humans and the journey they embark on today."
-    },
-    {
       "title": "National Ranch Day",
       "description": "We should put Ranch on everything. Because honestly, what dish isn’t made better by Ranch?"
     },
@@ -79,20 +83,32 @@
       "description": "Today is the perfect day to give your business relationships the attention they deserve."
     },
     {
+      "title": "National Skirt Day",
+      "description": "Unleash your inner fashionista and put on your best skirt this National Skirt Day."
+    },
+    {
       "title": "National Women and Girls HIV/AIDS Awareness Day",
       "description": "Join us in spreading the word and creating awareness about this deadly immunodeficiency virus"
+    },
+    {
+      "title": "New Moon March",
+      "description": "We love this day and all its cool information — to the Moon and back!"
+    },
+    {
+      "title": "Orthodox Meatfare Sunday",
+      "description": "Orthodox Meatfare Sunday is the first step towards preparing for the Great Fast. Are you ready?"
     },
     {
       "title": "Paper Money Day",
       "description": "You don&#39;t have to carry jingling coins in your pocket because of paper money!"
     },
     {
-      "title": "Salvation Army Day",
-      "description": "Inclusivity will never go out of style, which is precisely what the Salvation Army does best."
+      "title": "Pretzel Sunday",
+      "description": "Now’s the time to buy your crush a pretzel with love notes from the heart!"
     },
     {
-      "title": "Skirt Day",
-      "description": "Unleash your inner fashionista and put on your best skirt this Skirt Day."
+      "title": "Salvation Army Day",
+      "description": "Inclusivity will never go out of style, which is precisely what the Salvation Army does best."
     },
     {
       "title": "Tibetan Uprising Day",
