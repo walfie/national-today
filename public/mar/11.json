@@ -3,6 +3,10 @@
   "day": 11,
   "holidays": [
     {
+      "title": "National Napping Day",
+      "description": null
+    },
+    {
       "title": "National No-Code Day",
       "description": "No code, no problem. Celebrate the no-code movement and start automating your work."
     },
@@ -15,20 +19,36 @@
       "description": "Rest assured that all your non-emergency services and requirements will be met."
     },
     {
+      "title": "Adelaide Cup Day",
+      "description": "Get ready for the fastest horses and jockeys this March Public Holiday!"
+    },
+    {
+      "title": "Canberra Day",
+      "description": "On Canberra Day, let’s celebrate its rich history and its numerous contributions to Australia."
+    },
+    {
+      "title": "Commonwealth Day",
+      "description": "The historic event is a public holiday in some of its states and honors history."
+    },
+    {
+      "title": "Commonwealth Day Canada",
+      "description": "God Save the Queen and her Commonwealth! Celebrate the glorious history of the British Empire."
+    },
+    {
       "title": "Debunking Day",
       "description": "Tired of getting confused by contradictory “facts” and stories, fake news, and myths?"
     },
     {
-      "title": "Genealogy Day",
-      "description": "Intrigued? We know we are! Here are several reasons why genealogy is so fascinating."
+      "title": "Earth God&#39;s Birthday",
+      "description": "Looking for a job or need more business? Earth God might grant your wishes."
+    },
+    {
+      "title": "Eight Hours Day",
+      "description": "Celebrate the victory of the workers of Australia and an eight-hour workday with us."
     },
     {
       "title": "Independence Restoration Day",
       "description": "Today, we congratulate our Lithuanian friends on their Restoration of Independence Day!"
-    },
-    {
-      "title": "International Fanny Pack Day",
-      "description": "It’s time to revamp your style in a fun way on this one-of-a-kind holiday."
     },
     {
       "title": "Key Deer Awareness Day",
@@ -51,6 +71,14 @@
       "description": "Without their efforts, our loved ones wouldn’t get the sendoff they deserve."
     },
     {
+      "title": "National Heroes and Benefactors Day",
+      "description": "Let us honor those who have generously contributed their service and support to Belize."
+    },
+    {
+      "title": "National Immune System Day",
+      "description": "When Did You Last Say Thank You… to Your Immune System?  Think about it: As soon as you entered this world, your immune system took on…"
+    },
+    {
       "title": "National Johnny Appleseed Day",
       "description": "On this day, we thank Johnny Appleseed for introducing us to the joy of apples."
     },
@@ -67,8 +95,12 @@
       "description": "Spice up your meals with sofrito. It works with meat, vegetables, and even pies."
     },
     {
-      "title": "National Urban Ballroom Dancing Day",
-      "description": "Wear your dancing shoes and get in touch with your inner self on the dance floor."
+      "title": "Ramadan Begins",
+      "description": "Let us join our Muslim brothers and observe Ramadan with fasting, prayer, and faithful intention."
+    },
+    {
+      "title": "Taranaki Anniversary",
+      "description": "Prepare for some history, today we are going to learn about Taranaki and its conflicts."
     },
     {
       "title": "Wash Your Nose Day",
@@ -85,6 +117,10 @@
     {
       "title": "Worship of Tools Day",
       "description": "Show off your D.I.Y. skills and put those tools to use on this day."
+    },
+    {
+      "title": "Zhonghe Festival",
+      "description": "Get ready for this yearly festival as “the dragon raises its head.”"
     },
     {
       "title": "Dionte Gray’s Birthday",
