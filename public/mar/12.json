@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Girl Scout Day",
-      "description": "National Girl Scout Day commemorates the anniversary of the first Girl Scout meeting in 1912."
+      "description": null
     },
     {
       "title": "Alfred Hitchcock Day",
@@ -15,20 +15,16 @@
       "description": "Celebrate with Mexico’s Nahua communities today. Read on for more on this holiday."
     },
     {
-      "title": "Check Your Batteries Day",
-      "description": "Check Your Batteries Day raises awareness about testing your batteries to ensure they are working properly."
+      "title": "Equal Pay Day",
+      "description": "Learn about the history of the long struggle for equality and how it carries on today."
     },
     {
-      "title": "Daylight Saving Time Starts",
-      "description": "This way of looking at the time maximizes natural light and saves electricity."
+      "title": "Independence Day Mauritius",
+      "description": "Celebrate all things Mauritian with our informative article about this Mauritian public holiday."
     },
     {
       "title": "IUGR Awareness Day",
       "description": "IUGR Awareness Day helps to create awareness and spread information about the condition."
-    },
-    {
-      "title": "Mauritius Independence Day",
-      "description": "Celebrate all things Mauritian with our informative article about this Mauritian public holiday."
     },
     {
       "title": "National Baked Scallops Day",
@@ -37,6 +33,10 @@
     {
       "title": "National Christian Day",
       "description": "Hey, Christian. Yours is a name associated with holiness and fashion. What’s your secret?"
+    },
+    {
+      "title": "National Organize Your Home Office Day",
+      "description": "Put on your dusting gloves, as we get ready to flaunt our organizing skills!"
     },
     {
       "title": "National Plant a Flower Day",
