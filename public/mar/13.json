@@ -4,34 +4,14 @@
   "holidays": [
     {
       "title": "National K9 Veterans Day",
-      "description": "Dogs trained to serve our country are heroic and look so cute in their little uniforms."
+      "description": null
     },
     {
-      "title": "National Napping Day",
-      "description": "It falls one day after Daylight Savings time because that’s where people are most sleep-deprived."
+      "title": "Fill Our Staplers Day",
+      "description": "Without further ado, let’s find out more about how we can observe this holiday."
     },
     {
-      "title": "Adelaide Cup",
-      "description": "Get ready for the fastest horses and jockeys this March Public Holiday!"
-    },
-    {
-      "title": "Canberra Day",
-      "description": "On Canberra Day, let’s celebrate its rich history and its numerous contributions to Australia."
-    },
-    {
-      "title": "Commonwealth Day",
-      "description": "The historic event is a public holiday in some of its states and honors history."
-    },
-    {
-      "title": "Commonwealth Day in Canada",
-      "description": "God Save the Queen and her Commonwealth! Celebrate the glorious history of the British Empire."
-    },
-    {
-      "title": "Eight Hours Day",
-      "description": "Celebrate the victory of the workers of Australia and an eight-hour workday with us."
-    },
-    {
-      "title": "International Every Girls Wins Day",
+      "title": "International Every Girl Wins Day",
       "description": "Stand with women around the world for equity, better healthcare, education, and economic literacy."
     },
     {
@@ -63,16 +43,20 @@
       "description": "What are you waiting for? Wear, gift, or buy something sparkly today."
     },
     {
+      "title": "National No Smoking Day",
+      "description": "Today, let&#39;s reach out to friends or family members who suffer from nicotine addiction."
+    },
+    {
       "title": "National Open An Umbrella Indoors Day",
       "description": "Let’s see how our day ‘unfolds’ as we open up our umbrellas!"
     },
     {
-      "title": "Smart and Sexy Day",
-      "description": "Get set to discover why Smart and Sexy Day is so important!"
+      "title": "Registered Dietitian Nutritionist Day",
+      "description": "Let&#39;s honor the professionals who are dedicated to helping us eat and live healthily!"
     },
     {
-      "title": "Taranaki Anniversary Day",
-      "description": "Prepare for some history, today we are going to learn about Taranaki and its conflicts."
+      "title": "Smart and Sexy Day",
+      "description": "Get set to discover why Smart and Sexy Day is so important!"
     },
     {
       "title": "Common’s Birthday",
