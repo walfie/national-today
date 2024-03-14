@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Potato Chip Day",
-      "description": "On National Potato Chip Day, this snack will be enjoyed by millions  across the country."
+      "description": null
     },
     {
       "title": "Pi Day",
@@ -27,12 +27,12 @@
       "description": "Ready to channel your energy and abilities into crowdfunding for a cause or your business?"
     },
     {
-      "title": "Dribble to Work Day",
-      "description": "Today is all about women’s sports — especially basketball. Join in the fun as we create awareness."
+      "title": "Dog Theft Awareness Day",
+      "description": "Don’t be a victim of dog theft. Protect your fur babies from criminals."
     },
     {
-      "title": "Equal Pay Day",
-      "description": "Learn about the history of the long struggle for equality and how it carries on today."
+      "title": "Dribble to Work Day",
+      "description": "Today is all about women’s sports — especially basketball. Join in the fun as we create awareness."
     },
     {
       "title": "Genius Day",
@@ -51,11 +51,15 @@
       "description": "Join us as we delve into the amazing and complex world of mathematics!"
     },
     {
+      "title": "International School Meals Day",
+      "description": "Join over 30 countries to promote healthy eating for children in school and at home today."
+    },
+    {
       "title": "Legal Assistance Day",
       "description": "Bring up your legal problems on Legal Assistance Day and get them solved!"
     },
     {
-      "title": "Legal Assistants Day",
+      "title": "Legal Assistant Day",
       "description": "We thank the legal assistants who support lawyers and make significant contributions to the legal system."
     },
     {
@@ -63,20 +67,8 @@
       "description": "Grab some art supplies for your little ones and spread the fun in your neighborhood."
     },
     {
-      "title": "National Dog Theft Awareness Day",
-      "description": "Don’t be a victim of dog theft. Protect your fur babies from criminals."
-    },
-    {
       "title": "National Learn About Butterflies Day",
       "description": "Get ready to celebrate and learn more about these delightful, colorful insects!"
-    },
-    {
-      "title": "National Organize Your Home Office Day",
-      "description": "Put on your dusting gloves, as we get ready to flaunt our organizing skills!"
-    },
-    {
-      "title": "National Save a Spider Day",
-      "description": "Save the spiders today and take them outside in a jar rather than killing them."
     },
     {
       "title": "National Valerie Day",
@@ -85,6 +77,14 @@
     {
       "title": "National Write Your Story Day",
       "description": "We want to hear your fascinating story, so why not write about it?"
+    },
+    {
+      "title": "Popcorn Lover&#39;s Day",
+      "description": "Prepare your bowls and taste buds, and let&#39;s start popping those kernels!"
+    },
+    {
+      "title": "Save a Spider Day",
+      "description": "Save the spiders today and take them outside in a jar rather than killing them."
     },
     {
       "title": "Science Education Day",
