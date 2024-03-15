@@ -4,11 +4,7 @@
   "holidays": [
     {
       "title": "Ides of March",
-      "description": "Beware the Ides of March! Why? Well, in 44 BC, Julius Caesar was assassinated by his BFF."
-    },
-    {
-      "title": "1848 Revolution Memorial Day",
-      "description": "Learn about Hungary&#39;s most significant holiday and why it defines its national identity."
+      "description": null
     },
     {
       "title": "Belarus Constitution Day",
@@ -59,16 +55,24 @@
       "description": "Learn about Liberia’s founding father and how he achieved sovereignty for his nation and people."
     },
     {
+      "title": "Memorial Day Of The 1848 Revolution",
+      "description": "Learn about Hungary&#39;s most significant holiday and why it defines its national identity."
+    },
+    {
+      "title": "National Day of Action Against Bullying and Violence",
+      "description": "Let’s all prepare to join forces to create long-term solutions to bullying!"
+    },
+    {
       "title": "National Peanut Lovers Day",
       "description": "Join us today as we celebrate the love of peanuts and all nutty treats!"
     },
     {
-      "title": "National Pears Helene Day",
-      "description": "Get your spoons ready, dessert fanatics; we’re treating our palettes to Pears Helene!"
+      "title": "National Preschool Teacher Appreciation Day",
+      "description": "It&#39;s time to honor the preschool teachers who provide us with the tools of learning."
     },
     {
-      "title": "National SBDC Day",
-      "description": "National SBDC Day offers the means to support small businesses and startups in America."
+      "title": "National Preschool Teachers Appreciation Day",
+      "description": "Check out some inspiring ways to show preschool educators your admiration for them!"
     },
     {
       "title": "National Shoe The World Day",
@@ -79,12 +83,12 @@
       "description": "Did you know that voice acting is more difficult than acting on screen?"
     },
     {
-      "title": "Ramakrishna Jayanti",
-      "description": "Ramakrishna believed that all the various religious paths lead to one goal."
+      "title": "Pears Helene Day",
+      "description": "Get your spoons ready, dessert fanatics; we’re treating our palettes to Pears Helene!"
     },
     {
-      "title": "Small Business Development Centers Day",
-      "description": "Learn more about how to honor the efforts of small business owners in the U.S."
+      "title": "Ramakrishna Jayanti",
+      "description": "Ramakrishna believed that all the various religious paths lead to one goal."
     },
     {
       "title": "True Confessions Day",
@@ -101,6 +105,10 @@
     {
       "title": "World Essential Workers Day",
       "description": "Essential workers consist of police forces, healthcare workers, workers in the sanitary department, and more."
+    },
+    {
+      "title": "World Sleep Day",
+      "description": "Sleep allows us to move mountains that we never thought possible before we hit the pillow."
     },
     {
       "title": "World Speech Day",
