@@ -3,20 +3,16 @@
   "day": 16,
   "holidays": [
     {
+      "title": "National Corn Dog Day",
+      "description": null
+    },
+    {
       "title": "National Panda Day",
       "description": "National Panda Day celebrates the world’s most adorable, relatable, and environmentally vulnerable bears."
     },
     {
-      "title": "Absolutely Incredible Kid Day®",
-      "description": "Kids are the future. And Camp Fire stands ready to help."
-    },
-    {
       "title": "Black Press Day",
       "description": "Do your bit to support independent journalism. Read, subscribe to, and support Black-owned publications today."
-    },
-    {
-      "title": "Companies That Care Day",
-      "description": "A lesson all employers must learn is that a happy employee is a loyal employee."
     },
     {
       "title": "Everything You Do is Right Day",
@@ -27,8 +23,16 @@
       "description": "Find out more about your right to the freedom to obtain correct information today."
     },
     {
+      "title": "International Sports Car Racing Day",
+      "description": "Buckle up, we are going to explore one of the most loved sports — Sportscar racing!"
+    },
+    {
       "title": "Lips Appreciation Day",
       "description": "Go on, bring out your best smile or pout — it&#39;s time to ce-lip-brate!"
+    },
+    {
+      "title": "Maple Syrup Saturday",
+      "description": "Get ready with your buckets; it&#39;s time to turn sap into maple syrup."
     },
     {
       "title": "National Archer Day",
@@ -39,16 +43,12 @@
       "description": "A day to celebrate and chow down on these nutritious, delicious plants."
     },
     {
-      "title": "National Close the Gap Day",
-      "description": "The campaign encourages planning of events that focus on health issues of Australia’s indigenous people."
-    },
-    {
       "title": "National Curl Crush Day",
       "description": "Embrace and show off your natural, gorgeous curls on National Curl Crush Day."
     },
     {
-      "title": "National Farm Rescuer Day",
-      "description": "Farm rescuers help farmers by volunteering their time, talents, and financial resources."
+      "title": "National Quilting Day",
+      "description": "Relax and open your mind to explore the history and creativity of quilting."
     },
     {
       "title": "National Vaccination Day",
@@ -59,12 +59,16 @@
       "description": "Have you realized how integral selfies have become to us? Let’s celebrate by NOT taking selfies."
     },
     {
-      "title": "Orange And Lemons Day",
-      "description": "Let’s celebrate Oranges and Lemons Day by feasting on these citrus fruits."
+      "title": "Play the Recorder Day",
+      "description": "Everyone grab your flutes, it’s time for the sound of some music!"
     },
     {
       "title": "Robert Goddard Day",
       "description": "Prepare for takeoff as we learn about the first liquid-fueled rocket and its creator."
+    },
+    {
+      "title": "Save the Florida Panther Day",
+      "description": "Panthers are magnificent cats that must be saved from going extinct — get involved in conservation efforts."
     },
     {
       "title": "St. Urho&#39;s Day",
@@ -80,7 +84,7 @@
     },
     {
       "title": "Danish Zehen’s Birthday",
-      "description": "A memorable walkthrough tribute to the life story of the Ace of Space&#39;s brightest star."
+      "description": "We pay tribute to the life and career of the &#34;Ace of Space&#39;s&#34; brightest star."
     },
     {
       "title": "Lauren Graham’s Birthday",
