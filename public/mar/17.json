@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "St. Patrick&#39;s Day",
-      "description": "Leprechauns, pots of gold, and a whole lot of green!"
+      "description": null
     },
     {
       "title": "Camp Fire Girls day",
@@ -19,24 +19,16 @@
       "description": "Dive into the annals of American military history and learn how the colonists routed the redcoats."
     },
     {
-      "title": "Evacuation Day in Massachusetts",
+      "title": "Evacuation Day in Boston",
       "description": "We’re a little jealous of all the Bay Staters who get Evacuation Day off today!"
+    },
+    {
+      "title": "Forgiveness Sunday Orthodox",
+      "description": "Prepare for Great Lent by forgiving those who have wronged you and also asking for forgiveness."
     },
     {
       "title": "National Corned Beef and Cabbage Day",
       "description": "Beef in brine and sliced crunchy cabbage, this day is here to stay!"
-    },
-    {
-      "title": "National Day of Action Against Bullying and Violence",
-      "description": "Let’s all prepare to join forces to create long-term solutions to bullying!"
-    },
-    {
-      "title": "National Preschool Teacher Appreciation Day",
-      "description": "It&#39;s time to honor the preschool teachers who provide us with the tools of learning."
-    },
-    {
-      "title": "National Preschool Teachers Appreciation Day",
-      "description": "Check out some inspiring ways to show preschool educators your admiration for them!"
     },
     {
       "title": "Ramon Magsaysay Memorial Day",
@@ -49,10 +41,6 @@
     {
       "title": "Sheikh Mujibur Rahman Birthday",
       "description": "Sheikh Mujibur Rahman is one of the most respected leaders in the history of Bangladesh."
-    },
-    {
-      "title": "World Sleep Day",
-      "description": "Sleep allows us to move mountains that we never thought possible before we hit the pillow."
     },
     {
       "title": "Alev Aydin’s Birthday",
@@ -89,6 +77,10 @@
     {
       "title": "Rob Lowe’s Birthday",
       "description": "This versatile actor-director has always been persistent and diligent in his work."
+    },
+    {
+      "title": "Sean Price’s Birthday",
+      "description": "Sean Price was one of the greatest rappers and he left behind a rich musical legacy."
     },
     {
       "title": "Tamar Braxton’s Birthday",
