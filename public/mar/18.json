@@ -4,15 +4,23 @@
   "holidays": [
     {
       "title": "Awkward Moments Day",
-      "description": "Let&#39;s embrace those embarrassing or awkward moments from the past and laugh about them."
+      "description": null
     },
     {
       "title": "National Biodiesel Day",
       "description": "We’re more reliant on biodiesel fuel than we realize!"
     },
     {
-      "title": "National Corn Dog Day",
-      "description": "It&#39;s about as American as food gets and we love every mouthful."
+      "title": "Act Happy Day",
+      "description": "No matter what the situation is, chose to stay positive — laugh, smile, and be happy!"
+    },
+    {
+      "title": "Benito Juarez Day",
+      "description": "Remember and celebrate the exploits of Mexican icon Benito Juárez on his birthday memorial day."
+    },
+    {
+      "title": "Clean Monday",
+      "description": "Let’s fly our kites high up in the sky as we welcome Lent!"
     },
     {
       "title": "Forgive Mom and Dad Day",
@@ -27,12 +35,8 @@
       "description": "The day focuses on the concept of creating life in humans and other beings."
     },
     {
-      "title": "International Sports Car Racing Day",
-      "description": "Buckle up, we are going to explore one of the most loved sports — Sportscar racing!"
-    },
-    {
-      "title": "Maple Syrup Saturday",
-      "description": "Get ready with your buckets; it&#39;s time to turn sap into maple syrup."
+      "title": "Green Monday Cyprus",
+      "description": "Let&#39;s begin the auspicious period of Lent by celebrating a day of gratitude."
     },
     {
       "title": "National Anthem and Flag Day in Aruba",
@@ -43,10 +47,6 @@
       "description": "Tasty, crisp, and chewy, these are the addictive qualities of the Lacy Oatmeal cookie."
     },
     {
-      "title": "National Quilting Day",
-      "description": "Relax and open your mind to explore the history and creativity of quilting."
-    },
-    {
       "title": "National Sloppy Joe Day",
       "description": "It&#39;s about to get sloppy! Get your napkins ready as we enjoy a sloppy Joe today."
     },
@@ -55,16 +55,16 @@
       "description": "A minute of silence for those who gave their lives to protect and save others."
     },
     {
-      "title": "Play the Recorder Day",
-      "description": "Everyone grab your flutes, it’s time for the sound of some music!"
-    },
-    {
-      "title": "Save the Florida Panther Day",
-      "description": "Panthers are magnificent cats that must be saved from going extinct — get involved in conservation efforts."
+      "title": "Orthodox Lent",
+      "description": "Observe the season of fasting, prayer, reflection, and drawing nearer to God during Orthodox Lent."
     },
     {
       "title": "Transit Driver Appreciation Day",
       "description": "Appreciate your transit driver today for making your daily travels easy and problem-free."
+    },
+    {
+      "title": "Wellderly Day",
+      "description": "This Wellderly Day, re-examine what &#39;old&#39; means and continue living life to the fullest!"
     },
     {
       "title": "Adam Levine’s Birthday",
