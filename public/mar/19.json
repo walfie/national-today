@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Let&#39;s Laugh Day",
-      "description": "Calling all gigglers, cacklers, chortlers, and belly laughers, this is the day you&#39;ve been waiting for."
+      "description": null
     },
     {
       "title": "National Poultry Day",
@@ -27,8 +27,12 @@
       "description": "The organizers behind the day aim to improve the literacy standards of the children around them."
     },
     {
-      "title": "Mothering Sunday in the U.K.",
-      "description": "Roll out the pipes, hymns, and musical instruments as we celebrate Mothering Sunday in style!"
+      "title": "National 3-D Day",
+      "description": "If you enjoy 3.D. movies, art, or technology, today’s the day to celebrate 3.D."
+    },
+    {
+      "title": "National Ag Day",
+      "description": "Everything we eat, use, or wear every day is provided by agriculture."
     },
     {
       "title": "National Automatic Door Day",
@@ -43,6 +47,10 @@
       "description": "The irresistible combination of chocolate and caramel never fails to impress those with a sweet tooth."
     },
     {
+      "title": "National Native HIV/AIDS Awareness Day",
+      "description": "Put on your boxing gloves for the fight against H.I.V./AIDS."
+    },
+    {
       "title": "National Stretch Mark Day",
       "description": "Today is the day to embrace and celebrate your body including your stretch marks!"
     },
@@ -51,8 +59,8 @@
       "description": "Let&#39;s pause and take the time to acknowledge this period in United States history."
     },
     {
-      "title": "Pretzel Sunday",
-      "description": "Now’s the time to buy your crush a pretzel with love notes from the heart!"
+      "title": "Spring Begins",
+      "description": "The fading of winter brings with it new beginnings: Spring Begins!"
     },
     {
       "title": "St Joseph&#39;s Day Venezuela",
@@ -61,6 +69,14 @@
     {
       "title": "St. Joseph&#39;s Day",
       "description": "It’s time to pump up your holy spirits because it is St. Joseph’s Day!"
+    },
+    {
+      "title": "Tea for Two Tuesday",
+      "description": "There’s no better way to enjoy someone’s company than over a cup of tea."
+    },
+    {
+      "title": "World Social Work Day",
+      "description": "Get more people inspired to do good and observe World Social Work Day."
     },
     {
       "title": "Bruce Willis’s Birthday",
