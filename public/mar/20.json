@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "International Day of Happiness",
-      "description": "If you’re happy and you know it, celebrate it on International Day of Happiness!"
+      "description": null
     },
     {
       "title": "National Proposal Day",
@@ -15,16 +15,12 @@
       "description": "Triple cheese. Wild mushroom. Butternut squash. Ravioli can handle just about anything."
     },
     {
-      "title": "Act Happy Day",
-      "description": "No matter what the situation is, chose to stay positive — laugh, smile, and be happy!"
-    },
-    {
       "title": "Alien Abduction Day",
       "description": "Do you believe in aliens? Maybe you will when you are done reading this!"
     },
     {
-      "title": "Benito Juarez Birthday Memorial",
-      "description": "Remember and celebrate the exploits of Mexican icon Benito Juárez on his birthday memorial day."
+      "title": "Astrology Day",
+      "description": "Astrology teaches us about how the alignment of the stars forms our personalities."
     },
     {
       "title": "Bibliomania Day",
@@ -37,10 +33,6 @@
     {
       "title": "Dogs in Yellow Day",
       "description": "All that #dogsinyellow need is some space and then the world feels less terrifying."
-    },
-    {
-      "title": "Extraterrestrial Abductions Day",
-      "description": "We’re about to explore alien abductions, so try not to get spooked!"
     },
     {
       "title": "Feast of Saint Joseph",
@@ -71,10 +63,6 @@
       "description": "Get ready to shower your beloved with kisses this National Kiss Your Fiance Day!"
     },
     {
-      "title": "Macaron Day",
-      "description": "It’s Macaron Day and we’re talking all things tasty, so prepare to have your tastebuds wowed!"
-    },
-    {
       "title": "March Equinox",
       "description": "Stop and smell the roses as we celebrate the change of seasons."
     },
@@ -83,28 +71,32 @@
       "description": "Jumping activities with friends can lighten up the mood and strengthen friendships."
     },
     {
-      "title": "National Native HIV/AIDS Awareness Day",
-      "description": "Put on your boxing gloves for the fight against H.I.V./AIDS."
+      "title": "National Macaron Day",
+      "description": "It’s Macaron Day and we’re talking all things tasty, so prepare to have your tastebuds wowed!"
+    },
+    {
+      "title": "National SBDC Day",
+      "description": "National SBDC Day offers the means to support small businesses and startups in America."
     },
     {
       "title": "National Vanessa Day",
       "description": "The name Vanessa is worthy of celebration for a variety of reasons."
     },
     {
+      "title": "Naw-Ruz (Baha&#39;i New Year)",
+      "description": "Naw-Rúz is the day of spiritual spring. Celebrate with us today!"
+    },
+    {
+      "title": "Small Business Development Centers Day",
+      "description": "Learn more about how to honor the efforts of small business owners in the U.S."
+    },
+    {
       "title": "Snowman Burning Day",
       "description": "Out with the cold, in with the warm. Let’s get ready for Snowman Burning Day!"
     },
     {
-      "title": "Spring Begins",
-      "description": "The fading of winter brings with it new beginnings: Spring Begins!"
-    },
-    {
       "title": "Spring Equinox",
       "description": "The equinox is when the sun sits vertically above the equator, making day and night equal across the planet."
-    },
-    {
-      "title": "Wellderly Day",
-      "description": "This Wellderly Day, re-examine what &#39;old&#39; means and continue living life to the fullest!"
     },
     {
       "title": "Won&#39;t You Be My Neighbor Day",
@@ -125,6 +117,10 @@
     {
       "title": "World Frog Day",
       "description": "Out of the 6,000 known species of frogs found, 4,800 species have been recorded."
+    },
+    {
+      "title": "World Maths Day",
+      "description": "Since its founding by 3P Learning, the popularity of World Maths Day has multiplied fast."
     },
     {
       "title": "World Oral Health Day",
