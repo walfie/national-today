@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "International Day of Forests",
-      "description": "They are one of our greatest natural treasures that we must preserve and protect."
+      "description": null
     },
     {
       "title": "National Common Courtesy Day",
@@ -15,20 +15,20 @@
       "description": "“How do I love thee? Let me count the ways.”"
     },
     {
+      "title": "Absolutely Incredible Kid Day®",
+      "description": "Kids are the future. And Camp Fire stands ready to help."
+    },
+    {
       "title": "Afghanistan Day",
       "description": "Beyond the news and popular media, discover Afghanistan through culture and tradition."
     },
     {
-      "title": "Angola Carnival Day",
-      "description": "Color your world with a splash of Africa! It&#39;s Angola Carnival Day."
-    },
-    {
-      "title": "Astrology Day",
-      "description": "Astrology teaches us about how the alignment of the stars forms our personalities."
-    },
-    {
       "title": "Big Bang Day",
       "description": "Space nerds and science geeks gather for one of their most iconic commemorations."
+    },
+    {
+      "title": "Companies That Care Day",
+      "description": "A lesson all employers must learn is that a happy employee is a loyal employee."
     },
     {
       "title": "Credit Card Reduction Day",
@@ -47,6 +47,10 @@
       "description": "We’ve got harmonious habits and unifying ideas to make your Harmony Day a picture of peace."
     },
     {
+      "title": "Human Rights Day South Africa",
+      "description": "To know your rights is to be empowered: Let’s celebrate Human Rights Day South Africa!"
+    },
+    {
       "title": "International Colour Day",
       "description": "We cannot imagine a world without color so let’s join in this celebration of beauty!"
     },
@@ -63,24 +67,12 @@
       "description": "This International Race Relations Day, let’s foster a global culture of equality and tolerance."
     },
     {
-      "title": "March New Moon",
-      "description": "We love this day and all its cool information — to the Moon and back!"
-    },
-    {
       "title": "Memory Day",
       "description": "Grab a notebook and throw it out the window — today&#39;s challenge is remembering without a reminder."
     },
     {
       "title": "Namibia Independence Day",
       "description": "It’s a good day to join the people of Namibia as they celebrate their country’s independence."
-    },
-    {
-      "title": "National 3-D Day",
-      "description": "If you enjoy 3.D. movies, art, or technology, today’s the day to celebrate 3.D."
-    },
-    {
-      "title": "National Ag Day",
-      "description": "Everything we eat, use, or wear every day is provided by agriculture."
     },
     {
       "title": "National Aries Day",
@@ -95,6 +87,10 @@
       "description": "Sweet juicy heaven! Indulge in one of nature’s finest treats this National California Strawberry Day."
     },
     {
+      "title": "National Close the Gap Day",
+      "description": "The campaign encourages planning of events that focus on health issues of Australia’s indigenous people."
+    },
+    {
       "title": "National Countdown Day",
       "description": "On National Countdown Day, count the seconds, minutes, or hours until something special happens."
     },
@@ -105,6 +101,10 @@
     {
       "title": "National Day Of Action On Syringe Exchange",
       "description": "This day is all about the life-saving importance of using sterile needles."
+    },
+    {
+      "title": "National Farm Rescuer Day",
+      "description": "Farm rescuers help farmers by volunteering their time, talents, and financial resources."
     },
     {
       "title": "National Flower Day",
@@ -131,10 +131,6 @@
       "description": "Join the movement as we try to save our planet on National Renewable Energy Day."
     },
     {
-      "title": "National Rosie The Riveter Day",
-      "description": "Raise your fist and strike a pose as we honor the women of past generations."
-    },
-    {
       "title": "National Single Parent Day",
       "description": "Single parents get to take a break from constantly holding down the fort!"
     },
@@ -143,32 +139,28 @@
       "description": "Let us celebrate with today&#39;s teenagers because we were all teens once!"
     },
     {
-      "title": "Naw-Ruz (Baha&#39;i New Year)",
-      "description": "Naw-Rúz is the day of spiritual spring. Celebrate with us today!"
-    },
-    {
       "title": "Nowruz Bayram",
       "description": "Come join us as we usher in Spring with a Persian-themed celebration befitting the occasion."
+    },
+    {
+      "title": "Oranges And Lemons Day",
+      "description": "Let’s celebrate Oranges and Lemons Day by feasting on these citrus fruits."
     },
     {
       "title": "Race Relations Day",
       "description": "It’s time to say no to racial discrimination and join our hands in oneness and unity."
     },
     {
+      "title": "Rosie The Riveter Day",
+      "description": "Raise your fist and strike a pose as we honor the women of past generations."
+    },
+    {
       "title": "Slytherin Pride Day",
       "description": "It’s time to slither into the light as we mark Slytherin Pride Day in style."
     },
     {
-      "title": "South Africa Human Rights Day",
-      "description": "To know your rights is to be empowered: Let’s celebrate South Africa’s Human Rights Day!"
-    },
-    {
       "title": "Spring Fairy Fun Day",
       "description": "Put some flowers in your hair and spread joy on Spring Fairy Fun Day."
-    },
-    {
-      "title": "Tea for Two Tuesday",
-      "description": "There’s no better way to enjoy someone’s company than over a cup of tea."
     },
     {
       "title": "The Big Walk and Wheel",
@@ -197,10 +189,6 @@
     {
       "title": "World Puppetry Day",
       "description": "Learn all about the incredible art of puppetry this World Puppetry Day."
-    },
-    {
-      "title": "World Social Work Day",
-      "description": "Get more people inspired to do good and observe World Social Work Day."
     },
     {
       "title": "Jace Norman’s Birthday",
