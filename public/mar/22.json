@@ -4,11 +4,7 @@
   "holidays": [
     {
       "title": "National Goof Off Day",
-      "description": "Ferris Bueller liked to goof off so much he skipped an entire day of school."
-    },
-    {
-      "title": "American Red Cross Giving Day",
-      "description": "Let’s give our hearts to humanity and build a world we can be proud of."
+      "description": null
     },
     {
       "title": "As Young As You Feel Day",
@@ -35,16 +31,12 @@
       "description": "Get ready for a magical ride as we explore the strong and proud house of Gryffindor!"
     },
     {
-      "title": "International Day Of The Seal",
-      "description": "Get ready to celebrate seals and learn some fascinating and amazing facts about them."
-    },
-    {
       "title": "International Goof-off Day",
       "description": "Today is the day to let your inner goofball out and have a good time."
     },
     {
-      "title": "International Talk Like William Shatner Day",
-      "description": "Can you imitate William Shatner? Well, now is the day to test your talent!"
+      "title": "International Seal Day",
+      "description": "Get ready to celebrate seals and learn some fascinating and amazing facts about them."
     },
     {
       "title": "National Donald Day",
@@ -59,12 +51,12 @@
       "description": "It&#39;s a new day, a new dawn, a new life; it&#39;s Nevruz Day!"
     },
     {
-      "title": "Ougadi",
-      "description": "Let’s celebrate Ougadi, the time to get yourself ready for a new beginning."
-    },
-    {
       "title": "Talk Like William Shakespeare Day",
       "description": "I bite mine thumb at thee and thee asketh me wherefore I’m biting mine thumb."
+    },
+    {
+      "title": "Talk Like William Shatner Day",
+      "description": "Can you imitate William Shatner? Well, now is the day to test your talent!"
     },
     {
       "title": "World Day of Metta",
