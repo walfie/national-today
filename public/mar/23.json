@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Puppy Day",
-      "description": "A paw-some day for all dog enthusiasts to celebrate unconditional love for man&#39;s best friend."
+      "description": null
     },
     {
       "title": "Atheist Day",
@@ -17,6 +17,18 @@
     {
       "title": "Cuddly Kitten Day",
       "description": "Delve into everything cat, from fun facts, to how they were domesticated, and more."
+    },
+    {
+      "title": "Day of the Liberation of Southern Africa",
+      "description": "Let us all rejoice and celebrate freedom as we learn more about South Africa&#39;s liberation."
+    },
+    {
+      "title": "Erev Purim",
+      "description": "Let us celebrate Erev Purim by filling our Purim baskets with love and joy."
+    },
+    {
+      "title": "Esther Fast",
+      "description": "Esther Fast is practiced as a way of developing willpower and gaining divine favor."
     },
     {
       "title": "Melba Toast Day",
@@ -59,16 +71,12 @@
       "description": "Can you believe that over 15 million people migrated in the summer of 1947!"
     },
     {
-      "title": "Ramadan Begins",
-      "description": "Let us join our Muslim brothers and observe Ramadan with fasting, prayer, and faithful intention."
-    },
-    {
       "title": "Ravenclaw Pride Day",
       "description": "Your guide to everything Ravenclaw, from its interesting (and tragic) history to its most famous students."
     },
     {
-      "title": "South African Liberation Day",
-      "description": "Let us all rejoice and celebrate freedom as we learn more about South Africa&#39;s liberation."
+      "title": "Walk in the Sand Day",
+      "description": "Head to the beach, kick off your shoes, and let the sand caress your feet."
     },
     {
       "title": "World Math Day",
