@@ -3,8 +3,12 @@
   "day": 24,
   "holidays": [
     {
-      "title": "Independent Accommodations Day",
-      "description": "Celebrate the millions of independent and privately owned accommodations across the globe!"
+      "title": "Independent Accommodation Day",
+      "description": null
+    },
+    {
+      "title": "Purim",
+      "description": "Jewish people all over the world celebrate the victorious festival of Purim."
     },
     {
       "title": "Commonwealth Covenant Day",
@@ -17,6 +21,10 @@
     {
       "title": "Flatmates Day",
       "description": "Have a great flatmate? Here’s some ways to express your gratitude and appreciation."
+    },
+    {
+      "title": "Holika Dahana",
+      "description": "Bonfires, dancing, splashes of color, and the triumph of good over evil; it’s Holi!"
     },
     {
       "title": "International Day For Achievers",
@@ -49,6 +57,14 @@
     {
       "title": "National Stephanie Day",
       "description": "Know a Stephanie? Today is a terrific day to commemorate them and share their name&#39;s origins."
+    },
+    {
+      "title": "Palm Sunday",
+      "description": "Palm Sunday is the beginning of Jesus’ final week on earth."
+    },
+    {
+      "title": "Semana Santa Spain",
+      "description": "Semana Santa is a time to remember Christ’s suffering and sacrifice for humankind."
     },
     {
       "title": "World Tuberculosis Day",
