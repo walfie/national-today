@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "International Waffle Day",
-      "description": "Plug in your waffle maker and tuck into some mouth-watering treats."
+      "description": null
     },
     {
       "title": "Anniversary Of The Arengo",
@@ -15,8 +15,12 @@
       "description": "The bed-in protest is a peaceful yet powerful way to protest for a cause."
     },
     {
-      "title": "Earth Hour",
-      "description": "We are a step closer to protecting our planet, and it starts with you switching off your lights for an hour."
+      "title": "Dante Day",
+      "description": "Dante Alighieri was one of the most incredible minds in literature and that deserves a celebration."
+    },
+    {
+      "title": "Dolyatra",
+      "description": "Join in this Dolyatra and help spread the colorful shades of joy."
     },
     {
       "title": "Feast of the Annunciation",
@@ -25,6 +29,18 @@
     {
       "title": "Greek Independence Day",
       "description": "The fight for freedom is always a true fight. Let’s honor our Greek freedom fighters today."
+    },
+    {
+      "title": "Holi",
+      "description": "The two-day festival is a pleasant way of welcoming spring."
+    },
+    {
+      "title": "Holi Guyana",
+      "description": "Check out the awesome ways to celebrate Holi Guyana as the Guyanese do."
+    },
+    {
+      "title": "Holy Monday",
+      "description": "Learn how to observe Holy Monday and honor Jesus Christ’s life and his sacrifice."
     },
     {
       "title": "International Day of Remembrance of the Victims of Slavery and the Transatlantic Slave Trade",
@@ -43,12 +59,12 @@
       "description": "Today, we honor life and commemorate the lives of unborn infants all over the world."
     },
     {
-      "title": "​Maryland Day",
-      "description": "The story behind Maryland Day is one for the ages."
+      "title": "March Full Moon",
+      "description": "Get ready to see the magic of the full moon materialize before your eyes."
     },
     {
-      "title": "National Dante Day",
-      "description": "Dante Alighieri was one of the most incredible minds in literature and that deserves a celebration."
+      "title": "​Maryland Day",
+      "description": "The story behind Maryland Day is one for the ages."
     },
     {
       "title": "National Guadalupe Day",
@@ -75,16 +91,20 @@
       "description": "Have your second celebration of the new year on this Old New Year&#39;s Day!"
     },
     {
+      "title": "Seward’s Day",
+      "description": "Journey back in time with us as we discover the origin of Seward&#39;s Day."
+    },
+    {
       "title": "Struggle For Human Rights Day",
       "description": "Let&#39;s walk down Hviezdoslav street and remember the struggle for freedom on this day!"
     },
     {
-      "title": "Tolkien Reading Day",
-      "description": "Escape the ho-hum world here on Earth for the otherworldly, magical land of Middle-earth."
+      "title": "Suriname Phagwah",
+      "description": "Suriname Phagwa is the Hindu spring festival celebrated in Suriname and other Caribbean countries."
     },
     {
-      "title": "Walk in the Sand Day",
-      "description": "Head to the beach, kick off your shoes, and let the sand caress your feet."
+      "title": "Tolkien Reading Day",
+      "description": "Escape the ho-hum world here on Earth for the otherworldly, magical land of Middle-earth."
     },
     {
       "title": "World Retrospective Day",
