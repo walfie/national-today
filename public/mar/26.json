@@ -4,15 +4,19 @@
   "holidays": [
     {
       "title": "National Spinach Day",
-      "description": "“I&#39;m Popeye the Sailor Man, I&#39;m strong to the finich, cause I eats me spinach...”"
+      "description": null
+    },
+    {
+      "title": "Air Max Day",
+      "description": "Air Max Day celebrates one of the most iconic sneakers design in history."
+    },
+    {
+      "title": "American Diabetes Alert Day",
+      "description": "Learn how to assess your diabetes risk level this American Diabetes Alert Day!"
     },
     {
       "title": "Black Marriage Day",
       "description": "Celebrate your better half as we join couples to mark Black Marriage Day."
-    },
-    {
-      "title": "British Summer Time Begins",
-      "description": "‘Spring forward, fall back.’ British Summer Time (BST) occurs on the last Sunday of March and represents the phenomenon when the clocks go forward in…"
     },
     {
       "title": "Epilepsy Awareness / Purple Day",
@@ -21,6 +25,10 @@
     {
       "title": "Good Hair Day",
       "description": "As a lady, your hair is your most valuable asset; invest in it now."
+    },
+    {
+      "title": "Holy Tuesday",
+      "description": "Get informed about this important day with our informative article about Holy Tuesday."
     },
     {
       "title": "Independence Day of Bangladesh",
@@ -53,10 +61,6 @@
     {
       "title": "National Wayne Day",
       "description": "Wayne, a name for a boy given in the English language, means ‘wagon builder/driver.’"
-    },
-    {
-      "title": "Nike Air Max Day",
-      "description": "Nike Air Max Day celebrates one of the most iconic sneakers design in history."
     },
     {
       "title": "Prince Kuhio Day",
