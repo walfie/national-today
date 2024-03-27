@@ -1,0 +1,142 @@
+{
+  "month": "may",
+  "day": 5,
+  "holidays": [
+    {
+      "title": "Cinco de Mayo",
+      "description": "It&#39;s Cinco De Mayo, which means: tacos, margaritas, fun and fiesta!"
+    },
+    {
+      "title": "National Hoagie Day",
+      "description": "Head to the deli for a hoagie. Or a sub. Or a grinder. Or a hero."
+    },
+    {
+      "title": "Vesak",
+      "description": "Vesak celebrates Buddha’s birth, along with his enlightenment and death in some traditions."
+    },
+    {
+      "title": "Buddha Purnima",
+      "description": "Take deep breaths and clear your mind, as we take you on a mystical journey!"
+    },
+    {
+      "title": "Children&#39;s Day (Kodomo no Hi)",
+      "description": "Join us as we celebrate children this Kodomo no Hi on May 5!"
+    },
+    {
+      "title": "Day of Vesak",
+      "description": "It is the Day of Vesak, the day to honor Buddha&#39;s birth, enlightenment, and death."
+    },
+    {
+      "title": "Europe Day",
+      "description": "On Europe Day, an entire continent celebrates its unity, even in diversity."
+    },
+    {
+      "title": "General Prayer Day",
+      "description": "General Prayer Day is the celebration of the survival of the Roman Catholic traditions."
+    },
+    {
+      "title": "Hug a Shed and Take a Selfie Day",
+      "description": "From ancient times to the present, man has needed sheds for storage and more."
+    },
+    {
+      "title": "Indian Arrival Day (Guyana)",
+      "description": "Guyana celebrates its heritage and motto, “One people, one nation, one destiny.”"
+    },
+    {
+      "title": "International Midwives Day",
+      "description": "Join the global community to appreciate the amazing work of midwives on International Midwives’ Day."
+    },
+    {
+      "title": "Kentucky Oaks",
+      "description": "Today, we celebrate one of the oldest continuously contested sporting events in history."
+    },
+    {
+      "title": "Liberation Day (Bevrijdingsdag)",
+      "description": "Celebrate by learning about the Netherlands’ important WWII history."
+    },
+    {
+      "title": "Museum Lover&#39;s Day",
+      "description": "Get ready for a very fun day (or night) at the museum!"
+    },
+    {
+      "title": "Nail Day",
+      "description": "Get your fake nails ready as we are celebrating a classy and colorful Nail Day."
+    },
+    {
+      "title": "National Astronaut Day",
+      "description": "Do not go gentle into that good night as National Astronaut Day is at hand."
+    },
+    {
+      "title": "National Cartoonists Day",
+      "description": "Read about this day&#39;s history, check out five famous cartoons, and much more, right here!"
+    },
+    {
+      "title": "National Concert Day",
+      "description": "Let&#39;s take part in an event that honors the culture of live musical performances."
+    },
+    {
+      "title": "National Devin Day",
+      "description": "Celebrate the day and appreciate all the Devins all around the world."
+    },
+    {
+      "title": "National Silence the Shame Day",
+      "description": "Speak up for mental health which is as important as physical health for our total well-being."
+    },
+    {
+      "title": "National Space Day",
+      "description": "There’s so much going on in the universe, it deserves a day to reflect on everything!"
+    },
+    {
+      "title": "National Totally Chipotle Day",
+      "description": "Chipotle peppers are a Mexican ingredient that Americans have not just welcomed, but embraced."
+    },
+    {
+      "title": "National No Pants Day",
+      "description": "We know the freeing feeling of changing out of your pants after a long day."
+    },
+    {
+      "title": "Revenge of the Fifth",
+      "description": "Get your red lightsabers charged and ready to celebrate the Revenge of the Fifth!"
+    },
+    {
+      "title": "School Lunch Hero Day",
+      "description": "Check out our interesting and informative ideas to celebrate School Lunch Hero Day!"
+    },
+    {
+      "title": "Sleep Apnea Awareness Day",
+      "description": "Join us as we spread awareness about Sleep Apnoea Awareness Day."
+    },
+    {
+      "title": "Tuba Day",
+      "description": "Join us as we honor tubists in music over the world on Tuba Day."
+    },
+    {
+      "title": "World Hand Hygiene Day",
+      "description": "Read on about this simple step to fight all the germs and keep you healthy."
+    },
+    {
+      "title": "World Portuguese Language Day",
+      "description": "Let’s learn about one of the most widespread languages in the world — the Portuguese language!"
+    },
+    {
+      "title": "Adele’s Birthday",
+      "description": "Adele began to win the hearts of listeners around the world with her live performances."
+    },
+    {
+      "title": "Don Benjamin’s Birthday",
+      "description": "With his good looks and friendly personality, Don Benjamin continues to charm and entertain."
+    },
+    {
+      "title": "Jenna Davis’s Birthday",
+      "description": "With ‘Under The Surface’ (2020), she hit pay dirt when the song went viral."
+    },
+    {
+      "title": "Karl Marx’s Birthday",
+      "description": "A loud critic of capitalism, many of his ideas are the basis of people-friendly policies."
+    },
+    {
+      "title": "Niki Demartino’s Birthday",
+      "description": "This fashion influencer is making waves when it comes to all things style."
+    }
+  ]
+}

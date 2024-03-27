@@ -1,0 +1,90 @@
+{
+  "month": "jun",
+  "day": 20,
+  "holidays": [
+    {
+      "title": "National American Eagle Day",
+      "description": "Let’s learn about the pride of the American skies as we behold the majestic bald eagle."
+    },
+    {
+      "title": "Ugliest Dog Day",
+      "description": "When it comes to man’s best friend, is there really any dog that can’t be adorable?"
+    },
+    {
+      "title": "World Refugee Day",
+      "description": "For refugees, fleeing their home country is often just the beginning of a difficult journey."
+    },
+    {
+      "title": "International Nystagmus Day",
+      "description": "Learn how you can contribute to improving the lives of people with nystagmus."
+    },
+    {
+      "title": "Martyrs&#39; Day in Eritrea",
+      "description": "The day honors those who gave their lives for the country’s freedom."
+    },
+    {
+      "title": "National Celluma Light Therapy Day",
+      "description": "This holiday raises awareness about a non-toxic, non-invasive alternative to medications and surgical intervention."
+    },
+    {
+      "title": "National Flag Day in Argentina",
+      "description": "The day commemorates Manuel Belgrano, the man who designed Argentina’s current flag."
+    },
+    {
+      "title": "National Hike with a Geek Day",
+      "description": "Explore your nearest hiking trail with a geeky friend on National Hike with a Geek Day."
+    },
+    {
+      "title": "National Ice Cream Soda Day",
+      "description": "Celebrate ice cream soda by learning how it originated and which flavors are the most popular."
+    },
+    {
+      "title": "National Jimmy Day",
+      "description": "Today, we are honoring the loyal, dependable, and always approachable Jimmys of the world."
+    },
+    {
+      "title": "National Kouign Amann Day",
+      "description": "Celebrate National Kouign Amann Day and learn to transform this simple tea-time snack into a delectable dessert."
+    },
+    {
+      "title": "National Vanilla Milkshake Day",
+      "description": "Vanilla is native to Mexico and it&#39;s the only fruit-bearing member of the orchid family."
+    },
+    {
+      "title": "National West Virginia Day",
+      "description": "There is so much that West Virginia has that its residents can be proud of."
+    },
+    {
+      "title": "Rath Yatra",
+      "description": "A mere touch of the chariot can confer the blessings of Lord Jagannath upon you."
+    },
+    {
+      "title": "World Productivity Day",
+      "description": "Want to be more productive? Here’s how to get stuff done today!"
+    },
+    {
+      "title": "Alex Guarnaschelli’s Birthday",
+      "description": "Alex Guarnaschelli is a huge food personality, and her talent has no equal."
+    },
+    {
+      "title": "Capri Bryant’s Birthday",
+      "description": "Little Bryant is well-known for her adorable smile. Join us as we celebrate her birthday."
+    },
+    {
+      "title": "Dave Hawks’s Birthday",
+      "description": "The talented singer Dave Hawks is also a brilliant photographer and owns a magnificent studio."
+    },
+    {
+      "title": "Lionel Richie’s Birthday",
+      "description": "He’s among the most successful balladeers of the ’80s, he’s sold millions of records worldwide."
+    },
+    {
+      "title": "Nicole Kidman’s Birthday",
+      "description": "Let’s celebrate Kidman, who’s been a part of some of Hollywood’s best films."
+    },
+    {
+      "title": "Sage The Gemini’s Birthday",
+      "description": "Nothing is stopping this incredible rapper and record producer; he’s the future of music!"
+    }
+  ]
+}
