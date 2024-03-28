@@ -3,12 +3,12 @@
   "day": 28,
   "holidays": [
     {
-      "title": "Respect Your Cat Day",
-      "description": "It&#39;s time to acknowledge all the hard work your cat puts into being your loyal companion."
+      "title": "Maundy Thursday",
+      "description": null
     },
     {
-      "title": "American Diabetes Alert Day",
-      "description": "Learn how to assess your diabetes risk level this American Diabetes Alert Day!"
+      "title": "Respect Your Cat Day",
+      "description": "It&#39;s time to acknowledge all the hard work your cat puts into being your loyal companion."
     },
     {
       "title": "Barnum &amp; Bailey Day",
@@ -17,6 +17,14 @@
     {
       "title": "Eat an Eskimo Pie Day",
       "description": "Grab a delicious bar of chocolate-coated vanilla ice cream to celebrate Eat an Eskimo Pie Day!"
+    },
+    {
+      "title": "Holy Thursday",
+      "description": "Holy Thursday is an annual religious event that commemorates the Last Supper of Christ."
+    },
+    {
+      "title": "Major League Baseball Opening Day",
+      "description": "Every year thousands of people call in sick so they can be in the seats when the first pitch is thrown."
     },
     {
       "title": "National Amber Day",
@@ -53,6 +61,10 @@
     {
       "title": "Virtual Advocacy Day",
       "description": "Get involved with the legislative process impacting a cause you care deeply about."
+    },
+    {
+      "title": "World Piano Day",
+      "description": "Get your favorite sheet music out as we celebrate the king of musical instruments."
     },
     {
       "title": "Lady Gaga’s Birthday",
