@@ -4,11 +4,27 @@
   "holidays": [
     {
       "title": "Doctors&#39; Day",
-      "description": "An annual observance aimed at appreciating physicians who help save our lives everywhere."
+      "description": null
+    },
+    {
+      "title": "Black Saturday",
+      "description": "This day is mostly a day of silence — and waiting. Let’s observe Black Saturday together."
+    },
+    {
+      "title": "Earth Hour",
+      "description": "We are a step closer to protecting our planet, and it starts with you switching off your lights for an hour."
+    },
+    {
+      "title": "Easter Saturday",
+      "description": "Join us as we get ready to participate in the Easter Saturday celebrations!"
     },
     {
       "title": "Grass is Always Browner on the Other Side of the Fence Day",
       "description": "Learn how to appreciate your own life with our great tips and information on this day."
+    },
+    {
+      "title": "Holy Saturday",
+      "description": "Take a journey of plunging into darkness before entering illuminating light this Holy Saturday with us!"
     },
     {
       "title": "Land Day",
@@ -47,12 +63,8 @@
       "description": "Wendy&#39;s roots are distinct. National Wendy Day celebrates the moniker made famous by &#34;Peter Pan.&#34;"
     },
     {
-      "title": "Ram Navami Day",
-      "description": "Get ready to understand the story behind Ram Navami and the importance of the day."
-    },
-    {
-      "title": "Ram Navami",
-      "description": "Devotees of Lord Rama keep a day-long fast on the significant day of Ram Navami."
+      "title": "Orthodox Holy Saturday",
+      "description": "Commemorate Orthodox Holy Saturday which marks the end of the Lenten fast season."
     },
     {
       "title": "Spiritual Baptist Liberation Day",
