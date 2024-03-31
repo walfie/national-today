@@ -3,12 +3,20 @@
   "day": 31,
   "holidays": [
     {
+      "title": "Easter",
+      "description": null
+    },
+    {
       "title": "National Après Day",
       "description": "#AprèsAnywhere and celebrate with Breckenridge Bourbon Whiskey, after anything you’ve accomplished!"
     },
     {
       "title": "Anesthesia Tech Day",
       "description": "Discover the history, importance, and medical milestones of these technicians and technologists on Anesthesia Tech Day."
+    },
+    {
+      "title": "British Summer Time Begins",
+      "description": "‘Spring forward, fall back.’ British Summer Time (BST) occurs on the last Sunday of March and represents the phenomenon when the clocks go forward in…"
     },
     {
       "title": "Cesar Chavez Day",
@@ -27,8 +35,12 @@
       "description": "Raise a toast to this monumental feat of construction as we celebrate Eiffel Tower Day."
     },
     {
-      "title": "International Hug a Medievalist  Day",
+      "title": "Hug a Medievalist Day",
       "description": "Be ready to hug a medievalist on this special day and make them feel loved!"
+    },
+    {
+      "title": "National Baked Ham with Pineapple Day",
+      "description": "Prepare a delicious home-cooked dinner of ham decorated with pineapples this Easter."
     },
     {
       "title": "National Bunsen Burner Day",
@@ -47,16 +59,16 @@
       "description": "The labor force on a farm plays a pivotal role in bringing crops to fruition."
     },
     {
-      "title": "National Prom Day",
-      "description": "Post a throwback or call up a high school friend — cherish your unforgettable prom memories."
-    },
-    {
       "title": "National She&#39;s Funny That Way Day",
       "description": "It’s hats off to the ladies who make us laugh out loud. Today’s your special day."
     },
     {
       "title": "National Tater Day",
       "description": "We love potatoes, and you bet we are ready for it this National Tater Day."
+    },
+    {
+      "title": "Prom Day",
+      "description": "Post a throwback or call up a high school friend — cherish your unforgettable prom memories."
     },
     {
       "title": "She’s Funny That Way Day",
