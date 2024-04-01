@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "Take Down Tobacco National Day of Action",
-      "description": "A day of anti-smoking activism. Teachers, kids, youth leaders, and health advocates all participate!"
+      "description": null
     },
     {
       "title": "April Fools&#39; Day",
@@ -19,36 +19,36 @@
       "description": "Here are ways you can honor the generation known as ‘Baby Boomers.’"
     },
     {
+      "title": "Community Garden Week",
+      "description": "It’s time to get your hands dirty, let’s celebrate Community Garden Week!"
+    },
+    {
       "title": "Cyprus National Holiday",
       "description": "On Cyprus National Day, enjoy a day of relaxation while learning about the country&#39;s history."
+    },
+    {
+      "title": "Dyngus Day",
+      "description": "Indulge your adventurous traits and treat yourself to a nice holiday this Dyngus Day."
+    },
+    {
+      "title": "Easter Monday",
+      "description": "There are different and interesting traditions surrounding the Monday that comes immediately after Easter Day."
     },
     {
       "title": "Edible Book Day",
       "description": "Prepare your appetite, for today, we feast on books and their words."
     },
     {
-      "title": "Education and Sharing Day",
-      "description": "Education goes beyond obtaining a degree to shape a certain career."
-    },
-    {
-      "title": "Every Day is Tag Day",
-      "description": "Pets need a tag because they do sometimes become victims of circumstance or go missing."
-    },
-    {
       "title": "Fossil Fools Day",
       "description": "Let’s move away from fooling others to doing something good for our environment."
-    },
-    {
-      "title": "International Firewalk Day",
-      "description": "Firewalking can change your life and help you become a better version of yourself."
     },
     {
       "title": "International Fun at Work Day",
       "description": "Bring out your best games and strategies to have fun with your colleagues!"
     },
     {
-      "title": "International Pillow Fight Day",
-      "description": "Consider yourself a pillow warrior? It is time to prepare your pillows for battle!"
+      "title": "International Tatting Day",
+      "description": "International Tatting Day is an annual event that celebrates the traditional craft of lace tatting."
     },
     {
       "title": "Library Snap Shot Day",
@@ -57,6 +57,10 @@
     {
       "title": "Lupus Alert Day",
       "description": "Lupus Alert Day raises awareness about the deadly autoimmune disease known as lupus."
+    },
+    {
+      "title": "Martyrdom of Imam Ali",
+      "description": "Let’s take a look at one of Islam’s important holidays this Martyrdom of Imam Ali Day."
     },
     {
       "title": "Mathematics and Statistics Awareness Month",
@@ -79,14 +83,6 @@
       "description": "Grab your art supplies and witty puns, it’s National Greeting Card Day!"
     },
     {
-      "title": "National Handmade Day",
-      "description": "Put your clever hands to work as we celebrate this artsy day!"
-    },
-    {
-      "title": "National Love Our Children Day",
-      "description": "Show some love —  prepare to celebrate and lavish affection on children today and every day."
-    },
-    {
       "title": "National Loyal Day",
       "description": "Loyal is a rare gender-neutral name that simply means loyal or faithful."
     },
@@ -101,6 +97,10 @@
     {
       "title": "National Trombone Players Day",
       "description": "Discover your inner trombone playing skills and enjoy a few spectacular musical performances."
+    },
+    {
+      "title": "Nature Day",
+      "description": "Pack some snacks and games, and move outdoors — it is picnicking day!"
     },
     {
       "title": "Nickelodeon Anniversary Celebration Day",
@@ -119,16 +119,16 @@
       "description": "If you want to improve, be content with being thought foolish and stupid."
     },
     {
-      "title": "Tatting Day",
-      "description": "Tatting Day is an annual event that celebrates the traditional craft of lace tatting."
-    },
-    {
       "title": "U.S. Air Force Academy Day",
       "description": "Join us as we delve into the exciting history of the U.S. Air Force."
     },
     {
       "title": "U.S. Air Force Academy Day",
       "description": "Raise those right hands to the forehead and let&#39;s salute the immaculate officers from the Academy!"
+    },
+    {
+      "title": "White House Easter Egg Roll",
+      "description": "Pick a color and get ready to roll at the White House Easter Egg Roll."
     },
     {
       "title": "Jonny May’s Birthday",
