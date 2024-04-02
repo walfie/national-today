@@ -4,19 +4,23 @@
   "holidays": [
     {
       "title": "National Peanut Butter and Jelly Day",
-      "description": "The average American eats two thousand peanut butter and jelly sandwiches before graduating high school."
+      "description": null
+    },
+    {
+      "title": "Autism Acceptance Day",
+      "description": "We’re joining forces to spread love and raise awareness about Autism Acceptance Day."
+    },
+    {
+      "title": "Autism Awareness Day",
+      "description": "Wear blue to raise awareness on behalf of those diagnosed with autism."
+    },
+    {
+      "title": "Children’s Picture Book Day",
+      "description": "We have flown on scaly dragons, and eaten houses made out of candy and gingerbread."
     },
     {
       "title": "Day of the Veterans",
       "description": "Let&#39;s take a moment to reflect on the souls of the deceased."
-    },
-    {
-      "title": "Explore Your Career Options Week",
-      "description": "Are you on the best career path? Explore your options with us this week."
-    },
-    {
-      "title": "Geologists Day",
-      "description": "Read on to learn more about all the amazing ways geology rocks our world."
     },
     {
       "title": "International Children’s Book Day",
@@ -25,10 +29,6 @@
     {
       "title": "International Fact-Checking Day",
       "description": "Extra, extra! Read all about it — our hot tips on how fact-checking prevents fake news!"
-    },
-    {
-      "title": "National Children’s Picture Book Day",
-      "description": "We have flown on scaly dragons, and eaten houses made out of candy and gingerbread."
     },
     {
       "title": "National DIY Day",
@@ -51,32 +51,24 @@
       "description": "Quirky, fun, unconventional — there are many ways to describe this day! Go ahead and enjoy it."
     },
     {
-      "title": "Nature Day",
-      "description": "Pack some snacks and games, and move outdoors — it is picnicking day!"
-    },
-    {
-      "title": "Palm Sunday",
-      "description": "Palm Sunday is the beginning of Jesus’ final week on earth."
+      "title": "National Sexual Assault Awareness Month&#39;s Day of Action",
+      "description": "Today, we stand united in opposing all forms of sexual assault! Join us!"
     },
     {
       "title": "Pascua Florida Day",
       "description": "We have a lot more to explore beyond Florida’s beautiful shores."
     },
     {
-      "title": "Semana Santa Spain",
-      "description": "Semana Santa is a time to remember Christ’s suffering and sacrifice for humankind."
+      "title": "SAAM Day of Action",
+      "description": "Spread the word and show support for sexual assault survivors on this Day of Action."
+    },
+    {
+      "title": "Southland Anniversary",
+      "description": "Indulge your adventurous side on Southland Anniversary with various activities in New Zealand!"
     },
     {
       "title": "Union Day of Belarus and Russia",
       "description": "We give you suggestions on how best to observe this day that united Belarus and Russia."
-    },
-    {
-      "title": "World Autism Acceptance Day",
-      "description": "We’re joining forces to spread love and raise awareness about World Autism Acceptance Day."
-    },
-    {
-      "title": "World Autism Awareness Day",
-      "description": "Wear blue to raise awareness on behalf of those diagnosed with autism."
     },
     {
       "title": "BadBoyHalo’s Birthday",
