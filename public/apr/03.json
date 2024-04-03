@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "World Cloud Security Day",
-      "description": "Let’s raise awareness about the emerging threats facing individuals and organizations as a result of remote work and bring your own device (BYOD) policies."
+      "description": null
     },
     {
       "title": "World Party Day",
@@ -27,8 +27,8 @@
       "description": "Discover how politics and theatre combine to revive a very significant Asian nation."
     },
     {
-      "title": "Community Garden Week",
-      "description": "It’s time to get your hands dirty, let’s celebrate Community Garden Week!"
+      "title": "Day of Hope",
+      "description": "Get ready to observe the Day of Hope by showing kindness to anyone facing difficult times."
     },
     {
       "title": "Don&#39;t Go to Work Unless it&#39;s Fun Day",
@@ -43,12 +43,12 @@
       "description": "Fish Fingers and Custard Day is named after Matt Smith&#39;s Eleventh Doctor&#39;s unusual cuisine."
     },
     {
-      "title": "Holy Monday",
-      "description": "Learn how to observe Holy Monday and honor Jesus Christ’s life and his sacrifice."
-    },
-    {
       "title": "Independent Artist Day™",
       "description": "We’re celebrating the global community of independent artists and their unparalleled creativity."
+    },
+    {
+      "title": "National Childhelp Day of Hope",
+      "description": "Observe a moment of silence and offer a prayer for abuse and neglect victims."
     },
     {
       "title": "National Chocolate Mousse Day",
@@ -77,6 +77,10 @@
     {
       "title": "National Tweed Day",
       "description": "Put on some comfy tweed as we unravel the mystery surrounding this special holiday."
+    },
+    {
+      "title": "National Walking Day",
+      "description": "A day to celebrate the easiest way to be the healthiest version of you."
     },
     {
       "title": "NCCA Anniversary",
