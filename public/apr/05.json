@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Deep Dish Pizza Day",
-      "description": "Is there a single food more universally beloved that is also so incredibly divisive?"
+      "description": null
     },
     {
       "title": "Accelerate ACL Awareness Among Young Women Day",
@@ -13,18 +13,6 @@
     {
       "title": "Bell Bottoms Day",
       "description": "We’re celebrating one of the oldest fashion trends so make sure you wear your bell bottoms."
-    },
-    {
-      "title": "Cheng Ming Festival",
-      "description": "Honor your ancestors’ lives by burning a candle and paying your respects to them."
-    },
-    {
-      "title": "Day of Hope",
-      "description": "Get ready to observe the Day of Hope by showing kindness to anyone facing difficult times."
-    },
-    {
-      "title": "Erev Pesach (Israel)",
-      "description": "Put on your Kittel on this day, and get ready for Erev Pesach!"
     },
     {
       "title": "First Contact Day",
@@ -39,12 +27,16 @@
       "description": "In remembrance of the lives and families of those that have been lost serving this country."
     },
     {
-      "title": "Holy Wednesday",
-      "description": "Let us celebrate the journey of Jesus Christ on Holy Wednesday."
+      "title": "Hospital Admitting Clerks Day",
+      "description": "It’s Hospital Admitting Clerks Day: a perfect day to give a little back and thank yours."
     },
     {
       "title": "International Day of Conscience",
       "description": "Ever wondered what the true meaning of conscience is? Join us to learn more."
+    },
+    {
+      "title": "Laylatul Qadr",
+      "description": "Learn why Muslims busy themselves in worship and seek repentance on this Ramadan night."
     },
     {
       "title": "National Body Care Day",
@@ -53,10 +45,6 @@
     {
       "title": "National Caramel Day",
       "description": "Get ready to celebrate the gooey finger-licking caramel treat in style with us!"
-    },
-    {
-      "title": "National Childhelp Day of Hope",
-      "description": "Observe a moment of silence and offer a prayer for abuse and neglect victims."
     },
     {
       "title": "National Dandelion Day",
@@ -71,6 +59,10 @@
       "description": "Get ready to take a road trip down to the Cornhusker State on National Nebraska Day!"
     },
     {
+      "title": "National Peeps Day",
+      "description": "Calling on all Peeps lovers with an incurable sweet tooth — let’s have a Peeps Fest!"
+    },
+    {
       "title": "National Raisin and Spice Bar Day",
       "description": "Prepare your appetite for the best tasty delights we have to offer."
     },
@@ -79,28 +71,16 @@
       "description": "National Self-Care Day is about putting ourselves first and celebrating all things that bring us happiness."
     },
     {
-      "title": "National SI 5 Star Phone Certification Day",
-      "description": "A day to celebrate implementing the best business practices and increasing our company&#39;s success."
-    },
-    {
-      "title": "National Walking Day",
-      "description": "A day to celebrate the easiest way to be the healthiest version of you."
-    },
-    {
-      "title": "Passover",
-      "description": "The Jewish holiday commemorates the Biblical story of Exodus — where God freed the Israelites from Egypt."
-    },
-    {
-      "title": "Peeps Day",
-      "description": "Calling on all Peeps lovers with an incurable sweet tooth — let’s have a Peeps Fest!"
-    },
-    {
-      "title": "Qingming Festival",
-      "description": "Qingming Festival is when people honor their ancestors through traditional food offerings and by sweeping tombs."
+      "title": "Poet in a Cupcake Day",
+      "description": "It&#39;s time to whip up some delectable cupcakes featuring lyrics from our favorite poet."
     },
     {
       "title": "Read a Road Map Day",
       "description": "The amazing capacity of a paper road map allows you to explore any territories."
+    },
+    {
+      "title": "Walk to Work Day",
+      "description": "Experience the wonders of walking as we walk you through some amazing walking benefits."
     },
     {
       "title": "Bette Davis’s Birthday",
