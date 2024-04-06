@@ -3,16 +3,8 @@
   "day": 6,
   "holidays": [
     {
-      "title": "Maundy Thursday",
-      "description": "Maundy refers to the foot-washing Jesus provided the apostles prior to the Last Supper"
-    },
-    {
-      "title": "National Burrito Day",
-      "description": "A day to pay homage to the delicious tortillas stuffed with meat, cheese, beans, rice, vegetables, and sauces."
-    },
-    {
       "title": "National Siamese Cat Day",
-      "description": "Siamese cats, also known as “Meezers,&#34; are one of the most popular cat breeds in the world."
+      "description": null
     },
     {
       "title": "National Student-Athlete Day",
@@ -43,36 +35,32 @@
       "description": "Shocking statistics show that 62% of Americans attest to driving when feeling drowsy."
     },
     {
+      "title": "Every Day is Tag Day",
+      "description": "Pets need a tag because they do sometimes become victims of circumstance or go missing."
+    },
+    {
       "title": "Fresh Tomato Day",
       "description": "Work up your appetite, it’s time to celebrate Fresh Tomato Day with us!"
-    },
-    {
-      "title": "Holy Thursday",
-      "description": "Holy Thursday is an annual religious event that commemorates the Last Supper of Christ."
-    },
-    {
-      "title": "Hostess Twinkie Day",
-      "description": "Celebrate everyone’s favorite sweet snack on Hostess Twinkie Day right here with us."
     },
     {
       "title": "International Day of Sport for Development and Peace",
       "description": "This day celebrates how sports have made the world a better place."
     },
     {
+      "title": "International Firewalk Day",
+      "description": "Firewalking can change your life and help you become a better version of yourself."
+    },
+    {
+      "title": "International Pillow Fight Day",
+      "description": "Consider yourself a pillow warrior? It is time to prepare your pillows for battle!"
+    },
+    {
       "title": "Jump Over Things Day",
       "description": "When walking over stuff gets boring, why not spice things up by jumping over them?"
     },
     {
-      "title": "Näfelser Fahrt",
-      "description": "Let’s observe the day by taking a pilgrimage to the site of the Habsburgs battle."
-    },
-    {
       "title": "National Acai Bowl Day",
       "description": "Açaí season is here. Grab a bowl and make it Insta-worthy as we celebrate."
-    },
-    {
-      "title": "National Alcohol Screening Day",
-      "description": "Let’s say no to alcohol, and yes to a healthy body and mind. Let’s take action!"
     },
     {
       "title": "National Caramel Popcorn Day",
@@ -95,12 +83,20 @@
       "description": "On National Gang Day, we honor and appreciate the Gangs in our lives!"
     },
     {
+      "title": "National Handmade Day",
+      "description": "Put your clever hands to work as we celebrate this artsy day!"
+    },
+    {
       "title": "National Jay Day",
       "description": "A celebration to let all the Jays in the world know that we appreciate and love them."
     },
     {
       "title": "National Library Day",
       "description": "Join us as we celebrate libraries and librarians this National Library Day."
+    },
+    {
+      "title": "National Love Our Children Day",
+      "description": "Show some love —  prepare to celebrate and lavish affection on children today and every day."
     },
     {
       "title": "National Pajama Day",
@@ -115,16 +111,8 @@
       "description": "The name Robert is shared by kings, noblemen, celebrities, and international stars."
     },
     {
-      "title": "National Sorry Charlie Day",
-      "description": "National Sorry Charlie Day allows us to pause and reflect on the rejections we’ve faced throughout our lives."
-    },
-    {
       "title": "National Student Athlete Day",
       "description": "Celebrate the exceptional student athletes around you on National Student-Athlete Day."
-    },
-    {
-      "title": "National Tartan Day",
-      "description": "National Tartan Day commemorates the day that the Scottish Declaration of Independence was signed in 1320."
     },
     {
       "title": "National Taylor Day",
@@ -135,20 +123,28 @@
       "description": "Get your Teflon pans and pots out as we celebrate this wonderful discovery."
     },
     {
+      "title": "National Twinkie Day",
+      "description": "Celebrate everyone’s favorite sweet snack on National Twinkie Day right here with us."
+    },
+    {
       "title": "New Beer&#39;s Eve",
       "description": "Enjoy a sip of your favorite drink on New Beer’s Eve and rejoice that you may."
+    },
+    {
+      "title": "Plan Your Epitaph Day",
+      "description": "This morbid but fun holiday is a pleasant way to accept the inevitable end to every human’s journey."
     },
     {
       "title": "President Ntaryamira Day",
       "description": "Remembering a beloved national leader, his tragic death, and the resolve to become a better nation."
     },
     {
-      "title": "Theravada New Year",
-      "description": "Theravada New Year unites Buddhists in self-reflection and meditation wherever it is celebrated."
+      "title": "Sorry Charlie Day",
+      "description": "Sorry Charlie Day allows us to pause and reflect on the rejections we’ve faced throughout our lives."
     },
     {
-      "title": "World Table Tennis Day",
-      "description": "It&#39;s raining celluloid balls on World Table Tennis Day, so get those rackets and play."
+      "title": "Tartan Day",
+      "description": "Tartan Day commemorates the day that the Scottish Declaration of Independence was signed in 1320."
     },
     {
       "title": "Mingyu’s Birthday",
