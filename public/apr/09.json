@@ -3,12 +3,8 @@
   "day": 9,
   "holidays": [
     {
-      "title": "Easter",
-      "description": "Easter celebrates Jesus Christ&#39;s resurrection from the dead and the triumph of good over evil."
-    },
-    {
       "title": "National Winston Churchill Day",
-      "description": "Sir Winston Churchill unified the British to resist the bombing of Britain by Germany during World War II."
+      "description": null
     },
     {
       "title": "Appomattox Day",
@@ -27,6 +23,10 @@
       "description": "Listen as we explain the amazing benefits of A.S.M.R. triggers."
     },
     {
+      "title": "International Be Kind to Lawyers Day",
+      "description": "We appreciate how lawyers get into sticky situations so we can get out of them!"
+    },
+    {
       "title": "Jenkins Ear Day",
       "description": "On this day, Robert Jenkins lost more than just the battle against the Spaniards!"
     },
@@ -37,10 +37,6 @@
     {
       "title": "Kosovo Constitution Day",
       "description": "Join us as we learn more about Kosovo Constitution Day this April 9."
-    },
-    {
-      "title": "National Baked Ham with Pineapple Day",
-      "description": "Prepare a delicious home-cooked dinner of ham decorated with pineapples this Easter."
     },
     {
       "title": "National Bodhi Day",
@@ -79,8 +75,8 @@
       "description": "Take time out to celebrate a beautiful, horned, rainbow-printed mythical creature."
     },
     {
-      "title": "Orthodox Palm Sunday",
-      "description": "On Orthodox Palm Sunday, let’s celebrate and remember Christ’s triumphal entry into Jerusalem."
+      "title": "Ougadi",
+      "description": "Let’s celebrate Ougadi, the time to get yourself ready for a new beginning."
     },
     {
       "title": "Vimy Ridge Day",
