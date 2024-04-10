@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Hug Your Dog Day",
-      "description": "Not only does a good squeeze strengthen your bond, it shows your pet that you care."
+      "description": null
     },
     {
       "title": "National Siblings Day",
@@ -15,12 +15,12 @@
       "description": "Masino Intaray’s talent was a treasure to his community and his country."
     },
     {
-      "title": "Dyngus Day",
-      "description": "Indulge your adventurous traits and treat yourself to a nice holiday this Dyngus Day."
+      "title": "Eid al-Fitr",
+      "description": "Gather friends and family for a day of merriment, celebrations, gifts, and good food on Eid."
     },
     {
-      "title": "Easter Monday",
-      "description": "There are different and interesting traditions surrounding the Monday that comes immediately after Easter Day."
+      "title": "Encourage a Young Writer Day",
+      "description": "Get ready to learn about the history of writing and how to encourage young writers."
     },
     {
       "title": "Global Work From Home Day",
@@ -35,16 +35,16 @@
       "description": "Let us get ready to celebrate the versatile and invaluable safety pin!"
     },
     {
+      "title": "National Bookmobile Day",
+      "description": "Travel into fictional worlds through mobile libraries if you can’t get to a regular library."
+    },
+    {
       "title": "National Calvin Day",
       "description": "If you are a Calvin, today we are making the day memorable just for you."
     },
     {
       "title": "National Cinnamon Crescent Day",
       "description": "If you love a sweet breakfast, you will enjoy cinnamon crescents for breakfast."
-    },
-    {
-      "title": "National Encourage a Young Writer Day",
-      "description": "Get ready to learn about the history of writing and how to encourage young writers."
     },
     {
       "title": "National Farm Animals Day",
@@ -67,16 +67,8 @@
       "description": "Prepare to learn about and help raise awareness about these potentially fatal diseases!"
     },
     {
-      "title": "Orthodox Easter Monday",
-      "description": "It&#39;s another day to rejoice, celebrate the resurrection of Christ, and find some Easter eggs."
-    },
-    {
       "title": "Salvation Army Founder&#39;s Day",
       "description": "Follow in William Booth’s footsteps and join efforts to help those in need without discrimination."
-    },
-    {
-      "title": "White House Easter Egg Roll",
-      "description": "Pick a color and get ready to roll at the White House Easter Egg Roll."
     },
     {
       "title": "World Homeopathy Day",
