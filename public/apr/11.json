@@ -4,11 +4,15 @@
   "holidays": [
     {
       "title": "National Pet Day",
-      "description": "Hug your dog, bond with your bunny, and cut your kitty some catnip!"
+      "description": null
     },
     {
       "title": "Anniversary of the Battle of Rivas",
       "description": "To commemorate the victory at Rivas, let’s celebrate the Anniversary of the Battle of Rivas!"
+    },
+    {
+      "title": "Barbershop Quartet Day",
+      "description": "We have all the information you need to make this day a musical one."
     },
     {
       "title": "Dog Therapy Appreciation Day",
@@ -19,16 +23,12 @@
       "description": "Let us join hands together and come together to combat this heinous crime."
     },
     {
-      "title": "International Be Kind to Lawyers Day",
-      "description": "We appreciate how lawyers get into sticky situations so we can get out of them!"
+      "title": "Grand National",
+      "description": "Let’s learn all about horse racing at the Grand National Festival this year!"
     },
     {
       "title": "International Louie Louie Day",
       "description": "Let us get ready to rock and roll as we learn more about this popular tune!"
-    },
-    {
-      "title": "National Barbershop Quartet Day",
-      "description": "We have all the information you need to make this day a musical one."
     },
     {
       "title": "National Cheese Fondue Day",
@@ -51,6 +51,10 @@
       "description": "Every successful marketing campaign starts with a great marketing operations team."
     },
     {
+      "title": "National Parkinson’s Day",
+      "description": "Join hands and observe this day with us to make a better world today and tomorrow."
+    },
+    {
       "title": "National Poutine Day",
       "description": "Enjoy a fun holiday that is all about the delicious fast food dish, poutine."
     },
@@ -61,14 +65,6 @@
     {
       "title": "National Submarine Day",
       "description": "It’s not just enemies and the sea they have to contend with."
-    },
-    {
-      "title": "Southland Anniversary Day",
-      "description": "Indulge your adventurous side on Southland Anniversary Day with various activities in New Zealand!"
-    },
-    {
-      "title": "World Parkinson’s Day",
-      "description": "Join hands and observe this day with us to make a better world today and tomorrow."
     },
     {
       "title": "Jahvahn Greek’s Birthday",
