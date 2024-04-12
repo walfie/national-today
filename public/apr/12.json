@@ -3,6 +3,18 @@
   "day": 12,
   "holidays": [
     {
+      "title": "Day of Silence",
+      "description": null
+    },
+    {
+      "title": "National Grilled Cheese Sandwich Day",
+      "description": "National Grilled Cheese Sandwich Day on April 12 celebrated the incredible combination of Crispy bread and melted cheese."
+    },
+    {
+      "title": "Big Wind Day",
+      "description": "Get blown away with some interesting facts about Big Wind Day."
+    },
+    {
       "title": "Cosmonautics Day",
       "description": "This cosmonaut and national hero made history for humankind. Celebrate Cosmonautics Day with us."
     },
@@ -35,16 +47,12 @@
       "description": "Wear pink to support the campaign and stand in solidarity with the 2SLGBTQIA+ community."
     },
     {
-      "title": "Martyrdom of Imam Ali",
-      "description": "Let’s take a look at one of Islam’s important holidays this Martyrdom of Imam Ali Day."
-    },
-    {
-      "title": "National Big Wind Day",
-      "description": "Get blown away with some interesting facts about National Big Wind Day."
-    },
-    {
       "title": "National Dolores Day",
       "description": "Explore the Christian origin of the name Dolores and its usage in other countries."
+    },
+    {
+      "title": "National Fast and Prayer Day",
+      "description": "Take full advantage of the day to fast, pray, and humbly ask God for protection."
     },
     {
       "title": "National For Twelves Day",
@@ -71,7 +79,7 @@
       "description": "Hey, only children or those with only kids, here are some hassle-free ways to celebrate!"
     },
     {
-      "title": "National Silvia Day",
+      "title": "Silvia Name Day",
       "description": "Derived from a ‘forest deity’, the name is popular both in fiction and in real life."
     },
     {
