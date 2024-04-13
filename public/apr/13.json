@@ -4,22 +4,14 @@
   "holidays": [
     {
       "title": "National Make Lunch Count Day",
-      "description": "Remember, there&#39;s still a whole half-day left to have it."
+      "description": null
     },
     {
       "title": "National Scrabble Day",
       "description": "It&#39;s time to C-E-L-E-B-R-A-T-E one of the world&#39;s most iconic board games."
     },
     {
-      "title": "Celebrate Teen Literature Day",
-      "description": "What’s better than picking and reading a book to Celebrate Teen Literature Day?"
-    },
-    {
-      "title": "Grand National Festival Race Card",
-      "description": "Let’s learn all about horse racing at the Grand National Festival this year!"
-    },
-    {
-      "title": "International FND Awareness Day",
+      "title": "FND Awareness Day",
       "description": "Together we can unravel the mystery of FND through awareness, support, and research!"
     },
     {
@@ -31,12 +23,12 @@
       "description": "Let us rejoice in the fact that information professionals exist in today&#39;s workplace!"
     },
     {
-      "title": "Last day of Passover",
-      "description": "Celebrate with us as we mark this day of great importance to Jews around the world!"
-    },
-    {
       "title": "National Borinqueneers Day",
       "description": "Let’s pay tribute to the Borinqueneers  — a depiction of Puerto Rican pride and fighting spirit."
+    },
+    {
+      "title": "National Catch and Release Day",
+      "description": "The catch and release method benefits both the anglers and fish species in the long run."
     },
     {
       "title": "National Peach Cobbler Day",
@@ -51,6 +43,10 @@
       "description": "Theresa is a lovely name with deep roots steeped in culture and meaning."
     },
     {
+      "title": "Slow Art Day",
+      "description": "Art is supposed to be studied and interpreted, not just viewed as something pretty."
+    },
+    {
       "title": "Songkran Water Festival",
       "description": "Prepare your water guns, hoses, and buckets as we celebrate the world’s wettest festival!"
     },
@@ -61,6 +57,10 @@
     {
       "title": "Unfairly Prosecuted Persons Day",
       "description": "Let&#39;s take a look at the history, key dates, and facts surrounding Unfairly Prosecuted Persons Day."
+    },
+    {
+      "title": "Vaisakhi / Baisakhi / Vishu",
+      "description": "Get ready to celebrate the most important date in the history of Sikh communities."
     },
     {
       "title": "Maya Summers’s Birthday",
