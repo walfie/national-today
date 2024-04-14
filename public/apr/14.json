@@ -3,12 +3,8 @@
   "day": 14,
   "holidays": [
     {
-      "title": "Day of Silence",
-      "description": "A campaign that seeks to shed light on what many LGBTQ youth experience daily."
-    },
-    {
       "title": "National Ex-Spouse Day",
-      "description": "National Ex Spouse Day is the day to reflect on the positive moments you shared with your ex."
+      "description": null
     },
     {
       "title": "Air Force Reserve Birthday",
@@ -35,6 +31,10 @@
       "description": "Dreams of Reason Feast Day honors abandoned scientific theories and science fantasy futures."
     },
     {
+      "title": "Good Deeds Day",
+      "description": "Be the positive change you want to see in the world on Good Deeds Day!"
+    },
+    {
       "title": "International Moment of Laughter Day",
       "description": "International Moment of Laughter Day is the perfect opportunity to laugh away your worries."
     },
@@ -45,10 +45,6 @@
     {
       "title": "National Donate a Book Day",
       "description": "Support your public library by donating a book to share the joy of reading."
-    },
-    {
-      "title": "National Fast and Prayer Day",
-      "description": "Take full advantage of the day to fast, pray, and humbly ask God for protection."
     },
     {
       "title": "National Gardening Day",
@@ -63,18 +59,6 @@
       "description": "Bake a pie or enjoy butter pecan delight; confess your love for this quintessential American nut."
     },
     {
-      "title": "National Perfume Day",
-      "description": "Shower, spritz your favorite perfume, and celebrate the day in style with us."
-    },
-    {
-      "title": "National Reach As High As You Can Day",
-      "description": "This is your sign to dream big and reach as high as you can!"
-    },
-    {
-      "title": "Orthodox Good Friday",
-      "description": "Get ready to observe orthodox Good Friday, an important day in history, marking Jesus Christ’s crucifixion."
-    },
-    {
       "title": "Pan American Day",
       "description": "We celebrate rich diversity this Pan American Day! Join us right here!"
     },
@@ -87,16 +71,20 @@
       "description": "We honor all P.As for their hard work and dedication this Pathologists’ Assistants Day."
     },
     {
+      "title": "Perfume Day",
+      "description": "Shower, spritz your favorite perfume, and celebrate the day in style with us."
+    },
+    {
       "title": "RAINN Day",
       "description": "RAINN Day is an annual outreach by the nation&#39;s largest anti-sexual violence organization."
     },
     {
-      "title": "Tamil New Year",
-      "description": "Visit a Tamil state and greet people this New Year by saying &#34;Puthāaṇdu vāazhthugal!&#34;"
+      "title": "Reach As High As You Can Day",
+      "description": "This is your sign to dream big and reach as high as you can!"
     },
     {
-      "title": "Vaisakhi / Baisakhi / Vishu",
-      "description": "Get ready to celebrate the most important date in the history of Sikh communities."
+      "title": "Tamil New Year",
+      "description": "Visit a Tamil state and greet people this New Year by saying &#34;Puthāaṇdu vāazhthugal!&#34;"
     },
     {
       "title": "World Chagas Disease Day",
