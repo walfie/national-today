@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Librarian Day",
-      "description": "Celebrate and thank the awesome librarians who are always on hand to help."
+      "description": null
     },
     {
       "title": "Selena Day",
@@ -23,24 +23,8 @@
       "description": "Let’s go truffle-hunting; it’s Day of the Mushroom today! Celebrate with us!"
     },
     {
-      "title": "Divine Mercy Sunday",
-      "description": "Come one come all! Let us embrace mercy and love on this special day!"
-    },
-    {
       "title": "Foursquare Day",
       "description": "Take your first step to meeting new people and making lasting connections on Foursquare Day."
-    },
-    {
-      "title": "Go Fly a Kite Day",
-      "description": "Flying kites is a great way for us to revisit our childhood, so let’s do it."
-    },
-    {
-      "title": "Good Deeds Day",
-      "description": "Be the positive change you want to see in the world on Good Deeds Day!"
-    },
-    {
-      "title": "Holy Saturday",
-      "description": "Take a journey of plunging into darkness before entering illuminating light this Holy Saturday with us!"
     },
     {
       "title": "National Angel Day",
@@ -73,10 +57,6 @@
     {
       "title": "National Reveal the Genius Within Day",
       "description": "Get ready to share your ideas with our tips and information about this day!"
-    },
-    {
-      "title": "Orthodox Easter Day",
-      "description": "Get ready to be blown away by the story of this celebration."
     },
     {
       "title": "Save the Elephant Day",
