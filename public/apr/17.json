@@ -3,12 +3,12 @@
   "day": 17,
   "holidays": [
     {
-      "title": "International Haiku Poetry Day",
-      "description": "An ancient form of Japanese poetry featuring three lines with the syllable structure &#34;five-seven-five&#34;"
+      "title": "National Cheese Ball Day",
+      "description": null
     },
     {
-      "title": "National Cheese Ball Day",
-      "description": "All of your favorite party flavors rolled into one compact package."
+      "title": "National Haiku Day",
+      "description": "An ancient form of Japanese poetry featuring three lines with the syllable structure &#34;five-seven-five&#34;"
     },
     {
       "title": "2A Day",
@@ -35,16 +35,12 @@
       "description": "A good conversation is not just about expressing one’s ideas but also listening to others’ ideas."
     },
     {
-      "title": "Landing of the 33 Patriots Day",
-      "description": "Today is Landing of the 33 Patriots Day. Make the perfect tribute to their ultimate sacrifice."
-    },
-    {
-      "title": "Laylat al-Qadr",
-      "description": "Learn why Muslims busy themselves in worship and seek repentance on this Ramadan night."
-    },
-    {
       "title": "Malbec World Day",
       "description": "It’s time to get a taste of Argentina’s wine heritage on Malbec World Day."
+    },
+    {
+      "title": "National Banana Day",
+      "description": "What an amazing time to celebrate the awesomeness of the world’s most popular fruit — the banana!"
     },
     {
       "title": "National Crawfish Day",
@@ -57,6 +53,14 @@
     {
       "title": "No Limits for Deaf Children Day",
       "description": "Help us spread the message that there truly are No Limits For Deaf Children!"
+    },
+    {
+      "title": "Ram Navami",
+      "description": "Devotees of Lord Rama keep a day-long fast on the significant day of Ram Navami."
+    },
+    {
+      "title": "Ram Navami Day",
+      "description": "Get ready to understand the story behind Ram Navami and the importance of the day."
     },
     {
       "title": "Syria Independence Day",
@@ -75,8 +79,8 @@
       "description": "Be a part of the worldwide effort to speak out on hemophilia and create change."
     },
     {
-      "title": "Yom HaShoah",
-      "description": "Yom HaShoah brings with it garlands of determination and strength amidst tales of suffering."
+      "title": "Youth Homelessness Matters Day",
+      "description": "Let’s raise awareness to support the youth experiencing or at risk of homelessness."
     },
     {
       "title": "Jennifer Garner’s Birthday",
