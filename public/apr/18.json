@@ -3,12 +3,24 @@
   "day": 18,
   "holidays": [
     {
-      "title": "Tax Day",
-      "description": "Federal income taxes are an important cornerstone of our economy."
+      "title": "Adult Autism Awareness Day",
+      "description": null
     },
     {
-      "title": "Adult Autism Awareness Day",
-      "description": "Adult Autism Awareness Day aims to empower adults with autism and their loved ones."
+      "title": "Celebrate Teen Literature Day",
+      "description": "What’s better than picking and reading a book to Celebrate Teen Literature Day?"
+    },
+    {
+      "title": "College Student Grief Awareness Day",
+      "description": "Learn about this less documented issue as we raise some much-needed awareness."
+    },
+    {
+      "title": "Education and Sharing Day",
+      "description": "Education goes beyond obtaining a degree to shape a certain career."
+    },
+    {
+      "title": "Hung Kings Festival",
+      "description": "Did you know the festival’s official name is Death Anniversary of the Hung Kings?"
     },
     {
       "title": "International Day for Monuments and Sites",
@@ -19,20 +31,32 @@
       "description": "Ever been to a circus and wished you could juggle? Why not learn today?"
     },
     {
+      "title": "International Pizza Cake Day",
+      "description": "Prepare your belly because today’s not about slices of pizza, but a stack of pizzas."
+    },
+    {
+      "title": "Lineman Appreciation Day",
+      "description": "Not every holiday&#39;s lucky enough to have a classic pop song attached to it."
+    },
+    {
       "title": "Linemen Appreciation Day",
       "description": "On this day, show appreciation to the people in charge of providing electricity!"
     },
     {
-      "title": "National Animal Crackers Day",
+      "title": "National Animal Cracker Day",
       "description": "Who can resist the temptation to indulge in these iconic treats of our childhood?"
+    },
+    {
+      "title": "National Auctioneers Day",
+      "description": "Place a bid before it’s too late and discover all there is to know about auctioneering."
     },
     {
       "title": "National Exercise Day",
       "description": "Grab your water bottle and your running shoes, today is the day to start exercising."
     },
     {
-      "title": "National Lineman Appreciation Day",
-      "description": "Not every holiday&#39;s lucky enough to have a classic pop song attached to it."
+      "title": "National High Five Day",
+      "description": "Up high! Make sure to give a &#34;high five&#34; to everyone you meet today!"
     },
     {
       "title": "National Lydia Day",
@@ -43,6 +67,10 @@
       "description": "This National Newspaper Columnists Day is a perfect opportunity to honor these hard workers."
     },
     {
+      "title": "National Piñata Day",
+      "description": "Life’s a party! Whack that piñata and enjoy all the goodies that fall out!"
+    },
+    {
       "title": "National Velociraptor Awareness Day",
       "description": "&#34;We designed it, we built it, and then they discovered it. That still boggles my mind.&#34;"
     },
@@ -51,8 +79,8 @@
       "description": "We nap in the sunlight and leave the work in the paws of our furry friends."
     },
     {
-      "title": "Piñata Day",
-      "description": "Life’s a party! Whack that piñata and enjoy all the goodies that fall out!"
+      "title": "Support Teen Literature Day",
+      "description": "There is nothing quite like getting lost in the literary world of books — try it."
     },
     {
       "title": "World Amateur Radio Day",
