@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Garlic Day",
-      "description": "One thing&#39;s obvious: There&#39;s a certain something in the air during National Garlic Day."
+      "description": null
     },
     {
       "title": "Refresh Your Goals Day",
@@ -33,10 +33,6 @@
     {
       "title": "National Amaretto Day",
       "description": "Savor the rich, strong, velvety taste of almond-flavored liqueur goodness this National Amaretto Day."
-    },
-    {
-      "title": "National Banana Day",
-      "description": "What an amazing time to celebrate the awesomeness of the world’s most popular fruit — the banana!"
     },
     {
       "title": "National Cat Lady Day",
@@ -75,12 +71,8 @@
       "description": "Help yourself to a huge serving of rice balls today to satisfy your cravings."
     },
     {
-      "title": "Sylvester the Cat&#39;s Birthday",
+      "title": "Sylvester the Cat Birthday",
       "description": "Let’s root for Sylvester! Being his special day, maybe things will today go well for him."
-    },
-    {
-      "title": "Youth Homelessness Matters Day",
-      "description": "Let’s raise awareness to support the youth experiencing or at risk of homelessness."
     },
     {
       "title": "Hayden Christensen’s Birthday",
