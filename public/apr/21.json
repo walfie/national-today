@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Bulldogs Are Beautiful Day",
-      "description": "French, American, or English — bulldogs portray glamour in their own special way."
+      "description": null
     },
     {
       "title": "Advisor Appreciation Day",
@@ -23,12 +23,20 @@
       "description": "During these days of the Ridvàn festival, we are spreading holiness, love, and joy."
     },
     {
+      "title": "Go Fly a Kite Day",
+      "description": "Flying kites is a great way for us to revisit our childhood, so let’s do it."
+    },
+    {
       "title": "International Hemp Day",
       "description": "Learn the history, facts, and benefits of hemp as we celebrate International Hemp Day."
     },
     {
       "title": "Keep Off the Grass Day",
       "description": "We’re learning all about lawns and how to keep off the grass."
+    },
+    {
+      "title": "Mahavir Jayanti",
+      "description": "It&#39;s Mahavir Jayanti, so get ready to celebrate as we commemorate Mahavira&#39;s birth in style!"
     },
     {
       "title": "National Alex Day",
