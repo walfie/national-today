@@ -4,15 +4,15 @@
   "holidays": [
     {
       "title": "Earth Day",
-      "description": "Cue the composting, recycling, repurposing, carpooling, thrifting, and metal straws to save the turtles."
+      "description": null
     },
     {
       "title": "April Showers Day",
       "description": "May flowers bloom after April showers, so get out in your garden and start planting."
     },
     {
-      "title": "Eid al-Fitr",
-      "description": "Gather friends and family for a day of merriment, celebrations, gifts, and good food on Eid."
+      "title": "Erev Pesach (Israel)",
+      "description": "Put on your Kittel on this day, and get ready for Erev Pesach!"
     },
     {
       "title": "Girl Scout Leader Appreciation Day",
@@ -27,16 +27,12 @@
       "description": "In the true American spirit, let’s embrace the term ‘In God We Trust.’"
     },
     {
-      "title": "International Marconi Day",
-      "description": "Today, we acknowledge the inventor of wireless communication and seamless radio transmission."
-    },
-    {
       "title": "International Mother Earth Day",
       "description": "It is our responsibility as Earth&#39;s residents to protect her as best we can."
     },
     {
-      "title": "National Day of Puppetry",
-      "description": "Celebrate the fascinating theatrics of puppets on this day and make one for yourself!"
+      "title": "Landing of the 33 Patriots Day",
+      "description": "Today is Landing of the 33 Patriots Day. Make the perfect tribute to their ultimate sacrifice."
     },
     {
       "title": "National I.T. Service Provider Day",
@@ -59,8 +55,8 @@
       "description": "Because it&#39;s Oklahoma Day, Oakies everywhere are raising their fists high! Let&#39;s celebrate with them."
     },
     {
-      "title": "Record Store Day",
-      "description": "Join us as we appreciate independently owned record stores this Record Store Day!"
+      "title": "Passover",
+      "description": "The Jewish holiday commemorates the Biblical story of Exodus — where God freed the Israelites from Egypt."
     },
     {
       "title": "Stephen Lawrence Day",
