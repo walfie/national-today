@@ -3,6 +3,18 @@
   "day": 24,
   "holidays": [
     {
+      "title": "Administrative Professionals Day",
+      "description": null
+    },
+    {
+      "title": "International Guide Dog Day",
+      "description": "Guide dogs provide opportunities for social interaction and greater independence for legally blind adults."
+    },
+    {
+      "title": "National Pet Care for All Day",
+      "description": "All pets and their families deserve access to affordable, quality pet care."
+    },
+    {
       "title": "Action Day for Tolerance and Respect between People",
       "description": "Let us take the time to understand the forgotten people from our history."
     },
@@ -13,6 +25,10 @@
     {
       "title": "Coronation Day of Pope Benedict XVI",
       "description": "We’re saying a prayer as we observe Coronation Day of Pope Benedict XVI."
+    },
+    {
+      "title": "Denim Day",
+      "description": "Sexual assault victims deserve all your support and your voice this Denim Day!"
     },
     {
       "title": "Fashion Revolution Day",
@@ -43,12 +59,20 @@
       "description": "I scream, you scream, we all scream for… Scream Day! Celebrate with us right here!"
     },
     {
+      "title": "Secretary Day",
+      "description": "This Secretary Day, show secretaries how much you value their hard work."
+    },
+    {
+      "title": "Theravada New Year",
+      "description": "Theravada New Year unites Buddhists in self-reflection and meditation wherever it is celebrated."
+    },
+    {
       "title": "World Day for Animals in Laboratories",
       "description": "Animal lives matter too, so join us today in advocating for the protection of their rights."
     },
     {
-      "title": "Yom HaZikaron",
-      "description": "Yom HaZikaron is the official remembrance day of fallen soldiers and victims of terrorism."
+      "title": "World Stationery Day",
+      "description": "It’s a day to put pen to paper and do things the old-fashioned way."
     },
     {
       "title": "Barbra Streisand’s Birthday",
