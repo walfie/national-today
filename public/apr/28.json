@@ -3,12 +3,8 @@
   "day": 28,
   "holidays": [
     {
-      "title": "National Arbor Day",
-      "description": "Broadleaf. Evergreen. Conifer. How well do you really know your trees?"
-    },
-    {
       "title": "National Superhero Day",
-      "description": "Get out your cape and celebrate National Superhero Day. Who makes the best superhero?"
+      "description": null
     },
     {
       "title": "Biological Clock Day",
@@ -19,10 +15,6 @@
       "description": "Let&#39;s have some good, clean fun that everyone can join in on!"
     },
     {
-      "title": "Donate Life Blue and Green Day",
-      "description": "Let’s get our Blue and Green on as we help donate to life this holiday."
-    },
-    {
       "title": "Global Pay It Forward Day",
       "description": "Don’t pay kindness back, pay it forward and continue a selfless chain reaction."
     },
@@ -31,12 +23,12 @@
       "description": "Poetry — a medium to convey thoughts and feelings by weaving words into simplistic or intricate designs."
     },
     {
-      "title": "Hung Kings Festival",
-      "description": "Did you know the festival’s official name is Death Anniversary of the Hung Kings?"
-    },
-    {
       "title": "Kiss Your Mate Day",
       "description": "Tilt your head sideways, close those eyes, pucker the lips, and relish that passionate kiss!"
+    },
+    {
+      "title": "Mother Father Deaf Day",
+      "description": "Share your experiences of deaf parents and the children of deaf parents on this special day."
     },
     {
       "title": "National Blueberry Pie Day",
@@ -55,20 +47,20 @@
       "description": "There are many popular Franklins in history. This is the day to honor your favorite!"
     },
     {
-      "title": "National Hairball Awareness Day",
-      "description": "Hairballs are a healthy part of animals’ routines, but can potentially be an underlying health issue."
+      "title": "National Pet Parents Day",
+      "description": "It’s a great day to treat your pet, or take them for a checkup."
     },
     {
       "title": "Occupational Safety &amp; Health Day",
       "description": "Let’s work together to raise awareness about the importance of occupational safety and health."
     },
     {
-      "title": "Save the Frogs Day",
-      "description": "Today is dedicated to our hoppy, jumpy friends who are an important part of our environment."
+      "title": "Palm Sunday Orthodox",
+      "description": "On Palm Sunday Orthodox, let’s celebrate and remember Christ’s triumphal entry into Jerusalem."
     },
     {
-      "title": "Undiagnosed Children&#39;s Awareness Day",
-      "description": "Children who are affected by Syndromes Without a Name and their families need our support."
+      "title": "Turkmen Racing Horse Festival",
+      "description": "Saddle up to catch the horse fever that grips the Turkmen each year with this festival."
     },
     {
       "title": "Workers Memorial Day",
@@ -83,8 +75,8 @@
       "description": "Safety and health at work are the names of the game on this day."
     },
     {
-      "title": "World Women’s Wellness Day",
-      "description": "Join us, and let’s support women’s health across the world this World Women’s Wellness Day!"
+      "title": "World Pinhole Photography Day",
+      "description": "This day is an opportunity to engage in an ancient photography method and take some amazing pictures"
     },
     {
       "title": "Big Ed’s Birthday",
