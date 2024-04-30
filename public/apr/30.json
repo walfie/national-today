@@ -3,6 +3,10 @@
   "day": 30,
   "holidays": [
     {
+      "title": "AMKD Awareness Day",
+      "description": null
+    },
+    {
       "title": "Honesty Day",
       "description": "The whole truth and nothing but the truth? That&#39;s right!"
     },
@@ -23,8 +27,16 @@
       "description": "Join us as we get ready to enjoy a fun Healthy Kids Day with the YMCA!"
     },
     {
-      "title": "Mother Father Deaf Day",
-      "description": "Share your experiences of deaf parents and the children of deaf parents on this special day."
+      "title": "Last day of Passover",
+      "description": "Celebrate with us as we mark this day of great importance to Jews around the world!"
+    },
+    {
+      "title": "Military Brats Day",
+      "description": "Today, we celebrate the kids of the armed forces."
+    },
+    {
+      "title": "Mr. Potato Head Day",
+      "description": "Relive your happy childhood memories with the beloved “Toy Story” character — Mr. Potato Head!"
     },
     {
       "title": "National Adopt A Shelter Pet Day",
@@ -51,20 +63,8 @@
       "description": "Take a day to admire the beauty of this challenging game, or learn how to play!"
     },
     {
-      "title": "National Military Brats Day",
-      "description": "Today, we celebrate the kids of the armed forces."
-    },
-    {
-      "title": "National Mr. Potato Head Day",
-      "description": "Relive your happy childhood memories with the beloved “Toy Story” character — Mr. Potato Head!"
-    },
-    {
       "title": "National Oatmeal Cookie Day",
       "description": "Fret not about those calories as you dig into this healthy yet sweet munchie!"
-    },
-    {
-      "title": "National Pet Parents Day",
-      "description": "It’s a great day to treat your pet, or take them for a checkup."
     },
     {
       "title": "National PrepareAthon Day",
@@ -99,16 +99,8 @@
       "description": "Recent studies have shown that spanking does little more than traumatizing children."
     },
     {
-      "title": "Turkmen Racing Horse Festival",
-      "description": "Saddle up to catch the horse fever that grips the Turkmen each year with this festival."
-    },
-    {
       "title": "Walpurgis Night",
       "description": "To fend off evil spirits, celebrate Walpurgis Night by blazing bonfires all night."
-    },
-    {
-      "title": "World Pinhole Photography Day",
-      "description": "This day is an opportunity to engage in an ancient photography method and take some amazing pictures"
     },
     {
       "title": "Ayisha Diaz’s Birthday",
