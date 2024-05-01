@@ -4,11 +4,23 @@
   "holidays": [
     {
       "title": "May Day",
-      "description": "A day for everyone to come together and celebrate life as we know it!"
+      "description": null
+    },
+    {
+      "title": "Aces Day",
+      "description": "Put on your workout shoes and stretchy pants, it&#39;s time to exercise."
+    },
+    {
+      "title": "Agriculture and Labor Day",
+      "description": "Agriculture is crucial for the survival of living beings. That’s why we celebrate this amazing day."
     },
     {
       "title": "Beltane",
       "description": "Let’s heal the world with fire and celebrate the beautiful festival of Beltane."
+    },
+    {
+      "title": "Blessing Day",
+      "description": "Celebrate and appreciate the Blessings all over the world on this special day."
     },
     {
       "title": "Calan Mai",
@@ -23,10 +35,6 @@
       "description": "Celebrate CSS Reboot Day by doing the webmasters&#39; bidding for a day."
     },
     {
-      "title": "Early May Bank Holiday",
-      "description": "Put off your banking chores and spend the day relaxing this Early May Bank Holiday."
-    },
-    {
       "title": "Executive Coaching Day",
       "description": "Join us in celebrating those who taught us to get the best out of our professional life."
     },
@@ -39,8 +47,8 @@
       "description": "Celebrate yourself and all humanity through acts of love, and promote peace and unity."
     },
     {
-      "title": "Great Lakes Awareness Day",
-      "description": "We&#39;re swimming in cool new ideas to celebrate Great Lakes Awareness Day; check them out."
+      "title": "Great American Grump Out",
+      "description": "Hey Great America! Let’s give our grumpy mood a day off today."
     },
     {
       "title": "International Doodle Dog Day",
@@ -55,8 +63,8 @@
       "description": "Raise drivers&#39; awareness, practice safe driving behaviors, and make roads safer for all."
     },
     {
-      "title": "Labour and Agriculture Day",
-      "description": "Agriculture is crucial for the survival of living beings. That’s why we celebrate this amazing day."
+      "title": "Labor Day Philippines",
+      "description": "Celebrate Labor Day Philippines in style and honor the workers who fought for their rights!"
     },
     {
       "title": "Learn to Ride a Bike Day",
@@ -71,16 +79,16 @@
       "description": "Get ready for Marshall Islands Constitution Day with our great article celebrating the Marshall Islands."
     },
     {
-      "title": "Melanoma Monday",
-      "description": "Melanoma, the deadliest type of skin cancer, is developed by 1 out of every 50 Americans."
+      "title": "Mother Goose Day",
+      "description": "Today, we are swept back to memories of our childhood fairy tales."
+    },
+    {
+      "title": "National Anxiety Disorders Screening Day",
+      "description": "Learn more about this day that draws attention to anxiety disorders and mental wellness."
     },
     {
       "title": "National Black Barber Shop Appreciation Day",
       "description": "Let us understand the importance of the day and join in the activities to celebrate."
-    },
-    {
-      "title": "National Blessing Day",
-      "description": "Celebrate and appreciate the Blessings all over the world on this special day."
     },
     {
       "title": "National Chocolate Parfait Day",
@@ -91,20 +99,16 @@
       "description": "Parents or not, today is the day we celebrate everyone and show them support."
     },
     {
+      "title": "National Interpreter Appreciation Day",
+      "description": "Can you imagine a world with no interpreters? We can’t! Celebrate National Interpreter Appreciation Day today!"
+    },
+    {
       "title": "National Loyalty Day",
       "description": "On National Loyalty Day, Americans showcase their loyalty to their country."
     },
     {
       "title": "National Mantra Day",
       "description": "National Mantra Day promotes the use of mantras to ease the mind."
-    },
-    {
-      "title": "National Mother Goose Day",
-      "description": "Today, we are swept back to memories of our childhood fairy tales."
-    },
-    {
-      "title": "National Open Farm Day",
-      "description": "Agriculture and farming are critical for humanity’s survival, and here’s why!"
     },
     {
       "title": "National Purebred Dog Day",
@@ -115,12 +119,12 @@
       "description": "After water and tea, beer is the third most-consumed drink in the world."
     },
     {
-      "title": "New Home Owners Day",
-      "description": "Celebrate your dream home with your entire family this New Home Owners Day."
+      "title": "National Skilled Trades Day",
+      "description": "Join millions across the country as we celebrate the tireless efforts of the skilled trades workforce."
     },
     {
-      "title": "Philippines Labor Day",
-      "description": "Celebrate Philippines Labor Day in style and honor the workers who fought for their rights!"
+      "title": "New Homeowners Day",
+      "description": "Celebrate your dream home with your entire family this New Home Owners Day."
     },
     {
       "title": "Phone in Sick Day",
@@ -135,8 +139,8 @@
       "description": "Make your principal feel special on School Principals’ Day."
     },
     {
-      "title": "Silver Star Service Banner Day",
-      "description": "Pay tribute to the brave on Silver Star Service Banner Day."
+      "title": "Silver Star Banner Day",
+      "description": "Pay tribute to the brave on Silver Star Banner Day."
     },
     {
       "title": "Therapeutic Massage Awareness Day",
