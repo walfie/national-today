@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Paranormal Day",
-      "description": "Grab your Ouija board and let&#39;s start communicating with the great beyond."
+      "description": null
     },
     {
       "title": "AAPI Women&#39;s Equal Pay Day",
@@ -19,16 +19,16 @@
       "description": "Let’s join hands with the rest of El Salvador to celebrate this special day."
     },
     {
-      "title": "Great American Grump Out",
-      "description": "Hey Great America! Let’s give our grumpy mood a day off today."
-    },
-    {
       "title": "International Wild Koala Day",
       "description": "Let’s do our part to save koalas this International Wild Koala Day!"
     },
     {
-      "title": "National Anxiety Disorders Screening Day",
-      "description": "Learn more about this day that draws attention to anxiety disorders and mental wellness."
+      "title": "Kentucky Oaks",
+      "description": "Today, we celebrate one of the oldest continuously contested sporting events in history."
+    },
+    {
+      "title": "Lumpy Rug Day",
+      "description": "It’s time to let go of the old, and usher in the new this spring."
     },
     {
       "title": "National Chocolate Custard Day",
@@ -39,20 +39,16 @@
       "description": "Relax your mind and body as we tell you about the marvelous benefits of garden meditation."
     },
     {
-      "title": "National Interpreter Appreciation Day",
-      "description": "Can you imagine a world with no interpreters? We can’t! Celebrate National Interpreter Appreciation Day today!"
-    },
-    {
       "title": "National Justice Day",
       "description": "Don&#39;t get it twisted — not all Justices are judges. Celebrate National Justice Day with us!"
     },
     {
-      "title": "National Lumpy Rug Day",
-      "description": "It’s time to let go of the old, and usher in the new this spring."
-    },
-    {
       "title": "National Montana Day",
       "description": "With our amazing tips and facts, you can celebrate Montana, the Land of Treasures!"
+    },
+    {
+      "title": "National No Pants Day",
+      "description": "We know the freeing feeling of changing out of your pants after a long day."
     },
     {
       "title": "National Public Radio Day",
@@ -67,8 +63,8 @@
       "description": "SAN architects work behind the scenes to put their companies front and center."
     },
     {
-      "title": "National Skilled Trades Day",
-      "description": "Join millions across the country as we celebrate the tireless efforts of the skilled trades workforce."
+      "title": "National Space Day",
+      "description": "There’s so much going on in the universe, it deserves a day to reflect on everything!"
     },
     {
       "title": "National Specially-Able Pets Day",
@@ -83,12 +79,20 @@
       "description": "They clothe us, give us a peaceful sleep, and create things to sit on. They’re textiles!"
     },
     {
+      "title": "National Tuba Day",
+      "description": "Join us as we honor tubists in music over the world on Tuba Day."
+    },
+    {
       "title": "National Two Different Colored Shoes Day",
       "description": "Embrace all your quirks and celebrate all the characteristics that make you uniquely you!"
     },
     {
-      "title": "Project Aces Day",
-      "description": "Put on your workout shoes and stretchy pants, it&#39;s time to exercise."
+      "title": "Orthodox Good Friday",
+      "description": "Get ready to observe orthodox Good Friday, an important day in history, marking Jesus Christ’s crucifixion."
+    },
+    {
+      "title": "School Lunch Hero Day",
+      "description": "Check out our interesting and informative ideas to celebrate School Lunch Hero Day!"
     },
     {
       "title": "Sun Day",
