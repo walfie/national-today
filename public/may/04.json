@@ -3,6 +3,10 @@
   "day": 4,
   "holidays": [
     {
+      "title": "Free Comic Book Day",
+      "description": null
+    },
+    {
       "title": "Star Wars Day",
       "description": "It&#39;s party time on Tatooine. May the Forth be with you!"
     },
@@ -15,16 +19,20 @@
       "description": "Let’s pledge to listen, offer support, and pay closer attention to bullied children everywhere."
     },
     {
+      "title": "Beer Pong Day",
+      "description": "Bottoms up! Beer Pong Day is here."
+    },
+    {
+      "title": "Childhood Stroke Awareness Day",
+      "description": "Pediatric strokes are rare but they happen nonetheless. Learn more and take action now."
+    },
+    {
       "title": "Dave Brubeck Day",
       "description": "Let us honor Dave Brubeck, the quiet man of jazz and the marvel of his craft."
     },
     {
       "title": "Firefighters&#39; Memorial Day",
       "description": "Let’s join in honoring those who make the ultimate sacrifice in the line of duty."
-    },
-    {
-      "title": "God of Medicine&#39;s Birthday",
-      "description": "Today, people across Taiwan commemorate Baosheng Fadi&#39;s birth, also known as the God of Medicine."
     },
     {
       "title": "Greenery Day",
@@ -35,12 +43,24 @@
       "description": "Join us as we express our gratitude to nature this Greenery Day!"
     },
     {
+      "title": "Herb Day",
+      "description": "Let’s get those seeds ready, we’re going herb planting!"
+    },
+    {
+      "title": "International Drone Day",
+      "description": "On International Drone Day, learn about the evolution of drone use over time!"
+    },
+    {
       "title": "International Firefighters Day",
       "description": "Today is International Firefighters Day. Remember that while fire is useful, fire safety is critical."
     },
     {
       "title": "International Respect for Chickens Day",
       "description": "Let us act now to stop the pain and abuse suffered by the chickens on farms."
+    },
+    {
+      "title": "Join Hands Day",
+      "description": "Work for the betterment of society by joining hands with the old and the new."
     },
     {
       "title": "K.I.N.D. Day",
@@ -51,16 +71,36 @@
       "description": "Continue reading for more information on the largest student protests in U.S. history."
     },
     {
+      "title": "Kentucky Derby",
+      "description": "The Kentucky Derby is also known as the ‘Most Exciting Two Minutes in Sports.’"
+    },
+    {
+      "title": "Martyrdom of Imam Sadeq",
+      "description": "Today we appreciate and reflect on Islamic history as we observe the Martyrdom of Imam Sadeq."
+    },
+    {
+      "title": "Naked Gardening Day",
+      "description": "Put away all your clothes and get your shovel ready for World Naked Gardening Day!"
+    },
+    {
+      "title": "National Bombshell Day",
+      "description": "National Bombshell Day was created to highlight the importance of spreading self-love and love among women."
+    },
+    {
       "title": "National Candied Orange Peel Day",
       "description": "Get ready to satiate your sweet tooth with our great tips for candied orange peels!"
     },
     {
-      "title": "National Day of Prayer",
-      "description": "Learn why America’s founding fathers play an important part."
+      "title": "National EOD Day",
+      "description": "This day honors E.O.D. specialists, so let&#39;s delve deeper into its history and facts."
     },
     {
-      "title": "National Day of Reason",
-      "description": "This is a secular holiday, established as a response to the National Day of Prayer."
+      "title": "National Fitness Day",
+      "description": "Make your move to stay fit on National Fitness Day."
+    },
+    {
+      "title": "National Herb Day",
+      "description": "Wondering how National Herb Day came into being? We are here to shed some light."
     },
     {
       "title": "National Kids Fitness Day",
@@ -79,16 +119,28 @@
       "description": "It’s out with the old and in with the re-new-al as we mark National Renewal Day."
     },
     {
+      "title": "National Scrapbook Day",
+      "description": "Scrapbooks, at the end of the day, are much like visual diaries."
+    },
+    {
+      "title": "National Scrapbooking Day",
+      "description": "Unleash your creative side and start scrapbooking with styles from minimalist to bold and bright."
+    },
+    {
+      "title": "National Start Seeing Monarchs Day",
+      "description": "Get your binoculars ready and come see some monarch butterflies with us!"
+    },
+    {
       "title": "National Weather Observers Day",
       "description": "Dust off your weather-watching equipment, it’s time to celebrate Weather Observers Day!"
     },
     {
-      "title": "Pesach Sheni",
-      "description": "On Pesach Sheni, let’s commemorate the ancient second Passover tradition by eating a piece of matzah."
-    },
-    {
       "title": "Petite and Proud Day",
       "description": "If you’re below 5’4” and struggle to reach high surfaces, this day is for you."
+    },
+    {
+      "title": "Pilates Day",
+      "description": "Pilates Day celebrates using this form of exercise to improve general health and quality of life."
     },
     {
       "title": "Relationship Renewal Day",
@@ -103,12 +155,20 @@
       "description": "Raise your glass in cheers to another 100 years of excellence in New Zealand."
     },
     {
+      "title": "Wildfire Preparedness Day",
+      "description": "Get together on this day and take action to reduce the risks of wildfire."
+    },
+    {
+      "title": "World Ankylosing Spondylitis Day",
+      "description": "More than three million people in the U.S. are living with Ankylosing Spondylitis."
+    },
+    {
       "title": "World Give Day",
       "description": "Take part in the joy of giving with people across the globe on World Give Day."
     },
     {
-      "title": "World Password Day",
-      "description": "Still using your cat&#39;s name followed by an &#34;&amp;&#34; for your 401(k) account password?"
+      "title": "Yom HaShoah",
+      "description": "Yom HaShoah brings with it garlands of determination and strength amidst tales of suffering."
     },
     {
       "title": "Audrey Hepburn’s Birthday",
