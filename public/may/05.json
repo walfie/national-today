@@ -4,55 +4,59 @@
   "holidays": [
     {
       "title": "Cinco de Mayo",
-      "description": "It&#39;s Cinco De Mayo, which means: tacos, margaritas, fun and fiesta!"
+      "description": null
     },
     {
       "title": "National Hoagie Day",
       "description": "Head to the deli for a hoagie. Or a sub. Or a grinder. Or a hero."
     },
     {
-      "title": "Vesak",
-      "description": "Vesak celebrates Buddha’s birth, along with his enlightenment and death in some traditions."
+      "title": "National Lemonade Day",
+      "description": "Meet people, sip on a refreshing beverage and put your money to a good cause."
     },
     {
-      "title": "Buddha Purnima",
-      "description": "Take deep breaths and clear your mind, as we take you on a mystical journey!"
+      "title": "Bereaved Mother&#39;s Day",
+      "description": "Let us acknowledge, listen, and find intentional ways to help all grieving mums today."
     },
     {
       "title": "Children&#39;s Day (Kodomo no Hi)",
       "description": "Join us as we celebrate children this Kodomo no Hi on May 5!"
     },
     {
-      "title": "Day of Vesak",
-      "description": "It is the Day of Vesak, the day to honor Buddha&#39;s birth, enlightenment, and death."
-    },
-    {
       "title": "Europe Day",
       "description": "On Europe Day, an entire continent celebrates its unity, even in diversity."
-    },
-    {
-      "title": "General Prayer Day",
-      "description": "General Prayer Day is the celebration of the survival of the Roman Catholic traditions."
     },
     {
       "title": "Hug a Shed and Take a Selfie Day",
       "description": "From ancient times to the present, man has needed sheds for storage and more."
     },
     {
-      "title": "Indian Arrival Day (Guyana)",
+      "title": "Indian Arrival Day in Guyana",
       "description": "Guyana celebrates its heritage and motto, “One people, one nation, one destiny.”"
+    },
+    {
+      "title": "International Dawn Chorus Day",
+      "description": "Set your alarm clock because you don’t want to miss the morning sounds of these melodious songbirds."
     },
     {
       "title": "International Midwives Day",
       "description": "Join the global community to appreciate the amazing work of midwives on International Midwives’ Day."
     },
     {
-      "title": "Kentucky Oaks",
-      "description": "Today, we celebrate one of the oldest continuously contested sporting events in history."
+      "title": "International Permaculture Day",
+      "description": "Today we call upon you to play your part in saving the environment."
     },
     {
       "title": "Liberation Day (Bevrijdingsdag)",
       "description": "Celebrate by learning about the Netherlands’ important WWII history."
+    },
+    {
+      "title": "Mayday for Mutts",
+      "description": "Mayday for Mutts is a national day to spread love and acceptance for mixed breed dogs."
+    },
+    {
+      "title": "Motorcycle Mass and Blessing of the Bikes Day",
+      "description": "Participate in the event and pray for the safe return of every biker on this day."
     },
     {
       "title": "Museum Lover&#39;s Day",
@@ -83,36 +87,32 @@
       "description": "Speak up for mental health which is as important as physical health for our total well-being."
     },
     {
-      "title": "National Space Day",
-      "description": "There’s so much going on in the universe, it deserves a day to reflect on everything!"
+      "title": "Orthodox Easter",
+      "description": "Get ready to be blown away by the story of this celebration."
     },
     {
-      "title": "National Totally Chipotle Day",
-      "description": "Chipotle peppers are a Mexican ingredient that Americans have not just welcomed, but embraced."
+      "title": "Puppy Mill Action Week",
+      "description": "Grab your friends and fight to get those furry cuties out of confinement during Puppy Mill Action Week."
     },
     {
-      "title": "National No Pants Day",
-      "description": "We know the freeing feeling of changing out of your pants after a long day."
-    },
-    {
-      "title": "Revenge of the Fifth",
+      "title": "Revenge of the 5th",
       "description": "Get your red lightsabers charged and ready to celebrate the Revenge of the Fifth!"
-    },
-    {
-      "title": "School Lunch Hero Day",
-      "description": "Check out our interesting and informative ideas to celebrate School Lunch Hero Day!"
     },
     {
       "title": "Sleep Apnea Awareness Day",
       "description": "Join us as we spread awareness about Sleep Apnoea Awareness Day."
     },
     {
-      "title": "Tuba Day",
-      "description": "Join us as we honor tubists in music over the world on Tuba Day."
+      "title": "Totally Chipotle Day",
+      "description": "Chipotle peppers are a Mexican ingredient that Americans have not just welcomed, but embraced."
     },
     {
       "title": "World Hand Hygiene Day",
       "description": "Read on about this simple step to fight all the germs and keep you healthy."
+    },
+    {
+      "title": "World Laughter Day",
+      "description": "Make your bonds with people stronger as you laugh together on this day!"
     },
     {
       "title": "World Portuguese Language Day",
