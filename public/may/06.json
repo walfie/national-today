@@ -3,52 +3,32 @@
   "day": 6,
   "holidays": [
     {
-      "title": "Free Comic Book Day",
-      "description": "Iconic publishers like DC Comics, and Marvel Comics join forces to make free comics available."
-    },
-    {
       "title": "International No Diet Day",
-      "description": "Put away your scales and form a new relationship with the person in the mirror today."
+      "description": null
     },
     {
       "title": "National Nurses Day",
       "description": "We celebrate Florence Nightingale and recognize the important role nurses play in our lives."
     },
     {
-      "title": "Beer Pong Day",
-      "description": "Bottoms up! Beer Pong Day is here."
-    },
-    {
-      "title": "Childhood Stroke Awareness Day",
-      "description": "Pediatric strokes are rare but they happen nonetheless. Learn more and take action now."
-    },
-    {
       "title": "Dr. Mark A. Groh Cardiothoracic Surgeon Appreciation Day",
       "description": "If a cardiothoracic surgeon ever treated you, send them a thank you note today."
     },
     {
-      "title": "Herb Day",
-      "description": "Let’s get those seeds ready, we’re going herb planting!"
+      "title": "Early May Bank Holiday",
+      "description": "Put off your banking chores and spend the day relaxing this Early May Bank Holiday."
     },
     {
-      "title": "International Drone Day",
-      "description": "On International Drone Day, learn about the evolution of drone use over time!"
-    },
-    {
-      "title": "Join Hands Day",
-      "description": "Work for the betterment of society by joining hands with the old and the new."
+      "title": "Great Lakes Awareness Day",
+      "description": "We&#39;re swimming in cool new ideas to celebrate Great Lakes Awareness Day; check them out."
     },
     {
       "title": "Joseph Brackett Day",
       "description": "Get ready for some amazing facts about Joseph Brackett and &#39;Simple Gifts.&#39;"
     },
     {
-      "title": "Kentucky Derby",
-      "description": "The Kentucky Derby is also known as the ‘Most Exciting Two Minutes in Sports.’"
-    },
-    {
-      "title": "Naked Gardening Day",
-      "description": "Put away all your clothes and get your shovel ready for World Naked Gardening Day!"
+      "title": "Melanoma Monday",
+      "description": "Melanoma, the deadliest type of skin cancer, is developed by 1 out of every 50 Americans."
     },
     {
       "title": "National Aidan Day",
@@ -59,36 +39,16 @@
       "description": "Whether you prefer a hot or a cold one, there is one for every taste."
     },
     {
-      "title": "National Bombshells’ Day",
-      "description": "National Bombshells’ Day was created to highlight the importance of spreading self-love and love among women."
-    },
-    {
       "title": "National Crepe Suzette Day",
       "description": "Let’s learn about crepes Suzette, how they are made, and what makes them so special."
     },
     {
-      "title": "National Explosive Ordnance Disposal Day",
-      "description": "This day honors E.O.D. specialists, so let&#39;s delve deeper into its history and facts."
+      "title": "National Meeting Planners Appreciation Day",
+      "description": "Time to make a plan for planners. Celebrate National Meeting Planners Appreciation Day with us!"
     },
     {
-      "title": "National Fitness Day",
-      "description": "Make your move to stay fit on National Fitness Day."
-    },
-    {
-      "title": "National Herb Day",
-      "description": "Wondering how National Herb Day came into being? We are here to shed some light."
-    },
-    {
-      "title": "National Scrapbook Day",
-      "description": "Scrapbooks, at the end of the day, are much like visual diaries."
-    },
-    {
-      "title": "National Scrapbooking Day",
-      "description": "Unleash your creative side and start scrapbooking with styles from minimalist to bold and bright."
-    },
-    {
-      "title": "National Start Seeing Monarchs Day",
-      "description": "Get your binoculars ready and come see some monarch butterflies with us!"
+      "title": "National Open Farm Day",
+      "description": "Agriculture and farming are critical for humanity’s survival, and here’s why!"
     },
     {
       "title": "National Tony Day",
@@ -99,20 +59,12 @@
       "description": "Anyone who&#39;s done any traveling is likely guilty of being a tourist."
     },
     {
-      "title": "National Wildfire Community Preparedness Day",
-      "description": "Get together on this day and take action to reduce the risks of wildfire."
-    },
-    {
-      "title": "Pilates Day",
-      "description": "Pilates Day celebrates using this form of exercise to improve general health and quality of life."
+      "title": "Orthodox Easter Monday",
+      "description": "It&#39;s another day to rejoice, celebrate the resurrection of Christ, and find some Easter eggs."
     },
     {
       "title": "Sauvignon Blanc Day",
       "description": "Get your wine glasses and bottles ready to make a toast as we celebrate this day!"
-    },
-    {
-      "title": "World Ankylosing Spondylitis Day",
-      "description": "More than three million people in the U.S. are living with Ankylosing Spondylitis."
     },
     {
       "title": "Bob Seger’s Birthday",
