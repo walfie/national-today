@@ -3,6 +3,10 @@
   "day": 7,
   "holidays": [
     {
+      "title": "National Teachers&#39; Day",
+      "description": null
+    },
+    {
       "title": "National Tourism Day",
       "description": "Tourism is observed during National Travel and Tourism Week in the United States."
     },
@@ -15,28 +19,12 @@
       "description": "With timely medical treatment, patients with bladder cancer have a chance of long-term survival."
     },
     {
-      "title": "International Bereaved Mother&#39;s Day",
-      "description": "Let us acknowledge, listen, and find intentional ways to help all grieving mums today."
-    },
-    {
-      "title": "International Dawn Chorus Day",
-      "description": "Set your alarm clock because you don’t want to miss the morning sounds of these melodious songbirds."
-    },
-    {
-      "title": "International Permaculture Day",
-      "description": "Today we call upon you to play your part in saving the environment."
+      "title": "Childhood Depression Awareness Day",
+      "description": "Failing to provide appropriate and substantial mental health services puts the lives of kids at risk."
     },
     {
       "title": "Love&#39;s Baby Soft Day",
       "description": "Love’s Baby Soft is a fragrance that takes you back to your teens."
-    },
-    {
-      "title": "Mayday for Mutts",
-      "description": "Mayday for Mutts is a national day to spread love and acceptance for mixed breed dogs."
-    },
-    {
-      "title": "Motorcycle Mass and Blessing of the Bikes Day",
-      "description": "Participate in the event and pray for the safe return of every biker on this day."
     },
     {
       "title": "National Avery Day",
@@ -49,6 +37,10 @@
     {
       "title": "National Cosmopolitan Day",
       "description": "Quench your thirst with a tipple of the Cosmo on National Cosmopolitan Day."
+    },
+    {
+      "title": "National Foster Care Day",
+      "description": "Let’s celebrate the people who make the foster care system work for children in need."
     },
     {
       "title": "National Homebrew Day",
@@ -67,12 +59,12 @@
       "description": "Want to know why this world-famous dish is celebrated? Read on to find out."
     },
     {
-      "title": "Puppy Mill Action Week",
-      "description": "Grab your friends and fight to get those furry cuties out of confinement during Puppy Mill Action Week."
+      "title": "Poem on Your Pillow Day",
+      "description": "Celebrate Poem on Your Pillow Day by slipping a poem onto a loved one’s pillow."
     },
     {
-      "title": "World Laughter Day",
-      "description": "Make your bonds with people stronger as you laugh together on this day!"
+      "title": "World Asthma Day",
+      "description": "Wear a gray ribbon, and let’s help and support people suffering from Asthma."
     },
     {
       "title": "J Balvin’s Birthday",
