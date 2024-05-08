@@ -3,8 +3,16 @@
   "day": 8,
   "holidays": [
     {
+      "title": "Receptionist Day",
+      "description": null
+    },
+    {
       "title": "Reward Yourself Day",
       "description": "Take a break, indulge in some self-care, and celebrate all the healthy habits you&#39;ve kept up with!"
+    },
+    {
+      "title": "Donate a Day&#39;s Wages To Charity Day",
+      "description": "On Donate A Day&#39;s Wages To Charity Day, we are putting a smile on many faces!"
     },
     {
       "title": "Free Trade Day",
@@ -47,8 +55,8 @@
       "description": "This National Maria Day, honor the 18th most popular name in the United States."
     },
     {
-      "title": "National Meeting Planners Appreciation Day",
-      "description": "Time to make a plan for planners. Celebrate National Meeting Planners Appreciation Day with us!"
+      "title": "National Night Shift Workers Day",
+      "description": "Join us to learn about the importance of National Night Shift Workers’ Day."
     },
     {
       "title": "National Nova Day",
@@ -63,16 +71,24 @@
       "description": "Let’s get ready to celebrate the determination and achievements of student nurses."
     },
     {
-      "title": "National Women&#39;s Check-up Day",
-      "description": "Celebrate National Women&#39;s Check-up Day by scheduling a checkup. It may just save your life."
-    },
-    {
-      "title": "National Women’s Checkup Day",
-      "description": "Get checked and stay healthy if you’re a woman, on National Women&#39;s Checkup Day."
+      "title": "National Third Shift Workers Day",
+      "description": "We celebrate and thank the people that work throughout the night."
     },
     {
       "title": "No Socks Day",
       "description": "Keep reading to find out who created No Socks Day and why!"
+    },
+    {
+      "title": "Occupational Safety and Health Professional Day",
+      "description": "We should never underestimate the importance of safety and health professionals and their contributions."
+    },
+    {
+      "title": "Root Canal Appreciation Day",
+      "description": "Dental health is wealth so visit a dentist on Root Canal Appreciation Day!"
+    },
+    {
+      "title": "School Nurse Day",
+      "description": "It’s time to shower school nurses with their deserved attention as we mark this important holiday."
     },
     {
       "title": "Time of Remembrance and Reconciliation for those who Lost their Lives during WWII",
@@ -93,6 +109,10 @@
     {
       "title": "World Donkey Day",
       "description": "Learn more about the strong, resilient, friendly, and helpful animal known as the donkey."
+    },
+    {
+      "title": "World Orienteering Day",
+      "description": "Grab your watches, maps, and compasses and we’ll see you at the finish line."
     },
     {
       "title": "World Ovarian Cancer Day",
