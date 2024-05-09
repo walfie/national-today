@@ -4,15 +4,19 @@
   "holidays": [
     {
       "title": "Alphabet Magnet Day",
-      "description": "Enjoy the best of design and fun with The Type Set Co.®’s alphabet magnets!"
+      "description": null
     },
     {
-      "title": "National Teachers&#39; Day",
-      "description": "Everyone has had that favorite teacher that has helped inspire them."
+      "title": "Ascencion Day (Saint Barthelemy)",
+      "description": "This Ascension Day, let’s reflect on the significance of Christ’s life, death, resurrection, and ascension."
     },
     {
-      "title": "Europe Day",
-      "description": "On Europe Day, an entire continent celebrates its unity, even in diversity."
+      "title": "Ascencion Day (Saint Martin)",
+      "description": "Ascension Day in Saint Martin is a time to reflect on the risen Christ’s sacrifice."
+    },
+    {
+      "title": "Ascension Day",
+      "description": "This is a Christian holiday that doubles as a public holiday in many countries."
     },
     {
       "title": "Guernsey Liberation Day",
@@ -23,20 +27,24 @@
       "description": "Buttons often go unappreciated, so celebrate the small, functional article, and show gratitude for its existence."
     },
     {
-      "title": "Lag BaOmer",
-      "description": "We observe this important Jewish holiday that celebrates life and happiness."
+      "title": "Lost Sock Memorial Day",
+      "description": "We honor all the socks that are no longer with us. Where did they go?"
+    },
+    {
+      "title": "Make a Book Day",
+      "description": "Celebrate the ability of books to open doors to other realms and alternate realities!"
     },
     {
       "title": "National Butterscotch Brownie Day",
       "description": "Indulge your sweet tooth in as much buttery goodness as possible on National Butterscotch Brownie Day."
     },
     {
-      "title": "National Christina Day",
-      "description": "Every Christina in the world, are you ready to be celebrated on this day?"
+      "title": "National Children&#39;s Mental Health Awareness Day",
+      "description": "Get ready to spend a day with children as their mental support structure."
     },
     {
-      "title": "National Lost Sock Memorial Day",
-      "description": "We honor all the socks that are no longer with us. Where did they go?"
+      "title": "National Christina Day",
+      "description": "Every Christina in the world, are you ready to be celebrated on this day?"
     },
     {
       "title": "National Moscato Day",
