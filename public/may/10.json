@@ -3,16 +3,16 @@
   "day": 10,
   "holidays": [
     {
-      "title": "National Receptionists Day",
-      "description": "We recognize all of the things that receptionists bring to our organizations."
-    },
-    {
       "title": "National Shrimp Day",
-      "description": "Shrimp fans all across the country can come together to honor their love for the shellfish."
+      "description": null
     },
     {
-      "title": "Donate a Day&#39;s Wages To Charity Day",
-      "description": "On Donate A Day&#39;s Wages To Charity Day, we are putting a smile on many faces!"
+      "title": "Child Care Provider Day",
+      "description": "Get ready to celebrate the importance of Child Care Providers on this day!"
+    },
+    {
+      "title": "Fintastic Friday",
+      "description": "It’s Fintastic Friday, and we want you to partake in some fintastic awareness drives."
     },
     {
       "title": "International Day of Argania",
@@ -43,12 +43,16 @@
       "description": "Here’s how you can make a difference in the lives of people with dyslipidemia."
     },
     {
-      "title": "National Night Shift Workers Day",
-      "description": "Join us to learn about the importance of National Night Shift Workers’ Day."
+      "title": "National Military Spouse Appreciation Day",
+      "description": "Discover what the government is doing to help struggling servicemen and women’s spouses?"
     },
     {
-      "title": "National School Nurse Day",
-      "description": "It’s time to shower school nurses with their deserved attention as we mark this important holiday."
+      "title": "National Provider Appreciation Day",
+      "description": "The day focuses on thanking childcare workers, and showcasing their contributions to their communities."
+    },
+    {
+      "title": "National Public Gardens Day",
+      "description": "To the park! Because doggies are not the only ones excited about the walkies today."
     },
     {
       "title": "National Ship Via Rail Day",
@@ -59,44 +63,20 @@
       "description": "Ready to seize the day? Read on to be inspired by small business owners&#39; achievements."
     },
     {
-      "title": "National Third Shift Workers Day",
-      "description": "We celebrate and thank the people that work throughout the night."
-    },
-    {
       "title": "National Washington Day",
       "description": "Raise your glasses, it&#39;s time to toast the lush bountifulness of the Evergreen State."
-    },
-    {
-      "title": "Occupational Safety and Health Professional Day",
-      "description": "We should never underestimate the importance of safety and health professionals and their contributions."
     },
     {
       "title": "One Day Without Shoes",
       "description": "Take off your shoes, go about your day, and raise awareness about the holiday."
     },
     {
-      "title": "Root Canal Appreciation Day",
-      "description": "Dental health is wealth so visit a dentist on Root Canal Appreciation Day!"
-    },
-    {
       "title": "Trust Your Intuition Day",
       "description": "Channel your inner superhero as we apply the power of intuition for good."
     },
     {
-      "title": "World Facilities Management Day",
-      "description": "Let’s give those working in facilities management more credit for their essential contribution to business."
-    },
-    {
       "title": "World Lupus Day",
       "description": "Spread the news and join the fight against lupus as we mark World Lupus Day."
-    },
-    {
-      "title": "World Orienteering Day",
-      "description": "Grab your watches, maps, and compasses and we’ll see you at the finish line."
-    },
-    {
-      "title": "Anna Paul’s Birthday",
-      "description": "She&#39;s only been in the U.S. for a year, and she’s already soaring high!"
     },
     {
       "title": "Bono’s Birthday",
