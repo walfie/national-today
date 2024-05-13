@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "International Hummus Day",
-      "description": "We hear that there’s even some magical thing called a hummus festival - we’re not missing that!"
+      "description": null
     },
     {
       "title": "National Apple Pie Day",
@@ -15,24 +15,8 @@
       "description": "There’s so much more to this spring and summer food favorite."
     },
     {
-      "title": "World Migratory Bird Day",
-      "description": "Time to un-ruffle your feathers, because it&#39;s World Migratory Bird Day!"
-    },
-    {
-      "title": "Archery Day",
-      "description": "Draw your bows and prepare to celebrate the most iconic weapon of the ancient era."
-    },
-    {
-      "title": "Brunch for Lunch Day",
-      "description": "Today on Brunch for Lunch day, take a break and go brunching with your friends."
-    },
-    {
       "title": "Children of Fallen Patriots Day",
       "description": "Today, we honor the pain and sacrifice of children who have lost their parents."
-    },
-    {
-      "title": "Cornelia De Lange Syndrome Awareness Day",
-      "description": "We get to help create awareness about this rare but very real condition."
     },
     {
       "title": "Cough Drop Day",
@@ -47,28 +31,20 @@
       "description": "It’s time you learn how to honor engineers as we celebrate civilization designed by them."
     },
     {
-      "title": "Martin Z. Mollusk Day",
-      "description": "Help Martin Z. Mollusk bring us an early summer by celebrating his day!"
+      "title": "Israel Independence Day",
+      "description": "Decorate your balconies with Israeli flags as we celebrate a nation that has endured the worst."
+    },
+    {
+      "title": "Israel Memorial Day",
+      "description": "Prepare to honor the fallen Israeli soldiers and victims of terrorist attacks!"
     },
     {
       "title": "National Anita Day",
       "description": "Discover and celebrate the women and the stories behind the name, Anita."
     },
     {
-      "title": "National Babysitter’s Day",
-      "description": "Celebrate the ones who look after those dearest to you — your children."
-    },
-    {
-      "title": "National Birth Mother’s Day",
-      "description": "Even if Hallmark does not traditionally acknowledge this special group of women, we certainly do!"
-    },
-    {
       "title": "National Crouton Day",
       "description": "An ode to this humble but oh-so-tasty food topping."
-    },
-    {
-      "title": "National Dog Mom’s Day",
-      "description": "Get ready to celebrate being a mom to your cute pups this National Dog Mom’s Day."
     },
     {
       "title": "National Drew Day",
@@ -83,28 +59,12 @@
       "description": "We’re rolling out the green carpet for the little leprechauns of Ireland."
     },
     {
-      "title": "National Miniature Golf Day",
-      "description": "Get your putter and golf balls ready as we celebrate the fascinating game of mini-golf."
+      "title": "National Women&#39;s Check-up Day",
+      "description": "Celebrate National Women&#39;s Check-up Day by scheduling a checkup. It may just save your life."
     },
     {
-      "title": "National Train Day",
-      "description": "Trains, which are always fascinating, are now one of the most eco-friendly modes of transport."
-    },
-    {
-      "title": "National Windmill Day",
-      "description": "Let&#39;s learn the origins of windmills and their role in shaping industries."
-    },
-    {
-      "title": "O. Henry Pun-off Day",
-      "description": "Puns, wordplay, and wit — the perfect combination in O. Henry’s literary works!"
-    },
-    {
-      "title": "Stamp Out Hunger Food Drive Day",
-      "description": "Learn about poverty and how you can get involved in feeding the hungry."
-    },
-    {
-      "title": "Stay Up All Night Day",
-      "description": "Stay up doing fun activities to celebrate Stay Up All Night Day in style."
+      "title": "National Women’s Checkup Day",
+      "description": "Get checked and stay healthy if you’re a woman, on National Women&#39;s Checkup Day."
     },
     {
       "title": "Top Gun Day",
@@ -113,18 +73,6 @@
     {
       "title": "Tulip Day",
       "description": "We’re about to stop and smell the tulips on this Tulip Day."
-    },
-    {
-      "title": "World Belly Dance Day",
-      "description": "Explore the origins, evolution, and how best to enjoy belly dancing for fun exercise."
-    },
-    {
-      "title": "World Buckfast Day",
-      "description": "Do not miss out on celebrating this fantastic day, but be ready to get a hangover!"
-    },
-    {
-      "title": "World Fair Trade Day",
-      "description": "The Fair Trade movement ensures fair working conditions and decent wages for workers."
     },
     {
       "title": "Candice King’s Birthday",
