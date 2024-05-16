@@ -4,23 +4,27 @@
   "holidays": [
     {
       "title": "National Mimosa Day",
-      "description": "It’s fun and easy to celebrate this drink we all find mimo-so-good!"
+      "description": null
     },
     {
       "title": "Drawing Day",
       "description": "Get out your drawing pads and pencils and bring the images in your imagination to life."
     },
     {
+      "title": "Global Accessibility Awareness Day",
+      "description": "Disabled users must have access to the same high-quality digital services and content as non-disabled users."
+    },
+    {
       "title": "International Day of Light",
       "description": "Today, let’s come together to celebrate the life-giving light and its role in our lives."
     },
     {
-      "title": "Martyrdom of Imam Sadeq",
-      "description": "Today we appreciate and reflect on Islamic history as we observe the Martyrdom of Imam Sadeq."
+      "title": "National Aperitif Day",
+      "description": "On National Aperitif Day, add a little aperitif to your cocktail and sip it in style!"
     },
     {
-      "title": "National Barbecue Day",
-      "description": "Are you ready to get grilling? Here’s how you can celebrate National Barbecue Day."
+      "title": "National BBQ Day",
+      "description": "Are you ready to get grilling? Here’s how you can celebrate National BBQ Day."
     },
     {
       "title": "National Biographer&#39;s Day",
@@ -43,20 +47,16 @@
       "description": "Let’s set a moment aside to appreciate the wonderful gifts of trees."
     },
     {
+      "title": "National Notebook Day",
+      "description": "Roses are red, violets are blue, National Notebook Day is here, and we&#39;re celebrating with you."
+    },
+    {
       "title": "National Piercing Day",
       "description": "A fun observance that focuses on the art of piercings and its intriguing history."
     },
     {
       "title": "National Sea Monkey Day",
       "description": "We celebrate the existence of these strangely alluring shrimp."
-    },
-    {
-      "title": "National Stop Nausea Day",
-      "description": "Nausea can be very uncomfortable but these days, it can be treated with medication."
-    },
-    {
-      "title": "National Wear Purple for Peace Day",
-      "description": "Let’s wear purple to show that we all long for peace and will always do so."
     },
     {
       "title": "Nickel Day",
@@ -67,16 +67,16 @@
       "description": "Ride a Unicycle Day takes place annually to appreciate the fun one-wheeled vehicle."
     },
     {
-      "title": "Sex Differences in Health Awareness Day",
-      "description": "Learn the differences in health conditions regarding different sexes this Sex Differences in Health Awareness Day."
-    },
-    {
       "title": "Supply Chain Professionals Day",
       "description": "All your favorite stores and markets would shut down if there was no supply chain."
     },
     {
       "title": "Waiters Day",
       "description": "National Waiters’ Day is a national campaign that celebrates the food and service industry workers."
+    },
+    {
+      "title": "Wear Purple for Peace Day",
+      "description": "Let’s wear purple to show that we all long for peace and will always do so."
     },
     {
       "title": "Grayson Chrisley’s Birthday",
