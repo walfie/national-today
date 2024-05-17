@@ -3,8 +3,20 @@
   "day": 17,
   "holidays": [
     {
+      "title": "Endangered Species Day",
+      "description": null
+    },
+    {
+      "title": "National Pizza Party Day",
+      "description": "Pizza&#39;s the very definition of a good time and your options are plentiful."
+    },
+    {
       "title": "National Walnut Day",
       "description": "They’re great for your heart, brain, and bones; and you can incorporate them into any meal."
+    },
+    {
+      "title": "Bike To School Day",
+      "description": "Check out our fun ideas to enjoy Bike To School Day with the family."
     },
     {
       "title": "International Child Helpline Day",
@@ -15,16 +27,24 @@
       "description": "International Day Against Homophobia, Transphobia and Biphobia is an important L.G.B.T.Q. awareness holiday."
     },
     {
-      "title": "National Bike To School Day",
-      "description": "Check out our fun ideas to enjoy National Bike To School Day with the family."
+      "title": "International Virtual Assistants Day",
+      "description": "Dedicated to virtual assistants, this is a day to recognize their hard work, dedication, and perseverance."
+    },
+    {
+      "title": "NASCAR Day",
+      "description": "Enjoy the NASCAR event while also helping children across the country."
+    },
+    {
+      "title": "National Bike to Work Day",
+      "description": "This day aims to incentivize us to switch our regular commute with bikes."
     },
     {
       "title": "National Cherry Cobbler Day",
       "description": "Cherry cobbler is a baked dessert with a rich cherry filling and a biscuit dough crust."
     },
     {
-      "title": "National Employee Health and Fitness Day",
-      "description": "On this day, employees and employers are reminded of the necessity and advantages of regular exercise."
+      "title": "National Defense Transportation Day",
+      "description": "Commemorate National Defense Transportation Day by celebrating the ones behind the wheels!"
     },
     {
       "title": "National Graduation Tassel Day",
@@ -35,10 +55,6 @@
       "description": "Hey, Idahoans, today we celebrate you!"
     },
     {
-      "title": "National Juice Slush Day",
-      "description": "Marking the start of summer, juice slush is a pleasant drink that will quench your thirst."
-    },
-    {
       "title": "National Linda Day",
       "description": "Linda means ‘beautiful,’ and this is the day to celebrate the name!"
     },
@@ -47,15 +63,11 @@
       "description": "Pack yourself with the essential info for the mushroom hunt into the wild."
     },
     {
-      "title": "National Numeracy Day UK",
-      "description": "Numbers and numeracy are important, and this day is set aside to recognize this."
-    },
-    {
       "title": "National Pinkfix Day",
       "description": "With guidance from experts and your own learning, you can make wise decisions about your money."
     },
     {
-      "title": "Neurofibromatosis Awareness Day",
+      "title": "NF Awareness Day",
       "description": "Help raise awareness of neurofibromatosis to support research to end this condition this Neurofibromatosis Awareness Day."
     },
     {
@@ -67,8 +79,12 @@
       "description": "Get a bottle of pinot grigio, bring your glass, and celebrate the day lightly."
     },
     {
-      "title": "Turn Beauty Inside Out Day",
-      "description": "Let’s put an end to the media’s self-esteem breakers by celebrating Turn Beauty Inside Out Day."
+      "title": "Shades Day",
+      "description": "It’s time to slide on some sunshades and lend a helping hand to families in need."
+    },
+    {
+      "title": "Walk Safely To School Day",
+      "description": "Join us as we encourage Australia’s tiny tots to ditch the bus and walk to school."
     },
     {
       "title": "World Hypertension Day",
