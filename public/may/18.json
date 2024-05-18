@@ -4,27 +4,19 @@
   "holidays": [
     {
       "title": "National No Dirty Dishes Day",
-      "description": "Keep sinks happy, and do your part by saying, &#34;NO&#34; to dirty dishes."
+      "description": null
     },
     {
-      "title": "Ascencion Day (Saint Barthelemy)",
-      "description": "This Ascension Day, let’s reflect on the significance of Christ’s life, death, resurrection, and ascension."
-    },
-    {
-      "title": "Ascencion Day (Saint Martin)",
-      "description": "Ascension Day in Saint Martin is a time to reflect on the risen Christ’s sacrifice."
-    },
-    {
-      "title": "Ascension Day",
-      "description": "This is a Christian holiday that doubles as a public holiday in many countries."
+      "title": "Armed Forces Day",
+      "description": "A celebration for all five branches of the United States military."
     },
     {
       "title": "Battle of Las Piedras",
       "description": "On the anniversary of the Battle of Las Piedras, see its enduring mark on Uruguay’s history."
     },
     {
-      "title": "Global Accessibility Awareness Day",
-      "description": "Disabled users must have access to the same high-quality digital services and content as non-disabled users."
+      "title": "Culture Freedom Day",
+      "description": "Join us as we celebrate the free culture movement this Culture Freedom Day."
     },
     {
       "title": "Haitian Flag Day",
@@ -35,20 +27,20 @@
       "description": "Stop and have a Reese’s Cup because we are celebrating I Love Reese’s Day."
     },
     {
+      "title": "International Astronomy Day",
+      "description": "Don’t have a telescope? Here&#39;s how to celebrate like a true galactic scout."
+    },
+    {
+      "title": "International Heritage Breeds Day",
+      "description": "On International Heritage Breeds Day, let’s protect rare and farm animal breeds from extinction."
+    },
+    {
       "title": "International Museum Day",
       "description": "It’s an opportunity to support museum education and make everyone aware of the importance of museums."
     },
     {
-      "title": "Jerusalem Day",
-      "description": "Join in the celebration of Jerusalem Day today right here with us at National Today."
-    },
-    {
       "title": "Mother Whistler Day",
       "description": "Find out how to celebrate Mother Whistler Day right here with us at National Today."
-    },
-    {
-      "title": "National Aperitif Day",
-      "description": "On National Aperitif Day, add a little aperitif to your cocktail and sip it in style!"
     },
     {
       "title": "National Brock Day",
@@ -63,20 +55,36 @@
       "description": "Acknowledge AIDS and do your bit to spread the word."
     },
     {
+      "title": "National Learn to Swim Day",
+      "description": "When in the water, safety first! Discover the importance of learning how to swim."
+    },
+    {
       "title": "National Marvin Day",
       "description": "Know someone named Marvin? Make their day by celebrating their name right here, right now."
     },
     {
-      "title": "National Notebook Day",
-      "description": "Roses are red, violets are blue, National Notebook Day is here, and we&#39;re celebrating with you."
+      "title": "National River Cleanup Day",
+      "description": "Let&#39;s clean up our neighborhoods and local natural places this National River Cleanup Day."
     },
     {
       "title": "National Visit Your Relatives Day",
       "description": "A day dedicated to spending time with your loved ones and cherishing family time."
     },
     {
+      "title": "Plant a Lemon Tree Day",
+      "description": "Plant a Lemon Tree Day celebrates the goodness of lemon trees around the world."
+    },
+    {
+      "title": "Preakness Stakes",
+      "description": "Come one, come all, for one of the best horse racing events of them all!"
+    },
+    {
       "title": "Send an Electronic Greeting Card Day",
       "description": "Sending a customized e-card is a delightful and simple method to express kindness to others."
+    },
+    {
+      "title": "Spring Astronomy Day",
+      "description": "Join us as we gaze up at the heavens this Spring Astronomy Day!"
     },
     {
       "title": "State Flag of Turkmenistan Day",
@@ -85,6 +93,14 @@
     {
       "title": "World AIDS Vaccine Day",
       "description": "An annual event to raise awareness about H.I.V. infection and AIDS and their prevention."
+    },
+    {
+      "title": "World Fiddle Day",
+      "description": "Everyone get your bows, it’s World Fiddle Day, so let’s go a-fiddling on this day!"
+    },
+    {
+      "title": "World Whiskey Day",
+      "description": "Whisky is a historical classic that’s been distilled with care for over 500 years."
     },
     {
       "title": "Ava Pearl’s Birthday",
