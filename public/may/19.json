@@ -4,23 +4,19 @@
   "holidays": [
     {
       "title": "National Barber Mental Health Awareness Day",
-      "description": "It’s time to reverse the roles and ask your barber how they are feeling."
+      "description": null
     },
     {
       "title": "National Devil&#39;s Food Cake Day",
       "description": "Rich in flavor and moist in texture, devil’s food cake is a favorite for chocolate-lovers."
     },
     {
-      "title": "National Endangered Species Day",
-      "description": "A day to consider the dwindling populations of certain animals and work together to help."
-    },
-    {
-      "title": "National Pizza Party Day",
-      "description": "Pizza&#39;s the very definition of a good time and your options are plentiful."
-    },
-    {
       "title": "Celebrate Your Elected Officials Day",
       "description": "From your local council person to the president, celebrate them all today."
+    },
+    {
+      "title": "Emergency Medical Services Day",
+      "description": "Let’s celebrate the efforts of E.M.S. providers, from E.M.T.s to ambulance drivers."
     },
     {
       "title": "Frog Jumping Jubilee Day",
@@ -31,52 +27,56 @@
       "description": "Let’s learn about hepatitis B and C and encourage individuals to get tested."
     },
     {
+      "title": "International AIDS Candlelight Memorial",
+      "description": "This memorial gives us a chance to pause and remember those who have died of AIDS."
+    },
+    {
       "title": "Malcolm X Day",
       "description": "Malcolm X Day is celebrated on May 19 to appreciate the civil rights leader."
     },
     {
-      "title": "NASCAR Day",
-      "description": "Enjoy the NASCAR event while also helping children across the country."
+      "title": "May Ray Day",
+      "description": "With the change in weather, check out how you can make the most of May."
     },
     {
       "title": "National Asian and Pacific Islander HIV/AIDS Awareness Day",
       "description": "National Asian and Pacific Islander HIV/AIDS Awareness Day encourages people to get tested for HIV."
     },
     {
-      "title": "National Bike to Work Day",
-      "description": "This day aims to incentivize us to switch our regular commute with bikes."
-    },
-    {
       "title": "National Chi Day",
       "description": "National Chi Day is here again, so get ready to honor your friends named Chi."
-    },
-    {
-      "title": "National Defense Transportation Day",
-      "description": "Commemorate National Defense Transportation Day by celebrating the ones behind the wheels!"
-    },
-    {
-      "title": "National May Ray Day",
-      "description": "With the change in weather, check out how you can make the most of May."
     },
     {
       "title": "National Mechanical Dry Eye Day",
       "description": "Let’s learn how to recognize and treat the age-related condition known as mechanical dry eyes."
     },
     {
+      "title": "Pentecost",
+      "description": "Pentecost marks the beginning of the Christian church’s mission into the world."
+    },
+    {
       "title": "Plant Something Day",
       "description": "Plant Something Day aims to protect and add to the beauty of the environment."
     },
     {
-      "title": "Savitri Amavasya",
-      "description": "Get informed about the rituals and traditions of this festival with our great information and tips."
+      "title": "Rural Life Sunday",
+      "description": "This Sunday, you’ll be enjoying a day filled with celebrations, worship, and remembrance."
     },
     {
-      "title": "Virtual Assistants Day",
-      "description": "Dedicated to virtual assistants, this is a day to recognize their hard work, dedication, and perseverance."
+      "title": "Stepmother&#39;s Day",
+      "description": "Stepmother’s Day takes place to appreciate all the stepmothers around the world."
     },
     {
-      "title": "Walk Safely To School Day",
-      "description": "Join us as we encourage Australia’s tiny tots to ditch the bus and walk to school."
+      "title": "Take Your Parents To The Playground Day",
+      "description": "A day dedicated to playing outdoors — for parents."
+    },
+    {
+      "title": "Whit Sunday",
+      "description": "It is Whit Sunday, the day to commemorate the establishment of the Church."
+    },
+    {
+      "title": "World Baking Day",
+      "description": "Whether it be a biscuit, bagel, or muffin, World Baking Day is for you to make them from scratch."
     },
     {
       "title": "World Family Doctor Day",
