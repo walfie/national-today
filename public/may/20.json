@@ -3,12 +3,8 @@
   "day": 20,
   "holidays": [
     {
-      "title": "National Be a Millionaire Day",
-      "description": "Today, there are more than 12 million millionaires all around the globe."
-    },
-    {
-      "title": "Armed Forces Day",
-      "description": "A celebration for all five branches of the United States military."
+      "title": "Be a Millionaire Day",
+      "description": null
     },
     {
       "title": "Cameroon Republic Day",
@@ -17,10 +13,6 @@
     {
       "title": "Clinical Trials Day",
       "description": "It is a day to highlight clinical research professionals&#39; contributions to public health and medicine."
-    },
-    {
-      "title": "Culture Freedom Day",
-      "description": "Join us as we celebrate the free culture movement this Culture Freedom Day."
     },
     {
       "title": "East Timor Independence Day",
@@ -35,12 +27,8 @@
       "description": "Flower Day is here! What can be lovelier than gifting flowers to those you love?"
     },
     {
-      "title": "Hats for Headway Day",
+      "title": "Hats for Headway",
       "description": "Help raise funds for brain injury survivors by posting a photo of yourself in a hat."
-    },
-    {
-      "title": "International Heritage Breeds Day",
-      "description": "On International Heritage Breeds Day, let’s protect rare and farm animal breeds from extinction."
     },
     {
       "title": "International Red Sneakers Day",
@@ -55,16 +43,12 @@
       "description": "Show all the Elis you know they — and their name — are loved."
     },
     {
-      "title": "National High Heels Day",
+      "title": "National High Heel Day",
       "description": "It’s that time of the year to strut in your highest heels and make history."
     },
     {
       "title": "National Jase Day",
       "description": "Rejoice and celebrate all the Jases out there with our awesome celebration suggestions."
-    },
-    {
-      "title": "National Learn to Swim Day",
-      "description": "When in the water, safety first! Discover the importance of learning how to swim."
     },
     {
       "title": "National Pick Strawberries Day",
@@ -83,10 +67,6 @@
       "description": "Rio is an independent name that is associated with strength and bravery."
     },
     {
-      "title": "National River Cleanup Day",
-      "description": "Let&#39;s clean up our neighborhoods and local natural places this National River Cleanup Day."
-    },
-    {
       "title": "National Streaming Day",
       "description": "Grab your remote and popcorn to enjoy your favorite shows this National Streaming Day."
     },
@@ -95,16 +75,28 @@
       "description": "The day also celebrates women working in commercial aviation, defense, and space."
     },
     {
-      "title": "Plant a Lemon Tree Day",
-      "description": "Plant a Lemon Tree Day celebrates the goodness of lemon trees around the world."
-    },
-    {
-      "title": "Preakness Stakes",
-      "description": "Come one, come all, for one of the best horse racing events of them all!"
+      "title": "Victoria Day",
+      "description": "It’s a day to celebrate all the wonderful things that make Canada, Canada."
     },
     {
       "title": "Weights and Measures Day",
       "description": "Grab your measuring instruments. It&#39;s time to discover ‘weights and measures’ facts."
+    },
+    {
+      "title": "Whit Monday",
+      "description": "Whit Monday is a Christian holiday celebrating the descent of the Holy Ghost."
+    },
+    {
+      "title": "Whit Monday (Martinique)",
+      "description": "Celebrate Whit Monday with a burst of religious flavor. Let us get you started!"
+    },
+    {
+      "title": "Whit Monday (Saint Barthelemy)",
+      "description": "It&#39;s Whit Monday, a day to remember the ultimate sacrifice made by Jesus Christ."
+    },
+    {
+      "title": "Whit Monday (Saint Martin)",
+      "description": "Learn about Whit Monday, when the holiday originated, and how to celebrate it."
     },
     {
       "title": "World Autoimmune Arthritis Day",
@@ -115,16 +107,8 @@
       "description": "Bees are critical to plant reproduction and human nutrition; let us protect them!"
     },
     {
-      "title": "World Fiddle Day",
-      "description": "Everyone get your bows, it’s World Fiddle Day, so let’s go a-fiddling on this day!"
-    },
-    {
       "title": "World Metrology Day",
       "description": "The Metre Convention developed a global measurement standard to facilitate scientific study, industrial production, and global trade."
-    },
-    {
-      "title": "World Whisky Day",
-      "description": "Whisky is a historical classic that’s been distilled with care for over 500 years."
     },
     {
       "title": "Addy Maxwell’s Birthday",
