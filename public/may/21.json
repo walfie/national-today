@@ -4,15 +4,11 @@
   "holidays": [
     {
       "title": "National Waitstaff Day",
-      "description": "Let’s turn the tables, and serve these special people a super-sized helping of our appreciation."
+      "description": null
     },
     {
       "title": "Eat More Fruits and Vegetables Day",
       "description": "Prepare your tummy for a healthy treat as we celebrate Eat More Fruits and Vegetables Day."
-    },
-    {
-      "title": "Emergency Medical Services Day",
-      "description": "Let’s celebrate the efforts of E.M.S. providers, from E.M.T.s to ambulance drivers."
     },
     {
       "title": "End of the World",
@@ -21,10 +17,6 @@
     {
       "title": "I Need a Patch For That Day",
       "description": "We’re ready to patch everything up and think outside the box on this quirky holiday!"
-    },
-    {
-      "title": "International AIDS Candlelight Memorial",
-      "description": "This memorial gives us a chance to pause and remember those who have died of AIDS."
     },
     {
       "title": "International Tea Day",
@@ -39,12 +31,12 @@
       "description": "A memo is any piece of important information that is penned or typed down."
     },
     {
-      "title": "National Strawberries and Cream Day",
-      "description": "Fresh strawberries and cream is the best treat to indulge in, on a hot day."
+      "title": "National Stop Nausea Day",
+      "description": "Nausea can be very uncomfortable but these days, it can be treated with medication."
     },
     {
-      "title": "National Talk Like Yoda Day",
-      "description": "Yoda fans honor the day we first met the wisest little green guy in the galaxy."
+      "title": "National Strawberries and Cream Day",
+      "description": "Fresh strawberries and cream is the best treat to indulge in, on a hot day."
     },
     {
       "title": "National Waiters and Waitresses Day",
@@ -55,28 +47,20 @@
       "description": "Learn why Navy Day is so important in Chile and how the locals celebrate it."
     },
     {
-      "title": "Rapture Party Day",
-      "description": "Instead of being fearful on this day, enjoy it as much as you can!"
+      "title": "Pesach Sheni",
+      "description": "On Pesach Sheni, let’s commemorate the ancient second Passover tradition by eating a piece of matzah."
     },
     {
-      "title": "Rural Life Sunday",
-      "description": "This Sunday, you’ll be enjoying a day filled with celebrations, worship, and remembrance."
+      "title": "Rapture Party Day",
+      "description": "Instead of being fearful on this day, enjoy it as much as you can!"
     },
     {
       "title": "Sister Maria Hummel Day",
       "description": "Sister Maria Hummel Day honors this Franciscan nun and artist, whose work is highly admired."
     },
     {
-      "title": "Stepmother&#39;s Day",
-      "description": "Stepmother’s Day takes place to appreciate all the stepmothers around the world."
-    },
-    {
-      "title": "Take Your Parents To The Playground Day",
-      "description": "A day dedicated to playing outdoors — for parents."
-    },
-    {
-      "title": "World Baking Day",
-      "description": "Whether it be a biscuit, bagel, or muffin, World Baking Day is for you to make them from scratch."
+      "title": "Talk Like Yoda Day",
+      "description": "Yoda fans honor the day we first met the wisest little green guy in the galaxy."
     },
     {
       "title": "World Day for Cultural Diversity for Dialogue and Development",
