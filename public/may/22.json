@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "Harvey Milk Day",
-      "description": "The first gay politician in California and leader of the American Civil Rights Movement is remembered."
+      "description": null
     },
     {
       "title": "International Day for Biological Diversity",
@@ -27,15 +27,19 @@
       "description": "Join us as we learn more and celebrate Canadian Immigrants Day this May."
     },
     {
-      "title": "Declaration of the Bab in Shiraz Shavuot",
+      "title": "Declaration of the Bab",
       "description": "Learn about the Bahá’í Faith and the Promised One on this Declaration of the Bab day."
+    },
+    {
+      "title": "Emergency Medical Services for Children Day (EMSC)",
+      "description": "Find out how mascot Benny Bearamedic is helping children, one T-shirt at a time!"
     },
     {
       "title": "International Coco Mom Day",
       "description": "International Coco Mom Day focuses on maternal health and raising children in a color-conscious world."
     },
     {
-      "title": "National Boss Babes Day",
+      "title": "National Boss Babe Day",
       "description": "The sky&#39;s the limit for boss babes! Let’s celebrate all these amazing women today!"
     },
     {
@@ -61,10 +65,6 @@
     {
       "title": "Slavery Abolition Day (Martinique)",
       "description": "Discover ways to look back and honor the fight against slavery in Martinique."
-    },
-    {
-      "title": "Victoria Day",
-      "description": "It’s a day to celebrate all the wonderful things that make Canada, Canada."
     },
     {
       "title": "World Goth Day",
