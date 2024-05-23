@@ -4,15 +4,35 @@
   "holidays": [
     {
       "title": "National Taffy Day",
-      "description": "A day to indulge in the unwrapping that twisty wax paper and popping a chewy bit of taffy into your mouth."
+      "description": null
+    },
+    {
+      "title": "Vesak",
+      "description": "Vesak celebrates Buddha’s birth, along with his enlightenment and death in some traditions."
+    },
+    {
+      "title": "Buddha Purnima",
+      "description": "Take deep breaths and clear your mind, as we take you on a mystical journey!"
+    },
+    {
+      "title": "Chardonnay Day",
+      "description": "Celebrating Chardonnay, crafted from the beautiful vineyards of Pinot noir and Gouais blanc."
+    },
+    {
+      "title": "Day of Vesak",
+      "description": "It is the Day of Vesak, the day to honor Buddha&#39;s birth, enlightenment, and death."
     },
     {
       "title": "International Day to End Obstetric Fistula",
       "description": "On this International Day to End Obstetric Fistula, we’re providing support and spreading awareness."
     },
     {
-      "title": "Martyrdom Day of Sri Guru Arjun Dev Ji",
-      "description": "Let’s honor Guru Arjun Dev Ji’s memory and remember his deeds, which bettered humanity."
+      "title": "Lucky Penny Day",
+      "description": "See a penny, pick it up, all day long you’ll have good luck!"
+    },
+    {
+      "title": "Medical Coder Day",
+      "description": "Let’s get together to show appreciation for all American medical coders this National Medical Coder Day."
     },
     {
       "title": "National Drinking with Chickens Day",
@@ -21,14 +41,6 @@
     {
       "title": "National Ethan Day",
       "description": "Here’s how you can celebrate National Ethan Day in honor of all the Ethans out there."
-    },
-    {
-      "title": "National Lucky Penny Day",
-      "description": "See a penny, pick it up, all day long you’ll have good luck!"
-    },
-    {
-      "title": "National Medical Coder Day",
-      "description": "Let’s get together to show appreciation for all American medical coders this National Medical Coder Day."
     },
     {
       "title": "National Reed Day",
