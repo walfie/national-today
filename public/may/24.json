@@ -4,22 +4,26 @@
   "holidays": [
     {
       "title": "Aviation Maintenance Technician Day",
-      "description": "Without Aviation Maintenance techs, we’d never make it where we wanted to go."
+      "description": null
     },
     {
       "title": "Bermuda Day",
       "description": "Grab your shades, a pair of Bermuda shorts, and dive in the island style."
     },
     {
-      "title": "Emergency Medical Services for Children Day (EMSC)",
-      "description": "Find out how mascot Benny Bearamedic is helping children, one T-shirt at a time!"
+      "title": "Carb Day",
+      "description": "This is the day for racing enthusiasts! It’s Carb Day and we are raring to go."
+    },
+    {
+      "title": "Don’t Fry Day",
+      "description": "You wouldn’t let your child smoke, why let them fry? Don’t Fry Day is here!"
     },
     {
       "title": "Empire Day",
       "description": "Get out your Union Jack and pay a little respect to one of the most powerful empires in history."
     },
     {
-      "title": "Independence Day in Eritrea",
+      "title": "Eritrean Independence Day",
       "description": "Show your love for Eritrea by joining in on the week-long Independence Day festivities."
     },
     {
@@ -39,6 +43,14 @@
       "description": "Appreciating the commitment of caterers who make our events memorable with unforgettable food."
     },
     {
+      "title": "National Cooler Day",
+      "description": "Grab your cooler filled with ice and drinks, and let’s head out this National Cooler Day."
+    },
+    {
+      "title": "National Death Busters Day",
+      "description": "Let’s remind ourselves and our loved ones to buckle up, be cautious, and drive safely."
+    },
+    {
       "title": "National Escargot Day",
       "description": "For all those who love exotic eating, get ready to celebrate the French delicacy of escargot."
     },
@@ -47,8 +59,16 @@
       "description": "Mike is a sweet and short name that was derived from the name Michael."
     },
     {
+      "title": "National Road Trip Day",
+      "description": "Think you know all about the ‘Great American Road Trip’? We’ll see about that!"
+    },
+    {
       "title": "National Scavenger Hunt Day",
       "description": "Hunting for a list of items, or solving a series of clues to “win” the game."
+    },
+    {
+      "title": "National Title Track Day",
+      "description": "Keep reading to find out how title tracks evolved over the years and how to celebrate."
     },
     {
       "title": "The Battle of Pichincha Day",
@@ -59,7 +79,7 @@
       "description": "Tiara Day is a holiday that allows every woman to feel like a princess."
     },
     {
-      "title": "World Schizophrenia Awareness Day",
+      "title": "World Schizophrenia Day",
       "description": "Join us in creating awareness and removing the stigma around this mental disease."
     },
     {
