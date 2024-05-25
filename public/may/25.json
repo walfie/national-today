@@ -4,19 +4,19 @@
   "holidays": [
     {
       "title": "National Wine Day",
-      "description": "Cheers to celebrating over a bottle of wine!"
+      "description": null
     },
     {
       "title": "African Liberation Day",
       "description": "Go get yourself a vuvuzela and get ready because we’re going to do African Liberation Day in style."
     },
     {
-      "title": "Chardonnay Day",
-      "description": "Celebrating Chardonnay, crafted from the beautiful vineyards of Pinot noir and Gouais blanc."
+      "title": "Amateur Radio Military Appreciation Day",
+      "description": "Let us all get behind a mic, as it is time for ARMAD!"
     },
     {
-      "title": "Erev Shavuot",
-      "description": "Read on to find out how you should be celebrating Erev Shavuot."
+      "title": "Argentina Revolution Day",
+      "description": "Wave the flag of Argentina’s independence high on the occasion of May 25!"
     },
     {
       "title": "Geek Pride Day",
@@ -39,10 +39,6 @@
       "description": "This May Revolution Day, let us commemorate the strength and courage of the Argentinian people."
     },
     {
-      "title": "May Revolution Day",
-      "description": "Wave the flag of Argentina’s independence high on the occasion of May 25!"
-    },
-    {
       "title": "National Bath Bomb Day",
       "description": "Grab your robe and your favorite face peel because we’re celebrating this one the right way."
     },
@@ -63,6 +59,10 @@
       "description": "Join people named George across the globe as they celebrate their name day."
     },
     {
+      "title": "National Italian Beef Day",
+      "description": "Grab the napkins, and get your best Italian Beef Sandwich to celebrate the day in tradition."
+    },
+    {
       "title": "National Missing Children’s Day",
       "description": "Today we remember missing children and spread the word about child abduction"
     },
@@ -79,12 +79,16 @@
       "description": "Step into the world of virtual reality where you can have your own avatar!"
     },
     {
-      "title": "Shavuot",
-      "description": "Shavuot—or the Feast of Weeks—is a Jewish holiday, with an agricultural and biblical significance."
+      "title": "National Wig Out Day",
+      "description": "National Wig Out Day is a fun day where your head gets to play dress-up."
     },
     {
       "title": "Towel Day",
       "description": "We are celebrating this holiday with a towel wrapped around our necks."
+    },
+    {
+      "title": "Tracky Dack Day",
+      "description": "To understand Tracky Dack Day, first, know that ‘dack’ is Australian English slang for trousers."
     },
     {
       "title": "World Thyroid Day",
