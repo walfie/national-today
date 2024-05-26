@@ -3,28 +3,28 @@
   "day": 26,
   "holidays": [
     {
+      "title": "Indianapolis 500",
+      "description": null
+    },
+    {
       "title": "National Paper Airplane Day",
       "description": "Paper airplanes have fascinated children and adults alike around the globe for generations."
     },
     {
-      "title": "Buddha Day",
-      "description": "Discover the history of Buddha Day and how it is celebrated around the world."
-    },
-    {
-      "title": "Carb Day",
-      "description": "This is the day for racing enthusiasts! It’s Carb Day and we are raring to go."
-    },
-    {
-      "title": "European Neighbors&#39; Day",
-      "description": "Invite over your neighbors to a nice meal and get to know your community!"
+      "title": "General Prayer Day",
+      "description": "General Prayer Day is the celebration of the survival of the Roman Catholic traditions."
     },
     {
       "title": "Georgia Independence Day",
       "description": "Celebrating the rise of the nation of Georgia and its claim to victorious independence."
     },
     {
-      "title": "Independence Day (Guyana)",
+      "title": "Guyana Independence Day",
       "description": "Celebrate Guyana’s Independence Day and the rich cultural heritage of the Guyanese people."
+    },
+    {
+      "title": "Lag BaOmer",
+      "description": "We observe this important Jewish holiday that celebrates life and happiness."
     },
     {
       "title": "National Blueberry Cheesecake Day",
@@ -35,36 +35,16 @@
       "description": "Cherry pies, cherry tarts, and cherry biscuits are some of the few reasons we love today!"
     },
     {
-      "title": "National Cooler Day",
-      "description": "Grab your cooler filled with ice and drinks, and let’s head out this National Cooler Day."
-    },
-    {
-      "title": "National Death Busters Day",
-      "description": "Let’s remind ourselves and our loved ones to buckle up, be cautious, and drive safely."
-    },
-    {
-      "title": "National Don’t Fry Day",
-      "description": "You wouldn’t let your child smoke, why let them fry? National Don’t Fry Day is here!"
-    },
-    {
-      "title": "National Heat Awareness Day",
-      "description": "This health holiday cannot get any hotter — keep it cool on National Heat Awareness Day."
-    },
-    {
-      "title": "National Road Trip Day",
-      "description": "Think you know all about the ‘Great American Road Trip’? We’ll see about that!"
-    },
-    {
       "title": "National Sorry Day",
       "description": "National Sorry Day commemorates the mistreatment of Aboriginal and Torres Strait Islander people."
     },
     {
-      "title": "National Title Track Day",
-      "description": "Keep reading to find out how title tracks evolved over the years and how to celebrate."
-    },
-    {
       "title": "Sally Ride Day",
       "description": "Sally Ride Day is a fun holiday that honors the first American woman in space."
+    },
+    {
+      "title": "Trinity Sunday",
+      "description": "Trinity Sunday celebrates the unity of the Holy Trinity: the Father, the Son, and the Holy Spirit."
     },
     {
       "title": "World Dracula Day",
