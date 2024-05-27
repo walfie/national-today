@@ -3,6 +3,10 @@
   "day": 27,
   "holidays": [
     {
+      "title": "Memorial Day",
+      "description": null
+    },
+    {
       "title": "National Hairstylist Mental Health Awareness Day",
       "description": "Hairstylists so often lend a friendly ear to their customers — this observation is all about offering yours in return."
     },
@@ -11,16 +15,20 @@
       "description": "Rub and absorb that lotion, cream, or spray before enjoying the warmth and light of summer."
     },
     {
-      "title": "Amateur Radio Military Appreciation Day",
-      "description": "Let us all get behind a mic, as it is time for ARMAD!"
+      "title": "Asher day",
+      "description": "Despite its historical and biblical origins, the name Asher wasn’t well known until the 1980s."
+    },
+    {
+      "title": "Cheese Rolling Gloucester",
+      "description": "Ready, set, go! It is time to experience the Cheese Rolling Gloucester!"
+    },
+    {
+      "title": "Decoration Day",
+      "description": "Bring out the flowers, flags, and red poppies to commemorate the fallen on this day."
     },
     {
       "title": "National Aaron Day",
       "description": "Let’s find out about the name Aaron, its history, popularity, and origins."
-    },
-    {
-      "title": "national asher day",
-      "description": "Despite its historical and biblical origins, the name Asher wasn’t well known until the 1980s."
     },
     {
       "title": "National Cellophane Tape Day",
@@ -35,20 +43,8 @@
       "description": "Raise your voices and spread awareness about brain cancer with our information."
     },
     {
-      "title": "National Italian Beef Day",
-      "description": "Grab the napkins, and get your best Italian Beef Sandwich to celebrate the day in tradition."
-    },
-    {
       "title": "National Jordan Day",
       "description": "The name Jordan is an intriguing one. This National Jordan Day, let’s find out why."
-    },
-    {
-      "title": "National Melissa Day",
-      "description": "On this day, all Melissas can find out about the origin of their name."
-    },
-    {
-      "title": "National Wig Out Day",
-      "description": "National Wig Out Day is a fun day where your head gets to play dress-up."
     },
     {
       "title": "Nothing to Fear Day",
@@ -59,16 +55,20 @@
       "description": "Old-Time Player Piano Day takes place to memorialize this unique musical instrument that plays itself."
     },
     {
+      "title": "Prayer for Peace Memorial Day",
+      "description": "Honor the brave American soldiers who died in the military this Prayer for Peace Memorial Day."
+    },
+    {
       "title": "Slavery Abolition Day (Guadeloupe)",
       "description": "This Slavery Abolition Day, join us as we uncover Guadeloupe’s complex history!"
     },
     {
-      "title": "Sunscreen Protection Day",
-      "description": "Making sunscreen a priority, and protecting the largest organ of the body at all costs."
+      "title": "Spring Bank Holiday",
+      "description": "A day for the general population in the U.K. to kick back and relax."
     },
     {
-      "title": "Tracky Dack Day",
-      "description": "To understand Tracky Dack Day, first, know that ‘dack’ is Australian English slang for trousers."
+      "title": "Sunscreen Day",
+      "description": "Making sunscreen a priority, and protecting the largest organ of the body at all costs."
     },
     {
       "title": "Blippi’s Birthday",
