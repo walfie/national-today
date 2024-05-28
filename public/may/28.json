@@ -3,12 +3,8 @@
   "day": 28,
   "holidays": [
     {
-      "title": "Indianapolis 500",
-      "description": "They call it &#34;The Greatest Spectacle in Racing&#34; — for a reason."
-    },
-    {
       "title": "National Brisket Day",
-      "description": "Brisket is good for so much more than just barbecue or corned beef."
+      "description": null
     },
     {
       "title": "National Hamburger Day",
@@ -43,7 +39,7 @@
       "description": "Find out why this day is important in the history of this populous African nation."
     },
     {
-      "title": "National Flag Day in the Philippines",
+      "title": "National Flag Day Philippines",
       "description": "Honor the memory of the revolutionaries and keep the flag of the Philippines always flying high."
     },
     {
@@ -51,16 +47,12 @@
       "description": "All the love in the world for Jake. We have stories and ways to show it."
     },
     {
-      "title": "Pentecost",
-      "description": "Pentecost marks the beginning of the Christian church’s mission into the world."
+      "title": "Scripps Spelling Bee",
+      "description": "Want to know all about the Scripps National Spelling Bee? We have all the info you need."
     },
     {
       "title": "Slugs Return From Capistrano Day",
       "description": "Slugs Return From Capistrano Day is observed on May 28 to show appreciation for slugs."
-    },
-    {
-      "title": "Whit Sunday",
-      "description": "It is Whit Sunday, the day to commemorate the establishment of the Church."
     },
     {
       "title": "Whooping Crane Day",
