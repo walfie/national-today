@@ -4,27 +4,15 @@
   "holidays": [
     {
       "title": "Learn About Composting Day",
-      "description": "Composting is not only an environmentally safe fertilizer but also helps save water, energy, and money!"
-    },
-    {
-      "title": "Memorial Day",
-      "description": "The “unofficial” start of summer, but let’s remember the heroes who made it possible."
+      "description": null
     },
     {
       "title": "Ascension of Bahau&#39;llah",
       "description": "Get ready to partake in the special celebrations and festivities to mark the Ascension of Bahá’u’lláh!"
     },
     {
-      "title": "Decoration Day",
-      "description": "Bring out the flowers, flags, and red poppies to commemorate the fallen on this day."
-    },
-    {
       "title": "End of the Middle Ages Day",
       "description": "The End of the Middle Ages is a day to celebrate innovation, culture, and enlightenment."
-    },
-    {
-      "title": "Gloucestershire Cheese Rolling",
-      "description": "Ready, set, go! It is time to experience the Gloucestershire Cheese Rolling!"
     },
     {
       "title": "International Day of UN Peacekeepers",
@@ -39,7 +27,7 @@
       "description": "Get a little wet and wild with our not-so-friendly neighborhood lizards."
     },
     {
-      "title": "National Biscuit Day UK",
+      "title": "National Biscuit Day",
       "description": "Get your taste buds ready for National Biscuit Day right here, right now!"
     },
     {
@@ -51,12 +39,20 @@
       "description": "Read on to know more about how you can brighten an Edison&#39;s day today."
     },
     {
+      "title": "National Flip Flop Day",
+      "description": "Check out our fun suggestions for making the most of National Flip Flop Day."
+    },
+    {
       "title": "National Hydroxyapatite Day",
       "description": "Get your toothbrush ready, and don’t forget to floss to celebrate National Hydroxyapatite Day!"
     },
     {
       "title": "National Paperclip Day",
       "description": "The paperclip, in various forms, shapes, and sizes, has been around for a little under two centuries."
+    },
+    {
+      "title": "National Senior Health and Fitness Day",
+      "description": "The common goal of this day is to help senior Americans stay fit and healthy."
     },
     {
       "title": "National Snail Day",
@@ -67,40 +63,20 @@
       "description": "Today is Oak Apple Day, so get your oak apples and oak leaves ready!"
     },
     {
-      "title": "Paper Clip Day",
-      "description": "Paper Clip Day is celebrated to appreciate the item that helps us hold pieces of paper together."
-    },
-    {
-      "title": "Prayer for Peace Memorial Day",
-      "description": "Honor the brave American soldiers who died in the military this Prayer for Peace Memorial Day."
+      "title": "Paperclip Day",
+      "description": "Paperclip Day is celebrated to appreciate the item that helps us hold pieces of paper together."
     },
     {
       "title": "Put a Pillow on your Fridge Day",
       "description": "Put a Pillow on Your Fridge Day is meant to bring you prosperity and good fortune."
     },
     {
-      "title": "Spring Bank Holiday",
-      "description": "A day for the general population in the U.K. to kick back and relax."
-    },
-    {
-      "title": "Whit Monday",
-      "description": "Whit Monday is a Christian holiday celebrating the descent of the Holy Ghost."
-    },
-    {
-      "title": "Whit Monday (Martinique)",
-      "description": "Celebrate Whit Monday with a burst of religious flavor. Let us get you started!"
-    },
-    {
-      "title": "Whit Monday (Saint Barthelemy)",
-      "description": "It&#39;s Whit Monday, a day to remember the ultimate sacrifice made by Jesus Christ."
-    },
-    {
-      "title": "Whit Monday (Saint Martin)",
-      "description": "Learn about Whit Monday, when the holiday originated, and how to celebrate it."
-    },
-    {
       "title": "World Digestive Health Day",
       "description": "Help us educate people on digestive diseases on World Digestive Health Day."
+    },
+    {
+      "title": "World Otter Day",
+      "description": "Learn more about these charming critters and what you can do to save them."
     },
     {
       "title": "Carmelo Anthony’s Birthday",
