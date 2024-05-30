@@ -4,11 +4,15 @@
   "holidays": [
     {
       "title": "National E-Bike Day",
-      "description": "National E-Bike Day is a new holiday established and sponsored by Lectric eBikes to encourage people to ride their e-bike or make the switch to…"
+      "description": null
     },
     {
       "title": "National Mint Julep Day",
       "description": "All you need is bourbon, sugar, mint, and ice!"
+    },
+    {
+      "title": "Corpus Christi",
+      "description": "Corpus Christi is a Christian festival that is celebrated annually on the Thursday after Trinity Sunday."
     },
     {
       "title": "Fakesgiving",
@@ -39,7 +43,7 @@
       "description": "In addition to being a blessing, the name Sofia has a remarkable past."
     },
     {
-      "title": "World Multiple Sclerosis Day",
+      "title": "World MS Day",
       "description": "MS is a chronic progressive disease where the insulating covers of the nervous system are damaged."
     },
     {
