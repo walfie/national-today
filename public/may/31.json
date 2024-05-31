@@ -4,27 +4,27 @@
   "holidays": [
     {
       "title": "National Macaroon Day",
-      "description": "It is soft and a little chewy, more like a cake than a cookie."
+      "description": null
     },
     {
       "title": "Autonomous Vehicle Day",
       "description": "There&#39;s a transport revolution on the way, and we are here for it!"
     },
     {
+      "title": "European Neighbors&#39; Day",
+      "description": "Invite over your neighbors to a nice meal and get to know your community!"
+    },
+    {
       "title": "National Fisherfolks Day",
       "description": "Grab a bucket and a fishing rod to celebrate National Fisherfolk Day in the Philippines!"
     },
     {
-      "title": "National Flip Flop Day",
-      "description": "Check out our fun suggestions for making the most of National Flip Flop Day."
+      "title": "National Heat Awareness Day",
+      "description": "This health holiday cannot get any hotter — keep it cool on National Heat Awareness Day."
     },
     {
       "title": "National Save Your Hearing Day",
       "description": "End Better Hearing and Speech Month on a high note but at a lower volume."
-    },
-    {
-      "title": "National Senior Health and Fitness Day",
-      "description": "The common goal of this day is to help senior Americans stay fit and healthy."
     },
     {
       "title": "National Smile Day",
@@ -43,10 +43,6 @@
       "description": "This day creates awareness of this disease, which is also known as ‘flesh-eating bacteria.’"
     },
     {
-      "title": "Scripps National Spelling Bee",
-      "description": "Want to know all about the Scripps National Spelling Bee? We have all the info you need."
-    },
-    {
       "title": "Web Designer Day",
       "description": "It’s time for web users to celebrate the brilliant minds who work tirelessly behind the scenes."
     },
@@ -57,10 +53,6 @@
     {
       "title": "World No Tobacco Day",
       "description": "Beat that bad habit and say “NO” to tobacco!"
-    },
-    {
-      "title": "World Otter Day",
-      "description": "Learn more about these charming critters and what you can do to save them."
     },
     {
       "title": "World Parrot Day",
