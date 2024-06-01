@@ -4,11 +4,7 @@
   "holidays": [
     {
       "title": "Global Day of Parents",
-      "description": "If you happen to be a parent, give yourself a big pat on the back (seriously)."
-    },
-    {
-      "title": "National Moonshine Day",
-      "description": "Moonshine, once a fiery (and illegal) homemade liquor, has now gone legit."
+      "description": null
     },
     {
       "title": "National Olive Day",
@@ -43,16 +39,28 @@
       "description": "Let’s vow to give every child their rights on this important day!"
     },
     {
-      "title": "Madaraka Day: Kenya",
+      "title": "International Tabletop Day",
+      "description": "We’re excited to go all-in for our favorite games!"
+    },
+    {
+      "title": "Madaraka Day",
       "description": "The first step is sometimes as valuable as any other. Come celebrate Madaraka Day with us!"
+    },
+    {
+      "title": "National Barefoot Day",
+      "description": "Today, it’s time to put our best foot forward and contribute to a charitable cause."
     },
     {
       "title": "National Billboard Day",
       "description": "The simple concept behind National Billboard day has been around for ages."
     },
     {
-      "title": "National Go Barefoot Day",
-      "description": "Today, it’s time to put our best foot forward and contribute to a charitable cause."
+      "title": "National Black Bear Day",
+      "description": "We&#39;ve got all the information you need about America&#39;s black bear right here."
+    },
+    {
+      "title": "National Bubbly Day",
+      "description": "Let your enthusiasm bubble over; celebrate National Bubbly Day our way!"
     },
     {
       "title": "National Hazelnut Cake Day",
@@ -67,36 +75,40 @@
       "description": "Instead of painting the town red, paint your nails with any color you want!"
     },
     {
-      "title": "National Roman Day",
-      "description": "Let’s pull out all the stops for the Romans in the world today."
+      "title": "National Pen Pal Day",
+      "description": "The rich tradition of making pen pals continues even today despite social media."
     },
     {
-      "title": "National Say Something Nice Day",
-      "description": "People may not remember what you do, but they’ll certainly remember how you made them feel."
+      "title": "National Prairie Day",
+      "description": "National Prairie Day promotes the appreciation and conservation of America&#39;s native prairies."
+    },
+    {
+      "title": "National Roman Day",
+      "description": "Let’s pull out all the stops for the Romans in the world today."
     },
     {
       "title": "National Skincare Education Day",
       "description": "This National Skincare Education Day, learn why taking good care of your skin is critical."
     },
     {
-      "title": "New Year&#39;s Resolution Recommitment Day",
-      "description": "Given up on your New Year’s resolutions? Nurture the spark of change and begin again."
+      "title": "National Trails Day",
+      "description": "National Trails Day is not a trial but an awesome celebration of hiking!"
     },
     {
-      "title": "Orthodox Ascension Day",
-      "description": "If you celebrate, give thanks to Jesus, Lord and Savior, on Orthodox Ascension Day."
+      "title": "New Year&#39;s Resolution Recommitment Day",
+      "description": "Given up on your New Year’s resolutions? Nurture the spark of change and begin again."
     },
     {
       "title": "Oscar the Grouch Day",
       "description": "Today we celebrate Oscar the Grouch, the grumpy fictional character on “Sesame Street”."
     },
     {
-      "title": "Pen Pal Day",
-      "description": "The rich tradition of making pen pals continues even today despite social media."
-    },
-    {
       "title": "Samoa Independence Day",
       "description": "After 60 years of independence, Samoa maintains a strong and multifaceted relationship with New Zealand."
+    },
+    {
+      "title": "Say Something Nice Day",
+      "description": "People may not remember what you do, but they’ll certainly remember how you made them feel."
     },
     {
       "title": "Stand For Children Day",
@@ -111,6 +123,10 @@
       "description": "Bust out your red, white, and blue outfit and flag to celebrate Statehood Day of Tennessee!"
     },
     {
+      "title": "The Big Lunch",
+      "description": "Get ready to meet and make new friends, it&#39;s The Big Lunch."
+    },
+    {
       "title": "Wear a Dress Day",
       "description": "On Wear a Dress Day, you have got to dress to impress — and we know just how!"
     },
@@ -119,7 +135,7 @@
       "description": "From a glass of milk, to a heaping bowl of ice cream, we celebrate it all!"
     },
     {
-      "title": "World Narcissistic Abuse Day",
+      "title": "World Narcissistic Abuse Awareness Day",
       "description": "On this day, let us take heed of the warning signs that constitute narcissistic abuse."
     },
     {
