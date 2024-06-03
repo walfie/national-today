@@ -4,11 +4,15 @@
   "holidays": [
     {
       "title": "National Egg Day",
-      "description": "Eggs aren’t just for breakfast anymore. Even McDonald’s offers eggs all day on its menu."
+      "description": null
     },
     {
       "title": "Chimborazo Day",
       "description": "A day for celebrating the highest point on Earth? That’s Chimborazo Day for you!"
+    },
+    {
+      "title": "Columbia Corpus Christi Holiday",
+      "description": "Colombia Corpus Christi is a day to celebrate the body of Christ."
     },
     {
       "title": "European Bicycle Day",
@@ -23,8 +27,12 @@
       "description": "Rid your environment of pests and diseases by observing Insect Repellent Awareness Day."
     },
     {
-      "title": "International Tabletop Day",
-      "description": "We’re excited to go all-in for our favorite games!"
+      "title": "Isabel Province Day",
+      "description": "This Isabel Province Day, take some time to learn about the province."
+    },
+    {
+      "title": "June Bank Holiday",
+      "description": "Summer is in the air and you have a full day to celebrate this national holiday."
     },
     {
       "title": "Love Conquers All Day",
@@ -35,52 +43,32 @@
       "description": "Celebrate this historic event that revolutionized land rights for Indigenous Australian communities."
     },
     {
-      "title": "National Black Bear Day",
-      "description": "We&#39;ve got all the information you need about America&#39;s black bear right here."
-    },
-    {
-      "title": "National Bubbly Day",
-      "description": "Let your enthusiasm bubble over; celebrate National Bubbly Day our way!"
-    },
-    {
-      "title": "National Carl Day",
-      "description": "Gather the troops and pull out all the stops for a Carl-themed celebration today."
+      "title": "Martyrs Day Uganda",
+      "description": "Honor the martyrs and the bold sacrifice they made in holding fast to their beliefs."
     },
     {
       "title": "National Chocolate Macaroon Day",
       "description": "All the dessert lovers in America celebrate National Chocolate Macaroon Day on June 3."
     },
     {
-      "title": "National Prairie Day",
-      "description": "National Prairie Day promotes the appreciation and conservation of America&#39;s native prairies."
-    },
-    {
       "title": "National Simp Day",
       "description": "Let&#39;s spread the word that the term &#34;simp&#34; isn&#39;t as harmless as many people believe."
-    },
-    {
-      "title": "National Trails Day",
-      "description": "National Trails Day is not a trial but an awesome celebration of hiking!"
     },
     {
       "title": "Opium Suppression Movement Day",
       "description": "It’s never too late to quit smoking. Throw out your cigarettes and start afresh."
     },
     {
-      "title": "Poson Full Moon Poya",
-      "description": "Held at full moon, this day commemorates the introduction of Buddhism to Sri Lanka."
-    },
-    {
       "title": "Repeat Day",
       "description": "Repeating can be a wonderful thing. Especially when it involves an activity we love."
     },
     {
-      "title": "The Big Lunch",
-      "description": "Get ready to meet and make new friends, it&#39;s The Big Lunch."
+      "title": "The Yang di-Pertuan Agong&#39;s Birthday",
+      "description": "Dive into the history of Malaysian royalty, the only one of its kind in the world."
     },
     {
-      "title": "Uganda Martyrs Day",
-      "description": "Honor the martyrs and the bold sacrifice they made in holding fast to their beliefs."
+      "title": "Western Australia Day",
+      "description": "Originally called &#34;Foundation Day,&#34; it has since been renamed to include all Western Australians."
     },
     {
       "title": "World Bicycle Day",
