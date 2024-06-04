@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Cheese Day",
-      "description": "This day is in reverence of the queen of all dairy, the big cheese."
+      "description": null
     },
     {
       "title": "National Hug Your Cat Day",
@@ -23,10 +23,6 @@
       "description": "There are more child refugees than the entire population of some of the world’s countries."
     },
     {
-      "title": "National Cancer Survivors Day",
-      "description": "The nonprofit National Cancer Survivors Day Foundation rallies its forces and resources to promote the cause."
-    },
-    {
       "title": "National Christian T-Shirt Day",
       "description": "Declare your faith and wear it on a t-shirt! Let’s celebrate National Christian T-Shirt Day."
     },
@@ -43,20 +39,8 @@
       "description": "Protect our little loved ones by raising awareness about firearm safety and storage."
     },
     {
-      "title": "Orthodox Pentecost Sunday",
-      "description": "Orthodox Pentecost Sunday is celebrated fifty days after Easter in the Orthodox Church."
-    },
-    {
-      "title": "Sant Guru Kabir Jayanti",
-      "description": "This national event in India is an opportunity to honor the legacy of this mystic poet."
-    },
-    {
       "title": "Shopping Cart Day",
       "description": "Today we celebrate the baskets on wheels we use to journey through the aisles in a supermarket."
-    },
-    {
-      "title": "Trinity Sunday",
-      "description": "Trinity Sunday celebrates the unity of the Holy Trinity: the Father, the Son, and the Holy Spirit."
     },
     {
       "title": "Angelina Jolie’s Birthday",
