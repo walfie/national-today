@@ -3,16 +3,16 @@
   "day": 5,
   "holidays": [
     {
+      "title": "Global Running Day",
+      "description": null
+    },
+    {
       "title": "World Environment Day",
       "description": "World Environment Day is both a global celebration and a platform for public outreach."
     },
     {
       "title": "Constitution Day",
       "description": "Let’s take a trip down memory lane in the constitutional history of Denmark."
-    },
-    {
-      "title": "Holy Spirit Monday",
-      "description": "Today, the faithful celebrate the descension of the Holy Spirit."
     },
     {
       "title": "Hot Air Balloon Day",
@@ -27,8 +27,8 @@
       "description": "This day also attempts to promote local biodiversity as well as food security."
     },
     {
-      "title": "June Bank Holiday",
-      "description": "Summer is in the air and you have a full day to celebrate this national holiday."
+      "title": "Jerusalem Day",
+      "description": "Join in the celebration of Jerusalem Day today right here with us at National Today."
     },
     {
       "title": "Khordad National Uprising in Iran",
@@ -39,28 +39,16 @@
       "description": "Share in the gingerbread love with our fun recipes and tips to celebrate."
     },
     {
-      "title": "National Janet Day",
-      "description": "Today is a great day to celebrate all of the Janets that you know!"
-    },
-    {
-      "title": "National Jenny Day",
-      "description": "The name is just perfect, short, to the point, with a lot of personal warmth."
-    },
-    {
-      "title": "National Joyce Day",
-      "description": "Everyone with the name Joyce — get on social media and celebrate your name!"
-    },
-    {
       "title": "National Lincoln Loud Day",
       "description": "Happy National Lincoln Loud Day! Don&#39;t miss the big celebration this holiday."
     },
     {
-      "title": "National Veggie Burger Day",
-      "description": "This day celebrates the veggie burger and its positive impact on the environment."
+      "title": "National Tailors Day",
+      "description": "Here is all that you need to know to celebrate and enjoy National Tailors Day."
     },
     {
-      "title": "Orthodox Pentecost Monday",
-      "description": "Today is the day to prepare a lavish feast to honor the Holy Spirit."
+      "title": "National Veggie Burger Day",
+      "description": "This day celebrates the veggie burger and its positive impact on the environment."
     },
     {
       "title": "President&#39;s Day in Equatorial Guinea",
@@ -73,14 +61,6 @@
     {
       "title": "Thank You Day",
       "description": "It’s a day of gratitude and appreciation for the unsung heroes in our communities."
-    },
-    {
-      "title": "The Yang di-Pertuan Agong&#39;s Birthday",
-      "description": "Dive into the history of Malaysian royalty, the only one of its kind in the world."
-    },
-    {
-      "title": "Western Australia Day",
-      "description": "Originally called &#34;Foundation Day,&#34; it has since been renamed to include all Western Australians."
     },
     {
       "title": "Brandon Farris’s Birthday",
