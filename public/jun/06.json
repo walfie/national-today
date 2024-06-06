@@ -4,7 +4,11 @@
   "holidays": [
     {
       "title": "National Eyewear Day",
-      "description": "The good news? Today we can choose from virtually endless styles, shapes, and colors."
+      "description": null
+    },
+    {
+      "title": "National Moonshine Day",
+      "description": "Moonshine, once a fiery (and illegal) homemade liquor, has now gone legit."
     },
     {
       "title": "National Yo-Yo Day",
@@ -35,10 +39,6 @@
       "description": "National Applesauce Day is an opportunity to hone your culinary skills and treat your sweet tooth."
     },
     {
-      "title": "National Cynthia Day",
-      "description": "Let us celebrate all the Cynthias and learn more about this beautiful name."
-    },
-    {
       "title": "National Drive-In Movie Day",
       "description": "Today is the anniversary of the first-ever drive-in opening in the U.S."
     },
@@ -49,6 +49,14 @@
     {
       "title": "National Higher Education Day",
       "description": "National Higher Education Day recognizes the importance of education in improving our lives."
+    },
+    {
+      "title": "Orthodox Ascension Day",
+      "description": "If you celebrate, give thanks to Jesus, Lord and Savior, on Orthodox Ascension Day."
+    },
+    {
+      "title": "Savitri Amavasya",
+      "description": "Get informed about the rituals and traditions of this festival with our great information and tips."
     },
     {
       "title": "Visually Impaired People Day",
