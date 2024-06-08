@@ -4,7 +4,11 @@
   "holidays": [
     {
       "title": "National Best Friends Day",
-      "description": "Whether they’re near or far, old or new, best friends help to us through our lives."
+      "description": null
+    },
+    {
+      "title": "National Rosé Day",
+      "description": "Celebrate summer, friends and all things pink on National Rosé Day!"
     },
     {
       "title": "World Oceans Day",
@@ -15,24 +19,20 @@
       "description": "A mutiny triumphed always calls for a celebration that transcends time."
     },
     {
-      "title": "Corpus Christi",
-      "description": "Corpus Christi is a Christian festival that is celebrated annually on the Thursday after Trinity Sunday."
+      "title": "Doll Day",
+      "description": "Bring out your dolls and reminisce about the good ol’ days."
     },
     {
       "title": "International Day of Action for Elephants in Zoos",
       "description": "Help raise awareness about elephant conservation and protection by doing your part."
     },
     {
-      "title": "National Karen Day",
-      "description": "You are a solid and hard-working person, Karen. This day is for you to celebrate!"
+      "title": "International Knit in Public Day",
+      "description": "Join us as we stitch together a fun way to celebrate International Knit in Public Day!"
     },
     {
-      "title": "National Name Your Poison Day",
+      "title": "Name Your Poison Day",
       "description": "This day celebrates our ability to choose the ‘poison’ that will be the least harmful to us."
-    },
-    {
-      "title": "National Upsy Daisy Day",
-      "description": "This quirky holiday encourages you to embrace positivity and usher brightness into your life."
     },
     {
       "title": "Temotu Province Day",
@@ -43,8 +43,16 @@
       "description": "Reason and human rights were his strides in life. Let’s learn more about Thomas Paine."
     },
     {
+      "title": "Upsy Daisy Day",
+      "description": "This quirky holiday encourages you to embrace positivity and usher brightness into your life."
+    },
+    {
       "title": "World Brain Tumor Day",
       "description": "Wear your gray ribbons as we work hard to support this community."
+    },
+    {
+      "title": "World Gin Day",
+      "description": "Join us as we celebrate the world’s favorite juniper-flavored spirit this World Gin Day."
     },
     {
       "title": "Cody Rigsby’s Birthday",
