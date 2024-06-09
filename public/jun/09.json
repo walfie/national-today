@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "International Dark &#39;n Stormy® Day",
-      "description": "Grab your Goslings Black Seal Rum® and sparkling ginger beer, we&#39;re celebrating!"
+      "description": null
     },
     {
       "title": "Day of La Rioja",
@@ -15,24 +15,24 @@
       "description": "You better get ready to celebrate the Day of Murcia, it is going to be fun."
     },
     {
+      "title": "Donald Duck Day",
+      "description": "Well, what do you give to a duck that has it all? His own holiday!"
+    },
+    {
       "title": "Filipino-Chinese Friendship Day",
       "description": "Raise a toast to celebrate Filipino-Chinese Friendship Day right here at National Today."
     },
     {
-      "title": "National Donald Duck Day",
-      "description": "Well, what do you give to a duck that has it all? His own holiday!"
+      "title": "National Cancer Thriver Day",
+      "description": "Observe National Cancer Thriver Day to celebrate those surviving cancer and those thriving after beating it!"
     },
     {
-      "title": "National Earl Day",
-      "description": "Mark this day by celebrating legends named Earl who have made history."
+      "title": "National Heroes Day Uganda",
+      "description": "Honor the brave who gave their lives for their country on National Heroes Day Uganda."
     },
     {
-      "title": "National Helen Day",
-      "description": "There’s something special about the name Helen. This National Helen Day, let’s dig into it!"
-    },
-    {
-      "title": "National Heroes Day of Uganda",
-      "description": "Honor the brave who gave their lives for their country on National Heroes Day of Uganda."
+      "title": "National Kids Day",
+      "description": "Celebrate National Kids Day by celebrating the precious kids in your life."
     },
     {
       "title": "National Krewe of Tucks Day",
@@ -41,10 +41,6 @@
     {
       "title": "National Meal Prep Day",
       "description": "Organize your kitchen and treat yourself to your favorite recipes on National Meal Prep Day."
-    },
-    {
-      "title": "National Mitchell Day",
-      "description": "Hey, Mitchel, what are you doing today? Today is the perfect day to celebrate your name!"
     },
     {
       "title": "National No Apologies Period Day",
@@ -59,12 +55,12 @@
       "description": "It’s time to please that sweet tooth as we celebrate this delicious dessert."
     },
     {
-      "title": "T. T. Bank Holiday",
-      "description": "Experience one of the most dangerous road racing championships on the planet."
+      "title": "Race Unity Day",
+      "description": "Bahá&#39;í is the original sponsor of Race Unity Day but it can be celebrated by anyone."
     },
     {
       "title": "Johnny Depp’s Birthday",
-      "description": "Johnny Deep has experienced many hardships but this talented actor continues to endure."
+      "description": "Johnny Deep has experienced many hardships but this talented actor continues to endure and thrive."
     },
     {
       "title": "Les Paul’s Birthday",
