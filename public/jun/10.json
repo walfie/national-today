@@ -3,12 +3,12 @@
   "day": 10,
   "holidays": [
     {
-      "title": "National Iced Tea Day",
-      "description": "We fill our glasses with iced tea (sweetened or unsweetened—that&#39;s your call) and celebrate."
+      "title": "Eat Flexitarian Day",
+      "description": null
     },
     {
-      "title": "National Rosé Day",
-      "description": "Celebrate summer, friends and all things pink on National Rosé Day!"
+      "title": "National Iced Tea Day",
+      "description": "We fill our glasses with iced tea (sweetened or unsweetened—that&#39;s your call) and celebrate."
     },
     {
       "title": "Abolition Day",
@@ -19,8 +19,16 @@
       "description": "Join us in celebrating the 154th year of horse racing at the Belmont Stakes."
     },
     {
-      "title": "Doll Day",
-      "description": "Bring out your dolls and reminisce about the good ol’ days."
+      "title": "Dragon Boat Festival",
+      "description": "Bring out the zongzi and the wine. Settle in for a journey back in time."
+    },
+    {
+      "title": "EHS Day",
+      "description": "National EHS Awareness Day is observed every year to spread awareness about electromagnetic hypersensitivity syndrome."
+    },
+    {
+      "title": "Martyrdom Day of Sri Guru Arjun Dev Ji",
+      "description": "Let’s honor Guru Arjun Dev Ji’s memory and remember his deeds, which bettered humanity."
     },
     {
       "title": "National Bae Day",
@@ -43,16 +51,8 @@
       "description": "Explore the origin, history, and fun trivia about the lively name Colt."
     },
     {
-      "title": "National Debra Day",
-      "description": "This day is dedicated to the Deborahs of the world; let’s celebrate."
-    },
-    {
       "title": "National Egg Roll Day",
       "description": "Join us as we unwrap the layers surrounding the origins of this delicious yet underrated treat."
-    },
-    {
-      "title": "National EHS Awareness Day",
-      "description": "National EHS Awareness Day is observed every year to spread awareness about electromagnetic hypersensitivity syndrome."
     },
     {
       "title": "National Herbs and Spices Day",
@@ -63,28 +63,16 @@
       "description": "Let’s celebrate the beautiful and archaic name — Isabel.  Read along to know more."
     },
     {
-      "title": "National Shawn Day",
-      "description": "National Shawn Day is a day to celebrate all the Shawns you know and love."
-    },
-    {
       "title": "Portugal Day",
       "description": "Learn about one of Europe&#39;s most powerful colonial empires and its liberation struggle."
     },
     {
+      "title": "Sacred Heart",
+      "description": "It’s all about the greatest love we’ve ever known this holiday, the love of Jesus Christ."
+    },
+    {
       "title": "Slavery Abolition Day (French Guiana)",
       "description": "Slavery Abolition Day commemorates the liberation of enslaved Africans in French Guiana."
-    },
-    {
-      "title": "Trooping The Colour",
-      "description": "We go BuckingHAM on the palace with the Trooping the Colour ceremony."
-    },
-    {
-      "title": "World Gin Day",
-      "description": "Join us as we celebrate the world’s favorite juniper-flavored spirit this World Gin Day."
-    },
-    {
-      "title": "Worldwide Knit in Public Day",
-      "description": "Join us as we stitch together a fun way to celebrate Worldwide Knit in Public Day!"
     },
     {
       "title": "Judy Garland’s Birthday",
