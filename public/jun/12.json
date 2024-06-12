@@ -3,28 +3,16 @@
   "day": 12,
   "holidays": [
     {
-      "title": "Eat Flexitarian Day",
-      "description": "Flex·i·tar·i·an (noun): a style of eating that encourages eating mostly plant-based foods while allowing meat and other animal products in moderation.  Eat Flexitarian Day, celebrated on…"
-    },
-    {
       "title": "National Loving Day",
-      "description": "We celebrate love and the Supreme Court&#39;s 1967 decision to strike down laws banning interracial marriage."
+      "description": null
     },
     {
-      "title": "Brazilian Valentine&#39;s Day",
-      "description": "Find out how Brazil’s culture has influenced a more intimate kind of Valentine&#39;s Day."
-    },
-    {
-      "title": "Chaco Armistice Day",
-      "description": "Chaco Armistice Day is observed annually in Paraguay to commemorate the Chaco War against Bolivia."
+      "title": "Chaco Armistice",
+      "description": "Chaco Armistice is observed annually in Paraguay to commemorate the Chaco War against Bolivia."
     },
     {
       "title": "Child Labor Day",
       "description": "Help us this World Day Against Child Labor to raise awareness about child labor."
-    },
-    {
-      "title": "Columbia Corpus Christi Holiday",
-      "description": "Colombia Corpus Christi is a day to celebrate the body of Christ."
     },
     {
       "title": "Democracy Day",
@@ -39,12 +27,8 @@
       "description": "National Button Battery Awareness Day remembers baby Reese, who died from swallowing a button battery."
     },
     {
-      "title": "National Dane Day",
+      "title": "National Great Dane Day",
       "description": "Do you know someone named Dane? Give him a call and start celebrating his day!"
-    },
-    {
-      "title": "National Esther Day",
-      "description": "Do you know someone named Esther? Don&#39;t miss celebrating their special day."
     },
     {
       "title": "National Jerky Day",
@@ -53,10 +37,6 @@
     {
       "title": "National Peanut Butter Cookie Day",
       "description": "Cookie lovers and peanut butter lovers unite to celebrate National Peanut Butter Cookie Day."
-    },
-    {
-      "title": "National Red Rose Day",
-      "description": "Go out and smell the roses, as we bring a new bloom to this timeless flower."
     },
     {
       "title": "Peace Day",
@@ -75,12 +55,20 @@
       "description": "While Raggedy Andy is popular, he never became as famous as Raggedy Ann!"
     },
     {
+      "title": "Red Rose Day",
+      "description": "Go out and smell the roses, as we bring a new bloom to this timeless flower."
+    },
+    {
       "title": "Russia Day",
       "description": "Learn about Russia’s Independence Day, its new meaning, and what the citizens think of it."
     },
     {
       "title": "Superman Day",
       "description": "Join us as we celebrate and learn about everyone’s favorite Kryptonian!"
+    },
+    {
+      "title": "Valentine&#39;s Day in Brazil",
+      "description": "Find out how Brazil’s culture has influenced a more intimate kind of Valentine&#39;s Day."
     },
     {
       "title": "White Nights Festival in St. Petersburg",
