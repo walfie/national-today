@@ -4,15 +4,23 @@
   "holidays": [
     {
       "title": "World Elder Abuse Awareness Day",
-      "description": "It&#39;s hard to imagine anyone deliberately harming an elderly person, but unfortunately, it&#39;s a widespread problem."
+      "description": null
     },
     {
       "title": "Beer Day Britain",
       "description": "Nothing gets a Brit going like a pint of beer and a cause for celebration!"
     },
     {
+      "title": "​Day of Arafah",
+      "description": "Pilgrimage is a pillar of Islam, so the Day of Arafah holds much weight for Muslims."
+    },
+    {
       "title": "Global Wind Day",
       "description": "Help save the planet and boost the international economy through wind power this Global Wind Day."
+    },
+    {
+      "title": "International Surfing Day",
+      "description": "Hang onto your surfboard as we dive into the fun facts about International Surfing Day."
     },
     {
       "title": "Magna Carta Day",
@@ -23,12 +31,8 @@
       "description": "Although they&#39;re not particularly dangerous, lice certainly cause a lot of irritation and distress."
     },
     {
-      "title": "National Career Nurse Assistants Day",
-      "description": "Celebrate and honor nurse assistants with our tips and suggestions."
-    },
-    {
-      "title": "National Marina Day",
-      "description": "Call your favorite Marina and find fun ways to celebrate this name day together."
+      "title": "National Dog Dad Day",
+      "description": "This day is for you and your beloved dog. Grab your pupper and enjoy it!"
     },
     {
       "title": "National Megalodon Day",
@@ -51,12 +55,16 @@
       "description": "Learn more about nature and enjoy capturing it at its best over the warm summer months."
     },
     {
-      "title": "Sneak A Kiss",
+      "title": "Sneak A Kiss Day",
       "description": "Do you feel like kissing your partner? Today is perfect for sneaking in a kiss!"
     },
     {
-      "title": "World Tapas Day",
-      "description": "Everyone, gather around the table. It’s time for some delicious Tapas!"
+      "title": "Trooping The Colour",
+      "description": "We go BuckingHAM on the palace with the Trooping the Colour ceremony."
+    },
+    {
+      "title": "World Juggling Day",
+      "description": "Discover the wonders of juggling as an art that has enticed many since its inception."
     },
     {
       "title": "YMA Day",
