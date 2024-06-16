@@ -3,6 +3,10 @@
   "day": 16,
   "holidays": [
     {
+      "title": "Father&#39;s Day",
+      "description": null
+    },
+    {
       "title": "National Fudge Day",
       "description": "&#34;Oh, fudge!&#34; said a confectioner who flubbed while making caramel, ending up creating something equally tasty."
     },
@@ -15,8 +19,20 @@
       "description": "Commemorating the life and legend of Irish writer James Joyce on Bloomsday."
     },
     {
+      "title": "BoxKart Bash Day",
+      "description": "Unleash your creativity and test your bravery and D.I.Y. skills this BoxKart Bash Day."
+    },
+    {
       "title": "Fresh Veggies Day",
       "description": "Celebrate Fresh Veggies Day today by including them in your meals to live a healthy lifestyle."
+    },
+    {
+      "title": "Guru Rinpoche Day",
+      "description": "On this day, Guru Rinpoche, who is credited with spreading Buddhism to Bhutan, is honored."
+    },
+    {
+      "title": "Hari Raya Haji",
+      "description": "It’s story-time as we celebrate an Islamic tale of devotion that birthed a worldwide event."
     },
     {
       "title": "International Day of Family Remittances",
@@ -43,12 +59,20 @@
       "description": "Are you ready to celebrate this day? Call someone named Muhammad and start having fun together."
     },
     {
-      "title": "National Richard Day",
-      "description": "If you know someone named Richard, today is the day to reach out and celebrate them."
+      "title": "National Turkey Lovers Day",
+      "description": "Join the tribe of turkey lovers and make some fun dishes this Turkey Lovers’ Day."
     },
     {
-      "title": "National Take Back the Lunch Break Day",
-      "description": "Want to know why you need to take a lunch break? Read on..."
+      "title": "Sacrifice Feast Eve",
+      "description": "It is our prayer that Allah accepts your sacrifice and fulfills your desires in life."
+    },
+    {
+      "title": "Tabaski Day",
+      "description": "It’s time to bow in prayer as we celebrate the Tabaski holiday!"
+    },
+    {
+      "title": "Waqfat Arafat Day",
+      "description": "Let us explore the history behind Waqfat Arafat Day and understand its significance."
     },
     {
       "title": "World Sea Turtle Day",
@@ -60,7 +84,7 @@
     },
     {
       "title": "Tupac’s Birthday",
-      "description": "He sold 75 million records, and positioned himself as a voice of social and racial justice."
+      "description": "He sold 75 million records and positioned himself as a voice for social and racial justice."
     },
     {
       "title": "JJ Subia’s Birthday",
