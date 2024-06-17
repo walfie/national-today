@@ -3,8 +3,16 @@
   "day": 17,
   "holidays": [
     {
+      "title": "Eid al-Adha",
+      "description": null
+    },
+    {
       "title": "National Eat Your Vegetables Day",
       "description": "Whether you’re digging into a salad or trying kale for the first time, celebrate those veggies!"
+    },
+    {
+      "title": "Take Your Cat to Work Day",
+      "description": "We show our cats the world on the other side of the window."
     },
     {
       "title": "Bunker Hill Day",
@@ -15,16 +23,20 @@
       "description": "Martín Miguel de Güemes played a key role in the decisive triumphs during the Argentine Revolution."
     },
     {
+      "title": "Eid-e-Ghorban",
+      "description": "To all of our Muslim brothers and sisters around the world, a happy Eid-e-Ghorban."
+    },
+    {
+      "title": "Gerald Day",
+      "description": "Few people know these facts about the name Gerald. Let’s dive deep on Gerald Day!"
+    },
+    {
       "title": "Global Garbage Man Day",
       "description": "Celebrate Global Garbage Man Day by offering smiles and appreciation to these hard workers!"
     },
     {
       "title": "Iceland Independence Day",
       "description": "Iceland Independence Day is a celebration of the country’s freedom from Denmark."
-    },
-    {
-      "title": "International Surfing Day",
-      "description": "Hang onto your surfboard as we dive into the fun facts about International Surfing Day."
     },
     {
       "title": "Miguel de Guemes Day",
@@ -35,16 +47,8 @@
       "description": "Take part in the sweet celebration of apple strudel on June 17."
     },
     {
-      "title": "National Dog Dad Day",
-      "description": "This day is for you and your beloved dog. Grab your pupper and enjoy it!"
-    },
-    {
       "title": "National Dump the Pump Day",
       "description": "Let’s do our part for the environment and the future generations this Dump the Pump Day!"
-    },
-    {
-      "title": "National Gerald Day",
-      "description": "Few people know these facts about the name Gerald. Let’s dive deep on National Gerald Day!"
     },
     {
       "title": "national harrison day",
@@ -77,10 +81,6 @@
     {
       "title": "World Day to Combat Desertification and Drought",
       "description": "Take the chance to be a hero and join the fight to preserve our environment."
-    },
-    {
-      "title": "World Juggling Day",
-      "description": "Discover the wonders of juggling as an art that has enticed many since its inception."
     },
     {
       "title": "World Tessellation Day",
