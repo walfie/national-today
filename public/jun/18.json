@@ -3,20 +3,12 @@
   "day": 18,
   "holidays": [
     {
-      "title": "Father&#39;s Day",
-      "description": "Without fathers, who would wear ‘dad jeans,’ or tell the same somewhat amusing jokes at Thanksgiving?"
-    },
-    {
       "title": "International Sushi Day",
-      "description": "Raw fish didn’t initially sound appetizing but now we can’t get enough of it."
+      "description": null
     },
     {
-      "title": "National Go Fishing Day",
+      "title": "National Fishing Day",
       "description": "Fishing is a recreational pastime, and if you’re lucky, you can bring home a fresh catch."
-    },
-    {
-      "title": "BoxKart Bash Day",
-      "description": "Unleash your creativity and test your bravery and D.I.Y. skills this BoxKart Bash Day."
     },
     {
       "title": "Clean Your Aquarium Day",
@@ -69,10 +61,6 @@
     {
       "title": "Sustainable Gastronomy Day",
       "description": "This Sustainable Gastronomy Day, let’s promote the use of clean energy by local restaurants!"
-    },
-    {
-      "title": "Turkey Lovers’ Day",
-      "description": "Join the tribe of turkey lovers and make some fun dishes this Turkey Lovers’ Day."
     },
     {
       "title": "Wear BLUE Day",
