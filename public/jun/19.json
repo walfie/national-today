@@ -4,18 +4,14 @@
   "holidays": [
     {
       "title": "Juneteenth",
-      "description": "The freedom of African Americans from slavery in the U.S. in 1865 is celebrated."
+      "description": null
     },
     {
       "title": "National Martini Day",
       "description": "Do you prefer it dry, dirty, shaken, or not stirred?"
     },
     {
-      "title": "National Take Your Cat to Work Day",
-      "description": "We show our cats the world on the other side of the window."
-    },
-    {
-      "title": "Artigas Birthday",
+      "title": "Artigas Day",
       "description": "Honor the sacrifices of José Gervasio Artigas and uphold his contributions to Uruguay on Artigas’ Birthday."
     },
     {
@@ -39,15 +35,11 @@
       "description": "Can you imagine a world without watches? We can’t either!"
     },
     {
-      "title": "Sacred Heart",
-      "description": "It’s all about the greatest love we’ve ever known this holiday, the love of Jesus Christ."
-    },
-    {
       "title": "World Sauntering Day",
       "description": "This World Sauntering Day, head out for a stroll and enjoy the beauty of nature."
     },
     {
-      "title": "World Sickle Cell Awareness Day",
+      "title": "World Sickle Cell Day",
       "description": "It’s time to shine the light on sickle cell disease and spread awareness."
     },
     {
