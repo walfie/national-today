@@ -3,8 +3,12 @@
   "day": 20,
   "holidays": [
     {
-      "title": "National American Eagle Day",
-      "description": "Let’s learn about the pride of the American skies as we behold the majestic bald eagle."
+      "title": "American Eagle Day",
+      "description": null
+    },
+    {
+      "title": "Summer Solstice",
+      "description": "On the Summer Solstice the sun stays in the sky the longest it will all year."
     },
     {
       "title": "Ugliest Dog Day",
@@ -15,8 +19,12 @@
       "description": "For refugees, fleeing their home country is often just the beginning of a difficult journey."
     },
     {
-      "title": "International Nystagmus Day",
-      "description": "Learn how you can contribute to improving the lives of people with nystagmus."
+      "title": "Flag Day Argentina",
+      "description": "The day commemorates Manuel Belgrano, the man who designed Argentina’s current flag."
+    },
+    {
+      "title": "Kouign Amann Day",
+      "description": "Celebrate National Kouign Amann Day and learn to transform this simple tea-time snack into a delectable dessert."
     },
     {
       "title": "Martyrs&#39; Day in Eritrea",
@@ -27,24 +35,12 @@
       "description": "This holiday raises awareness about a non-toxic, non-invasive alternative to medications and surgical intervention."
     },
     {
-      "title": "National Flag Day in Argentina",
-      "description": "The day commemorates Manuel Belgrano, the man who designed Argentina’s current flag."
-    },
-    {
       "title": "National Hike with a Geek Day",
       "description": "Explore your nearest hiking trail with a geeky friend on National Hike with a Geek Day."
     },
     {
       "title": "National Ice Cream Soda Day",
       "description": "Celebrate ice cream soda by learning how it originated and which flavors are the most popular."
-    },
-    {
-      "title": "National Jimmy Day",
-      "description": "Today, we are honoring the loyal, dependable, and always approachable Jimmys of the world."
-    },
-    {
-      "title": "National Kouign Amann Day",
-      "description": "Celebrate National Kouign Amann Day and learn to transform this simple tea-time snack into a delectable dessert."
     },
     {
       "title": "National Vanilla Milkshake Day",
@@ -55,12 +51,20 @@
       "description": "There is so much that West Virginia has that its residents can be proud of."
     },
     {
-      "title": "Rath Yatra",
-      "description": "A mere touch of the chariot can confer the blessings of Lord Jagannath upon you."
+      "title": "National Yard Games Day",
+      "description": "Get some chilled beverages, gather your friends, head to the yard, and play some yard games."
+    },
+    {
+      "title": "Nystagmus Awareness Day",
+      "description": "Learn how you can contribute to improving the lives of people with nystagmus."
     },
     {
       "title": "World Productivity Day",
       "description": "Want to be more productive? Here’s how to get stuff done today!"
+    },
+    {
+      "title": "World Tapas Day",
+      "description": "Everyone, gather around the table. It’s time for some delicious Tapas!"
     },
     {
       "title": "Alex Guarnaschelli’s Birthday",
