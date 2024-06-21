@@ -4,15 +4,19 @@
   "holidays": [
     {
       "title": "International Yoga Day",
-      "description": "International Yoga Day celebrates the physical and spiritual prowess that yoga has brought to the world."
+      "description": null
     },
     {
       "title": "National Selfie Day",
       "description": "Time to find the perfect angle, try out that new filter, and freshen up your socials!"
     },
     {
-      "title": "Summer Solstice",
-      "description": "On the Summer Solstice the sun stays in the sky the longest it will all year."
+      "title": "National Take Your Dog to Work Day",
+      "description": "As you run out the door, don’t forget your briefcase and a doggie bag."
+    },
+    {
+      "title": "National Wagyu Day",
+      "description": "Savor the exquisite flavors and melt-in-your-mouth experience of Wagyu."
     },
     {
       "title": "World Day of Music",
@@ -63,12 +67,12 @@
       "description": "Indulge your cravings with some cookie dough on National Cookie Dough Day."
     },
     {
-      "title": "National Day of Indigenous People",
-      "description": "Join us in celebration of this day which honors the unique culture of indigenous people."
-    },
-    {
       "title": "National Day of the Gong",
       "description": "Ring a gong, ring a gong! It’s National Day of the Gong."
+    },
+    {
+      "title": "National Day of the Indigenous People in Chile",
+      "description": "Join us in celebration of this day which honors the unique culture of indigenous people."
     },
     {
       "title": "National Daylight Appreciation Day",
@@ -79,7 +83,7 @@
       "description": "You’re invited to the woof woof party of the year — be sure to bring a friend!"
     },
     {
-      "title": "National Peaches ‘N’ Cream Day",
+      "title": "National Peaches and Cream Day",
       "description": "It’s that time of the year where we indulge in this traditional and delicious summertime dessert."
     },
     {
@@ -91,12 +95,12 @@
       "description": "Mix your favorite sweet juices and express your own personal take on the taste of summer."
     },
     {
-      "title": "National Yard Games Day",
-      "description": "Get some chilled beverages, gather your friends, head to the yard, and play some yard games."
+      "title": "National Take Back the Lunch Break Day",
+      "description": "Want to know why you need to take a lunch break? Read on..."
     },
     {
-      "title": "Reserves Day",
-      "description": "Let all your activities today show your gratitude to the Reservist arm of the military."
+      "title": "Poson Festival",
+      "description": "Held at full moon, this day commemorates the introduction of Buddhism to Sri Lanka."
     },
     {
       "title": "Shades for Migraine",
@@ -137,6 +141,10 @@
     {
       "title": "Sofie Dossi’s Birthday",
       "description": "This young gymnast’s unique talent will take her to places where success awaits her."
+    },
+    {
+      "title": "Steve Haddadin’s Birthday",
+      "description": "Celebrate this passionate entrepreneur and leading expert in the luxury real estate market."
     }
   ]
 }
