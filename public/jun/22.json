@@ -3,6 +3,10 @@
   "day": 22,
   "holidays": [
     {
+      "title": "ARRL Field Day",
+      "description": null
+    },
+    {
       "title": "National Kissing Day",
       "description": "Pucker up! National Kissing Day is all about showing your love and improving your health."
     },
@@ -23,10 +27,6 @@
       "description": "Let’s talk about a dying art in today’s world — kindness. Learn more about kindness right here with us!"
     },
     {
-      "title": "Dragon Boat Festival",
-      "description": "Bring out the zongzi and the wine. Settle in for a journey back in time."
-    },
-    {
       "title": "Glastonbury Festival",
       "description": "Glastonbury Festival is an iconic cavalcade of arts that must not be missed."
     },
@@ -43,8 +43,20 @@
       "description": "When life deals you lemons, make Limoncello out of them. Celebrate National Limoncello day today!"
     },
     {
+      "title": "National Pride Prom Day",
+      "description": "Dance with pride as we celebrate diversity, inclusion, and acceptance."
+    },
+    {
       "title": "Positive Media Day",
       "description": "For a change, let’s not look at negativity today — makes sense?"
+    },
+    {
+      "title": "Sant Guru Kabir Jayanti",
+      "description": "This national event in India is an opportunity to honor the legacy of this mystic poet."
+    },
+    {
+      "title": "Summersgiving Day",
+      "description": "We honor and celebrate life, love, and friendship, during this heartwarming national holiday."
     },
     {
       "title": "Windrush Day",
