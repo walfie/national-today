@@ -4,15 +4,7 @@
   "holidays": [
     {
       "title": "National Porridge Day",
-      "description": "Celebrate the origins and health benefits of this rich and delicious breakfast dish."
-    },
-    {
-      "title": "National Take Your Dog to Work Day",
-      "description": "As you run out the door, don’t forget your briefcase and a doggie bag."
-    },
-    {
-      "title": "Estonia Victory Day",
-      "description": "The beautiful country had to fight many wars before it became free and happy."
+      "description": null
     },
     {
       "title": "International Olympic Day",
@@ -23,6 +15,10 @@
       "description": "On this International Widows Day, let us commit to giving the support widows need."
     },
     {
+      "title": "International Women in Engineering Day",
+      "description": "Today’s a great day to celebrate the women in STEM even more than we usually do."
+    },
+    {
       "title": "Jura Independence Day",
       "description": "Buckle up! It’s time to learn about freedom and independence this Jura Independence Day!"
     },
@@ -31,7 +27,7 @@
       "description": "“Don’t ruin a new day by thinking about yesterday. Let it go.”"
     },
     {
-      "title": "National Day of Luxembourg",
+      "title": "Luxembourg National Day",
       "description": "Let&#39;s get ready to celebrate the Grand Duke/Duchess of Luxembourg&#39;s official birthday!"
     },
     {
@@ -41,6 +37,10 @@
     {
       "title": "National Family Owned &amp; Operated Businesses Day",
       "description": "Find out why family businesses are invaluable to the economy and often have a long history."
+    },
+    {
+      "title": "National Fatherless Children’s Day",
+      "description": "Join us in raising awareness about the detrimental effects that fatherless children face around the world."
     },
     {
       "title": "National Hydration Day",
@@ -59,6 +59,10 @@
       "description": "We’re using the day to celebrate the written word!"
     },
     {
+      "title": "Pentecost Orthodox",
+      "description": "Pentecost Orthodox is celebrated fifty days after Easter in the Orthodox Church."
+    },
+    {
       "title": "Pink Flamingo Day",
       "description": "Find out why many homeowners love decorating their gardens with these quirky pink ornaments."
     },
@@ -67,8 +71,8 @@
       "description": "Emphasize the public service contribution to the development process and recognize the work of public servants."
     },
     {
-      "title": "Women in Engineering Day",
-      "description": "Today’s a great day to celebrate the women in STEM even more than we usually do."
+      "title": "Victory Day Estonia",
+      "description": "The beautiful country had to fight many wars before it became free and happy."
     },
     {
       "title": "Brawadis’s Birthday",
