@@ -3,16 +3,24 @@
   "day": 24,
   "holidays": [
     {
-      "title": "ARRL Field Day",
-      "description": "An opportunity for amateur radio enthusiasts to setup temporary communications stations and contact like-minded people."
+      "title": "St. Jean Baptiste Day",
+      "description": null
     },
     {
-      "title": "Saint-Jean-Baptiste Day",
-      "description": "The traditional feast day of the Nativity — or birth — of St. John the Baptist, is honored."
+      "title": "Armed Forces Day (U.K.)",
+      "description": "Show your gratitude and admiration for the U.K. armed forces today."
+    },
+    {
+      "title": "Eid-e-Ghadir",
+      "description": "Eid-e-Ghadir is a day of celebration and remembrance for Shia Muslims all over the world."
     },
     {
       "title": "Farmer Day",
       "description": "Join us as we thank Peru&#39;s farmers for keeping Peruvian markets well-stocked."
+    },
+    {
+      "title": "Holy Spirit Monday",
+      "description": "Today, the faithful celebrate the descension of the Holy Spirit."
     },
     {
       "title": "International Fairy Day",
@@ -35,14 +43,6 @@
       "description": "Midsummer is a time of pure merriment with food, drinking, and dancing!"
     },
     {
-      "title": "Midsummer Day",
-      "description": "It’s not every night you get to see the Midnight Sun!"
-    },
-    {
-      "title": "National Kenneth Day",
-      "description": "Kenneth is a name with a great history behind it, and equally great men carrying it."
-    },
-    {
       "title": "National Le Day",
       "description": "Join us as we explore the origins of the name, Le, and its meaning."
     },
@@ -55,8 +55,8 @@
       "description": "Drop your stereotypes, adopt this new perception, and give your partner equitable treatment."
     },
     {
-      "title": "National Summersgiving Day",
-      "description": "We honor and celebrate life, love, and friendship, during this heartwarming national holiday."
+      "title": "Orthodox Pentecost Monday",
+      "description": "Today is the day to prepare a lavish feast to honor the Holy Spirit."
     },
     {
       "title": "St John&#39;s Day (Venezuela)",
