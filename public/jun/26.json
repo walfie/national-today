@@ -4,15 +4,11 @@
   "holidays": [
     {
       "title": "National Sarah Day",
-      "description": "Learn more about the amazing history of Sarah and the people who bear that name."
+      "description": null
     },
     {
       "title": "Azerbaijan Armed Forces Day",
       "description": "Let us join in the festivities to celebrate Azerbaijan Armed Forces Day."
-    },
-    {
-      "title": "Canoe Day",
-      "description": "Gear up with a paddle and life jacket, it’s time to celebrate National Canoe Day."
     },
     {
       "title": "Flag Day of Romania",
@@ -35,20 +31,32 @@
       "description": "Let us prepare to celebrate the U.P.C. —  the code that simplifies our shopping."
     },
     {
-      "title": "National Beautician’s Day",
-      "description": "Beautify your beautician’s day by taking your hat off for them for their great work!"
+      "title": "National Beautician Day",
+      "description": "Beautify your beautician day by taking your hat off for them for their great work!"
+    },
+    {
+      "title": "National Canoe Day",
+      "description": "Gear up with a paddle and life jacket, it’s time to celebrate National Canoe Day."
     },
     {
       "title": "National Chocolate Pudding Day",
       "description": "If you had chocolate pudding in your lunch sack, you knew you had top currency."
     },
     {
+      "title": "National Day of Joy",
+      "description": "Look within and around you — what makes you happy might just be an inch away."
+    },
+    {
+      "title": "National Parchment Day",
+      "description": "Bring innovation and convenience back to the kitchen with parchment paper!"
+    },
+    {
       "title": "National Report Trade Agreement Act Fraud Day",
       "description": "Join us to fight the good fight against all fraudulent activities in America today."
     },
     {
-      "title": "national zachary day",
-      "description": "Take a look at the name Zachary, and explore its association with creative personalities."
+      "title": "Reserves Day",
+      "description": "Let all your activities today show your gratitude to the Reservist arm of the military."
     },
     {
       "title": "Somalia Independence Day",
@@ -96,7 +104,7 @@
     },
     {
       "title": "Jessica Batten’s Birthday",
-      "description": "Batten has no regrets about following her heart and urges others to do the same."
+      "description": "Jessica Batten has no regrets about following her heart and urges others to do the same."
     },
     {
       "title": "King Bach’s Birthday",
