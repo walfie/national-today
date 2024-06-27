@@ -4,19 +4,19 @@
   "holidays": [
     {
       "title": "National Bingo Day",
-      "description": "Nearly everyone who grew up during the late 20th century is familiar with Bingo."
+      "description": null
     },
     {
       "title": "National Sunglasses Day",
       "description": "Grab your best sunglasses and make waves at the pool, beach, or walking down the street."
     },
     {
-      "title": "Attwari",
-      "description": "Let us join the Tharu people in celebrating the Attwari festival to promote love and unity."
+      "title": "National Work From Home Day",
+      "description": "We celebrate technology that allows any office job can be done at home, in our pajamas!"
     },
     {
-      "title": "​Day of Arafah",
-      "description": "Pilgrimage is a pillar of Islam, so the Day of Arafah holds much weight for Muslims."
+      "title": "Attwari",
+      "description": "Let us join the Tharu people in celebrating the Attwari festival to promote love and unity."
     },
     {
       "title": "Day of National Unity (Tajikistan)",
@@ -43,16 +43,20 @@
       "description": "Let us use this day to learn more about business and entrepreneurial spirit."
     },
     {
+      "title": "National Bomb Pop Day",
+      "description": "Summer is here in full force so, to help combat the heat, we present this treat."
+    },
+    {
+      "title": "National Handshake Day",
+      "description": "Join us as we take a closer look at the handshake, unwrapping the different meanings behind it."
+    },
+    {
       "title": "National HIV Testing Day",
       "description": "This day raises awareness about the importance of testing for HIV and getting an early diagnosis."
     },
     {
       "title": "National Ice Cream Cake Day",
       "description": "Get excited about this amazing union of frozen yumminess with us."
-    },
-    {
-      "title": "National Jim Day",
-      "description": "It&#39;s time to recognize and give thanks to all the Jims in your life and worldwide."
     },
     {
       "title": "National Onion Day",
@@ -63,12 +67,12 @@
       "description": "The orange blossom adds a wonderful citrusy fragrance to various products."
     },
     {
-      "title": "National PTSD Awareness Day",
-      "description": "We talk about PTSD, a complex disorder caused by experiencing or witnessing trauma."
-    },
-    {
       "title": "National Women’s Fly Fishing Day",
       "description": "Women can do anything they set their minds to, and that includes fly fishing!"
+    },
+    {
+      "title": "PTSD Awareness Day",
+      "description": "We talk about PTSD, a complex disorder caused by experiencing or witnessing trauma."
     },
     {
       "title": "Tajikistan Unity Day",
