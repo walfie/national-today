@@ -4,19 +4,15 @@
   "holidays": [
     {
       "title": "Hug Holiday",
-      "description": "A simple way to express many different types of affection, from friendly, to intimate, to familial."
-    },
-    {
-      "title": "National Work From Home Day",
-      "description": "We celebrate technology that allows any office job can be done at home, in our pajamas!"
+      "description": null
     },
     {
       "title": "Central Province Day",
       "description": "To the residents of the Central Province, we wish you a happy Second Appointed Day anniversary!"
     },
     {
-      "title": "Eid-e-Ghorban",
-      "description": "To all of our Muslim brothers and sisters around the world, a happy Eid-e-Ghorban."
+      "title": "Feast Day of Saints Peter and Paul",
+      "description": "Let’s prepare to honor the martyrdom of St. Peter and St. Paul."
     },
     {
       "title": "Internal Autonomy Day",
@@ -35,16 +31,16 @@
       "description": "Get your old clothes ready to dive in some mud and celebrate International Mud Day!"
     },
     {
+      "title": "Midsummer Day",
+      "description": "It’s not every night you get to see the Midnight Sun!"
+    },
+    {
       "title": "National Almond Buttercrunch Day",
       "description": "Get to know more about almond buttercrunch and the fun you can have with it."
     },
     {
       "title": "National Bacon Burnt End Day",
       "description": "Everyone loves crispy bacon but today, we&#39;re focusing on bacon-burned ends."
-    },
-    {
-      "title": "National Bomb Pop Day",
-      "description": "Summer is here in full force so, to help combat the heat, we present this treat."
     },
     {
       "title": "National Camera Day",
@@ -55,43 +51,27 @@
       "description": "Join us as we celebrate Bill Kirchen, the “Titan of the Telecaster,” on National Dieselbilly Day."
     },
     {
-      "title": "National Fred Day",
-      "description": "Join us in celebrating all the Freds of the world this National Fred Day!"
-    },
-    {
-      "title": "National Gordon Day",
-      "description": "Let&#39;s celebrate National Gordon Day to honor and appreciate every Gordon we know."
-    },
-    {
       "title": "National Guy Day",
       "description": "Join us as we remember all the special Guys out there this National Guy Day!"
-    },
-    {
-      "title": "National Handshake Day",
-      "description": "Join us as we take a closer look at the handshake, unwrapping the different meanings behind it."
-    },
-    {
-      "title": "National Nash Day",
-      "description": "Come and join us as we celebrate the Nashes of the nation this National Nash Day."
     },
     {
       "title": "National Waffle Iron Day",
       "description": "Explore this day to learn exciting new recipes for making waffles with a modern twist."
     },
     {
-      "title": "Saint Peter and Saint Paul Day",
-      "description": "Let’s prepare to honor the martyrdom of St. Peter and St. Paul."
-    },
-    {
       "title": "Saint Peter and Saint Paul Day (Chile)",
       "description": "It’s Saint Peter and Saint Paul Day. Learn more about these two revered Catholic saints."
+    },
+    {
+      "title": "San Francisco&#39;s Birthday",
+      "description": "Celebrate the city renowned for its steep rolling hills, eclectic architecture, and iconic landmarks."
     },
     {
       "title": "Seychelles Independence Day",
       "description": "Seychelles Independence Day is a commemoration of this nation reclaiming its freedom."
     },
     {
-      "title": "St Peters Day",
+      "title": "St Peter&#39;s Day",
       "description": "Get ready to partake in the special masses and festivities to mark St. Peter’s Day!"
     },
     {
