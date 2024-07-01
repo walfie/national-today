@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "International Joke Day",
-      "description": "I tell ya, muggers are jerks, but you still gotta hand it to them. (Laugh track!)"
+      "description": null
     },
     {
       "title": "American Zoo Day",
@@ -15,16 +15,16 @@
       "description": "This Bank Employee Day, let’s get ready to appreciate and celebrate these unsung heroes."
     },
     {
-      "title": "Blink 182 Day",
-      "description": "We’re rocking and rolling as we groove to the tunes of this popular band."
-    },
-    {
       "title": "Burundi Independence Day",
       "description": "Burundi Independence Day is a celebration of the struggles for independence."
     },
     {
       "title": "Canada Day",
       "description": "All those who celebrate Canada as their home and native land celebrate Canada Day"
+    },
+    {
+      "title": "Caribbean Community Day",
+      "description": "Today, we brush up on our knowledge of the Caribbean Community and celebrate these beautiful islands."
     },
     {
       "title": "CPC Founding Day",
@@ -47,24 +47,16 @@
       "description": "Wondering how to best honor Ghanaian  Republic Day? We have some suggestions for you."
     },
     {
+      "title": "Heroes&#39; Day of Zambia",
+      "description": "Today is the day to remember those who fought in the struggle for Zambia&#39;s independence."
+    },
+    {
       "title": "Hong Kong Special Administrative Region Establishment Day",
       "description": "Celebrate Hong Kong’s freedom from colonial Britain on Hong Kong Special Administrative Region Establishment Day."
     },
     {
-      "title": "Hop A Park Day",
-      "description": "Plan a day of serious relaxation and fun for Hop A Park Day!"
-    },
-    {
-      "title": "International Cherry Pit Spitting Day",
-      "description": "Show the world how talented you are and spit that cherry pit with all your might."
-    },
-    {
       "title": "International Chicken Wing Day",
       "description": "Treat yourself and your taste buds with this widely popular scrumptious snack."
-    },
-    {
-      "title": "International Day of Cooperatives",
-      "description": "We promise to “rebuild better together” on International Day of Cooperatives."
     },
     {
       "title": "International Reggae Day",
@@ -83,6 +75,10 @@
       "description": "Knowing the history of Madeira, now is the best time to visit the region."
     },
     {
+      "title": "Mother&#39;s Day South Sudan",
+      "description": "Chocolates, cards, or flowers — however you choose to thank your mother, make sure she is pampered."
+    },
+    {
       "title": "National Baby-Led Weaning Day",
       "description": "Celebrate National Baby-Led Weaning Day by learning about infant feeding and development."
     },
@@ -99,10 +95,6 @@
       "description": "Beat your hunger pangs with this delicious treat on National Gingersnap Day."
     },
     {
-      "title": "NATIONAL HOP-A-PARK DAY",
-      "description": "Pack some books or pastries, leave your gadgets at home and visit your favorite park today."
-    },
-    {
       "title": "National Postal Workers Day",
       "description": "You’ve got mail! Now it’s time to thank the people responsible for that."
     },
@@ -113,10 +105,6 @@
     {
       "title": "National U.S. Postage Stamp Day",
       "description": "Pucker up and get ready to lick some postage stamps, ladies and gentlemen."
-    },
-    {
-      "title": "National Wrong Trousers Day",
-      "description": "Whether in pajamas, trunks, or ’60s flares, you’re going to want to be part of this day!"
     },
     {
       "title": "Second Second Half of the Year Day",
@@ -139,24 +127,28 @@
       "description": "Celebrate one of the most important occasions by indulging your great feeling of national pride."
     },
     {
-      "title": "The Day of Dombyra",
-      "description": "Put on your dancing shoes; it&#39;s time to celebrate the Day of Dombyra!"
+      "title": "The Feast of Saints Peter and Paul",
+      "description": "We celebrate this day as part of a solemn reminder of Christianity’s history."
     },
     {
       "title": "Virgin Islands Day",
       "description": "Be ready to sun tan while enjoying these magnificent islands with incredible beaches!"
     },
     {
+      "title": "Wrong Trousers Day",
+      "description": "Whether in pajamas, trunks, or ’60s flares, you’re going to want to be part of this day!"
+    },
+    {
       "title": "ZIP Code Day",
       "description": "Let’s appreciate the system that ensures our mail gets delivered to the correct location."
     },
     {
-      "title": "Chris the Meme God’s Birthday",
-      "description": "He’s a household name for fans of YouTube challenges; his jokes and playful personality endear him."
-    },
-    {
       "title": "Jack Avery’s Birthday",
       "description": "He’s a talented, determined, and hard-working entertainer, and there’s no stopping him from taking off."
+    },
+    {
+      "title": "Chris (Kris) the Meme God’s Birthday",
+      "description": "She&#39;s a household name for fans of YouTube challenges; their jokes and playful personality endear her to many."
     },
     {
       "title": "Liv Tyler’s Birthday",
