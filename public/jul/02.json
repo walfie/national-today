@@ -4,15 +4,7 @@
   "holidays": [
     {
       "title": "World UFO Day",
-      "description": "The truth is out there. What do you believe?"
-    },
-    {
-      "title": "Build A Scarecrow Day",
-      "description": "Celebrate Build A Scarecrow Day by getting creative and building your own."
-    },
-    {
-      "title": "First Day of NAIDOC Week",
-      "description": "A time to enjoy live Indigenous Australian music, art competitions, and storytelling."
+      "description": null
     },
     {
       "title": "Freedom From Fear of Speaking Day",
@@ -45,6 +37,10 @@
     {
       "title": "Special Recreation for the Disabled Day",
       "description": "Special Recreation for the Disabled Day highlights the importance of recreational activities for the disabled."
+    },
+    {
+      "title": "Unity Day Zambia",
+      "description": "Celebrate Zambia Unity Day, a day designed to promote unity among the country’s various local groupings."
     },
     {
       "title": "World Sports Journalists Day",
