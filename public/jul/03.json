@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Stay Out of the Sun Day",
-      "description": "Hang up your beach towels, don your coziest attire and prepare for a Netflix marathon."
+      "description": null
     },
     {
       "title": "Air Conditioning Appreciation Day",
@@ -15,24 +15,12 @@
       "description": "Find out about redneck culture and get into the swing of things on this fun day."
     },
     {
-      "title": "Asalha Puja",
-      "description": "Asalha Puja commemorates Buddha&#39;s first sermon after enlightenment."
-    },
-    {
       "title": "Belarus Independence Day",
       "description": "Love festivities? Find out how to celebrate Belarusian culture with these tips and information."
     },
     {
       "title": "Disobedience Day",
       "description": "“Disobedience is the true foundation of liberty. The obedient must be slaves” — curious to know more?"
-    },
-    {
-      "title": "Esala Full Moon Poya",
-      "description": "Esala Full Moon Poya commemorates Buddha&#39;s first sermon, in which he uttered the Four Noble Truths."
-    },
-    {
-      "title": "Heroes&#39; Day of Zambia",
-      "description": "Today is the day to remember those who fought in the struggle for Zambia&#39;s independence."
     },
     {
       "title": "International Drop a Rock Day",
@@ -43,10 +31,6 @@
       "description": "A global initiative that aims to eliminate the use of plastic bags."
     },
     {
-      "title": "Mother&#39;s Day South Sudan",
-      "description": "Chocolates, cards, or flowers — however you choose to thank your mother, make sure she is pampered."
-    },
-    {
       "title": "National Chocolate Wafer Day",
       "description": "They are light, crispy, and simply delicious! We are talking about everyone’s favorite — chocolate wafers."
     },
@@ -55,7 +39,7 @@
       "description": "This day motivates us to look in the mirror and recognize everything that make us exceptional."
     },
     {
-      "title": "National Eat Beans Day",
+      "title": "National Eat Your Beans Day",
       "description": "“I am a bean, very lean. I am not fat, I’m sure of that.”"
     },
     {
@@ -73,10 +57,6 @@
     {
       "title": "StartTheConversation Day",
       "description": "Celebrate Start the Conversation Day by raising awareness to check up on people&#39;s mental health."
-    },
-    {
-      "title": "The Feast of Saints Peter and Paul",
-      "description": "We celebrate this day as part of a solemn reminder of Christianity’s history."
     },
     {
       "title": "V.I. Emancipation Day",
