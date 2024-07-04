@@ -3,16 +3,12 @@
   "day": 4,
   "holidays": [
     {
-      "title": "Independence Day",
-      "description": "Happy Fourth! Kick off the festivities with details, trivia and more about Independence Day."
+      "title": "Fourth of July",
+      "description": null
     },
     {
       "title": "Alice in Wonderland Day",
       "description": "Gain a sense of wonder and amazement all over again from Lewis Carroll’s “Alice in Wonderland.”"
-    },
-    {
-      "title": "Caribbean Community Day",
-      "description": "Today, we brush up on our knowledge of the Caribbean Community and celebrate these beautiful islands."
     },
     {
       "title": "Filipino-American Friendship Day",
@@ -59,8 +55,8 @@
       "description": "It&#39;s birthday time as we celebrate His Majesty King Tupou VI of Tonga."
     },
     {
-      "title": "Philippines Republic Day",
-      "description": "Celebrate freedom and unity as we mark Philippines Republic Day in style."
+      "title": "Philippine Republic Day",
+      "description": "Celebrate freedom and unity as we mark Philippine Republic Day in style."
     },
     {
       "title": "Queen Sonja&#39;s day",
@@ -75,8 +71,8 @@
       "description": "Is the summer heat getting to you? Here are some eggcellent ideas for fun in the sun."
     },
     {
-      "title": "Zambia Unity Day",
-      "description": "Celebrate Zambia Unity Day, a day designed to promote unity among the country’s various local groupings."
+      "title": "Thirsty Thursday",
+      "description": "Anyone who loves to live it up will surely love Thirsty Thursday!"
     },
     {
       "title": "Kayden Gaulden’s Birthday",
