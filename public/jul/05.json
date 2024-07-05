@@ -4,19 +4,27 @@
   "holidays": [
     {
       "title": "National Bikini Day",
-      "description": "Grab your sunscreen—it’s the perfect opportunity to head to the beach."
+      "description": null
+    },
+    {
+      "title": "Algeria Independence Day",
+      "description": "After eight years of war, Algeria gained its independence and we are here to celebrate."
+    },
+    {
+      "title": "Alice Springs Show Day",
+      "description": "We celebrate one of the biggest social and agricultural highlights in Australia."
     },
     {
       "title": "Armenia Constitution Day",
       "description": "The strength of the Constitution lies in the will of the people to defend it."
     },
     {
-      "title": "Foreign Slovaks Day",
-      "description": "A nation’s culture resides in the hearts and the soul of its people."
+      "title": "Comic Sans Day",
+      "description": "Love it or hate it? We have all the tips and information on this controversial typeface."
     },
     {
-      "title": "Independence Day in Algeria",
-      "description": "After eight years of war, Algeria gained its independence and we are here to celebrate."
+      "title": "Foreign Slovaks Day",
+      "description": "A nation’s culture resides in the hearts and the soul of its people."
     },
     {
       "title": "Mechanical Pencil Day",
@@ -27,7 +35,7 @@
       "description": "Bite into the crispy and flaky goodness to enjoy the scrumptious flavors of an apple turnover."
     },
     {
-      "title": "National Graham Crackers Day",
+      "title": "National Graham Cracker Day",
       "description": "Enjoy graham crackers as they are or with chocolate/marshmallows, in pies, or on fried items."
     },
     {
