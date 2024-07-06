@@ -4,11 +4,11 @@
   "holidays": [
     {
       "title": "International Kissing Day",
-      "description": "From French kissing and a formal kiss on the cheek, celebrate this simple but powerful gesture."
+      "description": null
     },
     {
       "title": "National Fried Chicken Day",
-      "description": "Fried chicken&#39;s a greasy, deliciously indulgent comfort food enjoyed all over the world."
+      "description": null
     },
     {
       "title": "Anniversary of the Coronation of King Mindaugas",
@@ -23,16 +23,20 @@
       "description": "After a tumultuous past, the people of Comoros have earned their independence."
     },
     {
-      "title": "Eid-e-Ghadir",
-      "description": "Eid-e-Ghadir is a day of celebration and remembrance for Shia Muslims all over the world."
+      "title": "Hop A Park Day",
+      "description": "Plan a day of serious relaxation and fun for Hop A Park Day!"
     },
     {
-      "title": "Fast of Shiva Asar B&#39;Tammuz",
-      "description": "Join Jewish people across the globe as they mark a day of tragedies in their history."
+      "title": "International Cherry Pit Spitting Day",
+      "description": "Show the world how talented you are and spit that cherry pit with all your might."
     },
     {
-      "title": "Fast of Tammuz",
-      "description": "Take full advantage of this fast day as it’s also a day to repent."
+      "title": "International Day of Cooperatives",
+      "description": "We promise to “rebuild better together” on International Day of Cooperatives."
+    },
+    {
+      "title": "Islamic New Year",
+      "description": "Islamic New Year is the first day of Muharram, the first month in the Islamic calendar."
     },
     {
       "title": "Jan Hus Day in Czech Republic",
@@ -47,7 +51,7 @@
       "description": "Let’s retrace the steps in Malawi’s history that led to their eventual autonomy."
     },
     {
-      "title": "MHIP Day in Mizoram",
+      "title": "MHIP Day",
       "description": "Explore the history of one of India’s oldest women’s welfare organizations on MHIP Day."
     },
     {
@@ -63,12 +67,16 @@
       "description": "Nothing improves your mood more than a delicious homemade hand roll this National Hand Roll Day."
     },
     {
+      "title": "NATIONAL HOP-A-PARK DAY",
+      "description": "Pack some books or pastries, leave your gadgets at home and visit your favorite park today."
+    },
+    {
       "title": "Take Your Webmaster to Lunch Day",
       "description": "Treat your webmaster to lunch or in some other way to show your appreciation."
     },
     {
-      "title": "Thirsty Thursday",
-      "description": "Anyone who loves to live it up will surely love Thirsty Thursday!"
+      "title": "The Day of Dombyra",
+      "description": "Put on your dancing shoes; it&#39;s time to celebrate the Day of Dombyra!"
     },
     {
       "title": "Umbrella Cover Day",
