@@ -4,19 +4,23 @@
   "holidays": [
     {
       "title": "National Strawberry Sundae Day",
-      "description": "Hot summer days call for a sweet, refreshing treat."
+      "description": null
     },
     {
       "title": "World Chocolate Day",
-      "description": "On July 7 we celebrate one of life&#39;s greatest luxuries for World Chocolate Day."
+      "description": null
     },
     {
-      "title": "Alice Springs Show Day",
-      "description": "We celebrate one of the biggest social and agricultural highlights in Australia."
+      "title": "Bonalu",
+      "description": "Join in on Bonalu celebrations as devotees offer their prayers to the Hindu goddess Mahakali."
     },
     {
-      "title": "Comic Sans Day",
-      "description": "Love it or hate it? We have all the tips and information on this controversial typeface."
+      "title": "Build A Scarecrow Day",
+      "description": "Celebrate Build A Scarecrow Day by getting creative and building your own."
+    },
+    {
+      "title": "First Day of NAIDOC Week",
+      "description": "A time to enjoy live Indigenous Australian music, art competitions, and storytelling."
     },
     {
       "title": "George Town Heritage Day in Penang",
@@ -55,7 +59,11 @@
       "description": "Macaroni is reportedly the most common form of pasta in the U.S."
     },
     {
-      "title": "Saba Saba Day in Tanzania",
+      "title": "Rath Yatra",
+      "description": "A mere touch of the chariot can confer the blessings of Lord Jagannath upon you."
+    },
+    {
+      "title": "Saba Saba Day",
       "description": "Wondering what Saba Saba is about? Join us as we explore Tanzania and its story."
     },
     {
