@@ -4,15 +4,19 @@
   "holidays": [
     {
       "title": "National Video Game Day",
-      "description": "Dust off that old Nintendo and haul your prized collection of games out of the closet."
+      "description": null
+    },
+    {
+      "title": "Amun Jadid",
+      "description": null
     },
     {
       "title": "Be a Kid Again Day",
       "description": "Let out that joyful, innocent kid that’s still deep down there in all of us."
     },
     {
-      "title": "International Skinny Dip Day",
-      "description": "Get naked, feel the water, and jump in as we celebrate International Skinny Dip Day."
+      "title": "International Town Criers Day",
+      "description": "If you think opera singers have the most powerful lungs, these guys may come a close second."
     },
     {
       "title": "Math 2.0 Day",
@@ -47,12 +51,12 @@
       "description": "Slather on some of that moisturizer, and don’t forget to apply a helping of that sunscreen. Your skin deserves pampering."
     },
     {
-      "title": "National SCUD Day",
-      "description": "On National Savor the Comic, Unplug the Drama Day, ditch the drama and embrace the humor."
-    },
-    {
       "title": "Oneofusismissing Day",
       "description": "Whether you’re reaching out for comfort or offering a shoulder to cry on, you can participate."
+    },
+    {
+      "title": "SCUD Day",
+      "description": "On National Savor the Comic, Unplug the Drama Day, ditch the drama and embrace the humor."
     },
     {
       "title": "Jaden Smith’s Birthday",
