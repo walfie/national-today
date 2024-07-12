@@ -4,7 +4,11 @@
   "holidays": [
     {
       "title": "Amazon Prime Day",
-      "description": "The holiday, which is now celebrated annually, features incredible deals designed to rival those of Black Friday."
+      "description": null
+    },
+    {
+      "title": "National French Fry Day",
+      "description": null
     },
     {
       "title": "National Simplicity Day",
@@ -15,11 +19,15 @@
       "description": "To commemorate the Battle of Boyne, we take a journey down memory lane."
     },
     {
+      "title": "Collector Car Appreciation Day",
+      "description": "Do you love vintage cars? If yes, then celebrating this day should be a must for you!"
+    },
+    {
       "title": "Etch A Sketch Day",
       "description": "Etch A Sketch Day is an annual event that celebrates the retro toy, Etch A Sketch."
     },
     {
-      "title": "Kiribati National Day",
+      "title": "Kiribati Independence Day",
       "description": "We celebrate this island nation that had an unusual path to independence."
     },
     {
@@ -41,6 +49,10 @@
     {
       "title": "National Hair Creator’s Day",
       "description": "Hair creators and hairstyles mirror the trends of the times they live in."
+    },
+    {
+      "title": "National Motorcycle Day",
+      "description": "Get ready for a fun-filled day exploring the road with us on National Motorcycle Day."
     },
     {
       "title": "National Pecan Pie Day",
@@ -65,6 +77,10 @@
     {
       "title": "Paper Bag Day",
       "description": "Save the world one paper bag at a time — we’ll show you how."
+    },
+    {
+      "title": "World Kebab Day",
+      "description": "Tantalize your taste buds one delicious kebab at a time this World Kebab Day."
     },
     {
       "title": "Ariana Fletcher’s Birthday",
