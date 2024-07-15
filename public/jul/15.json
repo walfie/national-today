@@ -4,23 +4,27 @@
   "holidays": [
     {
       "title": "National Give Something Away Day",
-      "description": "Get rid of clutter, gift small things to strangers, and make the world a better place."
+      "description": null
     },
     {
       "title": "Celebration of the Horse Day",
-      "description": "Celebrate these lovable creatures that have galloped their way into our hearts."
+      "description": null
     },
     {
       "title": "Developmental Disability Professionals Day",
       "description": "Keep reading to learn the history of Q.I.D.Ps, the N.A.Q., and changing terms."
     },
     {
+      "title": "Global Hug Your Kids Day",
+      "description": "Wrap your kid in a bear hug on Global Hug Your Kids Day."
+    },
+    {
       "title": "H.M. The Sultan&#39;s Birthday (in lieu)",
       "description": "Get ready for the ultimate royal experience in Brunei with food, music, and fun!"
     },
     {
-      "title": "International Snowdon Race",
-      "description": "Best of luck to you if you’re competing in this 10-mile endurance run."
+      "title": "Marine Day in Japan",
+      "description": "Celebrate Marine Day by going to the beach and appreciating what we’ve been given."
     },
     {
       "title": "National Be A Dork Day",
@@ -31,8 +35,8 @@
       "description": "Celebrate the clean beauty movement — products that are mindfully created, and ethically sourced."
     },
     {
-      "title": "National Donna Day",
-      "description": "Read up and get to know a bit more about this dainty name ― Donna!"
+      "title": "National Get Out of the Dog House Day",
+      "description": "No one wants to be ‘in the doghouse’ — this day encourages us to get out."
     },
     {
       "title": "National Gummi Worm Day",
@@ -51,16 +55,16 @@
       "description": "National Respect Canada Day is the perfect chance to appreciate Canada."
     },
     {
-      "title": "National Strawberry Rhubarb Wine Day",
-      "description": "Celebrate by grabbing a glass of yummy Strawberry Rhubarb Wine and making a toast!"
-    },
-    {
       "title": "NATIONAL TAPIOCA PUDDING DAY",
       "description": "Get your kitchen ready, prepare the ingredients, and make the best version of your tapioca pudding."
     },
     {
       "title": "Orange Chicken Day",
       "description": "“Orange” you ready to grab chopsticks (or forks) and dig into this mouthwatering dish today?"
+    },
+    {
+      "title": "President&#39;s Day in Botswana",
+      "description": "Get ready to commemorate the leader of a nation on Botswana’s most important holiday."
     },
     {
       "title": "Saint Swithin’s Day",
@@ -73,10 +77,6 @@
     {
       "title": "Unimwane Day",
       "description": "Keep reading to learn the early history of Kiribati and how to celebrate this day."
-    },
-    {
-      "title": "Woodie Wagon Day",
-      "description": "Before metallic cars, there were woodie wagons. Let’s honor the great invention of the woodie wagon."
     },
     {
       "title": "World Youth Skills Day",
