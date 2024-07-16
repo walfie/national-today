@@ -3,16 +3,16 @@
   "day": 16,
   "holidays": [
     {
-      "title": "National Corn Fritter Day",
-      "description": "Corn fritters originated in the South but now can be found on menus throughout the country."
-    },
-    {
-      "title": "National Ice Cream Day",
-      "description": "President Reagan wanted to commemorate a treat enjoyed by over 90 percent of the U.S. population."
+      "title": "National Corn Fritters Day",
+      "description": null
     },
     {
       "title": "Artificial Intelligence Appreciation Day",
-      "description": "Celebrate the innovative and transformative power of A.I. tools on Artificial Intelligence Appreciation Day."
+      "description": null
+    },
+    {
+      "title": "Ashura",
+      "description": "Ashura is a holy day for Muslims, celebrated in the Islamic month of Muharram."
     },
     {
       "title": "Fresh Spinach Day",
@@ -35,10 +35,6 @@
       "description": "Here’s how you too can commemorate the La Paz freedom fight and honor their celebrations."
     },
     {
-      "title": "Lake Superior Day",
-      "description": "Get together to celebrate and appreciate Lake Superior and learn a little more about it."
-    },
-    {
       "title": "Manu’a Cession Day (in lieu)",
       "description": "Let’s celebrate Manu’a Cession Day the American Samoa way."
     },
@@ -53,14 +49,6 @@
     {
       "title": "National D.R.E.S.S. Syndrome Day",
       "description": "Let’s learn and raise awareness about National D.R.E.S.S. Syndrome Day."
-    },
-    {
-      "title": "National Emily Day",
-      "description": "Planning on celebrating National Emily Day? We have all the info you will need."
-    },
-    {
-      "title": "National Jerry Day",
-      "description": "Get on the Jerry Ferry; it’s time to celebrate National Jerry Day!"
     },
     {
       "title": "National Personal Chef Day",
@@ -81,6 +69,10 @@
     {
       "title": "Saune Sankranti",
       "description": "Celebrate Saune Sankranti, when the sun enters Cancer and the purifying month begins."
+    },
+    {
+      "title": "Tassoua",
+      "description": "Learn important things about the Muslim culture as you get ready to celebrate Tasu’a."
     },
     {
       "title": "The Feast of Our Lady of Mount Carmel",
