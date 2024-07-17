@@ -3,6 +3,10 @@
   "day": 17,
   "holidays": [
     {
+      "title": "National Hot Dog Day",
+      "description": null
+    },
+    {
       "title": "National Lottery Day",
       "description": "There’s something about free money that seems rather appealing."
     },
@@ -11,28 +15,12 @@
       "description": "Light up your friends&#39; phones with all the emojis you want today — it&#39;s a healthy obsession."
     },
     {
-      "title": "Global Hug Your Kids Day",
-      "description": "Wrap your kid in a bear hug on Global Hug Your Kids Day."
+      "title": "Constitution Day Korea",
+      "description": "Hang the national flag in honor of the proclamation of the South Korean constitution."
     },
     {
       "title": "King&#39;s Birthday in Lesotho",
       "description": "Let&#39;s dive into the history of this event and check out fun ways to celebrate."
-    },
-    {
-      "title": "Korean Constitution Day",
-      "description": "Hang the national flag in honor of the proclamation of the South Korean constitution."
-    },
-    {
-      "title": "Marine Day in Japan",
-      "description": "Celebrate Marine Day by going to the beach and appreciating what we’ve been given."
-    },
-    {
-      "title": "National Cory Day",
-      "description": "Celebrate and appreciate all Corys around the world on this National Cory Day."
-    },
-    {
-      "title": "National Get Out of the Dog House Day",
-      "description": "No one wants to be ‘in the doghouse’ — this day encourages us to get out."
     },
     {
       "title": "National Peach Ice Cream Day",
@@ -43,12 +31,12 @@
       "description": "It illuminates something you didn’t see before."
     },
     {
-      "title": "President&#39;s Day in Botswana",
-      "description": "Get ready to commemorate the leader of a nation on Botswana’s most important holiday."
+      "title": "Take Your Poet to Work Day",
+      "description": "If you&#39;ve ever wished that you could spend all day with your favorite poet, today’s your day!"
     },
     {
-      "title": "U Tirot Sing Day",
-      "description": "Celebrate the power of determination and bravery as we mark U Tirot Sing Day."
+      "title": "Tirot Sing Day",
+      "description": "Celebrate the power of determination and bravery as we mark Tirot Sing Day."
     },
     {
       "title": "World Day for International Justice",
