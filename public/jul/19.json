@@ -4,19 +4,15 @@
   "holidays": [
     {
       "title": "National Daiquiri Day",
-      "description": "Did you know the daiquiri was likely invented by Cuban miners?"
-    },
-    {
-      "title": "National Hot Dog Day",
-      "description": "When we think of summer, hot dogs come to mind almost immediately."
-    },
-    {
-      "title": "Amun Jadid",
-      "description": "Observe the Amun Jadid with deep solemnity and reverence here with us today."
+      "description": null
     },
     {
       "title": "Flight Attendant Safety Professionals&#39; Day",
       "description": "Today, we honor and recognize the hard work, dedication, and professionalism of flight attendants."
+    },
+    {
+      "title": "Flitch Day",
+      "description": "Join us in celebrating the lip-smacking side of bacon that is deep-rooted in tradition"
     },
     {
       "title": "International Retainer Day",
@@ -27,16 +23,8 @@
       "description": "Liberation Day marked the end of the Somoza dynasty and the beginning of the Sandinista government."
     },
     {
-      "title": "Martyr&#39;s Day in Myanmar",
+      "title": "Martyr&#39;s Day Myanmar",
       "description": "Learn about the tragedy behind one of the most important holidays in Myanmar."
-    },
-    {
-      "title": "National Barbara Day",
-      "description": "Join us as we celebrate with Barbaras across the globe on their name day."
-    },
-    {
-      "title": "National Flitch Day",
-      "description": "Join us in celebrating the lip-smacking side of bacon that is deep-rooted in tradition"
     },
     {
       "title": "National Football Day",
@@ -51,15 +39,11 @@
       "description": "This holiday is the perfect opportunity to enjoy a game with a friend."
     },
     {
-      "title": "Stick Out Your Tongue Day",
-      "description": "Embrace and bring out your inner child on this fun and playful holiday."
+      "title": "Pflasterspektakel Linz",
+      "description": "Allow yourself to be astonished by the great performances by international and local artists today."
     },
     {
-      "title": "Take Your Poet to Work Day",
-      "description": "If you&#39;ve ever wished that you could spend all day with your favorite poet, today’s your day!"
-    },
-    {
-      "title": "The Sandinista Revolution Day",
+      "title": "Sandinista Revolution Day",
       "description": "Get ready to learn about the most significant conflict in Central American history."
     },
     {
