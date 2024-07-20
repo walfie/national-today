@@ -3,8 +3,12 @@
   "day": 20,
   "holidays": [
     {
-      "title": "National Moon Day",
-      "description": "&#34;That&#39;s one small step for man, one giant leap for mankind.&#34;"
+      "title": "Moon Day",
+      "description": null
+    },
+    {
+      "title": "Asahna Bucha Day",
+      "description": "Light your candles and your incense, and prune those lotus flowers. Asahna Bucha Day has arrived."
     },
     {
       "title": "Colombia Independence Day",
@@ -15,8 +19,20 @@
       "description": "Prepare to learn more about the Crown Prince of Norway and the day that celebrates him."
     },
     {
+      "title": "Esala Full Moon Poya",
+      "description": "Esala Full Moon Poya commemorates Buddha&#39;s first sermon, in which he uttered the Four Noble Truths."
+    },
+    {
+      "title": "Full Moon Day of Waso",
+      "description": "Join us as we celebrate the first sermon of Lord Buddha!"
+    },
+    {
       "title": "International Chess Day",
       "description": "Chess lovers celebrate their favorite game today, in a tradition spanning more than 50 years."
+    },
+    {
+      "title": "International Snowdon Race",
+      "description": "Best of luck to you if you’re competing in this 10-mile endurance run."
     },
     {
       "title": "Lempira Day",
@@ -31,16 +47,12 @@
       "description": "They come in many flavors but mostly fruit flavors for licking or biting."
     },
     {
-      "title": "National Megan Day",
-      "description": "Explore some of today’s most famous Megans’ life stories and most significant achievements."
-    },
-    {
-      "title": "national natalie day",
-      "description": "Let’s look at some of the famous people with the name Natalie in recent history."
-    },
-    {
       "title": "NATIONAL PENNSYLVANIA DAY",
       "description": "Let us take advantage of this opportunity to honor Pennsylvania&#39;s rich heritage and accomplishments."
+    },
+    {
+      "title": "National Strawberry Rhubarb Wine Day",
+      "description": "Celebrate by grabbing a glass of yummy Strawberry Rhubarb Wine and making a toast!"
     },
     {
       "title": "National Ugly Truck Contest Day",
@@ -51,8 +63,16 @@
       "description": "Join us as we embark on a mission to the moon for Space Exploration Day!"
     },
     {
+      "title": "Toss Away the “Could Haves” and “Should Haves” Day",
+      "description": "Take control of your future by avoiding dwelling on your past mistakes."
+    },
+    {
       "title": "Women&#39;s Union Establishment Day",
       "description": "During this special celebration, help raise awareness of one of the many issues challenging women."
+    },
+    {
+      "title": "Woodie Wagon Day",
+      "description": "Before metallic cars, there were woodie wagons. Let’s honor the great invention of the woodie wagon."
     },
     {
       "title": "World Jump Day",
