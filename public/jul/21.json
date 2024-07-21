@@ -3,8 +3,16 @@
   "day": 21,
   "holidays": [
     {
+      "title": "National Ice Cream Day",
+      "description": null
+    },
+    {
       "title": "National Junk Food Day",
       "description": "Have you ever wished for a day where you can eat absolutely anything you want?"
+    },
+    {
+      "title": "Asalha Puja",
+      "description": "Asalha Puja commemorates Buddha&#39;s first sermon after enlightenment."
     },
     {
       "title": "Belgium Independence Day",
@@ -15,20 +23,16 @@
       "description": "Get your costumes ready and explore the world of superheroes and villains!"
     },
     {
-      "title": "Drukpa Tsheshi",
-      "description": "Gain deep insight into life and discover more about Drukpa Tseshi right here."
-    },
-    {
-      "title": "First Sermon Of Lord Buddha",
-      "description": "Join us this year as we celebrate the First Sermon Of Lord Buddha."
-    },
-    {
       "title": "Guam Liberation Day",
       "description": "It’s Guam Liberation Day and here’s how you can join in the celebrations."
     },
     {
       "title": "Invite an Alien to Live with You Day",
       "description": "Invite An Alien To Live With You Day celebrates the hit TV show “Mork &amp; Mindy.”"
+    },
+    {
+      "title": "Lake Superior Day",
+      "description": "Get together to celebrate and appreciate Lake Superior and learn a little more about it."
     },
     {
       "title": "Legal Drinking Age Day",
@@ -47,24 +51,12 @@
       "description": "Get ready to learn about how one natural disaster changed an entire nation."
     },
     {
-      "title": "National Eduardo Day",
-      "description": "Eduardo has a lot more going for it than a change of spelling and pronunciation."
-    },
-    {
-      "title": "National Edward Day",
-      "description": "Take a look at some notable figures who gave the name Edward its prominence."
-    },
-    {
       "title": "National Lamington Day",
       "description": "Join us as we get ready to celebrate all things buttery, chocolatey, and coconutty!"
     },
     {
       "title": "No Pet Store Puppies Day",
       "description": "Join us as we educate friends and family about what goes on in puppy mills."
-    },
-    {
-      "title": "Pflasterspektakel Linz",
-      "description": "Allow yourself to be astonished by the great performances by international and local artists today."
     },
     {
       "title": "Racial Harmony Day",
