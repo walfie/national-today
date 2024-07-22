@@ -3,8 +3,8 @@
   "day": 22,
   "holidays": [
     {
-      "title": "National Hammock Day",
-      "description": "The universal symbol for relaxation is celebrated today!"
+      "title": "Beta Glucan Day",
+      "description": null
     },
     {
       "title": "Casual Pi Day",
@@ -19,12 +19,12 @@
       "description": "Devour and savor mangoes this summer by making special treats and learning more about the fruit."
     },
     {
-      "title": "National Day of the Cowboy",
-      "description": "Cowboy culture, despite the misconception that it has faded away, is alive and well."
-    },
-    {
       "title": "National Fragile X Awareness Day",
       "description": "Join us as we learn more and raise awareness about Fragile X syndrome today."
+    },
+    {
+      "title": "National Hammock Day",
+      "description": "The universal symbol for relaxation is celebrated today!"
     },
     {
       "title": "National Penuche Fudge Day",
@@ -33,14 +33,6 @@
     {
       "title": "NATIONAL RAT CATCHER’S DAY",
       "description": "Better treat your local rodent exterminator right, or else the consequences will be severe!"
-    },
-    {
-      "title": "National Sophia Day",
-      "description": "Let’s take a trip through time and examine the lives of some prominent Sophias."
-    },
-    {
-      "title": "National Thomas Day",
-      "description": "Thomas is a name with a mercurial personality and amazing achievements. Read on to learn more."
     },
     {
       "title": "Pi Approximation Day",
@@ -53,10 +45,6 @@
     {
       "title": "Spoonerism Day",
       "description": "Let’s celebrate by embracing the entertaining task of spoonerizing your narrative!"
-    },
-    {
-      "title": "Toss Away the “Could Haves” and “Should Haves” Day",
-      "description": "Take control of your future by avoiding dwelling on your past mistakes."
     },
     {
       "title": "World Brain Day",
