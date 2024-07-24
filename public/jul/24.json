@@ -4,11 +4,15 @@
   "holidays": [
     {
       "title": "National Cousins Day",
-      "description": "The perfect day to send some love to those family members we call cousins."
+      "description": null
     },
     {
       "title": "National Tequila Day",
       "description": "Is there any better way to enjoy some blue agave juice than bottoms up?"
+    },
+    {
+      "title": "Amelia Earhart Day",
+      "description": "Amelia Earhart is one of America’s most beloved pioneers in aviation."
     },
     {
       "title": "Children&#39;s Day in Vanuatu",
@@ -17,10 +21,6 @@
     {
       "title": "INTERNATIONAL SELF CARE DAY",
       "description": "As the foundation of wellness, self-care is emphasized and prioritized on International Self-Care Day."
-    },
-    {
-      "title": "National Amelia Earhart Day",
-      "description": "Amelia Earhart is one of America’s most beloved pioneers in aviation."
     },
     {
       "title": "National Day of Motoring",
@@ -35,10 +35,6 @@
       "description": "These two weeks highlight the amazing species found in the U.K.&#39;s oceans."
     },
     {
-      "title": "National Tell An Old Joke Day",
-      "description": "Jog your memory about all the old jokes you know and let rip!"
-    },
-    {
       "title": "National Thermal Engineer Day",
       "description": "You might not know it, but thermal energy is all around us."
     },
@@ -51,8 +47,12 @@
       "description": "Everybody deserves to be listened to and understood — it just takes the will to do so."
     },
     {
-      "title": "Simón Bolivar&#39;s Birthday",
-      "description": "Commemorate Simon Bolivar’s birthday on July 24 and appreciate the influential South American leader’s political achievements."
+      "title": "Simón Bolivar Birthday",
+      "description": "Commemorate Simon Bolivar birthday on July 24 and appreciate the influential South American leader’s political achievements."
+    },
+    {
+      "title": "Tell An Old Joke Day",
+      "description": "Jog your memory about all the old jokes you know and let rip!"
     },
     {
       "title": "Alexis Ryan’s Birthday",
