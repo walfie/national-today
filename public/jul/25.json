@@ -3,11 +3,19 @@
   "day": 25,
   "holidays": [
     {
+      "title": "International Digital Adoption (DAP) Professionals Day",
+      "description": null
+    },
+    {
+      "title": "National Chili Dog Day",
+      "description": "Do you want chili? ora hot dogs? Sometimes it doesn’t have to be so complicated."
+    },
+    {
       "title": "National Hot Fudge Sundae Day",
       "description": "Raise your spoons for National Hot Fudge Sundae Day!"
     },
     {
-      "title": "Annexation of Guanacaste",
+      "title": "Annexation of Guanacaste Day",
       "description": "Join the celebrations of the Annexation of Guanacaste to Costa Rica, formerly known as Nicoya."
     },
     {
@@ -23,7 +31,11 @@
       "description": "A perfect day to appreciate chefs and cooks who enhance your culinary experience!"
     },
     {
-      "title": "Feast of Saint James the Apostle",
+      "title": "Earth Overshoot Day",
+      "description": "Ever wonder how it will be if we run out of resources on our planet? Read on to find out."
+    },
+    {
+      "title": "Feast of St. James",
       "description": "Today we join our brothers in Spain as they honor Saint James the Apostle."
     },
     {
@@ -39,12 +51,12 @@
       "description": "Discover how hypnotherapy can help you improve your overall health and happiness."
     },
     {
-      "title": "International Red Shoe Day",
-      "description": "Wear your reds to show your solidarity and appreciation for Lyme disease patients everywhere."
+      "title": "Houston Day",
+      "description": "Let’s celebrate the strength of mind and spirit exhibited by people named Houston."
     },
     {
-      "title": "National Clay Day",
-      "description": "Uncover the achievements of some of the Clays who have made history."
+      "title": "International Red Shoe Day",
+      "description": "Wear your reds to show your solidarity and appreciation for Lyme disease patients everywhere."
     },
     {
       "title": "National Drowning Prevention Day",
@@ -55,12 +67,16 @@
       "description": "This day aims to teach people about the value of hiring a veteran."
     },
     {
-      "title": "National Houston Day",
-      "description": "Let’s celebrate the strength of mind and spirit exhibited by people named Houston."
+      "title": "National Intern Day",
+      "description": "Future leaders of the world unite! Today is National Intern Day."
     },
     {
       "title": "National Merry Go Round Day",
       "description": "A highlight of amusement parks, these rides are still widely popular across America and the globe."
+    },
+    {
+      "title": "National Refreshment Day",
+      "description": "Hit the refresh button on your life by pausing to indulge in a refreshing drink."
     },
     {
       "title": "National Thread the Needle Day",
@@ -71,7 +87,7 @@
       "description": "One of the most basic, yet classic food-and-drink pairings is wine and cheese."
     },
     {
-      "title": "Puerto Rican Constitution Day",
+      "title": "Puerto Rico Constitution Day",
       "description": "Learn how Puerto Rico is fighting for full citizenship rights and autonomy even after centuries."
     },
     {
