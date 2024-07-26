@@ -4,11 +4,15 @@
   "holidays": [
     {
       "title": "National Aunt and Uncle Day",
-      "description": "They can be like a second set of parents, or great friends you are related to."
+      "description": null
     },
     {
       "title": "Auntie&#39;s Day",
       "description": "Learn about how aunties spend their special day with their nieces and nephews."
+    },
+    {
+      "title": "Darwin Show Day",
+      "description": "Darwin Show Day comes with unlimited fun and exciting activities."
     },
     {
       "title": "Fiesta de Santa Ana (Nicaragua)",
@@ -17,14 +21,6 @@
     {
       "title": "Holistic Therapy Day",
       "description": "Strengthen your mind, body, and soul and live a holistic lifestyle this holiday."
-    },
-    {
-      "title": "International Day for the Conservation of the Mangrove Ecosystem",
-      "description": "Between land and sea, getting hurt by our relentless greed, there stand the mangrove trees."
-    },
-    {
-      "title": "Kharchi Puja",
-      "description": "Participate in this festival of worshiping the 14 gods and the earth."
     },
     {
       "title": "Liberia Independence Day",
@@ -55,7 +51,7 @@
       "description": "National Dog Photography Day is the perfect day to post photos of your beloved pet!"
     },
     {
-      "title": "National Rebellion Day (Cuba)",
+      "title": "National Rebellion Day",
       "description": "National Rebellion Day honors the most significant turning point in the Cuban Revolution."
     },
     {
@@ -63,12 +59,20 @@
       "description": "Learn the origin of the clan Saint, its meaning, and exciting facts about the name."
     },
     {
+      "title": "National Talk in an Elevator Day",
+      "description": "Make a friend, or two, or many this National Talk in an Elevator Day."
+    },
+    {
       "title": "One Voice Day",
       "description": "In today’s society, the importance of maintaining world peace is more evident than ever before."
     },
     {
-      "title": "Tisha B&#39;Av",
-      "description": "Let’s take a look at why Tisha B’av is a day of mourning for the Jewish people."
+      "title": "System Administrator Appreciation Day",
+      "description": "System administrators are people who take care of installing and troubleshooting anything and everything related to IT."
+    },
+    {
+      "title": "World Mangrove Day",
+      "description": "Between land and sea, getting hurt by our relentless greed, there stand the mangrove trees."
     },
     {
       "title": "World Tofu Day",
