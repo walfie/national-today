@@ -3,20 +3,8 @@
   "day": 27,
   "holidays": [
     {
-      "title": "International Digital Adoption (DAP) Professionals Day",
-      "description": "International Digital Adoption (DAP) Professionals Day will be observed for the third time on the last Thursday of July — July 28 this year."
-    },
-    {
-      "title": "National Chili Dog Day",
-      "description": "Do you want chili? ora hot dogs? Sometimes it doesn’t have to be so complicated."
-    },
-    {
       "title": "National Scotch Day",
-      "description": "In order to be considered scotch, this classy and distinctive spirit must be made in Scotland."
-    },
-    {
-      "title": "Ashura",
-      "description": "Ashura is a holy day for Muslims, celebrated in the Islamic month of Muharram."
+      "description": null
     },
     {
       "title": "Bagpipe Appreciation Day",
@@ -31,16 +19,8 @@
       "description": "Dr. Barbosa’s innumerable contributions to the Puerto Rican statehood cause live on."
     },
     {
-      "title": "Chicken Finger Day",
-      "description": "Get ready to drool as we discuss one of the most popular fast foods in America!"
-    },
-    {
       "title": "Cross Atlantic Communication Day",
       "description": "Let&#39;s celebrate Cross Atlantic Communication Day to honor the telegraph lines that connect the continents."
-    },
-    {
-      "title": "Fast of Ninth of Av",
-      "description": "The Fast of Ninth of Av is a national day to mourn and pray for Israel."
     },
     {
       "title": "Gary Gygax Day",
@@ -51,16 +31,24 @@
       "description": "Time to wear your best clothes and visit the nearest Iglesia ni Cristo with your family."
     },
     {
-      "title": "National Carson Day",
-      "description": "Let us make National Carson Day the best day ever for Carsons everywhere."
+      "title": "International Decora Day",
+      "description": "Be ready to decorate yourself with as many accessories as possible on this fun day!"
+    },
+    {
+      "title": "National Black Women&#39;s Equal Pay Day",
+      "description": "Join your voice with the courageous activists rallying to make pay equity a reality."
+    },
+    {
+      "title": "National Chicken Finger Day",
+      "description": "Get ready to drool as we discuss one of the most popular fast foods in America!"
     },
     {
       "title": "National Creme Brûlée Day",
       "description": "Indulge in this intensely creamy, crunchy and luxurious dish."
     },
     {
-      "title": "National Intern Day",
-      "description": "Future leaders of the world unite! Today is National Intern Day."
+      "title": "National Day of the Cowboy",
+      "description": "Cowboy culture, despite the misconception that it has faded away, is alive and well."
     },
     {
       "title": "National Korean War Veterans Armistice Day",
@@ -71,24 +59,12 @@
       "description": "Let us be a part of a day that can bring relief to those who have suffered abuse."
     },
     {
-      "title": "National Nancy Day",
-      "description": "Let’s celebrate the creative and optimistic personalities of all Nancys on National Nancy Day."
-    },
-    {
       "title": "National New Jersey Day",
       "description": "New Jersey gets its day to commemorate when it joined the union."
     },
     {
-      "title": "National Refreshment Day",
-      "description": "Hit the refresh button on your life by pausing to indulge in a refreshing drink."
-    },
-    {
       "title": "National Roanoke Community Beautification Day",
       "description": "Let us beautify Southwest Virginia homes on National Roanoke Community Beautification Day."
-    },
-    {
-      "title": "National Sheila Day",
-      "description": "Let’s celebrate our friends and everyone bearing the name Sheila on National Sheila Day."
     },
     {
       "title": "National Sleepy Head Day",
@@ -99,16 +75,16 @@
       "description": "Did you know that Norfolk has been inhabited by humans for more than 300,000 years?"
     },
     {
+      "title": "Paddle for Perthes Disease Awareness Day",
+      "description": "Paddle for Perthes Disease Awareness Day is an annual event with a paddling contest."
+    },
+    {
       "title": "Take Your Houseplant For A Walk Day",
       "description": "When was the last time you took your houseplant out for a walk?"
     },
     {
       "title": "Take Your Pants for a Walk Day",
       "description": "Did you know walking has numerous benefits for the mind, body, and soul?"
-    },
-    {
-      "title": "Tassoua",
-      "description": "Learn important things about the Muslim culture as you get ready to celebrate Tasu’a."
     },
     {
       "title": "Walk On Stilts Day",
