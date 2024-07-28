@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Milk Chocolate Day",
-      "description": "Milk chocolate is the most popular member of the chocolate family and with good reason."
+      "description": null
     },
     {
       "title": "World Hepatitis Day",
@@ -23,10 +23,6 @@
       "description": "The first peacetime all-Black army regiment is honored on Buffalo Soldiers Day."
     },
     {
-      "title": "Darwin Show Day",
-      "description": "Darwin Show Day comes with unlimited fun and exciting activities."
-    },
-    {
       "title": "Day of Cantabria Institutions",
       "description": "Discover the gem that is Cantabria and all its stories here at National Today!"
     },
@@ -35,12 +31,16 @@
       "description": "Be ready to celebrate H.M. King’s day in a very special way here with us!"
     },
     {
+      "title": "National Parents’ Day",
+      "description": "Where would we be without the people who loved us even before we were born?"
+    },
+    {
       "title": "National Soccer Day",
       "description": "We’ve got some tips and tricks for celebrating and winning every match on National Soccer Day."
     },
     {
-      "title": "National Talk in an Elevator Day",
-      "description": "Make a friend, or two, or many this National Talk in an Elevator Day."
+      "title": "National Tree Day",
+      "description": "Learn how Arbor Day originated and found its way to Australia to become National Tree Day."
     },
     {
       "title": "NATIONAL WATERPARK DAY",
@@ -51,12 +51,12 @@
       "description": "Get ready for a historic journey through the pages of Peru here at National Today!"
     },
     {
-      "title": "St. Olav’s Eve in Faroe Islands",
-      "description": "Celebrate St Olav&#39;s Eve in the Faroe Islands with song and dance."
+      "title": "Reek Sunday",
+      "description": "What is Croagh Patrick, and why do thousands of people summit it every year?"
     },
     {
-      "title": "System Administrator Appreciation Day",
-      "description": "System administrators are people who take care of installing and troubleshooting anything and everything related to IT."
+      "title": "St. Olav’s Eve in Faroe Islands",
+      "description": "Celebrate St Olav&#39;s Eve in the Faroe Islands with song and dance."
     },
     {
       "title": "World Nature Conservation Day",
