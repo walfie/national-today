@@ -4,10 +4,10 @@
   "holidays": [
     {
       "title": "National Mutt Day",
-      "description": "Join us in celebrating all the mutts and mixed breed dogs that make our lives great."
+      "description": null
     },
     {
-      "title": "Harry Potter&#39;s Birthday",
+      "title": "Harry Potter Birthday",
       "description": "Pack your wand and hop on your broomstick!"
     },
     {
@@ -15,7 +15,7 @@
       "description": "It&#39;s all about celebrating the flag of Hawaii on Hawaii Flag Day."
     },
     {
-      "title": "International Lifeguard Appreciation Day",
+      "title": "Lifeguard Appreciation Day",
       "description": "Enjoy peace of mind as you take a dip knowing that lifeguards are nearby."
     },
     {
@@ -25,10 +25,6 @@
     {
       "title": "National Avocado Day",
       "description": "“The avocado is a food without rival among the fruits, the veritable fruit of paradise.”"
-    },
-    {
-      "title": "National Diana Day",
-      "description": "Celebrate all the Dianas in history — from politics, and Hollywood, to public figures."
     },
     {
       "title": "National Jump for Jelly Beans Day",
