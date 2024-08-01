@@ -4,11 +4,11 @@
   "holidays": [
     {
       "title": "National Girlfriend Day",
-      "description": "It&#39;s a day to honor your &#34;ride or die&#34; crew of homegirls!"
+      "description": null
     },
     {
       "title": "National Wellness Month",
-      "description": "In August, we celebrate National Wellness Month, prioritizing your self-care, managing stress, and promoting healthy routines. Create wholesome habits in your lifestyle and focus on…"
+      "description": "Every August, celebrate National Wellness Month! Prioritize your self-care, reduce stress, and create healthier habits to feel like your best self!  We can often put our health…"
     },
     {
       "title": "Spider-Man Day",
@@ -19,14 +19,6 @@
       "description": "Sit back, relax and discover all the facts about the fascinating albariño grape!"
     },
     {
-      "title": "Asahna Bucha Day",
-      "description": "Light your candles and your incense, and prune those lotus flowers. Asahna Bucha Day has arrived."
-    },
-    {
-      "title": "August Moon Festival",
-      "description": "It&#39;s the August Moon Festival! Celebrate this magical night that never ends."
-    },
-    {
       "title": "Benin Independence Day",
       "description": "Delve into the history of Benin and its long road to independence."
     },
@@ -35,12 +27,12 @@
       "description": "Join all Coloradans as they celebrate the anniversary of their dear state!"
     },
     {
-      "title": "Emancipation Day (Guyana)",
-      "description": "Let’s look at an account of Guyanese resilience, strength, and faith against the worst odds."
+      "title": "Cycle to Work Day",
+      "description": "We leave the car keys and grab a helmet instead for today&#39;s commute!"
     },
     {
-      "title": "Full Moon Day of Waso",
-      "description": "Join us as we celebrate the first sermon of Lord Buddha!"
+      "title": "Emancipation Day (Guyana)",
+      "description": "Let’s look at an account of Guyanese resilience, strength, and faith against the worst odds."
     },
     {
       "title": "Guadalcanal Province Day",
@@ -49,6 +41,10 @@
     {
       "title": "Homemade Pie Day",
       "description": "Put on your oven mitts as we prepare to bake it out on Homemade Pie Day."
+    },
+    {
+      "title": "India Pale Ale Day",
+      "description": "Get ready to raise a glass and celebrate India Pale Ale Day. Cheers!"
     },
     {
       "title": "International Can-It Forward Day",
@@ -67,20 +63,20 @@
       "description": "Lughnasadh celebrates new life, typifying “out with the old, in with the new!”"
     },
     {
-      "title": "National Andrew Day",
-      "description": "Greet and celebrate all the people named Andrew in your life this National Andrew Day."
-    },
-    {
       "title": "National Day of Benin",
       "description": "Learn why Benin’s struggles against slavery are a cornerstone of the National Day of Benin."
+    },
+    {
+      "title": "National IPA Day (India Pale Ale Beer)",
+      "description": "Bottoms up, enjoy the unique taste of one of the most popular beverages around."
     },
     {
       "title": "National Minority Donor Awareness Day",
       "description": "On this day, pledge to give someone a new lease on life."
     },
     {
-      "title": "National Night Out",
-      "description": "Civilians, organizations, and the Metropolitan Police Department join hands to enhance the relationship between neighborhoods and communities."
+      "title": "National Planner Day",
+      "description": "Get your planner, make plans for the day, and spend the day as ‘planned.’"
     },
     {
       "title": "National Promise to Care Day",
@@ -89,10 +85,6 @@
     {
       "title": "National Raspberry Cream Pie Day",
       "description": "Can you imagine a world without raspberry cream pies? Neither can we!"
-    },
-    {
-      "title": "Planner Day",
-      "description": "Get your planner, make plans for the day, and spend the day as ‘planned.’"
     },
     {
       "title": "Play Ball Day",
@@ -115,10 +107,6 @@
       "description": "Santo Domingo Celebration Start is here, so let’s pray for a miracle together."
     },
     {
-      "title": "Scout Scarf Day",
-      "description": "The scouts’ scarf is not only a simple honor but is very practical too!"
-    },
-    {
       "title": "Start Up Day Across America",
       "description": "Startup Day Across America aims to help us understand entrepreneurship and innovation."
     },
@@ -127,16 +115,16 @@
       "description": "To all Swiss people out there, enjoy this Independence Day with even more patriotism than before."
     },
     {
-      "title": "Tu B&#39;Av",
-      "description": "Find out the historical significance of Tu B&#39;Av and how it changed in modern times."
-    },
-    {
       "title": "Woman Astronomers Day",
       "description": "Honor women’s under-appreciated achievements in science by learning about Woman Astronomers Day."
     },
     {
       "title": "World Lung Cancer Day",
       "description": "Here&#39;s a quick guide to observing World Lung Cancer Day and staying well."
+    },
+    {
+      "title": "World Scout Scarf Day",
+      "description": "The scouts’ scarf is not only a simple honor but is very practical too!"
     },
     {
       "title": "World Wide Web Day",
