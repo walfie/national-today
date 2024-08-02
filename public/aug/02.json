@@ -3,16 +3,20 @@
   "day": 2,
   "holidays": [
     {
+      "title": "International Beer Day",
+      "description": null
+    },
+    {
       "title": "National Ice Cream Sandwich Day",
       "description": "It&#39;s a simple thing, really, but oh, what deliciousness!"
     },
     {
-      "title": "Regatta Day",
-      "description": "A holiday that depends on the weather."
+      "title": "Braham Pie Day",
+      "description": "Indulge your sweet tooth and serve yourself a big slice of Braham pie today."
     },
     {
-      "title": "Earth Overshoot Day",
-      "description": "Ever wonder how it will be if we run out of resources on our planet? Read on to find out."
+      "title": "Mary Prince Day",
+      "description": "Find out Mary Prince’s experiences as a female slave and how her book changed the world."
     },
     {
       "title": "National CAD Day",
@@ -23,16 +27,16 @@
       "description": "Coloring is no longer just for kids. So break out those coloring books!"
     },
     {
-      "title": "National Hugh Day",
-      "description": "The name Hugh is a boy&#39;s name which evolved as a shortened version of Hughes."
-    },
-    {
-      "title": "National Jacqueline Day",
-      "description": "Today let’s get together to honor all the Jacquelines we know this National Jacqueline Day."
+      "title": "National Water Balloon Day",
+      "description": "Fill &#39;em up and let &#39;em fly; today is the day water balloons color the sky."
     },
     {
       "title": "Republic Day in North Macedonia",
       "description": "Stand in remembrance of the chain of events that allowed Macedonia to achieve independence."
+    },
+    {
+      "title": "Umuganura Day",
+      "description": "Be ready to have fun and get into the harvest mood for Umuganura Day."
     },
     {
       "title": "Virgin of Los Angeles Day",
