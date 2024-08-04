@@ -3,20 +3,24 @@
   "day": 4,
   "holidays": [
     {
-      "title": "International Beer Day",
-      "description": "Raise a glass to one of the oldest man-made beverages."
+      "title": "National Chocolate Chip Cookie Day",
+      "description": null
     },
     {
-      "title": "National Chocolate Chip Cookie Day",
-      "description": "We love our cookies, and this triple-C confection holds a special place in our hearts."
+      "title": "National Friendship Day",
+      "description": null
+    },
+    {
+      "title": "National Sisters Day",
+      "description": "Sisters have a deep connection that grows throughout childhood and remains strong throughout life."
+    },
+    {
+      "title": "American Family Day",
+      "description": "This day celebrates the bonds that laid the foundation for our lives, be it blood or otherwise."
     },
     {
       "title": "Assistance Dog Day",
       "description": "Celebrate man’s best friend because it’s Assistance Dog Day here at National Today!"
-    },
-    {
-      "title": "Braham Pie Day",
-      "description": "Indulge your sweet tooth and serve yourself a big slice of Braham pie today."
     },
     {
       "title": "Cook Islands Constitution Day",
@@ -35,20 +39,16 @@
       "description": "About 10,000 endangered clouded leopards need you to celebrate International Clouded Leopard Day."
     },
     {
-      "title": "Mary Prince Day",
-      "description": "Find out Mary Prince’s experiences as a female slave and how her book changed the world."
-    },
-    {
       "title": "Matice Slovenska Day",
       "description": "Celebrate the birth of the scientific and cultural institution with Slovakians across the globe."
     },
     {
-      "title": "National Water Balloon Day",
-      "description": "Fill &#39;em up and let &#39;em fly; today is the day water balloons color the sky."
-    },
-    {
       "title": "National White Wine Day",
       "description": "National White Wine Day on August 4 is the perfect opportunity to enjoy a glass of this very versatile drink. White wines make for great…"
+    },
+    {
+      "title": "Psychic Day",
+      "description": "This day recognizes the power of psychics and raises awareness about this ability."
     },
     {
       "title": "Single Working Women&#39;s Day",
@@ -57,10 +57,6 @@
     {
       "title": "U.S. Coast Guard Birthday",
       "description": "On the U.S. Coast Guard Birthday, we commemorate the military organization for its valor and discipline."
-    },
-    {
-      "title": "Umuganura Day",
-      "description": "Be ready to have fun and get into the harvest mood for Umuganura Day."
     },
     {
       "title": "Bobby Shmurda’s Birthday",
