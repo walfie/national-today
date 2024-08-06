@@ -3,24 +3,12 @@
   "day": 6,
   "holidays": [
     {
-      "title": "National Friendship Day",
-      "description": "Friendships are the purest type of human relationships. Let&#39;s celebrate the importance of loving platonic relationships."
-    },
-    {
       "title": "National Root Beer Float Day",
-      "description": "Today, enjoy the tallest, fizziest root beer float you can find!"
-    },
-    {
-      "title": "National Sisters Day",
-      "description": "Sisters have a deep connection that grows throughout childhood and remains strong throughout life."
-    },
-    {
-      "title": "American Family Day",
-      "description": "This day celebrates the bonds that laid the foundation for our lives, be it blood or otherwise."
+      "description": null
     },
     {
       "title": "Balloons to Heaven Day",
-      "description": "Here&#39;s to never forgetting and hoping strengthened legislation prevails. Pledge to end gun violence today."
+      "description": null
     },
     {
       "title": "Bolivia Independence Day",
@@ -29,6 +17,10 @@
     {
       "title": "Celebrations of San Salvador",
       "description": "Celebrate the Divine Savior of the World with the Celebrations of San Salvador."
+    },
+    {
+      "title": "Culturama Day",
+      "description": "Marvel at the beauty of the Caribbean in the cultural displays of Culturama Day."
     },
     {
       "title": "Farmworker Appreciation Day",
@@ -47,36 +39,24 @@
       "description": "On Hiroshima Day, we remember one of the deadliest days in recent history."
     },
     {
-      "title": "International Sailor Moon Day",
-      "description": "Calling all manga and anime lovers to celebrate International Sailor Moon Day."
-    },
-    {
       "title": "Jamaica Independence Day",
       "description": "It’s Jamaica Independence Day! Prepare your black, yellow, and green apparel for this celebration."
-    },
-    {
-      "title": "National Carolyn Day",
-      "description": "Let’s honor everyone with the name Carolyn this National Carolyn Day."
     },
     {
       "title": "National Fresh Breath Day",
       "description": "Avoid a social faux pas and check if your breath is minty fresh."
     },
     {
-      "title": "National Henry Day",
-      "description": "Hi there, Henry. Today is your day, so let’s find out more about your name!"
-    },
-    {
-      "title": "National Tree Day",
-      "description": "Learn how Arbor Day originated and found its way to Australia to become National Tree Day."
+      "title": "National Night Out",
+      "description": "Civilians, organizations, and the Metropolitan Police Department join hands to enhance the relationship between neighborhoods and communities."
     },
     {
       "title": "National Wiggle Your Toes Day",
       "description": "Show off your digits on National Wiggle Your Toes Day. Let’s see those piggies!"
     },
     {
-      "title": "Psychic Day",
-      "description": "This day recognizes the power of psychics and raises awareness about this ability."
+      "title": "Sailor Moon Day",
+      "description": "Calling all manga and anime lovers to celebrate International Sailor Moon Day."
     },
     {
       "title": "Andy Warhol’s Birthday",
