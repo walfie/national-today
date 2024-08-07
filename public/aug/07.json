@@ -3,56 +3,32 @@
   "day": 7,
   "holidays": [
     {
-      "title": "Civic Holiday",
-      "description": "Civic Holiday strives to help foster the spirit of community among residents."
+      "title": "Regatta Day",
+      "description": null
     },
     {
       "title": "Aged Care Employee Day",
-      "description": "Aged care workers are there to assure that the lives of your elders are in safe hands."
+      "description": null
     },
     {
       "title": "Battle of Boyaca",
       "description": "Today, Colombians celebrate the decisive battle that freed them from the clutches of the Spanish."
     },
     {
-      "title": "British Columbia Day",
-      "description": "All across Canada, the day is marked by parades, festivals, and other public gatherings."
-    },
-    {
-      "title": "Commerce Day",
-      "description": "Commerce Day is a day to rest — leave work and relax on this public holiday."
-    },
-    {
       "title": "Côte d&#39;Ivoire Independence Day",
       "description": "Join Ivorians across the globe as they wish Côte d&#39;Ivoire bonne fête de l&#39;indépendance."
-    },
-    {
-      "title": "Festival Monday",
-      "description": "Get your party hats and put on your dancing shoes; it’s Festival Monday!"
-    },
-    {
-      "title": "Heritage Day in Alberta",
-      "description": "Sunshine, fresh air, and open spaces, Alberta is a melting pot of different cultures and ethnicities."
     },
     {
       "title": "Ivory Coast Independence Day",
       "description": "Ivory Coast Independence Day is an annual event that commemorates the Ivory Coast’s anniversary of independence."
     },
     {
-      "title": "Kadooment Day",
-      "description": "Put on your finest clothes and get ready to party all day long."
-    },
-    {
-      "title": "Kiribati Youth Day",
-      "description": "Celebrate Kiribati Youth Day with youth across the globe hoping for a brighter future."
-    },
-    {
-      "title": "Natal Day",
-      "description": "Get ready to celebrate, attend a lot of outdoor parties and eat a ton of cake."
-    },
-    {
       "title": "National Lighthouse Day",
       "description": "We celebrate how these scenic, historic structures comforted travelers throughout the centuries."
+    },
+    {
+      "title": "National Psychiatric Technician Appreciation Day",
+      "description": "Let’s show our appreciation for those who care by celebrating the heroes of mental healthcare."
     },
     {
       "title": "National Raspberries n’ Cream Day",
@@ -61,22 +37,6 @@
     {
       "title": "National Sea Serpent Day",
       "description": "Join the ancient quest for truth as we study the legend of the great sea serpents."
-    },
-    {
-      "title": "National Valentino Day",
-      "description": "If you’re a Valentino, then today is your day to shine. Celebrate National Valentino Day today!"
-    },
-    {
-      "title": "New Brunswick Day",
-      "description": "It&#39;s not often that a birthday party is held for an entire province!"
-    },
-    {
-      "title": "New South Wales Bank Holiday",
-      "description": "Let&#39;s all celebrate three day weekends—the savior of nine-to-fivers around the world."
-    },
-    {
-      "title": "Northern Territory Picnic Day",
-      "description": "Northern Territory Aussies have been celebrating Picnic Day since the late 1800s."
     },
     {
       "title": "Particularly Preposterous Packaging Day",
@@ -89,14 +49,6 @@
     {
       "title": "Purple Heart Day",
       "description": "We remember and honor the men and women who bravely represented and sacrificed for their country."
-    },
-    {
-      "title": "Terry Fox Day",
-      "description": "Honor a great man, a great foundation and a great cause by celebrating Terry Fox Day."
-    },
-    {
-      "title": "World Alternative Games",
-      "description": "A day cannot get any more eccentric, thrilling, and fantastic than this."
     },
     {
       "title": "Bruce Dickinson’s Birthday",
@@ -117,6 +69,10 @@
     {
       "title": "Jen Sincero’s Birthday",
       "description": "Going from broke to unbelievably wealthy, this self-improvement guru knows her stuff."
+    },
+    {
+      "title": "Jett Lawrence’s Birthday",
+      "description": "Jett Lawrence was already a great motocross racer at the age of 11."
     },
     {
       "title": "Luca Luhan’s Birthday",
