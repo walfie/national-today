@@ -3,20 +3,12 @@
   "day": 8,
   "holidays": [
     {
-      "title": "International Allyship Day",
-      "description": "Let&#39;s celebrate strength in unity and embrace diversity and differences to create a sense of belonging for all."
-    },
-    {
       "title": "International Cat Day",
-      "description": "A day to celebrate one of man’s most common and ancient pets."
+      "description": null
     },
     {
       "title": "National Braiders Day",
-      "description": "Learn more about the cultural significance of braiding and the talented professionals behind the social art."
-    },
-    {
-      "title": "Culturama Day",
-      "description": "Marvel at the beauty of the Caribbean in the cultural displays of Culturama Day."
+      "description": null
     },
     {
       "title": "Digital Nomad Day",
@@ -29,6 +21,10 @@
     {
       "title": "Happiness Happens Day",
       "description": "Happiness happens and see how you can make it happen today, on Happiness Happens Day."
+    },
+    {
+      "title": "International Allyship Day",
+      "description": "Let&#39;s celebrate strength in unity and embrace diversity and differences to create a sense of belonging for all."
     },
     {
       "title": "National Anne Day",
@@ -45,10 +41,6 @@
     {
       "title": "National Frozen Custard Day",
       "description": "Get ready to treat your sweet tooth with this tasty frozen dessert."
-    },
-    {
-      "title": "National Liam Day",
-      "description": "Learn all about the name ‘Liam’ and why it&#39;s so special this National Liam Day."
     },
     {
       "title": "National Melvin Day",
@@ -79,8 +71,8 @@
       "description": "Bring out your old “Garfield” comics because today, we celebrate Odie Day."
     },
     {
-      "title": "Peace Festival in Augsburg",
-      "description": "The Peace Festival in Augsburg has been Germany’s only municipal public holiday since 1950."
+      "title": "Peace Festival Augsburg",
+      "description": "The Peace Festival Augsburg has been Germany’s only municipal public holiday since 1950."
     },
     {
       "title": "Peasants&#39; Day",
