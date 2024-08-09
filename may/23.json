@@ -1,0 +1,66 @@
+{
+  "month": "may",
+  "day": 23,
+  "holidays": [
+    {
+      "title": "National Taffy Day",
+      "description": null
+    },
+    {
+      "title": "Vesak",
+      "description": "Vesak celebrates Buddha’s birth, along with his enlightenment and death in some traditions."
+    },
+    {
+      "title": "Buddha Purnima",
+      "description": "Take deep breaths and clear your mind, as we take you on a mystical journey!"
+    },
+    {
+      "title": "Chardonnay Day",
+      "description": "Celebrating Chardonnay, crafted from the beautiful vineyards of Pinot noir and Gouais blanc."
+    },
+    {
+      "title": "Day of Vesak",
+      "description": "It is the Day of Vesak, the day to honor Buddha&#39;s birth, enlightenment, and death."
+    },
+    {
+      "title": "International Day to End Obstetric Fistula",
+      "description": "On this International Day to End Obstetric Fistula, we’re providing support and spreading awareness."
+    },
+    {
+      "title": "Lucky Penny Day",
+      "description": "See a penny, pick it up, all day long you’ll have good luck!"
+    },
+    {
+      "title": "Medical Coder Day",
+      "description": "Let’s get together to show appreciation for all American medical coders this National Medical Coder Day."
+    },
+    {
+      "title": "National Reed Day",
+      "description": "Check out three fun and unique ways to celebrate National Reed Day."
+    },
+    {
+      "title": "World Crohn&#39;s and Colitis Day",
+      "description": "Let&#39;s raise awareness about two chronic gastrointestinal diseases that have no cure."
+    },
+    {
+      "title": "World Turtle Day",
+      "description": "This day honors two animals associated with wisdom and perseverance — turtles and tortoises."
+    },
+    {
+      "title": "Drew Carey’s Birthday",
+      "description": "We love to see success in every aspect of the hats this talented entertainer wears."
+    },
+    {
+      "title": "Jackson Duggar’s Birthday",
+      "description": "We can’t wait to see the upward trajectory of this reality star’s career as an entertainer."
+    },
+    {
+      "title": "James Charles’s Birthday",
+      "description": "Just like a phoenix, this talented makeup artist continues to rise from the ashes every time."
+    },
+    {
+      "title": "Jason Nash’s Birthday",
+      "description": "This actor and comedian is one joke away from colossal world domination."
+    }
+  ]
+}
