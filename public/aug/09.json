@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Book Lovers Day",
-      "description": "Books are the purest form of escapism.  They transport you to any time, place, or culture."
+      "description": null
     },
     {
       "title": "Adivasi Divas",
@@ -19,36 +19,32 @@
       "description": "Pick a coworking space and prepare to collaborate with individuals from different but related fields."
     },
     {
-      "title": "Hold Hands Day",
-      "description": "We’re holding hands, spreading love, and showing kindness on this special day."
-    },
-    {
       "title": "International Day of The World&#39;s Indigenous People",
       "description": "Let’s sign the social contract to ensure no indigenous groups are left behind."
+    },
+    {
+      "title": "Nag Panchami",
+      "description": "Let us explore the lore behind the tradition of worshiping snakes in the Hindu tradition."
     },
     {
       "title": "Nagasaki Memorial Day",
       "description": "Help free the world from nuclear weapons and make it a better place for all."
     },
     {
-      "title": "National Psychiatric Technician Appreciation Day",
-      "description": "Let’s show our appreciation for those who care by celebrating the heroes of mental healthcare."
-    },
-    {
-      "title": "National Rebecca Day",
-      "description": "Rebecca is more than just a name — find out more as we dig deep into it."
+      "title": "National Hand Holding Day",
+      "description": "We’re holding hands, spreading love, and showing kindness on this special day."
     },
     {
       "title": "National Rice Pudding Day",
       "description": "Rice pudding is the ultimate dessert because of its versatility and health benefits."
     },
     {
-      "title": "National Veep Day",
-      "description": "Let’s learn about the American constitution and the related presidential succession plans."
-    },
-    {
       "title": "National Women&#39;s Day",
       "description": "Every fight gets us one step closer to freedom and equality for women."
+    },
+    {
+      "title": "Shop Online for Groceries Day",
+      "description": "Don’t move an inch, you are one click away from a checked-out grocery list!"
     },
     {
       "title": "Singapore National Day",
@@ -57,6 +53,10 @@
     {
       "title": "Suriname Indigenous People&#39;s Day",
       "description": "Let’s celebrate indigenous people and acknowledge how they are indispensable to the Surinamese heritage."
+    },
+    {
+      "title": "Veep Day",
+      "description": "Let’s learn about the American constitution and the related presidential succession plans."
     },
     {
       "title": "Alexa Bliss’s Birthday",
@@ -73,10 +73,6 @@
     {
       "title": "Eugene Harris’s Birthday",
       "description": "Dr. Eugene Harris has been in the news since his appearance on the show “Married To Medicine.”"
-    },
-    {
-      "title": "Jett Lawrence’s Birthday",
-      "description": "Jett Lawrence was already a great motocross racer at the age of 11."
     },
     {
       "title": "Rhona Mitra’s Birthday",
