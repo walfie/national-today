@@ -3,6 +3,10 @@
   "day": 10,
   "holidays": [
     {
+      "title": "National Bowling Day",
+      "description": null
+    },
+    {
       "title": "National Lazy Day",
       "description": "In today&#39;s plugged-in world, we have a day when we don&#39;t have to do anything."
     },
@@ -19,12 +23,24 @@
       "description": "Take to the streets and join the colorful parade on the Ascent of Saint Dominic!"
     },
     {
+      "title": "Dean Day",
+      "description": "Learn more about Dean and the people in history going by this name."
+    },
+    {
       "title": "Duran Duran Appreciation Day",
       "description": "Let’s find out more and celebrate the Duran Duran band on this national holiday."
     },
     {
       "title": "Ecuador Independence Day",
       "description": "Learn how Ecuadorians managed to declare sovereignty and how to celebrate this festivity."
+    },
+    {
+      "title": "Ekka People&#39;s Day",
+      "description": "We&#39;ve got some amazing ideas to celebrate Ekka People&#39;s Day so scroll down and check them out."
+    },
+    {
+      "title": "Garage Sale Day",
+      "description": "Did you know the best day to hold a garage sale is on a Saturday?"
     },
     {
       "title": "Herbert Hoover Day",
@@ -39,14 +55,6 @@
       "description": "Let’s take this opportunity to honor and learn about the fifth state to join the U.S."
     },
     {
-      "title": "National Dean Day",
-      "description": "Learn more about Dean and the people in history going by this name."
-    },
-    {
-      "title": "National Mary Day",
-      "description": "To all the Marys of the world, rejoice! It’s a merry day for you all."
-    },
-    {
       "title": "National S’mores Day",
       "description": "We honor the most commonly packed camping snack!"
     },
@@ -57,6 +65,10 @@
     {
       "title": "National SKI Citrus Soda Day",
       "description": "Grab your favorite citrus-flavored SKI soda drink this National SKI Citrus Soda Day!"
+    },
+    {
+      "title": "Qixi Festival",
+      "description": "Buy some gifts, look your best, and say those three magical words to your beloved!"
     },
     {
       "title": "Update Your Bio Day",
