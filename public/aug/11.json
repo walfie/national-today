@@ -4,15 +4,19 @@
   "holidays": [
     {
       "title": "Mountain Day",
-      "description": "Ain&#39;t no mountain high enough to keep people from celebrating Mountain Day in Japan."
+      "description": null
     },
     {
-      "title": "National Son and Daughter Day",
-      "description": "National Son and Daughter Day is a time to go ahead and spoil the kids a little."
+      "title": "Son and Daughter Day",
+      "description": "Son and Daughter Day is a time to go ahead and spoil the kids a little."
     },
     {
       "title": "Chad Independence Day",
       "description": "Today we celebrate Chad which gained independence after being colonized for 60 years."
+    },
+    {
+      "title": "Gay Uncles Day",
+      "description": "Pull out your photos with your gay relatives and get ready to celebrate them!"
     },
     {
       "title": "Hip Hop Day",
@@ -21,6 +25,10 @@
     {
       "title": "Ingersoll Day",
       "description": "See how we plan to remember and honor this great man."
+    },
+    {
+      "title": "Melon Day",
+      "description": "Melon Day celebrates cantaloupes, galias, all muskmelons, and, most importantly, the Turkmenbashi melon."
     },
     {
       "title": "National Align Your Teeth Day",
@@ -39,16 +47,16 @@
       "description": "Enjoy the West African dish, Fufu — dipped in sauces or paired with stews."
     },
     {
-      "title": "National Presidential Joke Day",
-      "description": "Presidents can be funny people too; let’s share some of their best jokes."
-    },
-    {
       "title": "National Raspberry Bombe Day",
       "description": "Get ready for another deliciously sweet celebration this National Raspberry Bombe Day."
     },
     {
-      "title": "Shop Online for Groceries Day",
-      "description": "Don’t move an inch, you are one click away from a checked-out grocery list!"
+      "title": "Presidential Joke Day",
+      "description": "Presidents can be funny people too; let’s share some of their best jokes."
+    },
+    {
+      "title": "The Day of Cantabria",
+      "description": "Learn more about Cantabria and make this beautiful region with its rich history your next holiday destination."
     },
     {
       "title": "Alyson Stoner’s Birthday",
