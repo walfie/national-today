@@ -4,23 +4,27 @@
   "holidays": [
     {
       "title": "International Youth Day",
-      "description": "We focus on the difficulties that some young people are experiencing throughout the world."
+      "description": null
     },
     {
-      "title": "National Bowling Day",
-      "description": "Let&#39;s roll! The second Sunday in August means it&#39;s National Bowling Day."
-    },
-    {
-      "title": "Garage Sale Day",
-      "description": "Did you know the best day to hold a garage sale is on a Saturday?"
+      "title": "Glorious Twelfth",
+      "description": "Glorious Twelfth is a holiday celebrated in the United Kingdom on the 12th day of August."
     },
     {
       "title": "IBM PC Day",
       "description": "August 12, 1981 — the day IBM revolutionized the business world through its innovation."
     },
     {
+      "title": "Middle Child Day",
+      "description": "Middle children may not always get the spotlight, so today we celebrate our oft-forgotten siblings."
+    },
+    {
       "title": "Milkman Day",
       "description": "Let’s show love and appreciation for the people who work hard to deliver milk."
+    },
+    {
+      "title": "Mother&#39;s Day in Thailand",
+      "description": "A mother is a child’s first best friend. This holiday, let’s show our love and appreciation."
     },
     {
       "title": "National Gooey Butter Cake Day",
@@ -31,20 +35,16 @@
       "description": "Did you know the thin crispy fries we love to eat are known as julienne fries?"
     },
     {
-      "title": "National Middle Child Day",
-      "description": "Middle children may not always get the spotlight, so today we celebrate our oft-forgotten siblings."
-    },
-    {
       "title": "National Vinyl Record Day",
       "description": "For those who value the quality of sound, vinyl records are here to stay."
     },
     {
-      "title": "Thailand Mother&#39;s Day",
-      "description": "A mother is a child’s first best friend. This holiday, let’s show our love and appreciation."
+      "title": "Tisha B&#39;Av",
+      "description": "Let’s take a look at why Tisha B’av is a day of mourning for the Jewish people."
     },
     {
-      "title": "The Glorious Twelfth",
-      "description": "The Glorious Twelfth is a holiday celebrated in the United Kingdom on the 12th day of August."
+      "title": "Victory Day USA",
+      "description": "Observe the holiday as a reminder of the end of the war and an opportunity to pay homage to veterans."
     },
     {
       "title": "World Elephant Day",
