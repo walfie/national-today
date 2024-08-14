@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Financial Awareness Day",
-      "description": "It&#39;s more important than you think. And plus, what’s more fun than financial independence?"
+      "description": null
     },
     {
       "title": "Pakistan Independence Day",
@@ -43,12 +43,16 @@
       "description": "Let’s celebrate Indonesia’s national scouting organization and the world’s largest group of scouts!"
     },
     {
-      "title": "US Victory Day",
-      "description": "Observe the holiday as a reminder of the end of the war and an opportunity to pay homage to veterans."
+      "title": "Royal National Agricultural Show Day Queensland",
+      "description": "Dogwood dogs, Bertie Beetle show bags, fireworks display, and a whole day of fun and relaxation!"
     },
     {
       "title": "Vigil of Assumption Day",
       "description": "Let’s celebrate the day the Virgin Mary was assumed into heaven."
+    },
+    {
+      "title": "World Calligraphy Day",
+      "description": "Grab your dip pens and inks and let your hand flow with the art of calligraphy!"
     },
     {
       "title": "World Lizard Day",
