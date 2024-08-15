@@ -4,10 +4,10 @@
   "holidays": [
     {
       "title": "Chant at the Moon Day",
-      "description": "Ah, summer, where the days are long and the nights are longer."
+      "description": null
     },
     {
-      "title": "Indian Independence Day",
+      "title": "India Independence Day",
       "description": "Join in the celebration of what Nehru called India&#39;s &#34;Tryst with Destiny.&#34;"
     },
     {
@@ -43,10 +43,6 @@
       "description": "In Paraguay and Newfoundland, people rise despite everything. Both are very resilient."
     },
     {
-      "title": "Liberation Day",
-      "description": "Celebrate the restoration of national independence that was lost for 36 years under Japanese rule."
-    },
-    {
       "title": "Liechtenstein National Day",
       "description": "August 15 is Liechtenstein National Day. Are you ready to celebrate?"
     },
@@ -59,14 +55,6 @@
       "description": "Happy Acadian Day to all Acadians in Canada; we are celebrating with you today!"
     },
     {
-      "title": "National Back To School Prep Day",
-      "description": "Do you have all the supplies that you need? Is the homework station set up?"
-    },
-    {
-      "title": "National Jean Day",
-      "description": "Jean is one of the most iconic names in history and today we celebrate it."
-    },
-    {
       "title": "National Leathercraft Day",
       "description": "It’s not just a craft, it’s an art. Celebrate the art of leathercrafting today!"
     },
@@ -75,11 +63,11 @@
       "description": "Take your taste buds on an unforgettable journey with the amazing lemon meringue pie!"
     },
     {
-      "title": "National Philip Day",
-      "description": "Learn more about the name Philip and the people who share the same name."
+      "title": "National Liberation Day of Korea",
+      "description": "Celebrate the restoration of national independence that was lost for 36 years under Japanese rule."
     },
     {
-      "title": "No Sponge Bob Day",
+      "title": "National No Sponge Bob Day",
       "description": "Today all residents of Bikini Bottom, except SpongeBob SquarePants, have their version of the Burning Man."
     },
     {
