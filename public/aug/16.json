@@ -3,20 +3,20 @@
   "day": 16,
   "holidays": [
     {
-      "title": "JUVÉDERM® Day",
-      "description": "On JUVÉDERM® Day, discover why the JUVÉDERM® Collection of Fillers is the US’ #1 chosen collection."
-    },
-    {
       "title": "National Work From Home for Wellness Day",
-      "description": "National Work From Home for Wellness Day on August 16th is the chance to discover the positive impact working from home can have on your well-being."
+      "description": null
     },
     {
       "title": "Bennington Battle Day",
       "description": "This Bennington Battle Day, let the rich history of this epic battle enthrall you."
     },
     {
-      "title": "Ekka People&#39;s Day",
-      "description": "We&#39;ve got some amazing ideas to celebrate Ekka People&#39;s Day so scroll down and check them out."
+      "title": "Gold Cup Parade",
+      "description": "The Gold Cup Parade proves that when citizens of Charlottetown throw a party, everyone turns out."
+    },
+    {
+      "title": "Hawaiian Shirt Day",
+      "description": "Take a stroll through beautiful Hawaii and adorn the ‘Aloha’ shirt to commemorate the day."
     },
     {
       "title": "National Airborne Day",
@@ -39,6 +39,14 @@
       "description": "We’re wishing a happy National Independent Worker Day to all those who are self-employed!"
     },
     {
+      "title": "Kool Aid Day",
+      "description": "Treat yourself and raise your glass of iced Kool-Aid drink to celebrate the day."
+    },
+    {
+      "title": "National Men&#39;s Grooming Day",
+      "description": "Incorporate some style and grooming techniques into your routine this National Men’s Grooming Day."
+    },
+    {
       "title": "National Roller Coaster Day",
       "description": "At any amusement park, it has the highest &#34;wow&#34; factor."
     },
@@ -57,10 +65,6 @@
     {
       "title": "Restoration Day (Dominican Republic)",
       "description": "Let&#39;s discover what Restoration Day means to the Dominicans and join them in their celebration."
-    },
-    {
-      "title": "Royal National Agricultural Show Day",
-      "description": "Dogwood dogs, Bertie Beetle show bags, fireworks display, and a whole day of fun and relaxation!"
     },
     {
       "title": "St. Roch’s Day",
