@@ -3,8 +3,8 @@
   "day": 17,
   "holidays": [
     {
-      "title": "National Black Cat Appreciation Day",
-      "description": "They’re so sleek and hypnotizing with their all-knowing eyes, but black cats seldom get recognition."
+      "title": "Black Cat Appreciation Day",
+      "description": null
     },
     {
       "title": "Baby Boomers Recognition Day",
@@ -19,16 +19,16 @@
       "description": "Indonesia Independence Day celebrates a long battle for the people of Indonesia for their own nation."
     },
     {
-      "title": "National Abel Day",
-      "description": "Listen Abels around the world, this is the day to celebrate your lovely name."
+      "title": "International Geocaching Day",
+      "description": "Prepare yourself for the holiday that evokes the excitement of classic treasure hunts."
+    },
+    {
+      "title": "International Homeless Animals Day",
+      "description": "The International Society for Animal Rights introduced the day to spread awareness about pet overpopulation."
     },
     {
       "title": "National I LOVE My feet Day",
       "description": "Celebrate National I Love My Feet Day and your feet will thank you."
-    },
-    {
-      "title": "National Marilyn Day",
-      "description": "Marilyn is one of the most iconic names in history and today we celebrate it."
     },
     {
       "title": "National Massachusetts Day",
@@ -49,6 +49,10 @@
     {
       "title": "Slovenians in Prekmurje Incorporated into the Mother Nation Day",
       "description": "Deca ste lüblene slovenske matere (You are children of the beloved Slovene mother)."
+    },
+    {
+      "title": "World Honey Bee Day",
+      "description": "Let&#39;s celebrate the importance of the honey bee on this special day!"
     },
     {
       "title": "Joi Wade’s Birthday",
