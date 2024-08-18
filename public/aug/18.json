@@ -3,60 +3,32 @@
   "day": 18,
   "holidays": [
     {
-      "title": "National Couple&#39;s Day",
-      "description": "Love is in the air, and it smells sweet with a hint of spice!"
-    },
-    {
       "title": "National Fajita Day",
-      "description": "Nothing better than a juicy cut of skirt steak sizzling over an open flame."
+      "description": null
     },
     {
-      "title": "Gold Cup Parade",
-      "description": "The Gold Cup Parade proves that when citizens of Charlottetown throw a party, everyone turns out."
+      "title": "Bad Poetry Day",
+      "description": "Roses are red, violets are blue. If Shakespeare can write poetry, so can you!"
     },
     {
       "title": "Green Man Festival",
       "description": "Grab your keys and let’s head out to Wales’ most vibrant festival — Green Man Festival!"
     },
     {
-      "title": "Hawaiian Shirt Day",
-      "description": "Take a stroll through beautiful Hawaii and adorn the ‘Aloha’ shirt to commemorate the day."
-    },
-    {
       "title": "Indonesia Constitution Day",
       "description": "The heart and soul of the country is the constitution. Unity in diversity is Indonesia’s identity."
-    },
-    {
-      "title": "Kool Aid Day",
-      "description": "Treat yourself and raise your glass of iced Kool-Aid drink to celebrate the day."
     },
     {
       "title": "Long Tan Day",
       "description": "No, it’s not about getting a good tan under the sun. It’s a solemn remembrance day."
     },
     {
-      "title": "National Angela Day",
-      "description": "Learn more about the name ‘Angela’ and the icons in history who go by that name."
-    },
-    {
-      "title": "National Bad Poetry Day",
-      "description": "Roses are red, violets are blue. If Shakespeare can write poetry, so can you!"
-    },
-    {
       "title": "National Ice Cream Pie Day",
       "description": "Prepare to treat your taste buds to this insanely delicious ice cream pie!"
     },
     {
-      "title": "National Jaden Day",
-      "description": "Learn more about the name Jaden and the people in history going by this name."
-    },
-    {
       "title": "National Mail Order Catalog Day",
       "description": "Let’s celebrate and learn about the world&#39;s oldest and most innovative marketing strategies."
-    },
-    {
-      "title": "National Men&#39;s Grooming Day",
-      "description": "Incorporate some style and grooming techniques into your routine this National Men’s Grooming Day."
     },
     {
       "title": "Never Give Up Day",
@@ -69,6 +41,18 @@
     {
       "title": "Serendipity Day",
       "description": "Let’s dare to be different, try something new, and appreciate the beauty of the moment!"
+    },
+    {
+      "title": "Spirit Festival",
+      "description": "Ghost Festival is observed by people in China as a traditional way of honoring their dead."
+    },
+    {
+      "title": "Tu B&#39;Av",
+      "description": "Find out the historical significance of Tu B&#39;Av and how it changed in modern times."
+    },
+    {
+      "title": "Ullambana",
+      "description": "Read on to find out more about Ullambana and the ways to celebrate it traditionally."
     },
     {
       "title": "World Breast Cancer Research Day",
