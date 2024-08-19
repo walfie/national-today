@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Potato Day",
-      "description": "National Potato Day on August 19th is the perfect chance to celebrate the most diverse of vegetables."
+      "description": null
     },
     {
       "title": "World Humanitarian Day",
@@ -15,20 +15,20 @@
       "description": "Get your dancing shoes ready as we celebrate this day with merriment."
     },
     {
+      "title": "August Moon Festival",
+      "description": "It&#39;s the August Moon Festival! Celebrate this magical night that never ends."
+    },
+    {
       "title": "Crown Princess Mette-Marit&#39;s day",
       "description": "Learn more about the day by celebrating it with the ethos promoted by the Crown Princess."
     },
     {
+      "title": "Discovery Day",
+      "description": "Enjoy walking tours, art exhibits, a golf tournament and more on Discovery Day."
+    },
+    {
       "title": "International Bow Day",
       "description": "Prepare your bow as we appreciate one of the world&#39;s most popular fashion accessories."
-    },
-    {
-      "title": "International Geocaching Day",
-      "description": "Prepare yourself for the holiday that evokes the excitement of classic treasure hunts."
-    },
-    {
-      "title": "International Homeless Animals Day",
-      "description": "The International Society for Animal Rights introduced the day to spread awareness about pet overpopulation."
     },
     {
       "title": "International Orangutan Day",
@@ -51,16 +51,20 @@
       "description": "Soft ice cream pops up in the happiest of places, and has a fascinating history too!"
     },
     {
+      "title": "Raksha Bandhan",
+      "description": "Rakhi, the sacred thread, represents love, faith, and understanding between brothers and their sisters."
+    },
+    {
       "title": "Revolution Commemoration Day",
       "description": "It is time to hoist the Vietnamese flag high as we celebrate the end of oppression."
     },
     {
-      "title": "Saviours of the Apple Feast Day",
-      "description": "It’s impossible to get into the church. Knots of apples float overhead on this day!"
+      "title": "San Martin Day",
+      "description": "On San Martin Day, we pay tribute to a national hero!"
     },
     {
-      "title": "World Honey Bee Day",
-      "description": "Let&#39;s celebrate the importance of the honey bee on this special day!"
+      "title": "Saviours of the Apple Feast Day",
+      "description": "It’s impossible to get into the church. Knots of apples float overhead on this day!"
     },
     {
       "title": "World Photo Day",
