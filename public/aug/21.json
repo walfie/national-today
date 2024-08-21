@@ -3,8 +3,8 @@
   "day": 21,
   "holidays": [
     {
-      "title": "Discovery Day",
-      "description": "Enjoy walking tours, art exhibits, a golf tournament and more on Discovery Day."
+      "title": "JUVÉDERM® Day",
+      "description": null
     },
     {
       "title": "International Day of Remembrance and Tribute to the Victims of Terrorism",
@@ -13,10 +13,6 @@
     {
       "title": "Internet Self-Care Day",
       "description": "The internet is full of information. Use that information for some self-care today."
-    },
-    {
-      "title": "Nag Panchami",
-      "description": "Let us explore the lore behind the tradition of worshiping snakes in the Hindu tradition."
     },
     {
       "title": "National Brazilian Blowout Day",
@@ -37,10 +33,6 @@
     {
       "title": "Ninoy Aquino Day",
       "description": "This day forever commemorates the life and legacy of a beloved hero of freedom."
-    },
-    {
-      "title": "San Martin Day",
-      "description": "On San Martin Day, we pay tribute to a national hero!"
     },
     {
       "title": "Alexandra Cooper’s Birthday",
