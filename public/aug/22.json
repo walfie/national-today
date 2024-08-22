@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Tooth Fairy Day",
-      "description": "Let&#39;s keep the tradition of a child receiving a gift for a lost tooth, alive."
+      "description": null
     },
     {
       "title": "Be An Angel Day",
@@ -23,16 +23,12 @@
       "description": "With countless possible fillings, you can be sure that there&#39;s a bao steamed to your liking!"
     },
     {
-      "title": "National Pamela Day",
-      "description": "Women and girls named Pamela are known to make great friends due to their sweet nature."
+      "title": "National Burger Day",
+      "description": "Join us as we bring you the best ways to celebrate National Burger Day."
     },
     {
       "title": "National Pecan Torte Day",
       "description": "Prepare to spend an entire day eating one of the tastiest desserts ever!"
-    },
-    {
-      "title": "National Rainbow Baby Day",
-      "description": "Today is Rainbow Baby Day, and we join these beautiful infants in celebrating."
     },
     {
       "title": "National Surgical Oncologist Day",
@@ -47,11 +43,11 @@
       "description": "Keep your friends close, your dogs closer, and celebrate the companionship of man’s best friend."
     },
     {
-      "title": "Qixi Festival",
-      "description": "Buy some gifts, look your best, and say those three magical words to your beloved!"
+      "title": "Rainbow Baby Day",
+      "description": "Today is Rainbow Baby Day, and we join these beautiful infants in celebrating."
     },
     {
-      "title": "Russia National Flag Day",
+      "title": "Russian Flag Day",
       "description": "Travel back in time and decode the symbolism behind Russia’s national flag."
     },
     {
