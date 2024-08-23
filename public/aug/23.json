@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "Find Your Inner Nerd Day",
-      "description": "Share your uniqueness and your favorite nerdy things with the world today."
+      "description": null
     },
     {
       "title": "Health Unit Coordinators Day",
@@ -31,10 +31,6 @@
       "description": "Wear a black ribbon today to commemorate the European Day of Remembrance for Victims of Stalinism and Nazism."
     },
     {
-      "title": "International Blind Dog Day",
-      "description": "Read on to learn more about our blind furry friends this International Blind Dog Day."
-    },
-    {
       "title": "International Day for the Remembrance of the Slave Trade and its Abolition",
       "description": "Join us and this movement against the slave trade to make the world a better place."
     },
@@ -43,20 +39,16 @@
       "description": "The sandwich is mostly characterized by its delectable blend of ham, cheese, pork, and mustard."
     },
     {
-      "title": "National Levi Day",
-      "description": "The name Levi has become a favorite amongst new parents for being both traditional and trendy."
-    },
-    {
       "title": "National Ride The Wind Day",
       "description": "Take flight, relax, and enjoy the late summer breeze. It&#39;s time to ride the wind."
     },
     {
-      "title": "National Valentino Day",
-      "description": "If your taste is classic vintage, let the Sheik show you how it&#39;s done."
-    },
-    {
       "title": "Slavery Remembrance Day",
       "description": "The transatlantic slave trade is a blight on our history, but it must not be forgotten."
+    },
+    {
+      "title": "Valentino Day",
+      "description": "If your taste is classic vintage, let the Sheik show you how it&#39;s done."
     },
     {
       "title": "Badda TD’s Birthday",
