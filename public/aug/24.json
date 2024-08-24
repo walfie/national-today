@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Waffle Day",
-      "description": "Pass the syrup! We’ll welcome any occasion to indulge in this iconic international treat."
+      "description": null
     },
     {
       "title": "International Strange Music Day",
@@ -15,24 +15,16 @@
       "description": "Kobe Bryant was more than a basketball player; he was an inspiration and a cultural icon."
     },
     {
+      "title": "Liberia Flag Day",
+      "description": "It’s not just a flag, it’s proof of independence, courage, and moral excellence."
+    },
+    {
       "title": "Melaka Governor&#39;s Birthday",
       "description": "Today is a public holiday to celebrate the officeholder’s birthday — it’s Melaka Governor’s Birthday."
     },
     {
-      "title": "National Burger Day",
-      "description": "Join us as we bring you the best ways to celebrate National Burger Day."
-    },
-    {
-      "title": "National Danny Day",
-      "description": "Join us as we celebrate all the Dannys and Daniels around the world today."
-    },
-    {
       "title": "National Emory Day",
       "description": "Though Emory is a gender-neutral name, parents are more likely to name their boys Emory than girls."
-    },
-    {
-      "title": "National Flag Day in Liberia",
-      "description": "It’s not just a flag, it’s proof of independence, courage, and moral excellence."
     },
     {
       "title": "National Knife Day",
@@ -49,6 +41,10 @@
     {
       "title": "Pluto Demoted Day",
       "description": "After nearly 80 years as an official planet, Pluto was demoted down to a dwarf planet."
+    },
+    {
+      "title": "Pride Cymru",
+      "description": "Join us as we celebrate the LGBTQ+ community this year in honor of Pride Cymru."
     },
     {
       "title": "St Bartholomew History",
