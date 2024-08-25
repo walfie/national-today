@@ -4,7 +4,11 @@
   "holidays": [
     {
       "title": "National Banana Split Day",
-      "description": "The original banana split wasn&#39;t created in an ice cream parlor but in a pharmacy!"
+      "description": null
+    },
+    {
+      "title": "Notting Hill Carnival",
+      "description": "Give yourself over to those wonderful West Indian vibes!"
     },
     {
       "title": "Day of Songun",
@@ -25,6 +29,10 @@
     {
       "title": "National Whiskey Sour Day",
       "description": "Why not kick back and pour yourself a glass of whiskey sour today?"
+    },
+    {
+      "title": "Social Justice Sunday",
+      "description": "Today, we are encouraged to listen to and respond to the earth&#39;s cries for help."
     },
     {
       "title": "Uruguay Independence Day",
