@@ -4,7 +4,15 @@
   "holidays": [
     {
       "title": "National Dog Day",
-      "description": "What would we do without man’s best friend?"
+      "description": null
+    },
+    {
+      "title": "Janmashtami",
+      "description": "We wish our Indian friends a happy Janmashtami as we commemorate Krishna’s life."
+    },
+    {
+      "title": "Late Summer Bank Holiday",
+      "description": "Summer comes to an end, and Autumn begins, but not before the Late Summer Bank Holiday!"
     },
     {
       "title": "National Cherry Popsicle Day",
@@ -15,12 +23,12 @@
       "description": "Join us as we observe Papua New Guinea’s National Repentance Day this August 26."
     },
     {
-      "title": "National Kelly Day",
-      "description": "Kelly was originally a boy’s name only but today, it’s more common as a girl’s name."
+      "title": "National Heroes Day of Philippines",
+      "description": "Get ready to understand the importance of National Heroes of Philippines Day and its history."
     },
     {
-      "title": "National Logan Day",
-      "description": "Today we celebrate the name Logan which is fun, quirky, and gender-neutral."
+      "title": "National Heroes&#39; Day",
+      "description": "Filipinos celebrate and honor the known and unknown heroes of the Philippine Revolution."
     },
     {
       "title": "National Spark the World Day",
@@ -35,8 +43,8 @@
       "description": "A webmistress is a woman who designs, develops, markets, and maintains websites."
     },
     {
-      "title": "Pride Cymru",
-      "description": "Join us as we celebrate the LGBTQ+ community this year in honor of Pride Cymru."
+      "title": "Summer Bank Holiday (England and Wales)",
+      "description": "Enjoy the last dregs of the summer holidays by indulging in fun activities at festivals and more!"
     },
     {
       "title": "Women’s Equality Day",
