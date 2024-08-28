@@ -4,15 +4,11 @@
   "holidays": [
     {
       "title": "Crackers Over The Keyboard Day",
-      "description": "Get ‘cracking’ to indulge in this rather unusual but fun food holiday."
+      "description": null
     },
     {
       "title": "Emirati Womens Day",
       "description": "Today we honor the ladies of the United Arab Emirates. Happy Women&#39;s Day to them."
-    },
-    {
-      "title": "Late Summer Bank Holiday",
-      "description": "Summer comes to an end, and Autumn begins, but not before the Late Summer Bank Holiday!"
     },
     {
       "title": "National Bow Tie Day",
@@ -23,16 +19,8 @@
       "description": "Celebrate this day by devouring some of this delicious French puff pastry dessert."
     },
     {
-      "title": "National Heroes Day of Philippines",
-      "description": "Get ready to understand the importance of National Heroes of Philippines Day and its history."
-    },
-    {
-      "title": "National Heroes&#39; Day",
-      "description": "Filipinos celebrate and honor the known and unknown heroes of the Philippine Revolution."
-    },
-    {
-      "title": "National Power Rangers Day",
-      "description": "Suit up! Everybody gets to be a Ranger on National Power Rangers Day."
+      "title": "Power Rangers Day",
+      "description": "Suit up! Everybody gets to be a Ranger on Power Rangers Day."
     },
     {
       "title": "Race Your Mouse Around the Icons Day",
@@ -41,10 +29,6 @@
     {
       "title": "Rainbow Bridge Remembrance Day",
       "description": "The death of a beloved pet, is a sad occasion."
-    },
-    {
-      "title": "Summer Bank Holiday (England and Wales)",
-      "description": "Enjoy the last dregs of the summer holidays by indulging in fun activities at festivals and more!"
     },
     {
       "title": "Florence Welch’s Birthday",
