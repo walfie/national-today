@@ -4,11 +4,15 @@
   "holidays": [
     {
       "title": "National Lemon Juice Day",
-      "description": "When life hands you lemons, make lemonade!"
+      "description": null
     },
     {
       "title": "According to Hoyle Day",
       "description": "Who is Hoyle? And how did he become an expert on rules and card games?"
+    },
+    {
+      "title": "Anniversary of The Slovak National Uprising",
+      "description": "On Slovak National Uprising Anniversary, we’re celebrating peace and honoring the lost."
     },
     {
       "title": "Founding Anniversary of the Senate",
@@ -19,16 +23,12 @@
       "description": "Celebrate your individual rights and the man who made it happen — John Locke."
     },
     {
+      "title": "International Cabernet Day",
+      "description": "Get your wine glasses ready for some Cabernet this International Cabernet Day!"
+    },
+    {
       "title": "International Day against Nuclear Tests",
       "description": "Let’s raise awareness about the devastating effects of nuclear weapons."
-    },
-    {
-      "title": "Late Summer Bank Holiday",
-      "description": "Summer comes to an end, and Autumn begins, but not before the Late Summer Bank Holiday!"
-    },
-    {
-      "title": "Literacy &amp; Numeracy Week",
-      "description": "Read about it, write about it, crunch it, and calculate it all through this week!"
     },
     {
       "title": "More Herbs, Less Salt Day",
@@ -39,20 +39,12 @@
       "description": "Let’s enjoy hot chop suey as we learn about its history and facts."
     },
     {
-      "title": "National Heroes Day of Philippines",
-      "description": "Get ready to understand the importance of National Heroes of Philippines Day and its history."
-    },
-    {
       "title": "National Sports Day",
       "description": "Calling all sports fans! Join us in celebrating field hockey and all other sporting activities."
     },
     {
-      "title": "National Uprising Day",
-      "description": "On Slovak National Uprising Anniversary, we’re celebrating peace and honoring the lost."
-    },
-    {
-      "title": "Summer Bank Holiday (England and Wales)",
-      "description": "Enjoy the last dregs of the summer holidays by indulging in fun activities at festivals and more!"
+      "title": "Chelsea DeBoer’s Birthday",
+      "description": "This reality T.V star always keeps pushing forward and never gives up!"
     },
     {
       "title": "GG Allin’s Birthday",
@@ -63,8 +55,20 @@
       "description": "The public saw Apfel in her full glory, and that started her career in mainstream fashion."
     },
     {
+      "title": "John Fish’s Birthday",
+      "description": "This popular YouTube vlogger is a very meticulous student and consistent with his work."
+    },
+    {
       "title": "John Locke’s Birthday",
       "description": "The Father of Liberalism, British philosopher John Locke, continues to influence philosophical discourse, even today."
+    },
+    {
+      "title": "Liam Payne’s Birthday",
+      "description": "This master musician and singer has always been a force to be reckoned with."
+    },
+    {
+      "title": "Michael Jackson’s Birthday",
+      "description": "The King of Pop still remains a cultural figure and continues to influence countless artists."
     },
     {
       "title": "Newton Pittman’s Birthday",
