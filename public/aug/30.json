@@ -4,7 +4,11 @@
   "holidays": [
     {
       "title": "National Beach Day",
-      "description": "Here&#39;s how you can help: after enjoying the beach, leave nothing behind."
+      "description": null
+    },
+    {
+      "title": "College Colors Day",
+      "description": "By rocking your college colors and apparel, you show spirit and school pride."
     },
     {
       "title": "Frankenstein Day",
@@ -27,10 +31,6 @@
       "description": "This National Grief Awareness Day on August 30 is dedicated to raising awareness of the myriad ways in which individuals cope with loss. It offers…"
     },
     {
-      "title": "National Harper Day",
-      "description": "Join us as we unmask the history of the name Harper on National Harper Day."
-    },
-    {
       "title": "National Holistic Pet Day",
       "description": "Care for your pet with the same generosity you give your own mind, body, and spirit."
     },
@@ -41,10 +41,6 @@
     {
       "title": "Popular Consultation Day",
       "description": "Let us learn about the importance of the decision of the Indonesian president regarding East Timor."
-    },
-    {
-      "title": "Raksha Bandhan",
-      "description": "Rakhi, the sacred thread, represents love, faith, and understanding between brothers and their sisters."
     },
     {
       "title": "Santa Rosa De Lima",
@@ -59,16 +55,8 @@
       "description": "Today marks Slinky&#39;s 79th anniversary! Let&#39;s remember this much-loved retro toy today."
     },
     {
-      "title": "Spirit Festival",
-      "description": "Ghost Festival is observed by people in China as a traditional way of honoring their dead."
-    },
-    {
-      "title": "Ullambana",
-      "description": "Read on to find out more about Ullambana and the ways to celebrate it traditionally."
-    },
-    {
-      "title": "Victory Day",
-      "description": "We are fostering national pride and learning more about history on Victory Day."
+      "title": "Turkey Victory Day",
+      "description": "We are fostering national pride and learning more about history on Turkey Victory Day."
     },
     {
       "title": "Brayden Ledford’s Birthday",
