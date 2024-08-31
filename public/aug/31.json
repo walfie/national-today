@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Trail Mix Day",
-      "description": "We eat it without thinking about it but trail mix keeps us happy throughout the day."
+      "description": null
     },
     {
       "title": "Birth Anniversary of President Ramon Magsaysay",
@@ -15,12 +15,8 @@
       "description": "We’ve got some suggestions to make you salivate over Eat Outside Day."
     },
     {
-      "title": "Independence Day",
-      "description": "This Merdeka Day, Malaysians celebrate their love for their country with great patriotic spirit."
-    },
-    {
-      "title": "International Cabernet Day",
-      "description": "Get your wine glasses ready for some Cabernet this International Cabernet Day!"
+      "title": "Franchise Appreciation Day",
+      "description": "Let’s help each other by honoring this day and supporting our local franchises."
     },
     {
       "title": "International Day for People of African Descent",
@@ -29,6 +25,10 @@
     {
       "title": "International Overdose Awareness Day",
       "description": "Let’s put up a fight against the issues preventing solutions this International Overdose Awareness Day."
+    },
+    {
+      "title": "IRONMAN Wales",
+      "description": "Explore every intriguing and heart-racing detail of the world’s most daring endurance course."
     },
     {
       "title": "Kyrgyzstan Independence Day",
@@ -43,8 +43,8 @@
       "description": "Here are some fun ways to celebrate those in the legal profession."
     },
     {
-      "title": "National Dan Day",
-      "description": "Daniel (Dan) was the 14th most popular name in the U.S. in 2021."
+      "title": "Malaysia Independence Day",
+      "description": "This Merdeka Day, Malaysians celebrate their love for their country with great patriotic spirit."
     },
     {
       "title": "National Diatomaceous Earth Day",
