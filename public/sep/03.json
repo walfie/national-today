@@ -3,8 +3,16 @@
   "day": 3,
   "holidays": [
     {
-      "title": "National Skyscraper Day",
-      "description": "We invite you to join us in taking a long look up."
+      "title": "Skyscraper Day",
+      "description": null
+    },
+    {
+      "title": "Telephone Tuesday",
+      "description": "Officially a day notorious for surprisingly, more phone calls than usual."
+    },
+    {
+      "title": "Another Look Unlimited Day",
+      "description": "Declutter, reuse, gift, sell or donate. Turn your unwanted junk into useful items."
     },
     {
       "title": "Foundation Day in San Marino",
@@ -13,14 +21,6 @@
     {
       "title": "Merchant Navy Day",
       "description": "Observe the day and recognize the sacrifices of the often forgotten merchant seafarers."
-    },
-    {
-      "title": "National Pet Rock Day",
-      "description": "Join millions in celebrating the perfect pet as we mark National Pet Rock Day."
-    },
-    {
-      "title": "National Stephen Day",
-      "description": "Find out the true meaning behind the name as we mark National Stephen Day."
     },
     {
       "title": "National Welsh Rarebit Day",
