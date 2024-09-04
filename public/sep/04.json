@@ -3,32 +3,24 @@
   "day": 4,
   "holidays": [
     {
-      "title": "Labor Day",
-      "description": "Summer&#39;s final fling has arrived in the form of Labor Day."
-    },
-    {
       "title": "​National Wildlife Day",
-      "description": "Step back, take a deep breath and think about all that surrounds us."
+      "description": null
     },
     {
       "title": "Eat an Extra Dessert Day",
       "description": "Now’s your chance to be shameless by indulging in as many sweet treats as you like"
     },
     {
-      "title": "Mouthguard Day",
-      "description": "Let&#39;s encourage people to wear mouthguards to reduce the risk of broken teeth and jaws!"
+      "title": "Global Talent Acquisition Day",
+      "description": "Learn about talent acquisition’s origins and its role in employment on Global Talent Acquisition Day."
+    },
+    {
+      "title": "Martyrdom of Imam Reza",
+      "description": "Mourners, pay respect to the revered Shia Imam on the day of the Martyrdom of Imam Reza."
     },
     {
       "title": "National Macadamia Nut Day",
       "description": "We’re just nuts about this highly sought-after seed that hails from Australia."
-    },
-    {
-      "title": "Umhlanga reed dance Day",
-      "description": "Umhlanga Reed Dance Day is a grand celebration of purity and girlhood."
-    },
-    {
-      "title": "West Indian Day Parade",
-      "description": "West Indian culture is colorful and multifaceted. But what do we mean by &#34;West Indian?&#34;"
     },
     {
       "title": "Beyoncé’s Birthday",
