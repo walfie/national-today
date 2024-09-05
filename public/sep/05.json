@@ -4,19 +4,15 @@
   "holidays": [
     {
       "title": "International Day of Charity",
-      "description": "Simple acts of charity can alleviate the worst effects of humanitarian crises."
+      "description": null
     },
     {
       "title": "National Cheese Pizza Day",
       "description": "Hold the toppings and savor a classic slice of ooey, gooey cheese pizza!"
     },
     {
-      "title": "Telephone Tuesday",
-      "description": "Officially a day notorious for surprisingly, more phone calls than usual."
-    },
-    {
-      "title": "Another Look Unlimited Day",
-      "description": "Declutter, reuse, gift, sell or donate. Turn your unwanted junk into useful items."
+      "title": "Maldives: Qaumee Dhuvas",
+      "description": "Observe the day to commemorate the victory in remembrance of Muhammad Thakurufaanu al-Auzam."
     },
     {
       "title": "National Actdumb. Day",
@@ -37,6 +33,10 @@
     {
       "title": "National Shrink Day",
       "description": "Today is your chance to acknowledge and share your appreciation for these indispensable professionals."
+    },
+    {
+      "title": "Onam",
+      "description": "Celebrating the rice harvest, Onam is one of the three primary Hindu celebrations."
     },
     {
       "title": "Saint Teresa Canonisation Day in Albania",
