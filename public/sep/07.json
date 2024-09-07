@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Beer Lovers Day",
-      "description": "Let&#39;s all sing, &#34;99 Bottles of Beer on the Wall.&#34;"
+      "description": null
     },
     {
       "title": "Brazil Independence Day",
@@ -15,8 +15,16 @@
       "description": "Suit up, we are going to buy and read some awesome books!"
     },
     {
+      "title": "Carl Garner Federal Lands Cleanup Day",
+      "description": "On Carl Garner Federal Lands Cleanup Day, let’s find out how to get involved in our areas."
+    },
+    {
       "title": "Fluidra International Pool Pro Day",
       "description": "Let&#39;s celebrate the excellent work of pool professionals on Fluidra International Pool Pro Day!"
+    },
+    {
+      "title": "Ganesh Chaturthi",
+      "description": "A ten day festival, held to honor the Hindu god of intelligence, Ganesha."
     },
     {
       "title": "Google Commemoration Day",
@@ -29,6 +37,10 @@
     {
       "title": "Indigenous Literacy Day",
       "description": "Settle in for some much-needed unlearning today as we observe Indigenous Literacy Day."
+    },
+    {
+      "title": "International Bacon Day",
+      "description": "Let’s go hog-wild and enjoy more of this delicious, sizzling American staple."
     },
     {
       "title": "International Day of Clean Air",
@@ -55,6 +67,10 @@
       "description": "An amazing healthcare worker matches perfectly with a grateful patient. Be one today!"
     },
     {
+      "title": "National Hummingbird Day",
+      "description": "It seems more and more people are excited about seeing Hummingbirds than their favorite celebrities."
+    },
+    {
       "title": "National Neither Snow Nor Rain Day",
       "description": "Through sunshine and hail, our postal service workers are here to stay."
     },
@@ -63,16 +79,12 @@
       "description": "National New Hampshire Day is a celebration of the state’s beautiful culture, landscapes, and history."
     },
     {
-      "title": "National Regina Day",
-      "description": "It’s the day of queens; join the celebrations for National Regina Day."
-    },
-    {
       "title": "National Salami Day",
       "description": "Meat lovers gather around, as we dig into the delicious celebration of this world-renowned sausage!"
     },
     {
-      "title": "National Tatiana Day",
-      "description": "Get prepared, Tatianas, as we commemorate your unique name on National Tatiana Day."
+      "title": "National Tailgating Day",
+      "description": "Good food, great company, and a lot of fun are reasons to enjoy this national pastime."
     },
     {
       "title": "Superhuman Day",
@@ -81,6 +93,14 @@
     {
       "title": "Texas Energy Savings Day",
       "description": "The majority of Texans are overpaying for their electricity, and with so many complicated plans and bills, many Texans don&#39;t even realize it."
+    },
+    {
+      "title": "Turkey Vulture Day",
+      "description": "Help raise awareness of the importance of vulture conservation at this year’s celebration."
+    },
+    {
+      "title": "World Beard Day",
+      "description": "Bushy, trimmed, or closely manicured, the beard remains supreme and we’re here to celebrate it."
     },
     {
       "title": "World Duchenne Awareness Day",
