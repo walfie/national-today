@@ -3,6 +3,10 @@
   "day": 8,
   "holidays": [
     {
+      "title": "Grandparents Day",
+      "description": null
+    },
+    {
       "title": "International Literacy Day",
       "description": "&#34;To remind the public of the importance of literacy as dignity and human rights.”"
     },
@@ -11,20 +15,20 @@
       "description": "On this day, we celebrate the actors and actresses who make stories come alive."
     },
     {
-      "title": "National 401(k) Day",
-      "description": "We all dream of a life of leisure during our golden, retirement years."
+      "title": "Day of the Homeland",
+      "description": "Day of the Homeland is celebrated annually in the Federal Republic of Germany."
     },
     {
       "title": "National Ampersand Day",
       "description": "Oh, yes, ampersand! Get your pens ready as we explore this curly and quirky little character."
     },
     {
-      "title": "National David Day",
-      "description": "Celebrate the lives of Davids all over the world as we mark National David Day."
-    },
-    {
       "title": "National Dog Walker Appreciation Day",
       "description": "Let us appreciate the incredible people who help and celebrate our furry friends every day!"
+    },
+    {
+      "title": "National Hug Your Hound Day",
+      "description": "They say every dog has its day, and today is that day!"
     },
     {
       "title": "National Iguana Awareness Day",
@@ -35,16 +39,16 @@
       "description": "Honor and laud the efforts of our nurses as they help young patients and their families."
     },
     {
+      "title": "National Pet Memorial Day",
+      "description": "Pet owners across the country remember their beloved pets who have passed on."
+    },
+    {
       "title": "Our Lady of Meritxell Day",
       "description": "Get ready to honor the heritage of the most hallowed Andorran holiday."
     },
     {
       "title": "Pardon Day",
       "description": "Human relationships can become sour, but also give us a chance to find peace and happiness."
-    },
-    {
-      "title": "Stand Up To Cancer Day",
-      "description": "We all have a common enemy, and today we are called to stand up to it."
     },
     {
       "title": "Star Trek Day",
