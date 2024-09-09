@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "International Sudoku Day",
-      "description": "Sudoku enthusiasts will no doubt notice the date’s symbolism."
+      "description": null
     },
     {
       "title": "California Admission Day",
@@ -15,28 +15,12 @@
       "description": "This special day is all about love and care! Ready to show it?"
     },
     {
-      "title": "Carl Garner Federal Lands Cleanup Day",
-      "description": "On Carl Garner Federal Lands Cleanup Day, let’s find out how to get involved in our areas."
-    },
-    {
-      "title": "Drive Your Studebaker Day",
-      "description": "Learn why Studebaker is regarded as the most exquisite car of the 20th century."
-    },
-    {
       "title": "Emergency Services Day",
       "description": "Emergency Services Day is an opportunity to celebrate the heroes saving lives by providing emergency services."
     },
     {
-      "title": "Farmers&#39; Consumer Awareness Day",
-      "description": "Farmers&#39; Consumer Awareness Day is the most exciting way to learn where your food comes from."
-    },
-    {
-      "title": "Free Dentistry Day",
-      "description": "Say goodbye to that toothache because dentists are available to help you for free today."
-    },
-    {
-      "title": "German Language Day",
-      "description": "German is the language of poets Bertolt Brecht, Rainer Maria Rilke, and classic Weimar-era cinema."
+      "title": "Independence Day of Tajikistan",
+      "description": "Join us as we learn more about Tajikistan’s incredible journey toward independence."
     },
     {
       "title": "International Box Wine Day",
@@ -51,6 +35,10 @@
       "description": "Today we remind you that it’s never a good idea to take alcohol while pregnant."
     },
     {
+      "title": "National Boss/Employee Exchange Day",
+      "description": "Get ready to step into a different pair of shoes as we celebrate this fun day."
+    },
+    {
       "title": "National When Pigs Fly Day",
       "description": "Have faith that miracles can happen and when they do, share them today."
     },
@@ -61,10 +49,6 @@
     {
       "title": "Steak Au Poivre Day",
       "description": "Get ready to stick your fork into one of the most succulent meals ever invented."
-    },
-    {
-      "title": "Tajikistan Independence Day",
-      "description": "Join us as we learn more about Tajikistan’s incredible journey toward independence."
     },
     {
       "title": "Teddy Bear Day",
