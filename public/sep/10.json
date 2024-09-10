@@ -3,36 +3,20 @@
   "day": 10,
   "holidays": [
     {
-      "title": "Grandparents Day",
-      "description": "Grandparents Day is an opportunity to treasure our grandparents and spend quality family time together."
-    },
-    {
       "title": "World Suicide Prevention Day",
-      "description": "It&#39;s a growing problem and the numbers tell a shocking story."
-    },
-    {
-      "title": "Day of the Homeland",
-      "description": "Day of the Homeland is celebrated annually in the Federal Republic of Germany."
+      "description": null
     },
     {
       "title": "Gibraltar National Day",
       "description": "It&#39;s Gibraltar National Day, and it&#39;s time to raise the flag proudly!"
     },
     {
-      "title": "Harvest Moon Festival",
-      "description": "Break out your forks and knives, it&#39;s time for some feasting and bonding, Korean style!"
-    },
-    {
-      "title": "Hug Your Hound Day",
-      "description": "They say every dog has its day, and today is that day!"
-    },
-    {
       "title": "National Anti-Junk Light Day",
       "description": "Learn how to prevent your eyes from becoming damaged by different sources of junk light."
     },
     {
-      "title": "National Pet Memorial Day",
-      "description": "Pet owners across the country remember their beloved pets who have passed on."
+      "title": "National Ants on a Log Day",
+      "description": "This day recognizes an iconic snack enjoyed by millions of Americans."
     },
     {
       "title": "National TV Dinner Day",
@@ -47,12 +31,12 @@
       "description": "Do not forget your bag of ideas on Swap Ideas Day. It will be fun!"
     },
     {
-      "title": "Top Up Day",
-      "description": "Want to say “thank you” through a gesture rather than words? Give top-ups to struggling friends!"
-    },
-    {
       "title": "White Balloon Day",
       "description": "White Balloon Day encourages the collective effort of the community to make surroundings safe for children."
+    },
+    {
+      "title": "World Top Up Day",
+      "description": "Want to say “thank you” through a gesture rather than words? Give top-ups to struggling friends!"
     },
     {
       "title": "Big Daddy Kane’s Birthday",
