@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Make Your Bed Day",
-      "description": "Did you know that we spend a third of our lives in bed?"
+      "description": null
     },
     {
       "title": "Patriot Day",
@@ -13,10 +13,6 @@
     {
       "title": "Libraries Remember Day",
       "description": "Libraries are a treasure trove of knowledge and some of our most joyful memories."
-    },
-    {
-      "title": "National Boss/Employee Exchange Day",
-      "description": "Get ready to step into a different pair of shoes as we celebrate this fun day."
     },
     {
       "title": "National Hot Cross Bun Day",
