@@ -3,12 +3,16 @@
   "day": 12,
   "holidays": [
     {
-      "title": "National Video Games Day",
-      "description": "No reason to feel bad about not even seeing the light of day today."
+      "title": "National Video Game Day",
+      "description": null
     },
     {
-      "title": "National Ants on a Log Day",
-      "description": "This day recognizes an iconic snack enjoyed by millions of Americans."
+      "title": "Are You Okay Day",
+      "description": "Are You Okay Day is observed to make us and those around us seen, heard, and understood."
+    },
+    {
+      "title": "Martyrdom of Imam Hassan Asgari",
+      "description": "No one should be persecuted for their religious beliefs. Take a stand against religious intolerance."
     },
     {
       "title": "National Chocolate Milkshake Day",
@@ -25,6 +29,10 @@
     {
       "title": "National Report Medicare Fraud Day",
       "description": "Every year, America loses 10% of Medicare funds to fraud."
+    },
+    {
+      "title": "National School Picture Day",
+      "description": "School picture day is one that kids eagerly look forward to, and with good reason!"
     },
     {
       "title": "United Nations Day for South-South Cooperation",
