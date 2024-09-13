@@ -4,7 +4,11 @@
   "holidays": [
     {
       "title": "National Peanut Day",
-      "description": "We pay homage to the mighty and tasty peanut."
+      "description": null
+    },
+    {
+      "title": "Bald is Beautiful Day",
+      "description": "Bald is Beautiful Day celebrates every bald cutie — whether they be young or old."
     },
     {
       "title": "Defy Superstition Day",
@@ -19,24 +23,20 @@
       "description": "Ever wondered how chocolate was invented? Well, we’ve got some sweet answers for you!"
     },
     {
-      "title": "National Bald is Beautiful Day",
-      "description": "National Bald is Beautiful Day celebrates every bald cutie — whether they be young or old."
+      "title": "National Blame Someone Else Day",
+      "description": "We’ve all had plenty of practice so it shouldn’t be a wildly daunting task."
     },
     {
       "title": "National Celiac Disease Awareness Day",
       "description": "Raise awareness about celiac disease, a genetic autoimmune disorder affecting millions of Americans."
     },
     {
+      "title": "National Doodle Day",
+      "description": "Check out some National Doodle Day celebration ideas that we&#39;re really drawn to."
+    },
+    {
       "title": "National Hug Your Boss Day",
       "description": "Let’s appreciate our bosses this September by giving them a good hug."
-    },
-    {
-      "title": "National Jose Day",
-      "description": "Celebrate with Josés around the globe as we mark National José Day in style."
-    },
-    {
-      "title": "National Juan Day",
-      "description": "From Juan Pablo to Juan Jesus, it’s National Juan Day and we couldn’t be more excited."
     },
     {
       "title": "National Kids Take Over the Kitchen Day",
@@ -61,6 +61,10 @@
     {
       "title": "Roald Dahl Day",
       "description": "A former RAF fighter pilot, intelligence officer, and diplomat, Roald Dahl is best known as one of the world’s best-loved storytellers. In books like “Matilda”,…"
+    },
+    {
+      "title": "Stand Up To Cancer Day",
+      "description": "We all have a common enemy, and today we are called to stand up to it."
     },
     {
       "title": "Supernatural Day",
