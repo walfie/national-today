@@ -4,15 +4,23 @@
   "holidays": [
     {
       "title": "National Rosa Tequila Day",
-      "description": "Celebrate National Rosa Tequila Day and enjoy the highest-rated rosa tequila in the world."
+      "description": null
     },
     {
-      "title": "Are You Okay Day",
-      "description": "Are You Okay Day is observed to make us and those around us seen, heard, and understood."
+      "title": "Drive Your Studebaker Day",
+      "description": "Learn why Studebaker is regarded as the most exquisite car of the 20th century."
     },
     {
-      "title": "Death of Prophet Muhammed",
-      "description": "Take time to reflect on the teachings of the Prophet Muhammad as we honor his death."
+      "title": "Farmers&#39; Consumer Awareness Day",
+      "description": "Farmers&#39; Consumer Awareness Day is the most exciting way to learn where your food comes from."
+    },
+    {
+      "title": "Free Dental Day",
+      "description": "Say goodbye to that toothache because dentists are available to help you for free today."
+    },
+    {
+      "title": "German Language Day",
+      "description": "German is the language of poets Bertolt Brecht, Rainer Maria Rilke, and classic Weimar-era cinema."
     },
     {
       "title": "Gobstopper Day",
@@ -37,14 +45,6 @@
     {
       "title": "NATIONAL LIVE CREATIVE DAY",
       "description": "Time to unleash your creative energy!"
-    },
-    {
-      "title": "National Noel Day",
-      "description": "Hi there, Noel. Today is your day, so let’s find out more about your name!"
-    },
-    {
-      "title": "National School Pictures Day",
-      "description": "School picture day is one that kids eagerly look forward to, and with good reason!"
     },
     {
       "title": "National Sober Day",
