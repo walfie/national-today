@@ -3,12 +3,28 @@
   "day": 15,
   "holidays": [
     {
+      "title": "Wife Appreciation Day",
+      "description": null
+    },
+    {
+      "title": "Birthday of Prophet Muhammad",
+      "description": "Prophet Muhammad’s Birthday commemorates the birth of the religion of Islam’s founder."
+    },
+    {
       "title": "Butterscotch Cinnamon Pie Day",
       "description": "Delight yourself by indulging in a decadent slice or two of butterscotch cinnamon pie."
     },
     {
       "title": "Costa Rica Independence Day",
       "description": "Costa Rica celebrates its official Independence Day with much fun and joy today."
+    },
+    {
+      "title": "Dot Day",
+      "description": "It started with a story about a little girl named Vashti, the protagonist of “The Dot.”"
+    },
+    {
+      "title": "Egypt: Al-Mouled Al-Nabawy",
+      "description": "Egypt celebrates Al-Mouled Al-Nabawy in honor of Prophet Muhammad’s birth. Join us as we commemorate it!"
     },
     {
       "title": "El Salvador Independence Day",
@@ -35,16 +51,8 @@
       "description": "When freedom is absent, life includes unimaginable challenges that are often incomprehensible."
     },
     {
-      "title": "International Dot Day",
-      "description": "It started with a story about a little girl named Vashti, the protagonist of “The Dot.”"
-    },
-    {
       "title": "Make a Hat Day",
       "description": "We celebrate Make a Hat Day by making hats that suit us the best."
-    },
-    {
-      "title": "Martyrdom of Imam Reza",
-      "description": "Mourners, pay respect to the revered Shia Imam on the day of the Martyrdom of Imam Reza."
     },
     {
       "title": "National Africa Civility Day",
@@ -53,10 +61,6 @@
     {
       "title": "National Cheese Toast Day",
       "description": "Celebrate the amalgamation of crunchiness and cheesiness of this dish in your mouth."
-    },
-    {
-      "title": "National Concussion Awareness Day",
-      "description": "Learn and educate others on how non-visible physical injuries can also be fatal."
     },
     {
       "title": "National Creme de Menthe Day",
@@ -71,10 +75,6 @@
       "description": "Get ready to learn about preventing drug abuse and how you can help."
     },
     {
-      "title": "National Doodle Day",
-      "description": "Check out some National Doodle Day celebration ideas that we&#39;re really drawn to."
-    },
-    {
       "title": "National Double Cheeseburger Day",
       "description": "Join us in celebrating one of America’s revered and most savored food items."
     },
@@ -87,32 +87,12 @@
       "description": "The pesto is blended, the shrimp is boiled. Time to add the most important ingredient — linguine."
     },
     {
-      "title": "National Malcolm Day",
-      "description": "If your name is Malcolm, then today is your day, so let’s find out more about you!"
-    },
-    {
       "title": "National Online Learning Day",
       "description": "The internet has revolutionized the learning process and offers flexible learning environment to students."
     },
     {
-      "title": "National POW/MIA Recognition Day",
-      "description": "They’ll always be in our hearts — the gallant and beloved Americans who fought for freedom."
-    },
-    {
-      "title": "National Ruben Day",
-      "description": "Today is the day to celebrate Rubens around the world, so let’s find out more!"
-    },
-    {
       "title": "National Tackle Kids Cancer Day",
       "description": "National Tackle Kids Cancer Day is observed to raise critical funds for pediatric cancer research."
-    },
-    {
-      "title": "National Tradesmen Day",
-      "description": "Let’s come together to express our gratitude to the tradesmen (and -women) of the country."
-    },
-    {
-      "title": "Rosh Hashanah",
-      "description": "Rosh Hashanah, literally translating to ‘head of the year’, is the Jewish New Year."
     },
     {
       "title": "Shout of Dolores",
