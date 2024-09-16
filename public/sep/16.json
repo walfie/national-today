@@ -3,56 +3,28 @@
   "day": 16,
   "holidays": [
     {
-      "title": "Batman Day",
-      "description": "Billionaire Bruce Wayne by day, crime-fighting caped crusader Batman by night."
-    },
-    {
-      "title": "National Cleanup Day",
-      "description": "After all, being a good citizen includes keeping our communities clean!"
-    },
-    {
-      "title": "National Dance Day",
-      "description": "We brought the music, you bring the moves!"
-    },
-    {
-      "title": "Abergavenny Food Festival",
-      "description": "Don’t even think about missing this food festival if you are in the U.K."
-    },
-    {
       "title": "Anne Bradstreet Day",
-      "description": "Let’s tap into our inner Anne Bradstreet and honor and celebrate her today!"
+      "description": null
     },
     {
       "title": "Collect Rocks Day",
       "description": "We are getting our tools ready to start digging and collecting."
     },
     {
-      "title": "Feast Portland",
-      "description": "Grab your forks and get your appetites ready because we are celebrating Feast Portland!"
+      "title": "FAMILY AND COMMUNITY DAY",
+      "description": "Spare some time off work to celebrate with your family and community!"
     },
     {
-      "title": "International Coastal Cleanup Day",
-      "description": "Let’s roll up our sleeves and clean our beaches and coastlines to reduce pollution."
+      "title": "Feast Portland",
+      "description": "Grab your forks and get your appetites ready because we are celebrating Feast Portland!"
     },
     {
       "title": "International Day for the Preservation of the Ozone Layer",
       "description": "Here’s how to look after and celebrate Earth’s blankie this Ozone Day!"
     },
     {
-      "title": "International Eat An Apple Day",
-      "description": "As the saying goes, that&#39;s how you keep the doctor away."
-    },
-    {
-      "title": "International Red Panda Day",
-      "description": "Celebrate the day to encourage the preservation of the adorable red pandas."
-    },
-    {
       "title": "Malaysia Day",
       "description": "Malaysia Day is the perfect time to educate yourself about Malaysia&#39;s history."
-    },
-    {
-      "title": "Maldives: Qaumee Dhuvas",
-      "description": "Observe the day to commemorate the victory in remembrance of Muhammad Thakurufaanu al-Auzam."
     },
     {
       "title": "Mayflower Day",
@@ -63,12 +35,8 @@
       "description": "This fiesta-friendly holiday is filled with national pride, colorful parades, and Sabrosa food."
     },
     {
-      "title": "National AKC Responsible Dog Ownership Day",
-      "description": "Hey, dog owners, kiss your buddies and give them extra special treats today!"
-    },
-    {
-      "title": "National Boys’ and Girls’ Club Day for Kids",
-      "description": "National Boys’ and Girls’ Club Day for Kids is here, let’s celebrate!"
+      "title": "Milad an-Nabi (Mawlid)",
+      "description": "Milad an-Nabi, is celebrated by Muslims as the birthday of the Prophet Muhammad."
     },
     {
       "title": "National Choose Your Chocolate Day",
@@ -79,16 +47,8 @@
       "description": "Savor the rich goodness of toasted cinnamon raisin bread with butter melting into every little crevice."
     },
     {
-      "title": "National Gymnastics Day",
-      "description": "Gyms turn into beehives of activity, highlighting the benefits of a healthy body."
-    },
-    {
       "title": "National Play-Doh Day",
       "description": "Join us as we mold (clay pun intended) this day into the best Play-Doh Day!"
-    },
-    {
-      "title": "National Sew a Jelly Roll Day",
-      "description": "Warm those Jelly Rolls up; it’s time for National Sew a Jelly Roll Day!"
     },
     {
       "title": "National Sit With a Stranger Day",
@@ -103,20 +63,12 @@
       "description": "Prepare for the story that will inspire you to go get tatted!"
     },
     {
-      "title": "National Trail of Tears Commemoration Day",
-      "description": "The day remembers the thousands of Cherokees and Native Americans that died horrific deaths."
-    },
-    {
       "title": "Papua New Guinea Independence Day",
       "description": "It’s Papua New Guinea Independence Day! Let us celebrate this nation’s bloodless path to independence."
     },
     {
-      "title": "Puppy Mill Awareness Day",
-      "description": "Did you know millions of dogs are killed due to puppy mills every day?"
-    },
-    {
-      "title": "Responsible Dog Ownership Day",
-      "description": "Today, pet parents ‘pawse’ and remember the promises they made to their ‘furever’ friends."
+      "title": "Respect for the Aged Day",
+      "description": "Our elders are our link to the past and they contribute to our future."
     },
     {
       "title": "Stay Away From Seattle Day",
@@ -127,8 +79,8 @@
       "description": "Let’s tackle a heavy issue that’s been weighing America’s kids down."
     },
     {
-      "title": "Usher Syndrome Awareness Day",
-      "description": "The first step to raising awareness for this rare genetic disease is educating yourself."
+      "title": "Trail of Tears Commemoration Day",
+      "description": "The day remembers the thousands of Cherokees and Native Americans that died horrific deaths."
     },
     {
       "title": "Working Parents Day",
