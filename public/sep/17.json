@@ -4,23 +4,27 @@
   "holidays": [
     {
       "title": "International Patient Safety Day",
-      "description": "Complex, multi-layered health care systems can sometime stray from patient safety considerations."
+      "description": null
     },
     {
       "title": "National Pet Bird Day",
       "description": "Preen your feathers and warm up your singing voice!"
     },
     {
-      "title": "Wife Appreciation Day",
-      "description": "Wifeys get extra attention, love, and maybe that dress they have been eyeing."
-    },
-    {
       "title": "Australian Citizenship Day",
       "description": "Whether Australian by birth or choice, take the pledge on Australian Citizenship Day."
     },
     {
+      "title": "Chuseok",
+      "description": "Break out your forks and knives, it&#39;s time for some feasting and bonding, Korean style!"
+    },
+    {
       "title": "Constitution Day",
       "description": "One of the world’s most important documents that makes America the great nation it is today."
+    },
+    {
+      "title": "Get Ready Day",
+      "description": "Are you prepared for emergency crisis situations like natural disasters and pandemics?"
     },
     {
       "title": "INTERNATIONAL COUNTRY MUSIC DAY",
@@ -31,6 +35,14 @@
       "description": "Enjoy some Grenache as we take you on the grape’s journey through the years."
     },
     {
+      "title": "Mid-Autumn Festival",
+      "description": "We know what you&#39;re thinking. Why does the Mid-Autumn Festival take place in late summer?"
+    },
+    {
+      "title": "Mid-Autumn Moon Festival",
+      "description": "Let’s celebrate the glorious moon!"
+    },
+    {
       "title": "National Apple Dumpling Day",
       "description": "Get your apples and your fillings ready, we are making America&#39;s favorite pastry!"
     },
@@ -39,8 +51,8 @@
       "description": "Learn more about the significance of the day set aside to promote acts of kindness."
     },
     {
-      "title": "National Bobby Day",
-      "description": "Let’s make today a day to remember for all the Bobbys we love."
+      "title": "National IT Professionals Day",
+      "description": "They make sure our computer systems run smoothly."
     },
     {
       "title": "National Monte Cristo Day",
@@ -57,6 +69,10 @@
     {
       "title": "National Table Shuffleboard Day",
       "description": "Next time you pop into the bar, make a beeline for the shuffleboard."
+    },
+    {
+      "title": "Pitru Paksha",
+      "description": "Hindus are bound by their Dharma, or religion, to pray for the souls of their ancestors."
     },
     {
       "title": "Smithsonian Day",
