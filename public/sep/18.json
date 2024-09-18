@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Cheeseburger Day",
-      "description": "An American food icon — a cheeseburger oozing warm cheese on top of a moist, juicy patty."
+      "description": null
     },
     {
       "title": "National Day of Civic Hacking",
@@ -15,16 +15,12 @@
       "description": "Do you remember your first love? Do you remember that euphoric feeling?"
     },
     {
+      "title": "Chile Independence Day",
+      "description": "Let’s party it up Chilean style on ‘Fiestas Patrias.’"
+    },
+    {
       "title": "Chiropractic Founders Day",
       "description": "Many people are unaware of the fact that chiropractic care can actually redefine their lives."
-    },
-    {
-      "title": "Ganesh Chaturthi",
-      "description": "A ten day festival, held to honor the Hindu god of intelligence, Ganesha."
-    },
-    {
-      "title": "Gedaliah Fast",
-      "description": "Join us as we explore one of the sacred Jewish traditions."
     },
     {
       "title": "Global Company Culture Day",
@@ -33,10 +29,6 @@
     {
       "title": "Hug A Greeting Card Writer Day",
       "description": "Let&#39;s give back to the writers who give us the words to express our feelings."
-    },
-    {
-      "title": "Independence Day",
-      "description": "Let’s party it up Chilean style on ‘Fiestas Patrias.’"
     },
     {
       "title": "International Equal Pay Day",
@@ -51,10 +43,6 @@
       "description": "Let’s celebrate the centuries-old art of cartonnage this September 18 right here at National Today!"
     },
     {
-      "title": "National Colton Day",
-      "description": "Join us in celebrating all the Coltons in your life this National Colton Day!"
-    },
-    {
       "title": "National HIV/AIDS and Aging Awareness Day",
       "description": "It might seem like an odd combination for an observance. But it actually makes perfect sense."
     },
@@ -67,6 +55,10 @@
       "description": "There are multiple ways to show someone respect; let us show you how."
     },
     {
+      "title": "National School Backpack Awareness Day",
+      "description": "Improper use can lead to back pain or injury, which can impact learning."
+    },
+    {
       "title": "Purple Bra Day",
       "description": "Come and make a difference in someone’s life by supporting the battle against breast cancer."
     },
@@ -75,12 +67,8 @@
       "description": "Get your favorite eBook collections ready as we celebrate Read An eBook Day."
     },
     {
-      "title": "Respect for the Aged Day",
-      "description": "Our elders are our link to the past and they contribute to our future."
-    },
-    {
-      "title": "Rice Krispies Treats Day",
-      "description": "Devour Rice Krispies Treats throughout the day to honor the innovation of the sweet delight."
+      "title": "Rice Krispie Treat Day",
+      "description": "Devour Rice Krispie Treat throughout the day to honor the innovation of the sweet delight."
     },
     {
       "title": "U.S. Air Force Day",
