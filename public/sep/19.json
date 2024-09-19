@@ -4,7 +4,7 @@
   "holidays": [
     {
       "title": "National Meow Like a Pirate Day",
-      "description": "Since pirates are rarely seen without a cat, it’s only fitting to include them."
+      "description": null
     },
     {
       "title": "Talk Like a Pirate Day",
@@ -27,20 +27,16 @@
       "description": "Join cat lovers as we celebrate one of man’s absolute favorite companions!"
     },
     {
-      "title": "National IT Professionals Day",
-      "description": "They make sure our computer systems run smoothly."
-    },
-    {
-      "title": "National Jude Day",
-      "description": "This special holiday is dedicated to celebrating all the Judes out there, famous or not!"
-    },
-    {
-      "title": "​National Voter Registration Day",
-      "description": "National Voter Registration Day brings Americans together over our mutual love of democracy."
+      "title": "National Pawpaw Day",
+      "description": "It tastes like a cross between mango, banana, and sometimes other fruits."
     },
     {
       "title": "National Woman Road Warrior Day",
       "description": "Juggling housework and a hectic work schedule that requires travel isn’t easy. That’s what makes these women warriors."
+    },
+    {
+      "title": "Wales International Film Festival",
+      "description": "It is ‘on your marks, get set, go!’ As we join in the upcoming movie marathon."
     },
     {
       "title": "Erica Ash’s Birthday",
