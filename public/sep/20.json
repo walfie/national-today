@@ -3,12 +3,12 @@
   "day": 20,
   "holidays": [
     {
-      "title": "International NFT Day",
-      "description": "Creating digital expressions and ownership like never before!"
+      "title": "National Queso Day",
+      "description": null
     },
     {
-      "title": "National Queso Day",
-      "description": "A delicious cheese dip that finds a home in a great deal of Tex-Mex cooking."
+      "title": "NFT Day",
+      "description": "Creating digital expressions and ownership like never before!"
     },
     {
       "title": "German World Children&#39;s Day",
@@ -19,6 +19,10 @@
       "description": "A successful community is one that provides healthcare, education, and emotional care to its children."
     },
     {
+      "title": "National Concussion Awareness Day",
+      "description": "Learn and educate others on how non-visible physical injuries can also be fatal."
+    },
+    {
       "title": "National Crime and Intelligence Analyst Appreciation Day",
       "description": "Take a minute to learn about the importance these professionals play in combating crime!"
     },
@@ -27,16 +31,20 @@
       "description": "Fulfill your inner cravings with this amazing dish as we celebrate Fried Rice Day."
     },
     {
+      "title": "National POW/MIA Recognition Day",
+      "description": "They’ll always be in our hearts — the gallant and beloved Americans who fought for freedom."
+    },
+    {
       "title": "National Punch Day",
       "description": "It&#39;s not really soda, not really juice and not completely a cocktail."
     },
     {
-      "title": "National School Backpack Awareness Day",
-      "description": "Improper use can lead to back pain or injury, which can impact learning."
-    },
-    {
       "title": "National String Cheese Day",
       "description": "Join the foodie bandwagon as this snack strings you along to culinary bliss."
+    },
+    {
+      "title": "National Tradesmen Day",
+      "description": "Let’s come together to express our gratitude to the tradesmen (and -women) of the country."
     },
     {
       "title": "Ellie Louise’s Birthday",
