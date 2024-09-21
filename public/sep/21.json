@@ -3,12 +3,32 @@
   "day": 21,
   "holidays": [
     {
-      "title": "National Cat &amp; Dog Gut Health Awareness Day",
+      "title": "Batman Day",
       "description": null
     },
     {
+      "title": "National Clean Up Day",
+      "description": "After all, being a good citizen includes keeping our communities clean!"
+    },
+    {
+      "title": "National Dance Day",
+      "description": "We brought the music, you bring the moves!"
+    },
+    {
+      "title": "National Multivitamin Day",
+      "description": "Get the nutrients you need, even when fruit or greens aren’t on the menu."
+    },
+    {
+      "title": "National Singles Day",
+      "description": "A 24-hour period where it’s okay to be about “me, me, me.”"
+    },
+    {
+      "title": "Abergavenny Food Festival",
+      "description": "Don’t even think about missing this food festival if you are in the U.K."
+    },
+    {
       "title": "Armenia Independence Day",
-      "description": null
+      "description": "Join the people of Armenia in mass parades and festivals as they celebrate their independence day."
     },
     {
       "title": "Belize Independence Day",
@@ -19,15 +39,23 @@
       "description": "Check out three magical ways you too can enjoy Escapology Day like a professional."
     },
     {
-      "title": "Get Ready Day",
-      "description": "Are you prepared for emergency crisis situations like natural disasters and pandemics?"
+      "title": "International Coastal Cleanup Day",
+      "description": "Let’s roll up our sleeves and clean our beaches and coastlines to reduce pollution."
     },
     {
       "title": "International Day of Peace",
       "description": "Let there be peace by making the world a better and more sustainable place for all."
     },
     {
-      "title": "Mabon Day",
+      "title": "International Eat An Apple Day",
+      "description": "As the saying goes, that&#39;s how you keep the doctor away."
+    },
+    {
+      "title": "International Red Panda Day",
+      "description": "Celebrate the day to encourage the preservation of the adorable red pandas."
+    },
+    {
+      "title": "Mabon",
       "description": "Grab your fruit baskets and wine as we dedicate this festival to the bountiful harvest."
     },
     {
@@ -39,8 +67,16 @@
       "description": "Miniature golf can be traced back to the 19th century."
     },
     {
-      "title": "National Brittany Day",
-      "description": "Celebrate anyone you know named Brittany and bring this name back in fashion!"
+      "title": "National AKC Responsible Dog Ownership Day",
+      "description": "Hey, dog owners, kiss your buddies and give them extra special treats today!"
+    },
+    {
+      "title": "National Boys’ and Girls’ Club Day for Kids",
+      "description": "National Boys’ and Girls’ Club Day for Kids is here, let’s celebrate!"
+    },
+    {
+      "title": "National Cat &amp; Dog Gut Health Awareness Day",
+      "description": "Almost every aspect of your cat’s or dog’s health depends on the complex community of microorganisms living in their gut. In all sorts of amazing ways, a healthy gut can help your pet live a longer, happier life."
     },
     {
       "title": "National Chai Day",
@@ -51,32 +87,36 @@
       "description": "Join us as we celebrate National Garage Condo Day this September 21!"
     },
     {
-      "title": "National Hannah Day",
-      "description": "This holiday is your chance to honor and celebrate all your favorite Hannahs around the world!"
-    },
-    {
-      "title": "National Kristina Day",
-      "description": "Celebrate anyone you know with this name, with all its plentiful variations and spellings!"
+      "title": "National Gymnastics Day",
+      "description": "Gyms turn into beehives of activity, highlighting the benefits of a healthy body."
     },
     {
       "title": "National Opioid Awareness Day",
       "description": "It’s National Opioid Awareness Day; all hands on deck to eliminate the abuse of these drugs."
     },
     {
-      "title": "National Pawpaw Day",
-      "description": "It tastes like a cross between mango, banana, and sometimes other fruits."
-    },
-    {
       "title": "National Pecan Cookie Day",
       "description": "Get your taste buds dancing as we dive into the cookie jar for National Pecan Cookie Day."
+    },
+    {
+      "title": "National Sew a Jelly Roll Day",
+      "description": "Warm those Jelly Rolls up; it’s time for National Sew a Jelly Roll Day!"
+    },
+    {
+      "title": "Puppy Mill Awareness Day",
+      "description": "Did you know millions of dogs are killed due to puppy mills every day?"
+    },
+    {
+      "title": "Responsible Dog Ownership Day",
+      "description": "Today, pet parents ‘pawse’ and remember the promises they made to their ‘furever’ friends."
     },
     {
       "title": "Telegraph Pole Appreciation Day",
       "description": "It’s time to ramp it up for a day dedicated to the appreciation for telegraph poles!"
     },
     {
-      "title": "Wales International Film Festival",
-      "description": "It is ‘on your marks, get set, go!’ As we join in the upcoming movie marathon."
+      "title": "Usher Syndrome Awareness Day",
+      "description": "The first step to raising awareness for this rare genetic disease is educating yourself."
     },
     {
       "title": "World Alzheimer’s Day",
