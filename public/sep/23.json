@@ -3,12 +3,8 @@
   "day": 23,
   "holidays": [
     {
-      "title": "Fall Equinox",
+      "title": "National Family Day",
       "description": null
-    },
-    {
-      "title": "National Singles Day",
-      "description": "A 24-hour period where it’s okay to be about “me, me, me.”"
     },
     {
       "title": "Celebrate Bisexuality Day",
@@ -19,24 +15,20 @@
       "description": "It’s time to appreciate and learn more about technology on this Educational Technology Day!"
     },
     {
-      "title": "First Day of Autumn",
-      "description": "The cool air of autumn approaches — welcome a season that needs warm clothing and hearty meals."
+      "title": "Elvis Festival Porthcawl",
+      "description": "This is an exciting festival that pays tribute to one of the biggest stars that ever lived."
     },
     {
-      "title": "Fish Amnesty Day",
-      "description": "Fish deserve as much affection and protection as other vertebrates."
+      "title": "Go With Your Gut Day",
+      "description": "It’s time for that health check with Go With Your Gut Day!"
+    },
+    {
+      "title": "Innergize Day",
+      "description": "Forget your troubles, and ease into the tranquil spirit of the autumn season."
     },
     {
       "title": "International Day of Sign Languages",
       "description": "Want to learn a new language? Sign language is just the perfect pick!"
-    },
-    {
-      "title": "International Rabbit Day",
-      "description": "Let’s get to know a bit more about how our cute woodland friends got their holiday."
-    },
-    {
-      "title": "Martyrdom of Imam Hassan Asgari",
-      "description": "No one should be persecuted for their religious beliefs. Take a stand against religious intolerance."
     },
     {
       "title": "National AFM Day",
@@ -51,10 +43,6 @@
       "description": "Baker is the last name with pedigree and ancient roots dating back to the Middle Ages."
     },
     {
-      "title": "National Bunny Day",
-      "description": "What&#39;s up, doc? National Bunny Day promotes healthy environments for raising bunnies as pets."
-    },
-    {
       "title": "National Checkers Day",
       "description": "We celebrate memories of political pets!"
     },
@@ -67,36 +55,12 @@
       "description": "Time to prepare your very best sales pitch on this National Field Marketers’ Day!"
     },
     {
-      "title": "National Go With Your Gut Day",
-      "description": "It’s time for that health check with National Go With Your Gut Day!"
-    },
-    {
       "title": "National Great American Pot Pie Day",
       "description": "Get your bellies ready, and your hearts merry, for this savory celebration."
     },
     {
-      "title": "National Hunting and Fishing Day",
-      "description": "Celebrate the outdoor activities of hunting and fishing while emphasizing conservation."
-    },
-    {
-      "title": "National Public Lands Day",
-      "description": "Appreciate the beauty of our environment and attend events that bring us together."
-    },
-    {
-      "title": "National Seat Check Saturday",
-      "description": "Before you go on a family road trip, be sure to check your child’s car seat."
-    },
-    {
       "title": "National Snack Stick Day",
       "description": "Get yourself some snack sticks as we celebrate a traditional family snack."
-    },
-    {
-      "title": "National Temperature Control Day",
-      "description": "Surprise! Summer does not begin on Memorial Day — nor does it end on Labor Day."
-    },
-    {
-      "title": "Porthcawl Elvis Festival",
-      "description": "This is an exciting festival that pays tribute to one of the biggest stars that ever lived."
     },
     {
       "title": "Redhead Appreciation Day",
@@ -111,20 +75,8 @@
       "description": "Learn about the history of this season and fun ways to get involved."
     },
     {
-      "title": "September Equinox",
-      "description": "Did you know the sky is both a clock and a calendar? Find out why."
-    },
-    {
       "title": "Teal Talk Day",
       "description": "Gather your friends, wear teal for a day out together and talk about ovarian cancer!"
-    },
-    {
-      "title": "The September Equinox",
-      "description": "The September Equinox is an important astronomical event with different meanings around the world."
-    },
-    {
-      "title": "World’s Largest Pet Walk",
-      "description": "Lace up your walking shoes today and get ready for World’s Largest Pet Walk!"
     },
     {
       "title": "Za’atar Day",
