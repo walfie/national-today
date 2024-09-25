@@ -11,10 +11,6 @@
       "description": "A fine delicacy throughout most of the world, the crowd-pleasing crustacean has seen darker days."
     },
     {
-      "title": "Yom Kippur",
-      "description": "Otherwise known as the Day of Atonement, Yom Kippur is considered the holiest day in Judaism."
-    },
-    {
       "title": "Binge Day",
       "description": "Ready for a lazy, relaxing day? Grab some popcorn and snacks before we begin."
     },
@@ -25,6 +21,10 @@
     {
       "title": "International Ataxia Awareness Day",
       "description": "A day to recognize the concentrated efforts in throwing light on this rare disease."
+    },
+    {
+      "title": "Mahalaya",
+      "description": "West Bengal, Odisha, Karnataka, and Tripura, your time has come to celebrate Mahalaya."
     },
     {
       "title": "Math Storytelling Day",
@@ -39,12 +39,8 @@
       "description": "Slow down and enjoy preparing your own food — and the joy of eating it!"
     },
     {
-      "title": "National Food Service Employee Day",
+      "title": "National Food Service Workers Day",
       "description": "Visit your local restaurant and show your appreciation for the staff that does it all."
-    },
-    {
-      "title": "National John Day",
-      "description": "Is your name John? Join us as we celebrate your name day today!"
     },
     {
       "title": "National One-Hit Wonder Day",
@@ -67,8 +63,8 @@
       "description": "Prepare the house for the cold winter months."
     },
     {
-      "title": "National Wade Day",
-      "description": "Wade is a popular masculine name of Anglo-Saxon origin with a peculiar meaning."
+      "title": "National Women’s Health And Fitness Day",
+      "description": "Join women all over in commemorating this special day promoting the importance of health awareness and fitness."
     },
     {
       "title": "National YogaFit Day",
@@ -79,7 +75,7 @@
       "description": "Ever wondered how you know the lyrics to songs that have been around longer than you have?"
     },
     {
-      "title": "Research Administrator Day",
+      "title": "Research Administrators Day",
       "description": "Celebrate the administrators who put in hard work to conduct important research."
     },
     {
@@ -87,7 +83,7 @@
       "description": "Calling all dreamers, achievers, and go-getters; this is the day for you."
     },
     {
-      "title": "World Pharmacists Day",
+      "title": "World Pharmacist Day",
       "description": "We&#39;re shedding light on how Pharmacists Day came to be and sharing fun ideas to celebrate."
     },
     {
