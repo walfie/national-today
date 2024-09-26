@@ -3,28 +3,16 @@
   "day": 26,
   "holidays": [
     {
-      "title": "Better Breakfast Day",
+      "title": "World Quantum Readiness Day",
       "description": null
-    },
-    {
-      "title": "Johnny Appleseed Day",
-      "description": "Yes, this American legend was a living, breathing, historical human being!"
-    },
-    {
-      "title": "National Chimichanga Day",
-      "description": "Celebrating one of history&#39;s greatest culinary accidents — the deep-fried goodness that is the chimichanga."
-    },
-    {
-      "title": "National Family Day",
-      "description": "Take some time today to appreciate the people that make our lives meaningful."
-    },
-    {
-      "title": "National Pancake Day",
-      "description": "Get those hotcakes on the griddle, it’s time to prepare some pancakes!"
     },
     {
       "title": "Alpaca Day",
       "description": "Alpaca Owners Association founded Alpaca Day to educate people about alpacas."
+    },
+    {
+      "title": "Better Breakfast Day",
+      "description": "Wake up America — let&#39;s make the most of our mornings!"
     },
     {
       "title": "Dominion Status Day",
@@ -39,12 +27,16 @@
       "description": "Be inspired and brush up on your language learning skills for an enriching and fulfilling life."
     },
     {
-      "title": "Human Resource Professional Day",
+      "title": "HR Professionals Day",
       "description": "H.R. professional or not, this day can be celebrated by everybody!"
     },
     {
       "title": "International Day for the Total Elimination of Nuclear Weapons",
       "description": "Get ready to learn the history of this important day right here with us!"
+    },
+    {
+      "title": "Johnny Appleseed Day",
+      "description": "Yes, this American legend was a living, breathing, historical human being!"
     },
     {
       "title": "Love Note Day",
@@ -55,8 +47,8 @@
       "description": "Lumberjacks are the real deal! Join in the celebration as we appreciate these hardworking professionals."
     },
     {
-      "title": "National Amanda Day",
-      "description": "Amanda is a feminine, elegant name with ancient origin, derived from the Latin word ‘amare.’"
+      "title": "National Chimichanga Day",
+      "description": "Celebrating one of history&#39;s greatest culinary accidents — the deep-fried goodness that is the chimichanga."
     },
     {
       "title": "National Compliance Officer Day",
@@ -71,10 +63,6 @@
       "description": "No matter your ancestry, you probably have some form of dumpling in your history."
     },
     {
-      "title": "National Hari Day",
-      "description": "Hari is a masculine name of Sanskrit origin with deep religious significance."
-    },
-    {
       "title": "National Key Lime Pie Day",
       "description": "Could you imagine life without key lime pies? We can&#39;t bear to think of it either!"
     },
@@ -87,16 +75,24 @@
       "description": "Mesothelioma Awareness Day to educate Americans affected by, or in danger of being affected by, asbestos."
     },
     {
+      "title": "National Pancake Day",
+      "description": "Get those hotcakes on the griddle, it’s time to prepare some pancakes!"
+    },
+    {
       "title": "National Situational Awareness Day",
       "description": "Let us draw your attention to the importance of situational awareness."
+    },
+    {
+      "title": "Remember Me Thursday",
+      "description": "Honor our stray, abandoned, and orphaned pets today, because their lives matter too."
     },
     {
       "title": "Shamu the Whale Day",
       "description": "Appreciate the remarkable life of orcas on Shamu the Whale Day."
     },
     {
-      "title": "World Day of Migrants and Refugees",
-      "description": "Join us as we recognize the plight of those who are forced to flee their homes."
+      "title": "World Maritime Day",
+      "description": "Toss your hats in honor of the seafarers on World Maritime Day."
     },
     {
       "title": "Ant Antixx’s Birthday",
