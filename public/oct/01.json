@@ -7,12 +7,16 @@
       "description": null
     },
     {
-      "title": "National Homemade Cookies Day",
+      "title": "National Homemade Cookie Day",
       "description": "Bakers, homemakers, and cookie enthusiasts, preheat your ovens to serve up these delicious treats."
     },
     {
       "title": "World Vegetarian Day",
       "description": "Did you know that approximately 10% of the world&#39;s population is vegetarian?"
+    },
+    {
+      "title": "Ancestors&#39; Day",
+      "description": "It is Pchum Ben and time to feed the hungry ghosts of our ancestors."
     },
     {
       "title": "Balloons Around the World Day",
@@ -23,12 +27,8 @@
       "description": "Take a trip down memory lane to listen to music sans &#39;playlists&#39;."
     },
     {
-      "title": "Change A Light Day",
-      "description": "Let there be light all over as we take you on an amazing journey with LEDs!"
-    },
-    {
-      "title": "Chinese National Day",
-      "description": "Put on your patriotic hat as we get ready to ring in Chinese National Day."
+      "title": "China National Day",
+      "description": "Put on your patriotic hat as we get ready to ring in China National Day."
     },
     {
       "title": "Cyprus Independence Day",
@@ -45,10 +45,6 @@
     {
       "title": "International Music Day",
       "description": "Find out how music can contribute towards creating a more harmonious society."
-    },
-    {
-      "title": "International Raccoon Appreciation Day",
-      "description": "Raccoons might not be the best pets, but they are no pests either."
     },
     {
       "title": "Investiture Ceremony of the Captains Regent",
@@ -71,6 +67,10 @@
       "description": "Dogs have historically worked, lived, and slept alongside members of local fire departments."
     },
     {
+      "title": "National Fruit at Work Day",
+      "description": "This day celebrates every fruit that has given us its delicious juiciness and boost in work performance."
+    },
+    {
       "title": "National Hair Day",
       "description": "Celebrate your personality as personified by your hair and explore ways to keep it lustrously healthy."
     },
@@ -83,12 +83,16 @@
       "description": "&#34;Roses are red, violets are blue, we are so happy, to be celebrating poetry with you!&#34;"
     },
     {
-      "title": "National Police Memorial Day",
-      "description": "Join us as we explore the story behind National Police Memorial Day."
+      "title": "National Raccoon Day",
+      "description": "Raccoons might not be the best pets, but they are no pests either."
     },
     {
       "title": "Nigeria Independence Day",
       "description": "Don your best green and white clothes and spend the day celebrating Nigerian Independence!"
+    },
+    {
+      "title": "Pchum Ben",
+      "description": "Pchum Ben marks the start of the journey of souls to purgatory."
     },
     {
       "title": "ROK Alliance Day",
@@ -101,10 +105,6 @@
     {
       "title": "Tuvalu Independence Day",
       "description": "Read on to learn how this island nation got its independence from its British colonial masters."
-    },
-    {
-      "title": "World Communion Sunday",
-      "description": "Every Christian Church and any denomination that promotes Christian unity are one."
     },
     {
       "title": "World Sake Day",
