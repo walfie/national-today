@@ -3,16 +3,20 @@
   "day": 7,
   "holidays": [
     {
-      "title": "Albuquerque International Balloon Fiesta",
+      "title": "International Day of Peaceful Communication",
       "description": null
     },
     {
-      "title": "Frugal Fun Day",
-      "description": "Frugal Fun Day is the day to have fun without going broke."
+      "title": "Labour Day",
+      "description": "Workers in Australia were the first to achieve a reduction in working time without a salary cut!"
     },
     {
-      "title": "International Day of Peaceful Communication",
-      "description": "Can peaceful dialogues indeed put an end to long-standing conflicts? It’s time to find out."
+      "title": "National Child Health Day",
+      "description": "Family income is a major factor in the health of children both physically and mentally."
+    },
+    {
+      "title": "National Consignment Day",
+      "description": "For everyone that likes to be on-trend and still live green, this day is for you!"
     },
     {
       "title": "National Forgiveness &amp; Happiness Day",
@@ -27,20 +31,12 @@
       "description": "Dig deep and show the world what makes you beautiful; shine your light!"
     },
     {
-      "title": "National Jonathan Day",
-      "description": "Today is the day for every Johnathan to have a moment in the spotlight."
-    },
-    {
       "title": "National LED Light Day",
       "description": "LED lights are good for the world — and they make a space look super attractive."
     },
     {
-      "title": "Shemini Atzeret",
-      "description": "Shemini Atzeret is the postscript to the seven days of Sukkot."
-    },
-    {
-      "title": "World Card Making Day",
-      "description": "Get your craft knives and glue ready because we are celebrating a crafter’s perfect holiday."
+      "title": "World Architecture Day",
+      "description": "Today, we appreciate the great architectural works of the ancient and modern worlds."
     },
     {
       "title": "World Cotton Day",
