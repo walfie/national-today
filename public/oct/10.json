@@ -7,16 +7,16 @@
       "description": null
     },
     {
-      "title": "ADA Lovelace Day",
-      "description": "Ada Lovelace Day highlights the achievements of women in science, technology, engineering, and mathematics."
-    },
-    {
       "title": "Cuba Independence Day",
       "description": "Join the Cuban people by honoring the heroes that made this historic day possible"
     },
     {
       "title": "Curaçao Day",
       "description": "Commemorate Curaçao Day with parades, flag hoisting activities, and the island’s cultural displays."
+    },
+    {
+      "title": "Durga Ashtami",
+      "description": "People gather on this day to perform &#39;garba&#39; and wear colorful costumes to honor Durga Ashtami."
     },
     {
       "title": "Fiji Day",
@@ -27,12 +27,20 @@
       "description": "Formerly known as Moi Day, discover why Huduma Day is a special Kenyan holiday."
     },
     {
+      "title": "Inclusion Day",
+      "description": "Celebrate World Inclusion Day by reaching out to individuals all across the world."
+    },
+    {
       "title": "International Stage Management Day",
       "description": "Grab a seat while we appreciate the people who rule backstage."
     },
     {
       "title": "Local Government Day",
       "description": "Filipinos commemorate Local Government Day with parades and events for the 1991 enactment of the code."
+    },
+    {
+      "title": "Maha Saptami",
+      "description": "An intriguing and religious festival dedicated to a goddess celebrated in India."
     },
     {
       "title": "Maroons Day",
@@ -51,24 +59,16 @@
       "description": "With holiday dessert buffets coming up soon, now is the perfect time to practice your technique!"
     },
     {
-      "title": "NATIONAL FACE YOUR FEARS DAY",
-      "description": "It’s time to confront your fears and be bold."
+      "title": "National Depression Screening Day",
+      "description": "Roughly 40 million adults in the U.S. struggle with depression or anxiety."
     },
     {
       "title": "National Handbag Day",
       "description": "The handbag is an essential item for many women and even some men!"
     },
     {
-      "title": "National Hug a Drummer Day",
-      "description": "Behind every song that stirs your soul, there&#39;s a drummer keeping a beat."
-    },
-    {
       "title": "National Hug a Kevin Day",
       "description": "If you are a Kevin, get ready to receive some premium hugs."
-    },
-    {
-      "title": "National Porter Day",
-      "description": "Happy National Porter Day to all the Porters out there. Today, we celebrate you."
     },
     {
       "title": "Taiwan: National Day / Double Ten day",
@@ -91,16 +91,16 @@
       "description": "Want to know how you can contribute to ending homelessness?"
     },
     {
-      "title": "World Inclusion Day",
-      "description": "Celebrate World Inclusion Day by reaching out to individuals all across the world."
-    },
-    {
       "title": "World Plant-based Burger Day",
       "description": "Make a plant-based burger for supper to celebrate World Plant-Based Burger Day!"
     },
     {
       "title": "World Porridge Day",
       "description": "Bring on your biggest appetite as we explore the origins of a breakfast favorite."
+    },
+    {
+      "title": "World Sight Day",
+      "description": "Read on and get ready to see and appreciate the gift of sight!"
     },
     {
       "title": "Bae Suzy’s Birthday",
