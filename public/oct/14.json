@@ -3,88 +3,80 @@
   "day": 14,
   "holidays": [
     {
-      "title": "National Dessert Day",
+      "title": "Indigenous Peoples&#39; Day",
       "description": null
     },
     {
-      "title": "Bathukamma Starting Day",
-      "description": "Bathukamma is a day that honors the gods for the blessings they have bestowed upon us."
+      "title": "National Dessert Day",
+      "description": "&#34;Let them eat cake!&#34; This popular french saying holds true especially today."
     },
     {
       "title": "Be Bald and Be Free Day",
       "description": "Get ready for a new style statement. Be bald and be free!"
     },
     {
-      "title": "Bookshop Day",
-      "description": "If you can read this, you can read a whole book — buy one today!"
-    },
-    {
       "title": "Chisinau City Day",
       "description": "Moldova and Chisinau have a rich history and festivals are celebrated with merriment and reverence."
+    },
+    {
+      "title": "Columbus Day",
+      "description": "&#34;In fourteen hundred ninety-two, Columbus sailed the ocean blue.&#34;"
     },
     {
       "title": "Day of Svetitskovloba",
       "description": "Let’s explore the history of the Svetitskhoveli Cathedral and appreciate its significance."
     },
     {
-      "title": "Day of the Defender",
+      "title": "Defender of Ukraine Day",
       "description": "Join us as we celebrate Ukraine’s defenders, history, and rich traditions."
     },
     {
-      "title": "I Love Yarn Day",
-      "description": "Yarn lovers, gather around and share your love. The world needs a little more yarn."
+      "title": "Health and Sports Day (Japan)",
+      "description": "Keep reading to learn the history of Sports Day and what activities to take part in."
     },
     {
-      "title": "International African Penguin Awareness Day",
-      "description": "Get your flippers ready as we enter the world of one of nature’s most endearing birds."
+      "title": "International: Day of respect for cultural diversity",
+      "description": "Make the celebration more inclusive and festive by calling it the International Day of Respect for Cultural Diversity."
     },
     {
-      "title": "Liberation Day in Yemen",
-      "description": "Today we celebrate Yemen’s freedom as a nation! Join us right here at National Today!"
-    },
-    {
-      "title": "Mahalaya",
-      "description": "West Bengal, Odisha, Karnataka, and Tripura, your time has come to celebrate Mahalaya."
+      "title": "Lotu a Tamaiti Holiday",
+      "description": "On this holiday, let’s join the Samoan Islanders in acknowledging, celebrating, and honoring childhood!"
     },
     {
       "title": "Mwalimu Nyerere Day",
       "description": "In 1962, Julius Nyerere became the first elected president of Tanganyika."
     },
     {
-      "title": "National Chess Day",
-      "description": "Mentally stimulate and challenge yourself by playing the timeless game of chess."
+      "title": "National Heritage Day in Turks and Caicos",
+      "description": "Let’s join the Islanders in Turks and Caicos to celebrate this important day in their history!"
     },
     {
-      "title": "National Costume Swap Day",
-      "description": "Get ready to make heads turn as we pick out the best costumes for you."
+      "title": "National Heroes&#39; Day of Bahamas",
+      "description": "Get ready to celebrate this beautiful day in the Bahamas this National Heroes’ Day."
     },
     {
       "title": "National I Love You Day",
       "description": "Make your loved ones smile and feel loved on National I Love You Day."
     },
     {
-      "title": "National Motorcycle Ride Day",
-      "description": "Gear up to go on a biking adventure of a lifetime."
+      "title": "National Kick Butt Day",
+      "description": "Is there a bad habit you wanted to kick in the butt?"
     },
     {
-      "title": "National Ryan Day",
-      "description": "It&#39;s time for Ryans to step into the spotlight and celebrate their name days."
+      "title": "National Native American Day",
+      "description": "Celebrate National Native American Day as it serves as a reminder of their ongoing legacy of courage."
     },
     {
-      "title": "National Veronica Day",
-      "description": "Happy National Veronica Day! Celebrate by getting an “Archie” comic just to spot Veronica."
-    },
-    {
-      "title": "Universal Music Day",
-      "description": "Join the symphony as we celebrate this day with music."
-    },
-    {
-      "title": "World Hospice and Palliative Care Day",
-      "description": "It started as a single concert titled &#34;Come and Sing&#34; and become a worldwide event."
+      "title": "National Online Bank Day",
+      "description": "Do you remember the last time you visited a bank? Neither do we, thanks to online banking."
     },
     {
       "title": "World Standards Day",
       "description": "Global standardization is satisfying the needs of government, industries, businesses, and consumers worldwide."
+    },
+    {
+      "title": "Yemen Liberation Day",
+      "description": "Today we celebrate Yemen’s freedom as a nation! Join us right here at National Today!"
     },
     {
       "title": "Carol Capel’s Birthday",
