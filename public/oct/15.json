@@ -3,60 +3,52 @@
   "day": 15,
   "holidays": [
     {
-      "title": "Commemoration Day of King&#39;s Father",
+      "title": "National Dashi Day",
       "description": null
     },
     {
-      "title": "Dashain",
-      "description": "Let us celebrate this time of year when families come together and extend kindness to others."
+      "title": "Commemoration Day of King&#39;s Father",
+      "description": "From his birth in 1922 to his death in 2012, King Norodom Sihanouk lived an interesting life."
+    },
+    {
+      "title": "Evacuation Day Tunisia",
+      "description": "This day marks the departure of the last French soldiers from Bizerte in Tunisia."
     },
     {
       "title": "Global Handwashing Day",
       "description": "It&#39;s simple: Wash your hands, save lives."
     },
     {
+      "title": "HSA Day",
+      "description": "Health is wealth! So it&#39;s always important to stay prepared for unplanned emergencies."
+    },
+    {
+      "title": "I Love Lucy Day",
+      "description": "Who doesn’t love this iconic comedy?"
+    },
+    {
       "title": "International Day of Rural Women",
       "description": "Let us celebrate the strength, courage, and triumphs of these superwomen!"
     },
     {
-      "title": "International: Dussehra",
+      "title": "Kullu Dussehra",
       "description": "Immerse yourself in the rich culture of India by attending the Kullu Dussehra in Himachal Pradesh."
-    },
-    {
-      "title": "Maharaja Agrasen Jayanti",
-      "description": "This Maharaja Agrasen Jayanti, follow in the king’s footsteps and participate in social welfare activities."
-    },
-    {
-      "title": "Mera Chaoren Houba",
-      "description": "Mera Chaoren Houba is observed according to the Manipuri lunar calendar, a region in northeast India."
     },
     {
       "title": "Mother&#39;s Day in Malawi",
       "description": "Mothers are selfless, strong, and beautiful. They deserve to be honored and celebrated."
     },
     {
-      "title": "Mysore Dasara",
-      "description": "A celebration where divine fervor meets royal splendor!"
-    },
-    {
-      "title": "National Aesthetician Day",
-      "description": "It&#39;s time we returned a good deed to our beauty experts — the aestheticians!"
-    },
-    {
       "title": "National Cheese Curd Day",
       "description": "If you’re a total cheese head, then get excited to celebrate National Cheese Curd."
     },
     {
+      "title": "National Esthetician Day",
+      "description": "It&#39;s time we returned a good deed to our beauty experts — the estheticians!"
+    },
+    {
       "title": "National Grouch Day",
-      "description": "We honor the world&#39;s favorite grouch, Oscar, from &#34;Sesame Street,&#34;"
-    },
-    {
-      "title": "National HSA Awareness Day",
-      "description": "Health is wealth! So it&#39;s always important to stay prepared for unplanned emergencies."
-    },
-    {
-      "title": "​National I Love Lucy Day",
-      "description": "Who doesn’t love this iconic comedy?"
+      "description": "We honor the world&#39;s favorite grouch, Oscar, from &#34;Sesame Street.&#34;"
     },
     {
       "title": "National Latino AIDS Awareness Day",
@@ -71,32 +63,24 @@
       "description": "Portobello, shiitake, button, truffle — we’re talking mushrooms here."
     },
     {
-      "title": "National Pregnancy and Infant Loss Remembrance Day",
-      "description": "Take the opportunity to reflect, honor, and come together over pregnancy and infant loss."
-    },
-    {
-      "title": "National Riley Day",
-      "description": "If you’ve watched Inside Out, you’re familiar with the name Riley. Well, today is her day!"
-    },
-    {
       "title": "National Roast Pheasant Day",
       "description": "On National Roast Pheasant Day, learn about one of the most popular U.K. birds."
     },
     {
-      "title": "Navratri",
-      "description": "Sharada Navrati is an autumnal Hindu holiday, held in honor of the divine feminine: &#34;Devi.&#34;"
+      "title": "Pharmacy Technician Day",
+      "description": "We celebrate the women and men behind the counter."
+    },
+    {
+      "title": "Pregnancy and Infant Loss Remembrance Day",
+      "description": "Take the opportunity to reflect, honor, and come together over pregnancy and infant loss."
+    },
+    {
+      "title": "Pro-Life Day of Silent Solidarity",
+      "description": "Observe this solemn day by standing in solidarity with the unheard voices."
     },
     {
       "title": "Shine a Light Night",
       "description": "On Shine a Light Night, people spend a night outside to show compassion for the homeless."
-    },
-    {
-      "title": "Sunday School Teacher Appreciation Day",
-      "description": "Celebrate regular people who decide to dedicate their time to teach kids about their faith."
-    },
-    {
-      "title": "Tunisia: Evacuation Day",
-      "description": "This day marks the departure of the last French soldiers from Bizerte in Tunisia."
     },
     {
       "title": "White Cane Safety Day",
@@ -105,10 +89,6 @@
     {
       "title": "World Students’ Day",
       "description": "World Students&#39; Day is a time to pay tribute to A.P.J. Abdul Kalam, the &#34;People&#39;s President.&#34;"
-    },
-    {
-      "title": "World Toy Camera Day",
-      "description": "Get ready to click away as we celebrate the simplest type of camera in the world."
     },
     {
       "title": "Abdul Kalam’s Birthday",
