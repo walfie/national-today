@@ -3,8 +3,12 @@
   "day": 17,
   "holidays": [
     {
-      "title": "National Clean Your Virtual Desktop Day",
+      "title": "International Credit Union Day",
       "description": null
+    },
+    {
+      "title": "National Clean Your Virtual Desktop Day",
+      "description": "There are 365 days in a year, yet we neglect the condition of our computers."
     },
     {
       "title": "National Pasta Day",
@@ -19,6 +23,10 @@
       "description": "It is a child’s right to have access to free quality healthcare and education."
     },
     {
+      "title": "Conflict Resolution Day",
+      "description": "Join the world to observe a day that promotes peaceful conflict resolution."
+    },
+    {
       "title": "Day of Dignity (Bolivia)",
       "description": "Let’s get ready to celebrate the Day of Dignity, a solemn affair for Bolivians."
     },
@@ -27,8 +35,20 @@
       "description": "Jean-Jacques Dessalines was both a champion of freedom and a strict autocrat."
     },
     {
+      "title": "Get Smart About Credit Day",
+      "description": "Join us as we talk about credit, channel our inner Steve Carell, and get smart!"
+    },
+    {
       "title": "International Day for the Eradication of Poverty",
       "description": "Let&#39;s work together to end global poverty."
+    },
+    {
+      "title": "International ShakeOut Day",
+      "description": "We all know how scary it can be when a tremor comes out of nowhere."
+    },
+    {
+      "title": "Kati Bihu",
+      "description": "Let us celebrate the solemn occasion of the paddy season&#39;s beginning."
     },
     {
       "title": "National Catholic Men’s Conference Day",
@@ -47,12 +67,16 @@
       "description": "Pull up your mobile payment apps, and start paying your (ex) friends back."
     },
     {
-      "title": "National Pharmacy Technician Day",
-      "description": "We celebrate the women and men behind the counter."
+      "title": "Spirit Day",
+      "description": "Show your acceptance and love for the people of this bullied community."
     },
     {
-      "title": "Pro-Life Day of Silent Solidarity",
-      "description": "Observe this solemn day by standing in solidarity with the unheard voices."
+      "title": "Valmiki Jayanti",
+      "description": "Soak yourself in devotion while celebrating the birth of the great sage Valmiki."
+    },
+    {
+      "title": "Vap Full Moon Poya Day",
+      "description": "Vap Full Moon Poya Day honors the Buddhist fasting month’s completion and Buddha’s sermon in Tavatimsa."
     },
     {
       "title": "Wear Something Gaudy Day",
