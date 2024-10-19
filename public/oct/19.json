@@ -3,7 +3,7 @@
   "day": 19,
   "holidays": [
     {
-      "title": "International Credit Union Day",
+      "title": "National Fetch Day",
       "description": null
     },
     {
@@ -11,28 +11,32 @@
       "description": "Make room for new connections in your life, and celebrate friendship everywhere you go."
     },
     {
-      "title": "Conflict Resolution Day",
-      "description": "Join the world to observe a day that promotes peaceful conflict resolution."
+      "title": "Sweetest Day",
+      "description": "It’s a day to give a card with a sweet message to someone you appreciate."
+    },
+    {
+      "title": "Bridge Day",
+      "description": "Join the other adrenaline-fueled daredevils at the New River Gorge Bridge on Bridge Day."
+    },
+    {
+      "title": "Ethnicity day",
+      "description": "Celebrate Ethnicity Day by learning about the different ethnic groups in Estonia."
     },
     {
       "title": "Evaluate Your Life Day",
       "description": "This day encourages us to reflect on our lives to become better versions of ourselves."
     },
     {
-      "title": "International ShakeOut Day",
-      "description": "We all know how scary it can be when a tremor comes out of nowhere."
+      "title": "International Raw Milk Cheese Appreciation Day",
+      "description": "Nibbling on cheese helps your gut rather than your waistline, which is worth celebrating."
+    },
+    {
+      "title": "International Sloth Day",
+      "description": "Although sloths look like some kind of furry bear, their closest relatives are anteaters and armadillos."
     },
     {
       "title": "LGBT Center Awareness Day",
       "description": "Get ready to learn about the importance of L.G.B.T.Q centers in your community!"
-    },
-    {
-      "title": "National Get Smart About Credit Day",
-      "description": "Join us as we talk about credit, channel our inner Steve Carell, and get smart!"
-    },
-    {
-      "title": "National Jared Day",
-      "description": "How many famous people named Jared can you think of? We know of at least 10!"
     },
     {
       "title": "National Kentucky Day",
@@ -41,10 +45,6 @@
     {
       "title": "National Seafood Bisque Day",
       "description": "Get out your spoon as we dig into all the fun facts about this special day."
-    },
-    {
-      "title": "Spirit Day",
-      "description": "Show your acceptance and love for the people of this bullied community."
     },
     {
       "title": "World Humanitarian Action Day",
@@ -101,10 +101,6 @@
     {
       "title": "Sam Pottorff’s Birthday",
       "description": "An influencer like no other, let’s celebrate his special day today right here!"
-    },
-    {
-      "title": "Sean Price’s Birthday",
-      "description": "Sean Price was one of the greatest rappers and he left behind a rich musical legacy."
     }
   ]
 }
