@@ -3,20 +3,8 @@
   "day": 21,
   "holidays": [
     {
-      "title": "National Apple Day",
-      "description": null
-    },
-    {
-      "title": "National Fetch Day",
-      "description": "A chance to get out in the yard, get some exercise, and build some memories."
-    },
-    {
-      "title": "Sweetest Day",
-      "description": "It’s a day to give a card with a sweet message to someone you appreciate."
-    },
-    {
       "title": "American Frog Day",
-      "description": "Get out your vivariums as we celebrate this day with some great information!"
+      "description": null
     },
     {
       "title": "Armed Forces Day in Honduras",
@@ -27,10 +15,6 @@
       "description": "Throw on your Nikes, pop in a VHS and rev up your DeLorean."
     },
     {
-      "title": "Bridge Day",
-      "description": "Join the other adrenaline-fueled daredevils at the New River Gorge Bridge on Bridge Day."
-    },
-    {
       "title": "Celebration of the Mind Day",
       "description": "Gear up for a day full of logic, learning, and fun — even with numbers involved!"
     },
@@ -39,8 +23,8 @@
       "description": "A fun day to celebrate this useful innovation that has made our clothes and lives beautiful."
     },
     {
-      "title": "Ethnicity day",
-      "description": "Celebrate Ethnicity Day by learning about the different ethnic groups in Estonia."
+      "title": "Day of the Races",
+      "description": "Day of the Race is a significant holiday, despite some resistance in the indigenous community."
     },
     {
       "title": "Everyone Writes Day",
@@ -51,28 +35,28 @@
       "description": "The day raises awareness about the importance of iodine and the disorders it prevents."
     },
     {
+      "title": "Heroes and Forefathers Day",
+      "description": "Creating a more British Virgin Islands-focused holiday honors the territory’s rich past."
+    },
+    {
+      "title": "Heroes&#39; Day (In Jamaica)",
+      "description": "Jamaica has seven great heroes that are remembered and cherished even today."
+    },
+    {
       "title": "Honduran Army Day",
       "description": "An important symbol of Honduran unity is celebrated on this day. Join us in commemorating it!"
-    },
-    {
-      "title": "International Raw Milk Cheese Appreciation Day",
-      "description": "Nibbling on cheese helps your gut rather than your waistline, which is worth celebrating."
-    },
-    {
-      "title": "International Sloth Day",
-      "description": "Although sloths look like some kind of furry bear, their closest relatives are anteaters and armadillos."
     },
     {
       "title": "Loud Shirt Day",
       "description": "Let’s all make some noise and get loud for Loud Shirt Day right!"
     },
     {
-      "title": "Maha Saptami",
-      "description": "An intriguing and religious festival dedicated to a goddess celebrated in India."
+      "title": "Mashujaa Day Kenya",
+      "description": "On Mashujaa Day, Kenyans celebrate those who fought for independence from colonial rule."
     },
     {
-      "title": "National Alexander Day",
-      "description": "It’s National Alexander Day. Let’s celebrate the people named after the great king of Macedonia."
+      "title": "National Apple Day",
+      "description": "Celebrate all things apple: apple pie, apple sauce, apple crisp… we could go on!"
     },
     {
       "title": "National Archives Day",
@@ -83,10 +67,6 @@
       "description": "It’s a rare chance for consumers to get free medical advice."
     },
     {
-      "title": "National Jameson Day",
-      "description": "All James and Jamesons are honored on this day for being the greatest versions of themselves."
-    },
-    {
       "title": "National Pets for Veterans Day",
       "description": "It all started with a dog named Bear."
     },
@@ -95,20 +75,8 @@
       "description": "Pumpkin cheesecake is yet another way to win any American’s heart."
     },
     {
-      "title": "National Raymond Day",
-      "description": "Today is your day to be treated like royalty! Think of it as your second birthday."
-    },
-    {
-      "title": "National Reptile Awareness Day",
-      "description": "Godzilla. Reptar. The Geico Gecko. Those two lizards that always hang out around your back porch."
-    },
-    {
       "title": "National Reptile Day",
       "description": "The squeamish and admirers alike appreciate the role these creatures play in our ecosystem."
-    },
-    {
-      "title": "Nepal: Phulpati",
-      "description": "The word ‘Phul’ is Hindi for ‘flower,’ and ‘pati’ translates to ‘petal.’"
     },
     {
       "title": "Police Commemoration Day",
@@ -117,6 +85,10 @@
     {
       "title": "President Ndadaye&#39;s Day",
       "description": "Join us in honoring an unsung African hero who stood for the truth of democracy."
+    },
+    {
+      "title": "Reptile Awareness Day",
+      "description": "Godzilla. Reptar. The Geico Gecko. Those two lizards that always hang out around your back porch."
     },
     {
       "title": "Trafalgar Day",
