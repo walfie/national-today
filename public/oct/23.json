@@ -3,40 +3,36 @@
   "day": 23,
   "holidays": [
     {
-      "title": "Slap Your Annoying Coworker Day",
+      "title": "National Slap Your Coworker Day",
       "description": null
-    },
-    {
-      "title": "Ayudha Puja",
-      "description": "Celebrate Ayudha Puja and explore the fascinating mythology behind this unique Indian festival."
     },
     {
       "title": "Chulalongkorn Day / Piyamararaj Day",
       "description": "Are you wondering who King Chulalongkorn is and why this day is important? Let’s find out."
     },
     {
+      "title": "Geelong Cup Day",
+      "description": "The day of the running of the Geelong Cup — a Group 3 thoroughbred horse race."
+    },
+    {
       "title": "Hungarian Republic Day",
       "description": "Learn about the 1956 Hungarian Revolution that led to the creation of the Republic of Hungary."
-    },
-    {
-      "title": "International Swallows Depart from San Juan Capistrano Day",
-      "description": "Let us witness and admire the beauty of thousands of swallows taking to the sky."
-    },
-    {
-      "title": "International: Chung Yeung Festival",
-      "description": "During Chung Yeung, we celebrate family by spending time with loved ones and remembering the lost."
     },
     {
       "title": "Libya Liberation Day",
       "description": "Learn how to honor the Libyan people and their struggle for freedom from Muammar Gaddafi&#39;s regime."
     },
     {
-      "title": "Maha Navami",
-      "description": "Get ready to light ‘diyas’ (lamps), learn about Hindu myths, and try delicious Indian sweets."
+      "title": "Lung Health Day",
+      "description": "Breathe in, breathe out, and learn about the numerous ways to keep your lungs healthy."
     },
     {
-      "title": "Mahanavami",
-      "description": "We celebrate this nine-day holiday with tremendous zeal and appreciation, particularly in North and West India."
+      "title": "Medical Assistant Day",
+      "description": "A great time to explore this important, fast-growing career."
+    },
+    {
+      "title": "Mole Day",
+      "description": "It’s a basic chemistry algorithm, and not about those funny looking creatures called moles."
     },
     {
       "title": "National Boston Cream Pie Day",
@@ -51,24 +47,12 @@
       "description": "Dust off your old iPod and pretend it’s the early 2000s all over again."
     },
     {
-      "title": "National Mole Day",
-      "description": "It’s a basic chemistry algorithm, and not about those funny looking creatures called moles."
-    },
-    {
       "title": "National Paralegal Day",
       "description": "Attorneys depend greatly on these men and women to get things right."
     },
     {
-      "title": "Navami of Durga Puja",
-      "description": "Let’s see how Navami is celebrated on the ninth day of this holiday."
-    },
-    {
-      "title": "Nepal: Maha Navami",
-      "description": "Let’s get to know more about Maha Navami, where people rejoice in goddess Durga’s victory."
-    },
-    {
-      "title": "New Zealand Labour Day",
-      "description": "The rights laborers have today were obtained after a long struggle against exploitative corporations."
+      "title": "Swallows Depart from San Juan Capistrano Day",
+      "description": "Let us witness and admire the beauty of thousands of swallows taking to the sky."
     },
     {
       "title": "T.V. Talk Show Host Day",
