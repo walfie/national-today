@@ -3,8 +3,12 @@
   "day": 26,
   "holidays": [
     {
-      "title": "National Pumpkin Day",
+      "title": "National Pitbull Awareness Day",
       "description": null
+    },
+    {
+      "title": "National Pumpkin Day",
+      "description": "Pumpkins are so much more than just a fun holiday accessory."
     },
     {
       "title": "Accession Day",
@@ -13,6 +17,18 @@
     {
       "title": "Austrian National Day",
       "description": "Learn why Austrian National Day is celebrated and how the Austrians commemorate this day."
+    },
+    {
+      "title": "Hug a Sheep Day",
+      "description": "Join animal lovers as we celebrate the meekest of creatures on National Hug a Sheep Day."
+    },
+    {
+      "title": "Make a Difference Day",
+      "description": "Your time and effort can go a long way towards making a big difference!"
+    },
+    {
+      "title": "Muddy dog day",
+      "description": "Join us as we celebrate adorable dogs rolling through muddy puddles this October!"
     },
     {
       "title": "National Chicken Fried Steak Day",
@@ -27,6 +43,10 @@
       "description": "Join us in appreciating B.S.A./A.M.L. professionals this National Financial Crime Fighter Day!"
     },
     {
+      "title": "National Microneedling Day",
+      "description": "Undergo a micro-needling process using a Vivace Experience machine today — your skin will thank you!"
+    },
+    {
       "title": "National Mincemeat Day",
       "description": "The original mincemeat recipe is more than 500 years old."
     },
@@ -35,8 +55,8 @@
       "description": "Join us as we celebrate the ever-useful mule this National Mule Day in October."
     },
     {
-      "title": "National Noah Day",
-      "description": "Get ready to send your love to every Noah you know on this special day!"
+      "title": "National One United Race Day",
+      "description": "See what you can do to support National One United Race Day."
     },
     {
       "title": "National Tennessee Day",
@@ -45,10 +65,6 @@
     {
       "title": "National Transgender Children Day",
       "description": "Accept, welcome, regard, and accord equal privileges to all transgender children today — break the stigmatization chain."
-    },
-    {
-      "title": "National Vivace Microneedling Day",
-      "description": "Undergo a micro-needling process using a Vivace Experience machine today — your skin will thank you!"
     },
     {
       "title": "Worldwide Howl at the Moon Night",
