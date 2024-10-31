@@ -19,12 +19,24 @@
       "description": "On Halloween, there’s candy for the mind, and it is called books."
     },
     {
+      "title": "Deepavali",
+      "description": "Let the light bless our homes and hearts on the auspicious day of Deepavali."
+    },
+    {
+      "title": "Diwali",
+      "description": "Lasting over five days, the holiday is celebrated by millions of Hindus, Jains and Sikhs worldwide."
+    },
+    {
       "title": "Girl Scout Founder’s Day",
       "description": "This day commemorates the heroics of Juliette Gordon Low, who founded the Girl Scouts."
     },
     {
-      "title": "Magic Day",
-      "description": "Move over Halloween, Magic Day takes the spotlight this October 31."
+      "title": "Kali Puja",
+      "description": "Settle in for a transformative journey into the world of the goddess Kali."
+    },
+    {
+      "title": "Naraka Chaturdashi",
+      "description": "Indians celebrate the second day of the five-day-long Diwali festival."
     },
     {
       "title": "National Doorbell Day",
@@ -35,8 +47,8 @@
       "description": "Get ready to open the door to fun punchlines on National Knock Knock Joke Day."
     },
     {
-      "title": "National Prince Day",
-      "description": "Make a Prince proud and celebrate National Prince Day in style with excellent background music."
+      "title": "National Magic Day",
+      "description": "Move over Halloween, National Magic Day takes the spotlight this October 31."
     },
     {
       "title": "Reformation Day",
