@@ -3,8 +3,12 @@
   "day": 3,
   "holidays": [
     {
-      "title": "National Homemaker Day",
+      "title": "Daylight Saving Day",
       "description": null
+    },
+    {
+      "title": "National Homemaker Day",
+      "description": "We celebrate the people who keep our households running!"
     },
     {
       "title": "National Sandwich Day",
@@ -19,12 +23,12 @@
       "description": "On Culture Day Japan, immerse yourself in Japanese culture and find out more about this day."
     },
     {
-      "title": "Dominican Independence Day",
-      "description": "We honor Dominica’s struggle for freedom against operation and colonization on this day."
+      "title": "Daylight Savings Ends",
+      "description": "Enjoy the morning rays as an early riser to mark the return to standard time."
     },
     {
-      "title": "Fountain Pen Day",
-      "description": "Let’s fall in love with writing as we celebrate these elegant, unique writing instruments."
+      "title": "Dominican Independence Day",
+      "description": "We honor Dominica’s struggle for freedom against operation and colonization on this day."
     },
     {
       "title": "Give Someone a Dollar Day",
@@ -39,20 +43,12 @@
       "description": "Check out our suggestions for a &#39;jelly&#39; good time this Jellyfish Day."
     },
     {
-      "title": "Love Your Lawyer Day",
-      "description": "Let us highlight and celebrate all the important works of our legal luminaries."
-    },
-    {
       "title": "National Accessory Day",
       "description": "If you adore shoes, bags, or dainty silver bracelets, you have to celebrate them."
     },
     {
       "title": "National Housewife Day",
       "description": "Prepare to celebrate these invaluable women who dedicate so much to their families."
-    },
-    {
-      "title": "National Jersey Friday",
-      "description": "Jerseys are the ultimate symbol of fandom, signifying our allegiance to a sporting team."
     },
     {
       "title": "Separation Day",
@@ -65,6 +61,10 @@
     {
       "title": "Victory Day Maldives",
       "description": "Get set with parades and flag-hoisting to celebrate the victory of the Maldives’ government."
+    },
+    {
+      "title": "Zero Tasking Day",
+      "description": "Relax, and enjoy the peace that comes with living in the moment and doing nothing."
     },
     {
       "title": "Adam Ant’s Birthday",
