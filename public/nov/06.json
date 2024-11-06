@@ -3,24 +3,8 @@
   "day": 6,
   "holidays": [
     {
-      "title": "Job Action Day",
+      "title": "National Nacho Day",
       "description": null
-    },
-    {
-      "title": "National Nachos Day",
-      "description": "Chicken or beef? Beans or salsa? Just make sure to pile on cheese!"
-    },
-    {
-      "title": "All Saints Day (Colombia)",
-      "description": "All Saints’ Day is a holiday celebration dedicated to honoring all saints in the Christian tradition."
-    },
-    {
-      "title": "Color the World Orange Day",
-      "description": "It is not always about getting cured but about learning how to live with it."
-    },
-    {
-      "title": "Constitution Day (Dominican Republic)",
-      "description": "Constitution Day commemorates when the Dominican Republic’s first constitution was signed in San Cristóbal."
     },
     {
       "title": "Dog Film Festival",
@@ -35,12 +19,16 @@
       "description": "Are you heading in the right direction in the pathway of your life? Let’s find out."
     },
     {
-      "title": "National Ladies Learning Code Day",
-      "description": "Across the country, we empower women in the tech industry on National Ladies Learning Code Day."
+      "title": "National Advent Calendar Day",
+      "description": "Get your shopping list ready — coffee, mugs, chocolate, and wine all make for a merry season."
     },
     {
-      "title": "National Michele Day",
-      "description": "Fancy a trip to sun-soaked Italy? Then you should celebrate Michele with us."
+      "title": "National Basketball Day",
+      "description": "Channel your inner baller and rack up points as we celebrate National Basketball Day."
+    },
+    {
+      "title": "National Ladies Learning Code Day",
+      "description": "Across the country, we empower women in the tech industry on National Ladies Learning Code Day."
     },
     {
       "title": "National Report Home Health Care Fraud Day",
@@ -51,16 +39,12 @@
       "description": "This soulful instrument has a rich history and musical range."
     },
     {
+      "title": "National Stress Awareness Day",
+      "description": "Don’t worry; everything will be OK! Just live in the moment and destress your life"
+    },
+    {
       "title": "National Team Manager Day",
       "description": "We celebrate the unsung heroes and the glue that holds every team together: team managers."
-    },
-    {
-      "title": "Play Basketball Day",
-      "description": "Channel your inner baller and rack up points as we celebrate Play Basketball Day."
-    },
-    {
-      "title": "Recreation Day",
-      "description": "Recreation Day is celebrated in northern Tasmania, Australia, on the first Monday in November."
     },
     {
       "title": "Adolphe Sax’s Birthday",
