@@ -3,20 +3,16 @@
   "day": 13,
   "holidays": [
     {
-      "title": "National Hug a Musician Day",
+      "title": "National Dream Destination Day",
       "description": null
+    },
+    {
+      "title": "National Hug a Musician Day",
+      "description": "A lot of work goes into being a musician, and not everyone&#39;s aware of it."
     },
     {
       "title": "World Kindness Day",
       "description": "Smile at strangers on the bus or compliment your coworker — the day is yours to make delightful!"
-    },
-    {
-      "title": "Anti-Bullying Week",
-      "description": "Take a stand against bullying at home, in school, and your community."
-    },
-    {
-      "title": "Laxmi Puja",
-      "description": "Let’s celebrate this auspicious Hindawi festival, which is a celebration of fortune and luxury."
     },
     {
       "title": "National Indian Pudding Day",
@@ -29,10 +25,6 @@
     {
       "title": "Symphonic Metal Day",
       "description": "Get your gear ready to rock as we get into all things symphonic metal!"
-    },
-    {
-      "title": "World Orphans Day",
-      "description": "Join us as we discover the part we can play to improve the lot of orphans."
     },
     {
       "title": "Aryan Khan’s Birthday",
