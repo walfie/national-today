@@ -3,28 +3,20 @@
   "day": 16,
   "holidays": [
     {
-      "title": "Great American Smokeout",
-      "description": null
-    },
-    {
       "title": "International Day For Tolerance",
-      "description": "Think back—when’s the last time you had a different perspective than one of your friends?"
-    },
-    {
-      "title": "Beaujolais Nouveau Day",
-      "description": "Raise a glass to Beaujolais Nouveau Day as we uncork this vintage holiday for you."
+      "description": null
     },
     {
       "title": "Bhai Dooj",
       "description": "A prominent Hindu festival when women pray for long and prosperous lives for their brothers."
     },
     {
-      "title": "Have a Party with your Bear Day",
-      "description": "The teddy bear is a soft toy loved by kids all over the world."
+      "title": "Guinness World Records Day",
+      "description": "Get ready to start breaking records as you celebrate this Guinness World Records Day!"
     },
     {
-      "title": "National Andy Day",
-      "description": "Put on your warrior&#39;s face. Remain brave and steadfast. It&#39;s warriors&#39; day."
+      "title": "Have a Party with your Bear Day",
+      "description": "The teddy bear is a soft toy loved by kids all over the world."
     },
     {
       "title": "National Black Marketers Day",
@@ -45,26 +37,6 @@
     {
       "title": "National Fast Food Day",
       "description": "Know what that means for you? An easy peasy dinnertime."
-    },
-    {
-      "title": "National Rural Health Day",
-      "description": "Over 60 million Americans live and work in seemingly idyllic, rural communities."
-    },
-    {
-      "title": "Social Enterprise Day",
-      "description": "Ready to make a long-lasting impact? Let’s dive straight into it."
-    },
-    {
-      "title": "Use Less Stuff Day",
-      "description": "Clear out the junk and make your house and the Earth a cleaner place!"
-    },
-    {
-      "title": "World Pancreatic Cancer Day",
-      "description": "Let’s fight against pancreatic cancer, which has the lowest survival rate among the major cancers."
-    },
-    {
-      "title": "World Philosophy Day",
-      "description": "Share your thoughts, engage in collaborative dialogues, or inspire stimulating debates this World Philosophy Day."
     },
     {
       "title": "Brandi Glanville’s Birthday",
