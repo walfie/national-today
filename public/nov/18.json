@@ -3,20 +3,12 @@
   "day": 18,
   "holidays": [
     {
-      "title": "International Survivors of Suicide Loss Day",
-      "description": null
-    },
-    {
       "title": "Mickey Mouse Birthday",
-      "description": "Mad about the mouse? We are too! Mickey reminds us of the magic of childhood."
+      "description": null
     },
     {
       "title": "Mickey Mouse Day",
       "description": "Mad about the mouse? We are too! Mickey reminds us of the magic of childhood."
-    },
-    {
-      "title": "National Adoption Day",
-      "description": "Thousands of foster children are welcomed into their forever homes!"
     },
     {
       "title": "National Princess Day",
@@ -29,14 +21,6 @@
     {
       "title": "Battle of Vertières Day",
       "description": "Check out three easy ways to celebrate Haiti and the Battle of Vertières Day."
-    },
-    {
-      "title": "FAMILY AND COMMUNITY DAY",
-      "description": "Spare some time off work to celebrate with your family and community!"
-    },
-    {
-      "title": "Family Volunteer Day",
-      "description": "There are many ways to give back as a family on this global day of service."
     },
     {
       "title": "International Occult Day",
@@ -57,6 +41,10 @@
     {
       "title": "National Vichyssoise Day",
       "description": "Be a souperhero and prepare your taste buds to be delighted this National Vichyssoise Day."
+    },
+    {
+      "title": "Odd Socks Day",
+      "description": "Today&#39;s not only a great way to express uncanny styles, it’s also promoting a good cause."
     },
     {
       "title": "Allyson Felix’s Birthday",
