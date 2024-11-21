@@ -3,7 +3,7 @@
   "day": 21,
   "holidays": [
     {
-      "title": "National Entrepreneur&#39;s Day",
+      "title": "Great American Smokeout",
       "description": null
     },
     {
@@ -19,20 +19,32 @@
       "description": "Let loose and laugh a little on this rather quirky and humorous Alaskan holiday."
     },
     {
-      "title": "False Confession Day",
-      "description": "On False Confession Day, get ready to make and hear the craziest confessions."
+      "title": "Beaujolais Nouveau Day",
+      "description": "Raise a glass to Beaujolais Nouveau Day as we uncork this vintage holiday for you."
     },
     {
-      "title": "National Dennis Day",
-      "description": "Celebrate National Dennis Day by going wine tasting, as the name Dennis is derived from Dionysus."
+      "title": "False Confession Day",
+      "description": "On False Confession Day, get ready to make and hear the craziest confessions."
     },
     {
       "title": "National Gingerbread Cookie Day",
       "description": "Awaken the holiday spirit in you by celebrating with this tasty, spicy treat."
     },
     {
+      "title": "National Rural Health Day",
+      "description": "Over 60 million Americans live and work in seemingly idyllic, rural communities."
+    },
+    {
       "title": "Red Mitten Day",
       "description": "Red mittens in Canada are more than a fashion statement — they support the nation&#39;s Olympics team."
+    },
+    {
+      "title": "Social Enterprise Day",
+      "description": "Ready to make a long-lasting impact? Let’s dive straight into it."
+    },
+    {
+      "title": "Use Less Stuff Day",
+      "description": "Clear out the junk and make your house and the Earth a cleaner place!"
     },
     {
       "title": "World Fisheries Day",
@@ -41,6 +53,14 @@
     {
       "title": "World Hello Day",
       "description": "The importance of personal communication is illustrated for preserving peace."
+    },
+    {
+      "title": "World Pancreatic Cancer Day",
+      "description": "Let’s fight against pancreatic cancer, which has the lowest survival rate among the major cancers."
+    },
+    {
+      "title": "World Philosophy Day",
+      "description": "Share your thoughts, engage in collaborative dialogues, or inspire stimulating debates this World Philosophy Day."
     },
     {
       "title": "Amanda Ashlee Mertz’s Birthday",
