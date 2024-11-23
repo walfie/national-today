@@ -3,20 +3,28 @@
   "day": 23,
   "holidays": [
     {
-      "title": "National Day of Mourning",
+      "title": "International Survivors of Suicide Loss Day",
       "description": null
+    },
+    {
+      "title": "National Adoption Day",
+      "description": "Thousands of foster children are welcomed into their forever homes!"
     },
     {
       "title": "National Espresso Day",
       "description": "It&#39;s all in the way the beans are brewed."
     },
     {
-      "title": "Thanksgiving",
-      "description": "Thanksgiving — a rare celebratory holiday without an established gift-giving component."
+      "title": "Aura Awareness Day",
+      "description": "Have you checked your aura today? It might just be brighter than the sun."
     },
     {
       "title": "Eat A Cranberry Day",
       "description": "Ready to dive into all the cranberry deets? We can ‘berrily’ wait."
+    },
+    {
+      "title": "Family Volunteer Day",
+      "description": "There are many ways to give back as a family on this global day of service."
     },
     {
       "title": "Fibonacci Day",
@@ -27,36 +35,12 @@
       "description": "Join us as we celebrate and appreciate workers this Labor Appreciation Day!"
     },
     {
-      "title": "Macy’s Thanksgiving Day Parade",
-      "description": "There’s no better way to start Thanksgiving than by enjoying this fun festivity with your family!"
-    },
-    {
       "title": "National Cashew Day",
       "description": "Munch on all the delicious info about America’s popular partying nut."
     },
     {
-      "title": "National Dog Show Broadcast",
-      "description": "Get ready — watch the cream of the crop on one of the most prestigious dog shows in history."
-    },
-    {
-      "title": "National Family Health History Day",
-      "description": "Take some time when everyone in your family is assembled and discuss the family health history."
-    },
-    {
-      "title": "National Margaret Day",
-      "description": "Treat them lovingly. Hold them with pride. Today is a day for the human pearls."
-    },
-    {
       "title": "Thankful For My Dog Day",
       "description": "When was the last time you were thankful for your dog’s love and loyalty?"
-    },
-    {
-      "title": "Turkey-free Thanksgiving",
-      "description": "Whether you’re a vegetarian or just dislike turkey, there are many alternatives for a turkey-free Thanksgiving."
-    },
-    {
-      "title": "Unthanksgiving Day",
-      "description": "Let us explore the rich history and significance of the lesser-known Unthanksgiving Day!"
     },
     {
       "title": "Wolfenoot",
