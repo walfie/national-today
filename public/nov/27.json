@@ -3,12 +3,8 @@
   "day": 27,
   "holidays": [
     {
-      "title": "Cyber Monday",
+      "title": "DrinksGiving",
       "description": null
-    },
-    {
-      "title": "Chatham Islands Anniversary Day",
-      "description": "Fellow island lovers, brace yourself as we gain more knowledge on your favorite topic."
     },
     {
       "title": "Lancashire Day",
@@ -19,20 +15,16 @@
       "description": "Whipped or heavy, or both, this celebration will have you licking your fingers all day long."
     },
     {
-      "title": "National Brand Day",
-      "description": "If you’re an entrepreneur, this is the day to celebrate your brand."
-    },
-    {
       "title": "National Craft Jerky Day",
       "description": "Get ready to chew until you’re blue as we make our own special jerky!"
     },
     {
-      "title": "National Lawrence Day",
-      "description": "Don’t forget to treat your beloved Lawrence on this special day reserved just for them!"
+      "title": "National Jukebox Day",
+      "description": "We’re holding a boombox over our heads to declare our love for the jukebox."
     },
     {
-      "title": "National Sovereignty Day Argentina",
-      "description": "Some battles are won with defeat — or so Sovereignty Day tells us."
+      "title": "National Tie One On Day",
+      "description": "Tie an apron on and cook up some love and kindness today."
     },
     {
       "title": "Pins and Needles Day",
@@ -41,6 +33,10 @@
     {
       "title": "Turtle Adoption Day",
       "description": "Turtles are typically bought without notions of the care involved — Turtle Adoption Day sets that right!"
+    },
+    {
+      "title": "What Do You Love About America Day",
+      "description": "This is the day for you to remember all that’s great about this country and give thanks."
     },
     {
       "title": "Amanda Todd’s Birthday",
