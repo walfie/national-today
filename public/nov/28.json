@@ -3,7 +3,7 @@
   "day": 28,
   "holidays": [
     {
-      "title": "Giving Tuesday",
+      "title": "National Day of Mourning",
       "description": null
     },
     {
@@ -11,36 +11,44 @@
       "description": "The thick, sweet, savory dish that’s become a staple of the American breakfast diet."
     },
     {
+      "title": "Thanksgiving",
+      "description": "Thanksgiving — a rare celebratory holiday without an established gift-giving component."
+    },
+    {
       "title": "Albania Independence Day",
       "description": "Keep reading to learn the history leading up to the Albanian Declaration of Independence."
+    },
+    {
+      "title": "Macy’s Thanksgiving Day Parade",
+      "description": "There’s no better way to start Thanksgiving than by enjoying this fun festivity with your family!"
     },
     {
       "title": "Mauritania Independence Day",
       "description": "Get ready to celebrate Mauritania Independence Day and learn more about this fascinating country!"
     },
     {
-      "title": "National Alan Day",
-      "description": "Let’s stand up and celebrate all the Alans in our lives to make them feel special today!"
+      "title": "Mindanao Week of Peace",
+      "description": "Prepare for week-long activities to promote peace and harmony throughout the community."
     },
     {
-      "title": "National Cole Day",
-      "description": "Show your solidarity to a name that is widely popularized throughout the world, National Cole Day!"
+      "title": "National Dog Show Broadcast",
+      "description": "Get ready — watch the cream of the crop on one of the most prestigious dog shows in history."
     },
     {
-      "title": "National Day of Giving",
-      "description": "Take your generosity to the next level this National Day of Giving."
-    },
-    {
-      "title": "National Madison Day",
-      "description": "Gender is not an obstacle when you plan to name your child Madison!"
-    },
-    {
-      "title": "National Patrick Day",
-      "description": "Roll out the drums, wrap up the gifts, and let’s celebrate with the Patricks!"
+      "title": "National Family Health History Day",
+      "description": "Take some time when everyone in your family is assembled and discuss the family health history."
     },
     {
       "title": "Red Planet Day",
       "description": "We recognize the planet which has captivated human observers for countless years, Mars."
+    },
+    {
+      "title": "Turkey-free Thanksgiving",
+      "description": "Whether you’re a vegetarian or just dislike turkey, there are many alternatives for a turkey-free Thanksgiving."
+    },
+    {
+      "title": "Unthanksgiving Day",
+      "description": "Let us explore the rich history and significance of the lesser-known Unthanksgiving Day!"
     },
     {
       "title": "Anna Nicole Smith’s Birthday",
