@@ -3,20 +3,28 @@
   "day": 29,
   "holidays": [
     {
-      "title": "Chadwick Boseman Day",
+      "title": "Black Friday",
       "description": null
+    },
+    {
+      "title": "Chadwick Boseman Day",
+      "description": "On Chadwick Boseman&#39;s birthday, we remember the actor who sadly left us too soon."
     },
     {
       "title": "National Lemon Cream Pie Day",
       "description": "We hope your sweet tooth is ready to celebrate National Lemon Cream Pie Day!"
     },
     {
-      "title": "Choose Women Wednesday",
-      "description": "Show your appreciation for the woman who can do everything on Choose Women Wednesday."
+      "title": "Buy Nothing Day",
+      "description": "An effort to combat the unethical and sometimes even dangerous mob shopping behaviors of Black Friday."
     },
     {
       "title": "Electronic Greetings Day",
       "description": "Let’s reach out to long-lost friends via email or social media this Electronic Greetings Day."
+    },
+    {
+      "title": "Fur-Free Friday",
+      "description": "Today we denounce our cruelty, in the name of fashion, to fur-bearing animals."
     },
     {
       "title": "International Day of Solidarity with the Palestinian People",
@@ -31,16 +39,40 @@
       "description": "Learn about the Isdal Woman case, and the best ways to observe this day."
     },
     {
-      "title": "National Evan Day",
-      "description": "Send the Evan in your life some flowers today as a show of love, kindness, and appreciation!"
+      "title": "Maize Day",
+      "description": "The time has come to unwrap and savor this gift of nature."
+    },
+    {
+      "title": "National Day of Listening",
+      "description": "There&#39;s something interesting for everyone to say or hear, so listen up!"
+    },
+    {
+      "title": "Native American Heritage Day",
+      "description": "Native Americans form the foundation of American culture, and that makes this day special."
+    },
+    {
+      "title": "Sigd Day",
+      "description": "Uncover the ancient traditions and history of Jewish communities you didn’t know existed."
+    },
+    {
+      "title": "Sinkie Day",
+      "description": "Are you a sinkie? This special day was created just for you!"
     },
     {
       "title": "Square Dancing Day",
       "description": "Put on your dancing shoes and practice square dancing with your friends and loved ones!"
     },
     {
+      "title": "Systems Engineer Day",
+      "description": "Systems Engineer Day celebrates those who create computer systems and debug those with problems."
+    },
+    {
       "title": "Throw Out Your Leftovers Day",
       "description": "It’s time to throw out your leftovers and make space for fresh and healthy food."
+    },
+    {
+      "title": "You’re Welcomegiving Day",
+      "description": "We’re learning new ways to say “you’re welcome” on this exciting day!"
     },
     {
       "title": "Anna Faris’s Birthday",
