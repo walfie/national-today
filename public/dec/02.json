@@ -3,8 +3,12 @@
   "day": 2,
   "holidays": [
     {
-      "title": "National Bartender Day",
+      "title": "Cyber Monday",
       "description": null
+    },
+    {
+      "title": "National Bartender Day",
+      "description": "Bartenders have a rich history: They have been around since ancient times across cultures."
     },
     {
       "title": "National Mutt Day",
@@ -21,6 +25,10 @@
     {
       "title": "Business of Popping Corn Day",
       "description": "What would life be like without the heavenly smelling, buttery tasting, crunchy snack we all love?"
+    },
+    {
+      "title": "Chatham Islands Anniversary Day",
+      "description": "Fellow island lovers, brace yourself as we gain more knowledge on your favorite topic."
     },
     {
       "title": "International Day for the Abolition of Slavery",
@@ -45,10 +53,6 @@
     {
       "title": "National Fritters Day",
       "description": "Fritters are easy to cook, and exist in different forms in cuisines all across the world."
-    },
-    {
-      "title": "National Katherine Day",
-      "description": "Happy National Katherine Day to Katherines across the world! Celebrate right here with us!"
     },
     {
       "title": "National Skip School Day",
