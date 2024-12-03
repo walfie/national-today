@@ -3,8 +3,12 @@
   "day": 3,
   "holidays": [
     {
-      "title": "International Day of Persons with Disabilities",
+      "title": "Giving Tuesday",
       "description": null
+    },
+    {
+      "title": "International Day of Persons with Disabilities",
+      "description": "Become more compassionate and understanding of the challenges faced by people with disabilities."
     },
     {
       "title": "Candle Day",
@@ -43,28 +47,16 @@
       "description": "Share some love and warmth by giving out (consensual!) hugs all day on December 3."
     },
     {
-      "title": "National Dorothy Day",
-      "description": "Though you may not be in Kansas, join us in celebrating every Dorothy in the world."
+      "title": "National Day of Giving",
+      "description": "Take your generosity to the next level this National Day of Giving."
     },
     {
       "title": "National Green Bean Casserole Day",
       "description": "If you are feeling lazy but hungry, then green bean casserole is the way to go!"
     },
     {
-      "title": "National Harley Day",
-      "description": "Show love to a Harley today, even if it’s just your ride, with National Harley Day."
-    },
-    {
       "title": "National Heather Day",
       "description": "Today’s an excellent opportunity to send a special friend some good wishes and lovely gifts!"
-    },
-    {
-      "title": "National Isaac Day",
-      "description": "Even if you’re thinking — ‘Isaac’ at making suitable puns — you can still make Isaac feel special."
-    },
-    {
-      "title": "National Lisa Day",
-      "description": "We’re sure you must know a Lisa or two, so join us in celebrating them today."
     },
     {
       "title": "National Make a Gift Day",
@@ -73,10 +65,6 @@
     {
       "title": "National Rhubarb Vodka Day",
       "description": "Join the celebration to mark a special day for everyone who enjoys this special cocktail."
-    },
-    {
-      "title": "National Ronald Day",
-      "description": "Get ready to celebrate your favorite Ronald in the world on this special day!"
     },
     {
       "title": "National Roof Over Your Head Day",
