@@ -3,12 +3,8 @@
   "day": 9,
   "holidays": [
     {
-      "title": "National Opal Apples Day",
-      "description": null
-    },
-    {
       "title": "National Pastry Day",
-      "description": "We don’t know about you, but we’ve never met a pastry we didn’t like."
+      "description": null
     },
     {
       "title": "Christmas Card Day",
@@ -39,12 +35,12 @@
       "description": "Let&#39;s try our best to improve the quality of life for children around the globe."
     },
     {
-      "title": "National Blake Day",
-      "description": "Join us as we cheer these solid, methodological personalities who are such an inspiration to know."
-    },
-    {
       "title": "National Llama Day",
       "description": "The perfect day to appreciate one of the fuzziest farm animals around."
+    },
+    {
+      "title": "National Opal Apples Day",
+      "description": "Celebrate Opal apples, the vivid bright yellow apple with a crispy bite!"
     },
     {
       "title": "Tanzania Independence Day",
