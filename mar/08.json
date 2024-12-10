@@ -1,0 +1,54 @@
+{
+  "month": "mar",
+  "day": 8,
+  "holidays": [
+    {
+      "title": "International Women&#39;s Day",
+      "description": null
+    },
+    {
+      "title": "National Proofreading Day",
+      "description": "Because we all make typos, grammar mistakes, and spelling errors when we write!"
+    },
+    {
+      "title": "Be Nasty Day",
+      "description": "Get your wittiest quips ready to take the sting out of your nasty words this day."
+    },
+    {
+      "title": "Maha Shivaratri",
+      "description": "Immerse yourself in a day of prayer as we honor an important Hindu god."
+    },
+    {
+      "title": "Nari Dibas",
+      "description": "Here’s to strong women. May we know them, raise them, and celebrate them on Nari Dibas."
+    },
+    {
+      "title": "National August Day",
+      "description": "If your name is August, then today is your day! Let’s celebrate it together."
+    },
+    {
+      "title": "National Middle Name Pride Day",
+      "description": "Where first names are often simple and modern, middle names are more personalized, creative, or cultural."
+    },
+    {
+      "title": "National Oregon Day",
+      "description": "Get ready to celebrate the Beaver State, its people and all its natural diversity."
+    },
+    {
+      "title": "National Peanut Cluster Day",
+      "description": "Start thinking about chocolate and crunchy peanuts — National Peanut Cluster Day is around the corner."
+    },
+    {
+      "title": "National Preschooler&#39;s Day",
+      "description": "Let’s celebrate and honor our little humans and the journey they embark on today."
+    },
+    {
+      "title": "National Retro Video Game Day",
+      "description": "Celebrate Retro Games and bring out your old games to release your inner child."
+    },
+    {
+      "title": "United Nations Day for Women&#39;s Rights and International Peace",
+      "description": "Join us in raising awareness and working to address women&#39;s rights issues."
+    }
+  ]
+}
