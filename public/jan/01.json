@@ -7,10 +7,6 @@
       "description": null
     },
     {
-      "title": "Bonza Bottler Day",
-      "description": "With Bonza Bottler Day every month, there&#39;s always a reason to celebrate!"
-    },
-    {
       "title": "Commitment Day",
       "description": "What promises have you made? It’s time to make them binding!"
     },
@@ -39,16 +35,8 @@
       "description": "Come along with us as we travel back in time to pre-colonial Haiti."
     },
     {
-      "title": "Handsel Monday",
-      "description": "Let’s explore the meaning, history, and significance of this Scottish holiday!"
-    },
-    {
       "title": "International Public Domain Day",
       "description": "When the copyright of an artwork ends, it becomes the property of the public."
-    },
-    {
-      "title": "Mummer&#39;s Parade",
-      "description": "Put on your best costume; we’re getting ready to go fully festive at the Mummer’s Parade!"
     },
     {
       "title": "National Bloody Mary Day",
@@ -61,10 +49,6 @@
     {
       "title": "National Shepherd Day",
       "description": "Let’s all set everything aside to celebrate that remarkable Shepherd in our lives!"
-    },
-    {
-      "title": "National Thank God Its Monday Day",
-      "description": "Rewire your minds to be positive about the most hated day of the week."
     },
     {
       "title": "New Year&#39;s Day",
@@ -99,10 +83,6 @@
       "description": "Get ready for some history lessons about an amazing nation and how they got their independence."
     },
     {
-      "title": "Tournament of Roses Parade",
-      "description": "Celebrate the New Year with the entire family by attending the famous Tournament of Roses Parade!"
-    },
-    {
       "title": "Triumph of the Revolution",
       "description": "Raise your Cuban flags and show some marxism as we celebrate this historic day."
     },
@@ -117,6 +97,14 @@
     {
       "title": "Z Day",
       "description": "For a change and to honor the alphabet, allow the letter Z to come first."
+    },
+    {
+      "title": "Mummer&#39;s Parade",
+      "description": "Put on your best costume; we’re getting ready to go fully festive at the Mummer’s Parade!"
+    },
+    {
+      "title": "Tournament of Roses Parade",
+      "description": "Celebrate the New Year with the entire family by attending the famous Tournament of Roses Parade!"
     },
     {
       "title": "George Washington Carver’s Birthday",
