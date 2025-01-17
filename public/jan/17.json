@@ -3,16 +3,8 @@
   "day": 17,
   "holidays": [
     {
-      "title": "Museum Selfie Day",
-      "description": null
-    },
-    {
-      "title": "National Lose the Jet Lag Day",
-      "description": "Shining a light on jet lag science and helping travelers adjust rapidly to new time zones!"
-    },
-    {
       "title": "Benjamin Franklin Day",
-      "description": "Benjamin Franklin is more than just the face on your money — here’s why we pay homage."
+      "description": null
     },
     {
       "title": "Cable Car Day",
@@ -29,6 +21,10 @@
     {
       "title": "Ditch New Year&#39;s Resolution Day",
       "description": "Grab some ice cream, skip that workout, and spend more time on your phone!"
+    },
+    {
+      "title": "International Fetish Day",
+      "description": "Get yourself ready as we mark a day to express and satisfy our wildest fantasies."
     },
     {
       "title": "International We Are Not Broken Day",
@@ -51,16 +47,16 @@
       "description": "National Carolina Day is here! Let us come together to celebrate this beautiful name!"
     },
     {
-      "title": "National Charlotte Day",
-      "description": "Let us learn about the Charlottes who have left their mark on the world."
-    },
-    {
       "title": "National Hot Buttered Rum Day",
       "description": "Enjoyed best in the fall and winter, Hot Buttered Rum is “comfort food in a mug.”"
     },
     {
       "title": "National Hot Heads Chili Day",
       "description": "Make your meals extra hot today and celebrate National Hot Heads Chili Day with us!"
+    },
+    {
+      "title": "National Lose the Jet Lag Day",
+      "description": "Shining a light on jet lag science and helping travelers adjust rapidly to new time zones!"
     },
     {
       "title": "National Ta Day",
