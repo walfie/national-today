@@ -3,8 +3,12 @@
   "day": 20,
   "holidays": [
     {
-      "title": "National Cheese Lover&#39;s Day",
+      "title": "Martin Luther King Day",
       "description": null
+    },
+    {
+      "title": "National Cheese Lover&#39;s Day",
+      "description": "Get ready to ‘havarti’ a ‘gouda’ time, because it’s National Cheese Lover’s Day!"
     },
     {
       "title": "National DJ Day",
@@ -15,12 +19,32 @@
       "description": "They walk around in tuxedos, they have a cute waddle, and they&#39;re unique!"
     },
     {
+      "title": "Blue Monday",
+      "description": "Are we destined to be blue on this specific Monday? Read on and decide, if so!"
+    },
+    {
+      "title": "Brew Monday",
+      "description": "Time to schedule a meeting with someone who finds this cold, gray winter’s day an obstacle."
+    },
+    {
       "title": "Camcorder Day",
       "description": "Get ready to record as we celebrate the rich history of our beloved camcorder."
     },
     {
+      "title": "Civil Rights Day",
+      "description": "In the words of Frederick Douglass: “If there is no struggle, there is no progress.”"
+    },
+    {
+      "title": "Elementary School Teacher Day",
+      "description": "Elementary school teachers leave a lasting impression on us with their warmth and kindness."
+    },
+    {
       "title": "Guru Gobind Singh Jayanti",
       "description": "This year marks the 354th birth anniversary of Guru Gobind Singh."
+    },
+    {
+      "title": "Idaho Human Rights Day",
+      "description": "Prepare for a parade honoring the life of Martin Luther King Jr., our favorite civil-rights activist."
     },
     {
       "title": "Inauguration Day",
@@ -31,10 +55,6 @@
       "description": "Experience the tranquility as you journey through the divine paths of acceptance."
     },
     {
-      "title": "National Charlie Day",
-      "description": "Keep reading to learn the history of this name and how to celebrate the day!"
-    },
-    {
       "title": "National Claudia Day",
       "description": "Keep reading to learn about variations, popularity, and facts about the name Claudia."
     },
@@ -43,28 +63,20 @@
       "description": "Take a break and let&#39;s enjoy a warm cup of great coffee together!"
     },
     {
-      "title": "National Judy Day",
-      "description": "Learn about the name’s popularity and the famous people who are named Judy!"
-    },
-    {
       "title": "National Sebastian Day",
       "description": "Raise a glass to all the Sebastians around the world on National Sebastian Day."
-    },
-    {
-      "title": "National Use Your Gift Card Day",
-      "description": "Save your cash, and use those leftover gift cards to buy something nice for yourself."
     },
     {
       "title": "Penguin Awareness Day",
       "description": "The penguin population needs us! Let’s get ready to raise awareness"
     },
     {
-      "title": "Soup Swap Day",
-      "description": "Join your friends and family and sit together for a tasty treat of hot soup."
-    },
-    {
       "title": "Take A Walk Outdoors Day",
       "description": "Put your sedentary life on pause and step out for a stroll today."
+    },
+    {
+      "title": "Cancertalk Week",
+      "description": "Help, support, and encourage those living with cancer, as well as their families."
     },
     {
       "title": "Bill Maher’s Birthday",
