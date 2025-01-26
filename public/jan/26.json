@@ -3,12 +3,8 @@
   "day": 26,
   "holidays": [
     {
-      "title": "National Fun at Work Day",
-      "description": null
-    },
-    {
       "title": "National Peanut Brittle Day",
-      "description": "Filled with peanuts, almonds, or pecans, this classic candy is perfect for any occasion!"
+      "description": null
     },
     {
       "title": "National Spouse Day",
@@ -17,10 +13,6 @@
     {
       "title": "Australia Day",
       "description": "Read on for a fun history lesson and cool ideas for having a fantastic Australia Day!"
-    },
-    {
-      "title": "Big Garden Birdwatch",
-      "description": "Big Garden Birdwatch is not only recreational; it also helps keep track of the bird population."
     },
     {
       "title": "Birth Anniversary of National Artist Napoleon Abueva",
@@ -51,28 +43,20 @@
       "description": "Celebrating Lotus 1-2-3 Day is as easy as, well, 1, 2, 3!"
     },
     {
-      "title": "National Activity Professionals Day",
-      "description": "This National Activity Professional Day, let’s shower these superheroes with our love and appreciation!"
-    },
-    {
-      "title": "National Big Wig Day",
-      "description": "Get ready to celebrate one of the biggest philanthropic gestures in history, National Big Wig Day."
-    },
-    {
-      "title": "National Diane Day",
-      "description": "Dear Diane, as rare as your name seems, we’ll happily celebrate it with you."
+      "title": "National Bible Sunday",
+      "description": "Get your bible and hymn books ready to celebrate National Bible Sunday in style!"
     },
     {
       "title": "National Green Juice Day",
       "description": "Green juices consist of pressed vegetables and fruits — making them a healthy alternative to other foods."
     },
     {
-      "title": "National Preschool Health and Fitness Day",
-      "description": "Good grades are important, but healthy eating and physical education are paramount, especially for preschoolers!"
-    },
-    {
       "title": "Toad Hollow Day of Encouragement",
       "description": "Toad Hollow might be imaginary, but spreading kindness on Toad Hollow Day of Encouragement is not!"
+    },
+    {
+      "title": "World Leprosy Day",
+      "description": "Leprosy is a reality and, together, we need to care for the people affected by it."
     },
     {
       "title": "Angela Davis’s Birthday",
