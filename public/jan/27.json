@@ -3,8 +3,12 @@
   "day": 27,
   "holidays": [
     {
-      "title": "International Holocaust Remembrance Day",
+      "title": "Community Manager Appreciation Day",
       "description": null
+    },
+    {
+      "title": "International Holocaust Remembrance Day",
+      "description": "On International Holocaust Remembrance Day we remember Nazi atrocities so no one suffers like that again."
     },
     {
       "title": "National Chocolate Cake Day",
@@ -15,20 +19,32 @@
       "description": "We ought to never forget such hate and violence — so let’s observe in unison!"
     },
     {
+      "title": "Better Business Communication Day",
+      "description": "Help us in our efforts this Better Business Communication day to focus on effective, sound communication."
+    },
+    {
+      "title": "Bubble Wrap Appreciation Day",
+      "description": "Because no one is too old for the exquisite joy of popping bubble wrap."
+    },
+    {
       "title": "Holocaust Memorial Day",
       "description": "Today, we remember the courage and strength of those who suffered and died during the Holocaust."
     },
     {
-      "title": "Local Quilt Shop Day",
-      "description": "Get out your wallet — go and spoil a quilter you know at your local quilt shop."
+      "title": "Isra and Mi&#39;raj",
+      "description": "Within Islam, Isra and Mi&#39;raj, refers to a miraculous nighttime journey undertaken by the Prophet Muhammad."
+    },
+    {
+      "title": "National Bible Day",
+      "description": "Read your &#34;Bible,&#34; buy one for a friend, or attend a church service on this day."
     },
     {
       "title": "National Geographic Day",
       "description": "Come and celebrate with us because there is ‘NAThing’ like “National Geographic,” are we right?"
     },
     {
-      "title": "National Seed Swap Day",
-      "description": "Pull out your gardening aprons; sharpen your tools. The season to plant new seeds is here."
+      "title": "Northland Anniversary Day",
+      "description": "We&#39;re celebrating the day when Hobson set foot on the lovely shores of New Zealand."
     },
     {
       "title": "Punch the Clock Day",
@@ -43,8 +59,8 @@
       "description": "Join us as we explore some important history this Vietnam Peace Day."
     },
     {
-      "title": "Visit Your Local Quilt Shop Day",
-      "description": "Let’s celebrate the beauty of quilts, their origins, and their ingenious artistry!"
+      "title": "Wellington Anniversary Day",
+      "description": "Join us as we celebrate Wellington Anniversary Day with flair and in style."
     },
     {
       "title": "World Breast Pumping Day",
