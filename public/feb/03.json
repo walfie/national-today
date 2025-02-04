@@ -3,16 +3,8 @@
   "day": 3,
   "holidays": [
     {
-      "title": "Doggy Date Night",
-      "description": null
-    },
-    {
-      "title": "National Carrot Cake Day",
-      "description": "Carrot cake lovers indulge in this beloved dessert."
-    },
-    {
       "title": "National Golden Retriever Day",
-      "description": "The calm temperament, intelligence, and playfulness make them ideal best friends for any dog lover."
+      "description": null
     },
     {
       "title": "National Women Physicians Day",
@@ -31,6 +23,10 @@
       "description": "To the fearless creole martyrs who risked their lives for better working conditions."
     },
     {
+      "title": "Doggy Date Night",
+      "description": "Learn all about ways to celebrate man’s best friend and get ready for Doggy Date Night!"
+    },
+    {
       "title": "Elmo&#39;s Birthday",
       "description": "Get out the birthday candles and cake as we celebrate Elmo’s big day."
     },
@@ -45,6 +41,10 @@
     {
       "title": "Mozambican Heroes Day",
       "description": "Mozambican Heroes Day is a day of national festivity and pride. Let’s learn more."
+    },
+    {
+      "title": "National Carrot Cake Day",
+      "description": "Carrot cake lovers indulge in this beloved dessert."
     },
     {
       "title": "National Cordova Ice Worm Day",
