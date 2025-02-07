@@ -3,20 +3,28 @@
   "day": 7,
   "holidays": [
     {
-      "title": "National Send a Card to a Friend Day",
+      "title": "National Bubble Gum Day",
       "description": null
     },
     {
-      "title": "National Signing Day",
-      "description": "Today, high school football players are eligible to commit to the college of their choice."
+      "title": "National Send a Card to a Friend Day",
+      "description": "Do you get excited when you find a hand written card or letter in your mailbox?"
+    },
+    {
+      "title": "National Wear Red Day",
+      "description": "Put on your reddest red and paint the city red, for a great cause!"
+    },
+    {
+      "title": "Bubblegum Day",
+      "description": "Chew your favorite bubblegum, practice your bubble blowing and give back this Bubblegum Day."
     },
     {
       "title": "e-Day",
       "description": "Whip out your TI-84 calculator, and spot the little button that bolsters logarithmic and exponential functions."
     },
     {
-      "title": "Global School Play Day",
-      "description": "Today is the day to let the children run around as much as they want."
+      "title": "Give Kids A Smile",
+      "description": "Let&#39;s turn those frowns upside down with the &#34;Give Kids A Smile&#34; program."
     },
     {
       "title": "Grenada Independence Day",
@@ -39,16 +47,16 @@
       "description": "It’s so tasty that it deserves a day all to itself."
     },
     {
-      "title": "National Girls and Women in Sports Day",
-      "description": "National Girls and Women in Sports Day, abbreviated as N.G.W.S.D., is observed on February 7 this year and it is all about breaking the gender…"
-    },
-    {
-      "title": "National Jack Day",
-      "description": "National Today is wishing all the Jacks a happy National Jack Day."
-    },
-    {
       "title": "National Periodic Table Day",
       "description": "Pay tribute to the chart in science classrooms that saved us from flunking high school chemistry!"
+    },
+    {
+      "title": "National Woman&#39;s Heart Day",
+      "description": "Pledge to protect a woman’s life by protecting her from cardiovascular diseases."
+    },
+    {
+      "title": "Number Day",
+      "description": "Every childhood is worth fighting for. Join us in the fight against child abuse."
     },
     {
       "title": "Rose Day",
@@ -59,8 +67,8 @@
       "description": "Wave All Your Fingers At Your Neighbor Day fosters friendship among neighbors."
     },
     {
-      "title": "World Read Aloud Day",
-      "description": "Practice your narrative skill by reading your favorite story aloud to your family, friends, and community."
+      "title": "Working Naked Day",
+      "description": "It is harder than we think to work in our most comfortable state and remain productive."
     },
     {
       "title": "Ashton Kutcher’s Birthday",
