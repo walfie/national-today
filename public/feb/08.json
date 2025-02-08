@@ -3,16 +3,8 @@
   "day": 8,
   "holidays": [
     {
-      "title": "Fat Thursday",
+      "title": "Global Movie Day",
       "description": null
-    },
-    {
-      "title": "Giving Hearts Day",
-      "description": "Giving is something that brings you joy, satisfaction, and fulfillment like nothing else can."
-    },
-    {
-      "title": "Isra and Mi&#39;raj",
-      "description": "Within Islam, Isra and Mi&#39;raj, refers to a miraculous nighttime journey undertaken by the Prophet Muhammad."
     },
     {
       "title": "Laugh and Get Rich Day",
@@ -39,16 +31,20 @@
       "description": "Opera is one of the oldest and finest forms of entertainment. Today, we celebrate it!"
     },
     {
-      "title": "Paczki Day",
-      "description": "Known as a dessert indulged in around lent, Paczki Day isn’t just about the pastries."
-    },
-    {
       "title": "Prešeren Day",
       "description": "Bring on your best mood as we celebrate one of the greatest men in history."
     },
     {
       "title": "Propose Day",
       "description": "Love’s in the air. Get down on one knee and do the deed this Propose Day."
+    },
+    {
+      "title": "Royal Hobart Regatta",
+      "description": "Join us in celebrating one of the oldest and most prestigious events in Tasmania."
+    },
+    {
+      "title": "Scout Sabbath",
+      "description": "Put on your uniform and get ready to honor Shabbat with all the information we have!"
     },
     {
       "title": "Charlie Axel Woods’s Birthday",
