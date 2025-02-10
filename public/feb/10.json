@@ -3,44 +3,28 @@
   "day": 10,
   "holidays": [
     {
-      "title": "All the News That&#39;s Fit to Print Day",
+      "title": "National Clean Out Your Computer Day",
       "description": null
+    },
+    {
+      "title": "All the News That&#39;s Fit to Print Day",
+      "description": "All the News That’s Fit to Print Day is observed to encourage honest journalism."
     },
     {
       "title": "Children&#39;s Hospice Day",
       "description": "Children&#39;s Hospice Day also recognizes the importance of hospices in healthcare. Let’s learn more."
     },
     {
-      "title": "Chinese Lunar New Year&#39;s Day",
-      "description": "We say, “Out with the old and in with the new,” on this auspicious holiday!"
-    },
-    {
-      "title": "Chinese New Year",
-      "description": "A celebration marked by good food, red envelopes, and blessings for everyone."
-    },
-    {
-      "title": "Chinese Spring Festival",
-      "description": "We’ll help you discover how thousands of Chinese diaspora in Mauritius celebrate the Spring Festival."
-    },
-    {
       "title": "Feast of St. Paul&#39;s Shipwreck",
       "description": "Celebrate the event arrival of St. Paul in Malta on this day!"
-    },
-    {
-      "title": "Global Movie Day",
-      "description": "Grab your popcorn and get ready to celebrate your favorite movies all day!"
     },
     {
       "title": "International Cribbage Day",
       "description": "Play cribbage with your friends or family to commemorate International Cribbage Day."
     },
     {
-      "title": "Korean New Year",
-      "description": "Korean New Year, one of the most important national holidays in Korea, is celebrated with great festivities."
-    },
-    {
-      "title": "Losar",
-      "description": "Cheers to a new year filled with prosperity as we mark Losar, Bhutanese New Year."
+      "title": "International Epilepsy Day",
+      "description": "Learn more about one of the world’s oldest-known diseases on International Epilepsy Day."
     },
     {
       "title": "National Cream Cheese Brownie Day",
@@ -59,48 +43,28 @@
       "description": "Get ready to celebrate one of the most iconic names in the world."
     },
     {
-      "title": "National Louis Day",
-      "description": "Get ready to honor one of the most unique names in the world."
+      "title": "National Poop Day",
+      "description": "It’s the day to celebrate one of the body’s most important functions."
     },
     {
       "title": "National Umbrella Day",
       "description": "As part of many cultures since ancient times, umbrellas have a storied history worth commemorating."
     },
     {
+      "title": "Oatmeal Monday",
+      "description": "Get your pan ready and the fire going — we are making Oatmeal Monday come to life."
+    },
+    {
       "title": "Plimsoll Day",
       "description": "Get ready to know why Plimsoll Day is important in the shipping industry!"
     },
     {
-      "title": "Royal Hobart Regatta",
-      "description": "Join us in celebrating one of the oldest and most prestigious events in Tasmania."
-    },
-    {
-      "title": "Seollal",
-      "description": "Seollal is considered one of the most important traditional Korean holidays."
-    },
-    {
-      "title": "Sonam Losar",
-      "description": "Experience the exotic Tamang culture in Nepal on Sonam Lhosar."
+      "title": "Sick of Food Waste Day",
+      "description": "The Monday after the Big Game is known for being a major “sick” day, with 16+ million people estimated to call in “sick” from work…"
     },
     {
       "title": "Teddy Day",
       "description": "Get ready to celebrate Teddy Day in style and put a smile on people’s faces!"
-    },
-    {
-      "title": "Tet Eve",
-      "description": "Prepare your offerings to ask for peace as you celebrate Tet Eve!"
-    },
-    {
-      "title": "Tet Holiday",
-      "description": "Get ready to celebrate the Vietnamese New Year in style with us!"
-    },
-    {
-      "title": "Tet Nguyen Dan",
-      "description": "Why is Tet Nguyen Dan celebrated in February? Find out here!"
-    },
-    {
-      "title": "Tsagaan Sar",
-      "description": "Get ready to bring in the best of luck this Mongolian Lunar New Year."
     },
     {
       "title": "Valentismas",
