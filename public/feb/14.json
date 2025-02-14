@@ -3,16 +3,8 @@
   "day": 14,
   "holidays": [
     {
-      "title": "Ash Wednesday",
-      "description": null
-    },
-    {
       "title": "Valentine&#39;s Day",
-      "description": "We are ready to shower our significant others with love and tokens of our affection."
-    },
-    {
-      "title": "Basant Panchami",
-      "description": "We explain what Basant Panchami is, its importance, and how to observe it."
+      "description": null
     },
     {
       "title": "Congenital Heart Defect Awareness Day",
@@ -35,16 +27,16 @@
       "description": "Share the gift of knowledge by donating a book to someone in need."
     },
     {
+      "title": "International Winter Bike to Work Day",
+      "description": "Get your helmets and gear ready, we are about to go cycling!"
+    },
+    {
       "title": "League of Women Voters Day",
       "description": "Join us and celebrate the league of women who expanded voting rights in the U.S."
     },
     {
       "title": "Library Lovers’ Day",
       "description": "Digest this fact — there was a time when libraries didn’t exist!"
-    },
-    {
-      "title": "Lui-Ngai-Ni Festival",
-      "description": "A new year of prosperity is upon us; the Naga tribe comes together to celebrate Lui-Ngai-Ni."
     },
     {
       "title": "Madly In Love With Me Day",
@@ -55,20 +47,12 @@
       "description": "This day focuses on literacy and the importance of reading and writing in learning."
     },
     {
-      "title": "National Boone Day",
-      "description": "Get ready to honor one of the most unique names in the world."
-    },
-    {
       "title": "National Call in Single Day",
       "description": "Don&#39;t feel sad about being single. Instead, enjoy this day to the fullest."
     },
     {
       "title": "National Chance Day",
       "description": "Get ready to honor one of the most unique names in the world."
-    },
-    {
-      "title": "National Christine Day",
-      "description": "Get ready to celebrate the heritage of one of the most beautiful names in the world."
     },
     {
       "title": "National Condom Day",
@@ -119,8 +103,8 @@
       "description": "Statehood Day in Arizona also celebrates the rich culture and history of Arizona."
     },
     {
-      "title": "Vasant Panchami",
-      "description": "A festival that honors a goddess and marks the preparation for the arrival of spring."
+      "title": "Welsh Language Music Day",
+      "description": "Learn more about this style of music and its resurgence in popularity in recent times."
     },
     {
       "title": "World Bonobo Day",
@@ -129,6 +113,10 @@
     {
       "title": "World Sound Healing Day",
       "description": "Join millions of people around the world in celebrating World Sound Healing Day."
+    },
+    {
+      "title": "Lui-Ngai-Ni Festival",
+      "description": "A new year of prosperity is upon us; the Naga tribe comes together to celebrate Lui-Ngai-Ni."
     },
     {
       "title": "Companiondish’s Birthday",
