@@ -11,10 +11,6 @@
       "description": "Get ready to be amused by Elm Farm Ollie’s calmness and massive generosity."
     },
     {
-      "title": "Daytona Pole Day",
-      "description": "Join car racing fans from all over the world for an experience that lasts a lifetime."
-    },
-    {
       "title": "Gambia Independence Day",
       "description": "Join us as we celebrate Gambia Independence Day and the end of Africa’s colonization."
     },
@@ -27,10 +23,6 @@
       "description": "Experience this mouth-watering dish created with the savory flavors of the sea."
     },
     {
-      "title": "NBA All Star Game",
-      "description": "Get ready to cheer your team and enjoy some incredible basketball action!"
-    },
-    {
       "title": "Pluto Day",
       "description": "Do you know why a day on Pluto is equivalent to 6.4 Earth days?"
     },
@@ -39,8 +31,12 @@
       "description": "Thumbs exhibit the forms of emotion that the body it is attached to feels. Here’s how."
     },
     {
-      "title": "World Whale Day",
-      "description": "Get ready to dive deep into the celebrations for these majestic ocean creatures."
+      "title": "Travel Africa Day",
+      "description": "Africa has its mysteries. Join us as we unravel them on Travel Africa Day!"
+    },
+    {
+      "title": "NBA All Star Game",
+      "description": "Get ready to cheer your team and enjoy some incredible basketball action!"
     },
     {
       "title": "Damien Prince’s Birthday",
