@@ -3,8 +3,12 @@
   "day": 24,
   "holidays": [
     {
-      "title": "National Tortilla Chip Day",
+      "title": "National Steakburger Day",
       "description": null
+    },
+    {
+      "title": "National Tortilla Chip Day",
+      "description": "Whether you eat yours plain or dip them, tortilla chips bring the fiesta to any occasion."
     },
     {
       "title": "DiscoverE Girl Day",
@@ -27,64 +31,16 @@
       "description": "Time to sport some red, white, and green in solidarity with your Mexican ‘compadres’ today."
     },
     {
-      "title": "Floating Lantern Festival",
-      "description": "This Floating Lantern Festival, let’s create a world of peace and joy by lighting floating lanterns!"
-    },
-    {
-      "title": "Guru Ravidas Jayanti",
-      "description": "Celebrate this day with us as Guruji showers his blessings on you and your entire family."
-    },
-    {
       "title": "I Hate Coriander Day",
       "description": "If rich dishes filled with coriander give you re-curry-ing nightmares, this is the day for you!"
-    },
-    {
-      "title": "International Sword Swallowers Day",
-      "description": "Join us as we explore the world of sword swallowing — it’s an intriguing sight to behold."
-    },
-    {
-      "title": "Introduce A Girl To Engineering Day",
-      "description": "Spark curiosity and discover a whole new exciting world on Introduce a Girl to Engineering Day."
-    },
-    {
-      "title": "Lailatul Barat",
-      "description": "It&#39;s Lailatul Barat, it&#39;s time to forgive and be forgiven. Learn more about it right here!"
-    },
-    {
-      "title": "Lantern Festival",
-      "description": "Get into the festive mood with us as we celebrate the colorful, wonderful Lantern Festival."
-    },
-    {
-      "title": "Lantern Festival Taiwan",
-      "description": "Get ready to celebrate a night of thousands of floating lanterns of dreams and wishes."
-    },
-    {
-      "title": "Maghi Purnima",
-      "description": "Wondering what this festival is and how you can commemorate it? Read on..."
-    },
-    {
-      "title": "Makha Bucha Day",
-      "description": "Makha Bucha Day is the celebration of the conception of an ideal community."
     },
     {
       "title": "National Trading Card Day",
       "description": "If you are a 90s kid, you will remember how important trading cards were to you."
     },
     {
-      "title": "Navam Full Moon Poya Day",
-      "description": "Light your candles and lay your mats, it’s time to meditate and make merit."
-    },
-    {
-      "title": "Open That Bottle Night",
-      "description": "Get your corkscrews and glasses ready. It is Open That Bottle Night!"
-    },
-    {
       "title": "Sweden Finns Day",
       "description": "Call your friends! We’re celebrating Sweden Finns Day, and it’s all about community."
-    },
-    {
-      "title": "Tourism Day",
-      "description": "Pack your virtual bags and travel to Taiwan with us this Tourism Day!"
     },
     {
       "title": "Twin Peaks Day",
@@ -93,6 +49,10 @@
     {
       "title": "World Bartender Day",
       "description": "Bartenders mix our favorite drinks, keep customers happy, and often come up with delicious new drinks."
+    },
+    {
+      "title": "Whooping Crane Festival",
+      "description": "Get your dancing shoes ready to celebrate the hope-filled saga of the whooping crane with us."
     },
     {
       "title": "Earl Sweatshirt’s Birthday",
