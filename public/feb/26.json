@@ -3,20 +3,12 @@
   "day": 26,
   "holidays": [
     {
-      "title": "Letter to an Elder Day",
-      "description": null
-    },
-    {
       "title": "National Pistachio Day",
-      "description": "Sometimes great things really do come in small packages."
+      "description": null
     },
     {
       "title": "Black Lives Matter Day",
       "description": "Let&#39;s vow not to have another George Floyd or Trayvon Martin incident."
-    },
-    {
-      "title": "Carnival Day",
-      "description": "Whoever said tradition is a thing of the past clearly did not attend a carnival."
     },
     {
       "title": "Carpe Diem Day",
@@ -27,6 +19,10 @@
       "description": "For Pete’s Sake, it’s another fun holiday! Join us as we learn more about the day."
     },
     {
+      "title": "Inconvenience Yourself Day",
+      "description": "Get ready to make life a little easier for other people with our tips!"
+    },
+    {
       "title": "International Tongue Twister Contest Day",
       "description": "Join us as we celebrate International Tongue Twister Contest Day this February."
     },
@@ -35,12 +31,24 @@
       "description": "Let&#39;s get together to celebrate Kuwait&#39;s freedom and stay committed to peace in the Middle East."
     },
     {
+      "title": "Launceston Cup",
+      "description": "Get ready because this is another moment to witness the fantastic horse-racing event in Launceston."
+    },
+    {
+      "title": "Letter to an Elder Day",
+      "description": "The art of letter-writing is honored as a way to send love!"
+    },
+    {
       "title": "Levi Strauss Day",
       "description": "What makes Levi Strauss Day an important day? Read on, smarty pants!"
     },
     {
-      "title": "National Saul Day",
-      "description": "Join us as we wish Sauls a frolicking celebration on National Saul Day."
+      "title": "Maha Shivaratri",
+      "description": "Immerse yourself in a day of prayer as we honor an important Hindu god."
+    },
+    {
+      "title": "Pink Shirt Day Canada",
+      "description": "It&#39;s time to stand up and stand against bullying today and every other day."
     },
     {
       "title": "Tell a Fairy Tale Day",
