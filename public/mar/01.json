@@ -3,12 +3,8 @@
   "day": 1,
   "holidays": [
     {
-      "title": "National Day of Unplugging",
-      "description": null
-    },
-    {
       "title": "National Peanut Butter Lover&#39;s Day",
-      "description": "Crunchy, smooth, healthy, but also indulgent, let&#39;s celebrate the versatile Peanut Butter!"
+      "description": null
     },
     {
       "title": "Asiatic Fleet Memorial Day",
@@ -23,8 +19,8 @@
       "description": "Nap time is happy time!  Give your baby and yourself the valuable gift by sleeping enough."
     },
     {
-      "title": "Denim Day for Dementia",
-      "description": "On Denim Day for Dementia, raise funds for dementia patients by wearing denim."
+      "title": "Earth God&#39;s Birthday",
+      "description": "Looking for a job or need more business? Earth God might grant your wishes."
     },
     {
       "title": "Endometriosis Awareness Day",
@@ -59,14 +55,6 @@
       "description": "Good food, good company, good times: happy National Dadgum That&#39;s Good Day!"
     },
     {
-      "title": "National Dress in Blue Day",
-      "description": "Wear your favorite blue outfit today to raise awareness about this deadly disease."
-    },
-    {
-      "title": "National Employee Appreciation Day",
-      "description": "Strong employer-employee relations are at the core of any truly successful business."
-    },
-    {
       "title": "National Fruit Compote Day",
       "description": "Join us as we embark on a delightfully sweet journey this National Fruit Compote Day."
     },
@@ -95,10 +83,6 @@
       "description": "Celebrate your unique identity as we dive into the mysteries of the name Sage."
     },
     {
-      "title": "National Speech and Debate Education Day",
-      "description": "Join in today’s activities and let’s prepare students for a brighter future and a better world!"
-    },
-    {
       "title": "National Texas Stress Day",
       "description": "Honor the Texas Stress team for their labor and dedication to different industries in the state."
     },
@@ -111,10 +95,6 @@
       "description": "If you are a corgi lover, then don’t miss out on this day!"
     },
     {
-      "title": "Overseas N.H.S. Workers Day",
-      "description": "A day to show love and respect to the overseas healthcare workers in the U.K."
-    },
-    {
       "title": "Peace Corps Day",
       "description": "Let us celebrate the volunteers that have traveled around the world to help different communities."
     },
@@ -125,6 +105,10 @@
     {
       "title": "Public Risk Management Awareness Day",
       "description": "All professions are equally important so join us as we celebrate those in public risk management."
+    },
+    {
+      "title": "Ramadan Begins",
+      "description": "Let us join our Muslim brothers and observe Ramadan with fasting, prayer, and faithful intention."
     },
     {
       "title": "Refired Not Retired Day",
@@ -143,6 +127,10 @@
       "description": "The life and work of the famous teacher, and founder of St. David’s Cathedral is celebrated."
     },
     {
+      "title": "Tsagaan Sar",
+      "description": "Get ready to bring in the best of luck this Mongolian Lunar New Year."
+    },
+    {
       "title": "World Civil Defense Day",
       "description": "Learn the skills you need to take care of yourself and loved ones in an emergency."
     },
@@ -151,20 +139,20 @@
       "description": "Vocalize your positive thoughts and watch them light up a room!"
     },
     {
-      "title": "World Day of Prayer",
-      "description": "World Day of Prayer is a truly international day observed in 170 countries across continents."
-    },
-    {
       "title": "World Seagrass Day",
       "description": "Seagrass helps maintain life and keeps the Earth healthy; let&#39;s care for it!"
     },
     {
-      "title": "Yap Day",
-      "description": "Join in and celebrate the colorful culture and fun traditions of Yap."
-    },
-    {
       "title": "Zero Discrimination Day",
       "description": "Eliminating discrimination means that everyone needs to be on the same page."
+    },
+    {
+      "title": "North Dakota Winter Show",
+      "description": "Every year, the show has a different theme and a unique experience to offer."
+    },
+    {
+      "title": "Yap Day",
+      "description": "Join in and celebrate the colorful culture and fun traditions of Yap."
     },
     {
       "title": "Justin Bieber’s Birthday",
