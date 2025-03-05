@@ -3,8 +3,12 @@
   "day": 5,
   "holidays": [
     {
-      "title": "National Absinthe Day",
+      "title": "Ash Wednesday",
       "description": null
+    },
+    {
+      "title": "National Absinthe Day",
+      "description": "“The green fairy” drink enjoys a mystique, making it an especially fun drink to enjoy!"
     },
     {
       "title": "Arrival Of The First Missionaries",
@@ -15,12 +19,16 @@
       "description": "Loosen up with a tall drink of your favorite alcoholic beverage for Cinco de Marcho."
     },
     {
-      "title": "Custom Chief&#39;s Day",
-      "description": "Culture and tradition bind us together as a society, so preserving them is important."
+      "title": "Discover What Your Name Means Day",
+      "description": "Let’s get ready to search for the true meaning of our name this holiday!"
     },
     {
       "title": "Dissociative Identity Disorder Awareness Day",
       "description": "Learn more about dissociative identity disorders and how they can be managed."
+    },
+    {
+      "title": "Equal Pay Day",
+      "description": "Learn about the history of the long struggle for equality and how it carries on today."
     },
     {
       "title": "International Open Data Day",
@@ -29,6 +37,10 @@
     {
       "title": "Kyrgyzstan National Hat Day",
       "description": "Hats are a fashionable accessory, but today we honor a Kyrgyz cultural adornment."
+    },
+    {
+      "title": "Learn What Your Name Means Day",
+      "description": "What’s in a name? Turns out, a lot. Let’s find out what your name actually means."
     },
     {
       "title": "Multiple Personality Day",
@@ -43,18 +55,6 @@
       "description": "This day’s dedicated to the little dance people do when they need to use the bathroom."
     },
     {
-      "title": "National Scott Day",
-      "description": "Celebrate the occasion by appreciating and showing love to all the Scotts you know."
-    },
-    {
-      "title": "National Sportsmanship Day",
-      "description": "The worst way to lose is to fail to show good sportsmanship this National Sportsmanship Day."
-    },
-    {
-      "title": "National Town Meeting Day",
-      "description": "Here’s your chance to speak up. It’s National Town Meeting Day. Inspire some change."
-    },
-    {
       "title": "Reel Film Day",
       "description": "Are you old enough to remember the time when movies were made on reels?"
     },
@@ -63,12 +63,16 @@
       "description": "The official holiday of Cornwall honors the patron saint of tin miners."
     },
     {
-      "title": "Unique Names Day",
-      "description": "Find out how to choose the best name and how to make it unique."
+      "title": "Stop Bad Service Day",
+      "description": "Join us and let’s work together to put an end to bad service!"
     },
     {
       "title": "World Information Architecture Day",
       "description": "You&#39;re invited to join the conversation and learn how information architecture simplifies complex data."
+    },
+    {
+      "title": "Custom Chief&#39;s Day",
+      "description": "Culture and tradition bind us together as a society, so preserving them is important."
     },
     {
       "title": "Chloe Veitch’s Birthday",
