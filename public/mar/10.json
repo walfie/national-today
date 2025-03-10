@@ -3,7 +3,7 @@
   "day": 10,
   "holidays": [
     {
-      "title": "National Freelancers Day",
+      "title": "National Napping Day",
       "description": null
     },
     {
@@ -11,24 +11,28 @@
       "description": "Remember the good ol’ days when your mom used to pack you lunch in elementary school?"
     },
     {
-      "title": "Check Your Batteries Day",
-      "description": "Check Your Batteries Day raises awareness about testing your batteries to ensure they are working properly."
+      "title": "Canberra Day",
+      "description": "On Canberra Day, let’s celebrate its rich history and its numerous contributions to Australia."
     },
     {
-      "title": "Daylight Savings",
-      "description": "This way of looking at the time maximizes natural light and saves electricity."
+      "title": "Commonwealth Day Canada",
+      "description": "God Save the Queen and her Commonwealth! Celebrate the glorious history of the British Empire."
+    },
+    {
+      "title": "Eight Hours Day",
+      "description": "Celebrate the victory of the workers of Australia and an eight-hour workday with us."
     },
     {
       "title": "Festival Of Life In Cracks Day",
       "description": "Beauty can be found everywhere, even between the cracks in the sidewalk."
     },
     {
-      "title": "Harriet Tubman Day",
-      "description": "Let us pay tribute to Harriet Tubman&#39;s bravery by fighting racial injustice!"
+      "title": "Fill Our Staplers Day",
+      "description": "Without further ado, let’s find out more about how we can observe this holiday."
     },
     {
-      "title": "Histotechnology Professionals Day",
-      "description": "We show you how to boost the role of these dedicated healthcare professionals."
+      "title": "Harriet Tubman Day",
+      "description": "Let us pay tribute to Harriet Tubman&#39;s bravery by fighting racial injustice!"
     },
     {
       "title": "International Bagpipe Day",
@@ -51,20 +55,16 @@
       "description": "Mario Day, or Mar10 Day, celebrates the Super Mario Bros franchise, for gamers and fans, worldwide."
     },
     {
-      "title": "Mothering Sunday U.K.",
-      "description": "Roll out the pipes, hymns, and musical instruments as we celebrate Mothering Sunday in style!"
-    },
-    {
       "title": "National Blueberry Popover Day",
       "description": "Prepare your taste buds for one of the world&#39;s most delectable delicacies!"
     },
     {
-      "title": "National Drake Day",
-      "description": "“I was born to make mistakes, not to fake perfection”— Drake."
-    },
-    {
       "title": "National Dry Shampoo Day",
       "description": "Celebrating the beauty secrets of the “money rich, time poor” generation, one spray at a time."
+    },
+    {
+      "title": "National Heroes and Benefactors Day",
+      "description": "Let us honor those who have generously contributed their service and support to Belize."
     },
     {
       "title": "National Landline Telephone Day",
@@ -73,10 +73,6 @@
     {
       "title": "National Peel Day",
       "description": "It’s time to get our skin youthful and radiant this  National Peel Day!"
-    },
-    {
-      "title": "National Ranch Day",
-      "description": "We should put Ranch on everything. Because honestly, what dish isn’t made better by Ranch?"
     },
     {
       "title": "National Sending Day",
@@ -91,28 +87,32 @@
       "description": "Join us in spreading the word and creating awareness about this deadly immunodeficiency virus"
     },
     {
-      "title": "New Moon March",
-      "description": "We love this day and all its cool information — to the Moon and back!"
-    },
-    {
-      "title": "Orthodox Meatfare Sunday",
-      "description": "Orthodox Meatfare Sunday is the first step towards preparing for the Great Fast. Are you ready?"
-    },
-    {
       "title": "Paper Money Day",
       "description": "You don&#39;t have to carry jingling coins in your pocket because of paper money!"
-    },
-    {
-      "title": "Pretzel Sunday",
-      "description": "Now’s the time to buy your crush a pretzel with love notes from the heart!"
     },
     {
       "title": "Salvation Army Day",
       "description": "Inclusivity will never go out of style, which is precisely what the Salvation Army does best."
     },
     {
+      "title": "Taranaki Anniversary",
+      "description": "Prepare for some history, today we are going to learn about Taranaki and its conflicts."
+    },
+    {
       "title": "Tibetan Uprising Day",
       "description": "Prepare your hearts as we commemorate a day propelling for freedom and justice."
+    },
+    {
+      "title": "Adelaide Cup Day",
+      "description": "Get ready for the fastest horses and jockeys this March Public Holiday!"
+    },
+    {
+      "title": "Commonwealth Day",
+      "description": "The historic event is a public holiday in some of its states and honors history."
+    },
+    {
+      "title": "Histotechnology Professionals Day",
+      "description": "We show you how to boost the role of these dedicated healthcare professionals."
     },
     {
       "title": "Bad Bunny’s Birthday",
