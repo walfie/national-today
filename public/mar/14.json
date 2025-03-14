@@ -31,12 +31,20 @@
       "description": "Don’t be a victim of dog theft. Protect your fur babies from criminals."
     },
     {
+      "title": "Dolyatra",
+      "description": "Join in this Dolyatra and help spread the colorful shades of joy."
+    },
+    {
       "title": "Dribble to Work Day",
       "description": "Today is all about women’s sports — especially basketball. Join in the fun as we create awareness."
     },
     {
       "title": "Genius Day",
       "description": "We celebrate the life and legacy of Albert Einstein this Genius Day."
+    },
+    {
+      "title": "Holi Guyana",
+      "description": "Check out the awesome ways to celebrate Holi Guyana as the Guyanese do."
     },
     {
       "title": "International Ask a Question Day",
@@ -51,10 +59,6 @@
       "description": "Join us as we delve into the amazing and complex world of mathematics!"
     },
     {
-      "title": "International School Meals Day",
-      "description": "Join over 30 countries to promote healthy eating for children in school and at home today."
-    },
-    {
       "title": "Legal Assistance Day",
       "description": "Bring up your legal problems on Legal Assistance Day and get them solved!"
     },
@@ -63,24 +67,28 @@
       "description": "We thank the legal assistants who support lawyers and make significant contributions to the legal system."
     },
     {
+      "title": "March Full Moon",
+      "description": "Get ready to see the magic of the full moon materialize before your eyes."
+    },
+    {
       "title": "National Children&#39;s Craft Day",
       "description": "Grab some art supplies for your little ones and spread the fun in your neighborhood."
+    },
+    {
+      "title": "National Freelancers Day",
+      "description": "Let&#39;s appreciate freelancers for their hard work!"
     },
     {
       "title": "National Learn About Butterflies Day",
       "description": "Get ready to celebrate and learn more about these delightful, colorful insects!"
     },
     {
-      "title": "National Valerie Day",
-      "description": "Ever heard that Valerie can be a boy’s name, too? Learn the history here."
+      "title": "National Preschooler&#39;s Day",
+      "description": "Let’s celebrate and honor our little humans and the journey they embark on today."
     },
     {
       "title": "National Write Your Story Day",
       "description": "We want to hear your fascinating story, so why not write about it?"
-    },
-    {
-      "title": "Popcorn Lover&#39;s Day",
-      "description": "Prepare your bowls and taste buds, and let&#39;s start popping those kernels!"
     },
     {
       "title": "Save a Spider Day",
@@ -93,6 +101,22 @@
     {
       "title": "White Day",
       "description": "In the mood for some love? Let’s go to Japan and celebrate White Day!"
+    },
+    {
+      "title": "World Sleep Day",
+      "description": "Sleep allows us to move mountains that we never thought possible before we hit the pillow."
+    },
+    {
+      "title": "Purim",
+      "description": "Jewish people all over the world celebrate the victorious festival of Purim."
+    },
+    {
+      "title": "Holi",
+      "description": "The two-day festival is a pleasant way of welcoming spring."
+    },
+    {
+      "title": "Suriname Phagwah",
+      "description": "Suriname Phagwa is the Hindu spring festival celebrated in Suriname and other Caribbean countries."
     },
     {
       "title": "Albert Einstein’s Birthday",
