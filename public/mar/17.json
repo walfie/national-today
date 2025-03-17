@@ -3,8 +3,12 @@
   "day": 17,
   "holidays": [
     {
-      "title": "St. Patrick&#39;s Day",
+      "title": "Act Happy Day",
       "description": null
+    },
+    {
+      "title": "Benito Juarez Day",
+      "description": "Remember and celebrate the exploits of Mexican icon Benito Juárez on his birthday memorial day."
     },
     {
       "title": "Camp Fire Girls day",
@@ -23,10 +27,6 @@
       "description": "We’re a little jealous of all the Bay Staters who get Evacuation Day off today!"
     },
     {
-      "title": "Forgiveness Sunday Orthodox",
-      "description": "Prepare for Great Lent by forgiving those who have wronged you and also asking for forgiveness."
-    },
-    {
       "title": "National Corned Beef and Cabbage Day",
       "description": "Beef in brine and sliced crunchy cabbage, this day is here to stay!"
     },
@@ -41,6 +41,14 @@
     {
       "title": "Sheikh Mujibur Rahman Birthday",
       "description": "Sheikh Mujibur Rahman is one of the most respected leaders in the history of Bangladesh."
+    },
+    {
+      "title": "Wellderly Day",
+      "description": "This Wellderly Day, re-examine what &#39;old&#39; means and continue living life to the fullest!"
+    },
+    {
+      "title": "St. Patrick&#39;s Day",
+      "description": "Leprechauns, pots of gold, and a whole lot of green!"
     },
     {
       "title": "Alev Aydin’s Birthday",
