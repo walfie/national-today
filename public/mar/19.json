@@ -3,16 +3,8 @@
   "day": 19,
   "holidays": [
     {
-      "title": "National Let&#39;s Laugh Day",
-      "description": null
-    },
-    {
       "title": "National Poultry Day",
-      "description": "We are biased; chickens rule poultry. We are just going to have to wing this one."
-    },
-    {
-      "title": "Red Nose Day",
-      "description": "The day features a telethon, TV specials, and events around the country."
+      "description": null
     },
     {
       "title": "Certified Nurses Day",
@@ -27,14 +19,6 @@
       "description": "The organizers behind the day aim to improve the literacy standards of the children around them."
     },
     {
-      "title": "National 3-D Day",
-      "description": "If you enjoy 3.D. movies, art, or technology, today’s the day to celebrate 3.D."
-    },
-    {
-      "title": "National Ag Day",
-      "description": "Everything we eat, use, or wear every day is provided by agriculture."
-    },
-    {
       "title": "National Automatic Door Day",
       "description": "Awesome new ways to celebrate this day are knocking… are you listening?"
     },
@@ -47,8 +31,12 @@
       "description": "The irresistible combination of chocolate and caramel never fails to impress those with a sweet tooth."
     },
     {
-      "title": "National Native HIV/AIDS Awareness Day",
-      "description": "Put on your boxing gloves for the fight against H.I.V./AIDS."
+      "title": "National Let&#39;s Laugh Day",
+      "description": "Calling all gigglers, cacklers, chortlers, and belly laughers, this is the day you&#39;ve been waiting for."
+    },
+    {
+      "title": "National SBDC Day",
+      "description": "National SBDC Day offers the means to support small businesses and startups in America."
     },
     {
       "title": "National Stretch Mark Day",
@@ -59,8 +47,8 @@
       "description": "Let&#39;s pause and take the time to acknowledge this period in United States history."
     },
     {
-      "title": "Spring Begins",
-      "description": "The fading of winter brings with it new beginnings: Spring Begins!"
+      "title": "Small Business Development Centers Day",
+      "description": "Learn more about how to honor the efforts of small business owners in the U.S."
     },
     {
       "title": "St Joseph&#39;s Day Venezuela",
@@ -69,14 +57,6 @@
     {
       "title": "St. Joseph&#39;s Day",
       "description": "It’s time to pump up your holy spirits because it is St. Joseph’s Day!"
-    },
-    {
-      "title": "Tea for Two Tuesday",
-      "description": "There’s no better way to enjoy someone’s company than over a cup of tea."
-    },
-    {
-      "title": "World Social Work Day",
-      "description": "Get more people inspired to do good and observe World Social Work Day."
     },
     {
       "title": "Bruce Willis’s Birthday",
