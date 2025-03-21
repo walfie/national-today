@@ -15,20 +15,12 @@
       "description": "“How do I love thee? Let me count the ways.”"
     },
     {
-      "title": "Absolutely Incredible Kid Day®",
-      "description": "Kids are the future. And Camp Fire stands ready to help."
-    },
-    {
       "title": "Afghanistan Day",
       "description": "Beyond the news and popular media, discover Afghanistan through culture and tradition."
     },
     {
       "title": "Big Bang Day",
       "description": "Space nerds and science geeks gather for one of their most iconic commemorations."
-    },
-    {
-      "title": "Companies That Care Day",
-      "description": "A lesson all employers must learn is that a happy employee is a loyal employee."
     },
     {
       "title": "Credit Card Reduction Day",
@@ -67,6 +59,10 @@
       "description": "This International Race Relations Day, let’s foster a global culture of equality and tolerance."
     },
     {
+      "title": "Martyrdom of Imam Ali",
+      "description": "Let’s take a look at one of Islam’s important holidays this Martyrdom of Imam Ali Day."
+    },
+    {
       "title": "Memory Day",
       "description": "Grab a notebook and throw it out the window — today&#39;s challenge is remembering without a reminder."
     },
@@ -87,10 +83,6 @@
       "description": "Sweet juicy heaven! Indulge in one of nature’s finest treats this National California Strawberry Day."
     },
     {
-      "title": "National Close the Gap Day",
-      "description": "The campaign encourages planning of events that focus on health issues of Australia’s indigenous people."
-    },
-    {
       "title": "National Countdown Day",
       "description": "On National Countdown Day, count the seconds, minutes, or hours until something special happens."
     },
@@ -99,12 +91,12 @@
       "description": "Today is for the rough, rugged and crunchy."
     },
     {
-      "title": "National Day Of Action On Syringe Exchange",
-      "description": "This day is all about the life-saving importance of using sterile needles."
+      "title": "National Day of Action Against Bullying and Violence",
+      "description": "Let’s all prepare to join forces to create long-term solutions to bullying!"
     },
     {
-      "title": "National Farm Rescuer Day",
-      "description": "Farm rescuers help farmers by volunteering their time, talents, and financial resources."
+      "title": "National Day Of Action On Syringe Exchange",
+      "description": "This day is all about the life-saving importance of using sterile needles."
     },
     {
       "title": "National Flower Day",
@@ -127,6 +119,14 @@
       "description": "Peter is a well-known name that is associated with wealth and success."
     },
     {
+      "title": "National Preschool Teacher Appreciation Day",
+      "description": "It&#39;s time to honor the preschool teachers who provide us with the tools of learning."
+    },
+    {
+      "title": "National Preschool Teachers Appreciation Day",
+      "description": "Check out some inspiring ways to show preschool educators your admiration for them!"
+    },
+    {
       "title": "National Renewable Energy Day",
       "description": "Join the movement as we try to save our planet on National Renewable Energy Day."
     },
@@ -137,14 +137,6 @@
     {
       "title": "National Teenager Day",
       "description": "Let us celebrate with today&#39;s teenagers because we were all teens once!"
-    },
-    {
-      "title": "Nowruz Bayram",
-      "description": "Come join us as we usher in Spring with a Persian-themed celebration befitting the occasion."
-    },
-    {
-      "title": "Oranges And Lemons Day",
-      "description": "Let’s celebrate Oranges and Lemons Day by feasting on these citrus fruits."
     },
     {
       "title": "Race Relations Day",
@@ -161,10 +153,6 @@
     {
       "title": "Spring Fairy Fun Day",
       "description": "Put some flowers in your hair and spread joy on Spring Fairy Fun Day."
-    },
-    {
-      "title": "The Big Walk and Wheel",
-      "description": "Feel free and ride your worries away on two wheels or in tandem."
     },
     {
       "title": "Twitter Day",
@@ -189,6 +177,14 @@
     {
       "title": "World Puppetry Day",
       "description": "Learn all about the incredible art of puppetry this World Puppetry Day."
+    },
+    {
+      "title": "Nowruz Bayram",
+      "description": "Come join us as we usher in Spring with a Persian-themed celebration befitting the occasion."
+    },
+    {
+      "title": "The Big Walk and Wheel",
+      "description": "Feel free and ride your worries away on two wheels or in tandem."
     },
     {
       "title": "Jace Norman’s Birthday",
