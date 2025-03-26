@@ -3,16 +3,20 @@
   "day": 26,
   "holidays": [
     {
-      "title": "National Spinach Day",
+      "title": "Manatee Appreciation Day",
       "description": null
+    },
+    {
+      "title": "National Spinach Day",
+      "description": "“I&#39;m Popeye the Sailor Man, I&#39;m strong to the finich, cause I eats me spinach...”"
     },
     {
       "title": "Air Max Day",
       "description": "Air Max Day celebrates one of the most iconic sneakers design in history."
     },
     {
-      "title": "American Diabetes Alert Day",
-      "description": "Learn how to assess your diabetes risk level this American Diabetes Alert Day!"
+      "title": "American Red Cross Giving Day",
+      "description": "Let’s give our hearts to humanity and build a world we can be proud of."
     },
     {
       "title": "Black Marriage Day",
@@ -27,12 +31,12 @@
       "description": "As a lady, your hair is your most valuable asset; invest in it now."
     },
     {
-      "title": "Holy Tuesday",
-      "description": "Get informed about this important day with our informative article about Holy Tuesday."
-    },
-    {
       "title": "Independence Day of Bangladesh",
       "description": "Join us as we celebrate with the beautiful people of Bangladesh!"
+    },
+    {
+      "title": "Little Red Wagon Day",
+      "description": "As a child, were you also pulled across the park in a little red wagon?"
     },
     {
       "title": "Live Long and Prosper Day",
@@ -49,6 +53,10 @@
     {
       "title": "National Day of Life, Peace and Justice",
       "description": "Wondering how to celebrate this day? We’ve got some suggestions for you!"
+    },
+    {
+      "title": "National Governance Professionals Day",
+      "description": "We raise awareness and celebrate the essential role of governance professionals who contribute to businesses’ success."
     },
     {
       "title": "National Landon Day",
@@ -73,6 +81,10 @@
     {
       "title": "Wear A Hat Day",
       "description": "We raise awareness and funds for brain-tumor research, and look good while we’re at it!"
+    },
+    {
+      "title": "Whole Grain Sampling Day",
+      "description": "On this day, get that silverware out to celebrate Whole Grain Sampling Day."
     },
     {
       "title": "Brittany Banks’s Birthday",
