@@ -3,32 +3,20 @@
   "day": 27,
   "holidays": [
     {
-      "title": "Manatee Appreciation Day",
-      "description": null
-    },
-    {
       "title": "National Spanish Paella Day",
-      "description": "National Spanish Paella Day celebrates a food filled with tradition."
-    },
-    {
-      "title": "American Red Cross Giving Day",
-      "description": "Let’s give our hearts to humanity and build a world we can be proud of."
+      "description": null
     },
     {
       "title": "Celebrate Exchange Day",
       "description": "Join us on Celebrate Exchange Day as we honor dedicated souls for their service."
     },
     {
-      "title": "Holy Wednesday",
-      "description": "Let us celebrate the journey of Jesus Christ on Holy Wednesday."
-    },
-    {
       "title": "International Whiskey Day",
       "description": "Today is the perfect time for whiskey connoisseurs to unwind with a fine bottle."
     },
     {
-      "title": "Little Red Wagon Day",
-      "description": "As a child, were you also pulled across the park in a little red wagon?"
+      "title": "Major League Baseball Opening Day",
+      "description": "Every year thousands of people call in sick so they can be in the seats when the first pitch is thrown."
     },
     {
       "title": "Myanmar Armed Forces Day",
@@ -37,10 +25,6 @@
     {
       "title": "National Acoustic Soul Day",
       "description": "Get your guitar and headphones ready to celebrate this day full of music."
-    },
-    {
-      "title": "National Governance Professionals Day",
-      "description": "We raise awareness and celebrate the essential role of governance professionals who contribute to businesses’ success."
     },
     {
       "title": "National Joe Day",
@@ -61,10 +45,6 @@
     {
       "title": "Scribble Day",
       "description": "Today is all about celebrating the creativity and the art associated with scribbling."
-    },
-    {
-      "title": "Whole Grain Sampling Day",
-      "description": "On this day, get that silverware out to celebrate Whole Grain Sampling Day."
     },
     {
       "title": "World Theatre Day",
