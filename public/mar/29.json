@@ -3,16 +3,16 @@
   "day": 29,
   "holidays": [
     {
-      "title": "Good Friday",
-      "description": null
-    },
-    {
       "title": "National Mom and Pop Business Owners Day",
-      "description": "Our economy couldn’t run without mom and pop businesses. Head to your favorite small business today!"
+      "description": null
     },
     {
       "title": "Commemoration Of Boganda",
       "description": "Get ready to commemorate this special day in the Central African Republic!"
+    },
+    {
+      "title": "Earth Hour",
+      "description": "We are a step closer to protecting our planet, and it starts with you switching off your lights for an hour."
     },
     {
       "title": "Knights Of Columbus Founder&#39;s Day",
@@ -43,6 +43,10 @@
       "description": "We commemorate and honor all the men and women who fought during the Vietnam War."
     },
     {
+      "title": "New Moon March",
+      "description": "We love this day and all its cool information — to the Moon and back!"
+    },
+    {
       "title": "Niagara Falls Runs Dry Day",
       "description": "Let&#39;s prepare to observe and learn about the day Niagara Falls stopped flowing!"
     },
@@ -59,8 +63,8 @@
       "description": "Honor the nine million Americans who fought in the Vietnam War on Vietnam Veterans Day."
     },
     {
-      "title": "World Marbles Day",
-      "description": "It’s time to play and throw your cares away on World Marbles Day."
+      "title": "World Piano Day",
+      "description": "Get your favorite sheet music out as we celebrate the king of musical instruments."
     },
     {
       "title": "CJ So Cool’s Birthday",
