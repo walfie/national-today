@@ -3,20 +3,8 @@
   "day": 31,
   "holidays": [
     {
-      "title": "Easter",
-      "description": null
-    },
-    {
-      "title": "National Après Day",
-      "description": "#AprèsAnywhere and celebrate with Breckenridge Bourbon Whiskey, after anything you’ve accomplished!"
-    },
-    {
       "title": "Anesthesia Tech Day",
-      "description": "Discover the history, importance, and medical milestones of these technicians and technologists on Anesthesia Tech Day."
-    },
-    {
-      "title": "British Summer Time Begins",
-      "description": "‘Spring forward, fall back.’ British Summer Time (BST) occurs on the last Sunday of March and represents the phenomenon when the clocks go forward in…"
+      "description": null
     },
     {
       "title": "Cesar Chavez Day",
@@ -27,8 +15,8 @@
       "description": "This Crayola Crayon Day, choose your favorite color from your Crayola box and ignite your creativity."
     },
     {
-      "title": "Dance Marathon Day",
-      "description": "Have fun, stay fit, and support a good cause on this year’s Dance Marathon Day."
+      "title": "Eid al-Fitr",
+      "description": "Gather friends and family for a day of merriment, celebrations, gifts, and good food on Eid."
     },
     {
       "title": "Eiffel Tower Day",
@@ -39,8 +27,8 @@
       "description": "Be ready to hug a medievalist on this special day and make them feel loved!"
     },
     {
-      "title": "National Baked Ham with Pineapple Day",
-      "description": "Prepare a delicious home-cooked dinner of ham decorated with pineapples this Easter."
+      "title": "National Après Day",
+      "description": "#AprèsAnywhere and celebrate with Breckenridge Bourbon Whiskey, after anything you’ve accomplished!"
     },
     {
       "title": "National Bunsen Burner Day",
@@ -71,6 +59,10 @@
       "description": "Post a throwback or call up a high school friend — cherish your unforgettable prom memories."
     },
     {
+      "title": "Seward’s Day",
+      "description": "Journey back in time with us as we discover the origin of Seward&#39;s Day."
+    },
+    {
       "title": "She’s Funny That Way Day",
       "description": "Celebrate the women in comedy who make life worth living on She’s Funny That Way Day."
     },
@@ -89,6 +81,10 @@
     {
       "title": "World Backup Day",
       "description": "What would you do if you lost everything on your computer?"
+    },
+    {
+      "title": "Dance Marathon Day",
+      "description": "Have fun, stay fit, and support a good cause on this year’s Dance Marathon Day."
     },
     {
       "title": "Cesar Chavez’s Birthday",
