@@ -3,7 +3,7 @@
   "day": 3,
   "holidays": [
     {
-      "title": "World Cloud Security Day",
+      "title": "National Burrito Day",
       "description": null
     },
     {
@@ -27,10 +27,6 @@
       "description": "Discover how politics and theatre combine to revive a very significant Asian nation."
     },
     {
-      "title": "Day of Hope",
-      "description": "Get ready to observe the Day of Hope by showing kindness to anyone facing difficult times."
-    },
-    {
       "title": "Don&#39;t Go to Work Unless it&#39;s Fun Day",
       "description": "Take some time off on this day and get much-needed rest — with permission!"
     },
@@ -43,12 +39,12 @@
       "description": "Fish Fingers and Custard Day is named after Matt Smith&#39;s Eleventh Doctor&#39;s unusual cuisine."
     },
     {
-      "title": "Independent Artist Day™",
+      "title": "Independent Artist Day",
       "description": "We’re celebrating the global community of independent artists and their unparalleled creativity."
     },
     {
-      "title": "National Childhelp Day of Hope",
-      "description": "Observe a moment of silence and offer a prayer for abuse and neglect victims."
+      "title": "Näfelser Fahrt",
+      "description": "Let’s observe the day by taking a pilgrimage to the site of the Habsburgs battle."
     },
     {
       "title": "National Chocolate Mousse Day",
@@ -79,10 +75,6 @@
       "description": "Put on some comfy tweed as we unravel the mystery surrounding this special holiday."
     },
     {
-      "title": "National Walking Day",
-      "description": "A day to celebrate the easiest way to be the healthiest version of you."
-    },
-    {
       "title": "NCCA Anniversary",
       "description": "Learn the history of this culture and arts commission and the events they’ve got planned today."
     },
@@ -97,6 +89,10 @@
     {
       "title": "Weed Out Hate Day",
       "description": "Today, show the world that love triumphs over hatred by taking a stand against it."
+    },
+    {
+      "title": "World Cloud Security Day",
+      "description": "Let’s raise awareness about the emerging threats facing individuals and organizations as a result of remote work and bring your own device (BYOD) policies."
     },
     {
       "title": "Amanda Bynes’s Birthday",
