@@ -3,12 +3,8 @@
   "day": 12,
   "holidays": [
     {
-      "title": "Day of Silence",
-      "description": null
-    },
-    {
       "title": "National Grilled Cheese Sandwich Day",
-      "description": "National Grilled Cheese Sandwich Day on April 12 celebrated the incredible combination of Crispy bread and melted cheese."
+      "description": null
     },
     {
       "title": "Big Wind Day",
@@ -25,6 +21,14 @@
     {
       "title": "Deskfast Day",
       "description": "Celebrating Deskfast Day can be fun, and delicious too  — let us show you how!"
+    },
+    {
+      "title": "Erev Pesach (Israel)",
+      "description": "Put on your Kittel on this day, and get ready for Erev Pesach!"
+    },
+    {
+      "title": "God of Medicine&#39;s Birthday",
+      "description": "Today, people across Taiwan commemorate Baosheng Fadi&#39;s birth, also known as the God of Medicine."
     },
     {
       "title": "Halifax Day",
@@ -47,12 +51,12 @@
       "description": "Wear pink to support the campaign and stand in solidarity with the 2SLGBTQIA+ community."
     },
     {
-      "title": "National Dolores Day",
-      "description": "Explore the Christian origin of the name Dolores and its usage in other countries."
+      "title": "National Catch and Release Day",
+      "description": "The catch and release method benefits both the anglers and fish species in the long run."
     },
     {
-      "title": "National Fast and Prayer Day",
-      "description": "Take full advantage of the day to fast, pray, and humbly ask God for protection."
+      "title": "National Dolores Day",
+      "description": "Explore the Christian origin of the name Dolores and its usage in other countries."
     },
     {
       "title": "National For Twelves Day",
@@ -83,6 +87,10 @@
       "description": "Derived from a ‘forest deity’, the name is popular both in fiction and in real life."
     },
     {
+      "title": "Slow Art Day",
+      "description": "Art is supposed to be studied and interpreted, not just viewed as something pretty."
+    },
+    {
       "title": "Teak Awareness Day",
       "description": "Teak is one of the best timbers known to man and has an ever-rising demand."
     },
@@ -97,6 +105,30 @@
     {
       "title": "Yuri&#39;s Night",
       "description": "Get ready to learn more about Yuri Gagarin — the first man to explore space."
+    },
+    {
+      "title": "Chicago Bulls vs. Washington Wizards",
+      "description": null
+    },
+    {
+      "title": "Dallas Mavericks vs. Toronto Raptors",
+      "description": "ALL PATRONS AGES 2 AND ABOVE MUST HAVE A TICKET."
+    },
+    {
+      "title": "Denver Nuggets vs. Memphis Grizzlies",
+      "description": "Please Note: Please adhere to the published ticket limits. Guests attending Ball Arena events are advised that laptops, tablets, bags, backpacks, luggage, coolers, parcels, briefcases…"
+    },
+    {
+      "title": "Los Angeles Lakers vs. Houston Rockets",
+      "description": null
+    },
+    {
+      "title": "Portland Trail Blazers vs. Golden State Warriors",
+      "description": "Bags and full-length umbrellas are not allowed in the arena. Exclusions apply for medical bags, children&#39;s bags and clutches 5X8&#34; or smaller. Bag check is…"
+    },
+    {
+      "title": "SACRAMENTO KINGS VS. LOS ANGELES CLIPPERS",
+      "description": null
     },
     {
       "title": "Brendon Urie’s Birthday",
