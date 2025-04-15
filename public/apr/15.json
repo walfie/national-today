@@ -3,8 +3,12 @@
   "day": 15,
   "holidays": [
     {
-      "title": "National Laundry Day",
+      "title": "National Bunion Day",
       "description": null
+    },
+    {
+      "title": "National Laundry Day",
+      "description": "Think clean clothes, fresh sheets, and that special fresh laundry scent."
     },
     {
       "title": "Tax Day",
@@ -17,6 +21,10 @@
     {
       "title": "Father Damien Day",
       "description": "Commemorate Father Damien and his deeds, and give help to people in need."
+    },
+    {
+      "title": "Holy Tuesday",
+      "description": "Get informed about this important day with our informative article about Holy Tuesday."
     },
     {
       "title": "International Microvolunteering Day",
