@@ -3,8 +3,12 @@
   "day": 17,
   "holidays": [
     {
-      "title": "National Cheese Ball Day",
+      "title": "Maundy Thursday",
       "description": null
+    },
+    {
+      "title": "National Cheese Ball Day",
+      "description": "All of your favorite party flavors rolled into one compact package."
     },
     {
       "title": "National Haiku Day",
@@ -19,12 +23,24 @@
       "description": "Let’s get ready to appreciate the pleasure of casual talk this Blah Blah Blah Day."
     },
     {
+      "title": "Celebrate Teen Literature Day",
+      "description": "What’s better than picking and reading a book to Celebrate Teen Literature Day?"
+    },
+    {
+      "title": "College Student Grief Awareness Day",
+      "description": "Learn about this less documented issue as we raise some much-needed awareness."
+    },
+    {
       "title": "Ford Mustang Day",
       "description": "Raise a toast to this iconic Pony car that made James Bond look extra dashing."
     },
     {
       "title": "Herbalist Day",
       "description": "Get ready to celebrate one of the most fragrant holidays of the year."
+    },
+    {
+      "title": "Holy Thursday",
+      "description": "Holy Thursday is an annual religious event that commemorates the Last Supper of Christ."
     },
     {
       "title": "International Bat Appreciation Day",
@@ -35,16 +51,24 @@
       "description": "A good conversation is not just about expressing one’s ideas but also listening to others’ ideas."
     },
     {
+      "title": "International Pizza Cake Day",
+      "description": "Prepare your belly because today’s not about slices of pizza, but a stack of pizzas."
+    },
+    {
       "title": "Malbec World Day",
       "description": "It’s time to get a taste of Argentina’s wine heritage on Malbec World Day."
     },
     {
-      "title": "National Banana Day",
-      "description": "What an amazing time to celebrate the awesomeness of the world’s most popular fruit — the banana!"
+      "title": "National Auctioneers Day",
+      "description": "Place a bid before it’s too late and discover all there is to know about auctioneering."
     },
     {
       "title": "National Crawfish Day",
       "description": "Everyone, sit down at the table and get your forks ready; it’s National Crawfish Day!"
+    },
+    {
+      "title": "National High Five Day",
+      "description": "Up high! Make sure to give a &#34;high five&#34; to everyone you meet today!"
     },
     {
       "title": "National Kickball Day",
@@ -53,14 +77,6 @@
     {
       "title": "No Limits for Deaf Children Day",
       "description": "Help us spread the message that there truly are No Limits For Deaf Children!"
-    },
-    {
-      "title": "Ram Navami",
-      "description": "Devotees of Lord Rama keep a day-long fast on the significant day of Ram Navami."
-    },
-    {
-      "title": "Ram Navami Day",
-      "description": "Get ready to understand the story behind Ram Navami and the importance of the day."
     },
     {
       "title": "Syria Independence Day",
@@ -77,10 +93,6 @@
     {
       "title": "World Hemophilia Day",
       "description": "Be a part of the worldwide effort to speak out on hemophilia and create change."
-    },
-    {
-      "title": "Youth Homelessness Matters Day",
-      "description": "Let’s raise awareness to support the youth experiencing or at risk of homelessness."
     },
     {
       "title": "Jennifer Garner’s Birthday",
