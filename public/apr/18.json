@@ -3,24 +3,12 @@
   "day": 18,
   "holidays": [
     {
-      "title": "Adult Autism Awareness Day",
+      "title": "Good Friday",
       "description": null
     },
     {
-      "title": "Celebrate Teen Literature Day",
-      "description": "What’s better than picking and reading a book to Celebrate Teen Literature Day?"
-    },
-    {
-      "title": "College Student Grief Awareness Day",
-      "description": "Learn about this less documented issue as we raise some much-needed awareness."
-    },
-    {
-      "title": "Education and Sharing Day",
-      "description": "Education goes beyond obtaining a degree to shape a certain career."
-    },
-    {
-      "title": "Hung Kings Festival",
-      "description": "Did you know the festival’s official name is Death Anniversary of the Hung Kings?"
+      "title": "Adult Autism Awareness Day",
+      "description": "Adult Autism Awareness Day aims to empower adults with autism and their loved ones."
     },
     {
       "title": "International Day for Monuments and Sites",
@@ -29,10 +17,6 @@
     {
       "title": "International Jugglers Day",
       "description": "Ever been to a circus and wished you could juggle? Why not learn today?"
-    },
-    {
-      "title": "International Pizza Cake Day",
-      "description": "Prepare your belly because today’s not about slices of pizza, but a stack of pizzas."
     },
     {
       "title": "Lineman Appreciation Day",
@@ -47,16 +31,8 @@
       "description": "Who can resist the temptation to indulge in these iconic treats of our childhood?"
     },
     {
-      "title": "National Auctioneers Day",
-      "description": "Place a bid before it’s too late and discover all there is to know about auctioneering."
-    },
-    {
       "title": "National Exercise Day",
       "description": "Grab your water bottle and your running shoes, today is the day to start exercising."
-    },
-    {
-      "title": "National High Five Day",
-      "description": "Up high! Make sure to give a &#34;high five&#34; to everyone you meet today!"
     },
     {
       "title": "National Lydia Day",
@@ -75,16 +51,32 @@
       "description": "&#34;We designed it, we built it, and then they discovered it. That still boggles my mind.&#34;"
     },
     {
+      "title": "Orthodox Good Friday",
+      "description": "Get ready to observe orthodox Good Friday, an important day in history, marking Jesus Christ’s crucifixion."
+    },
+    {
       "title": "Pet Owners Independence Day",
       "description": "We nap in the sunlight and leave the work in the paws of our furry friends."
     },
     {
-      "title": "Support Teen Literature Day",
-      "description": "There is nothing quite like getting lost in the literary world of books — try it."
-    },
-    {
       "title": "World Amateur Radio Day",
       "description": "Amateur radio operators provide emergency communications during both natural and man-made disasters."
+    },
+    {
+      "title": "World Marbles Day",
+      "description": "It’s time to play and throw your cares away on World Marbles Day."
+    },
+    {
+      "title": "Coachella Valley Music &amp; Arts Festival",
+      "description": "The wait is finally over and the festival is here! Let’s enjoy our favorite artists."
+    },
+    {
+      "title": "Jurassic Quest | Buffalo Convention Center | Buffalo, NY 2025",
+      "description": "Friday, April 18, 2025 (12pm - 6pm)\nSaturday, April 19, 2025 (9am - 6pm)\nSunday, April 20, 2025 (9am - 5pm)\n\nThere’s no better place to make pter-iffic…"
+    },
+    {
+      "title": "Jurassic Quest | Buffalo Convention Center | Buffalo, NY 2025",
+      "description": "Friday, April 18, 2025 (12pm - 6pm)\nSaturday, April 19, 2025 (9am - 6pm)\nSunday, April 20, 2025 (9am - 5pm)\n\nThere’s no better place to make pter-iffic…"
     },
     {
       "title": "Conan O&#39;Brien’s Birthday",
