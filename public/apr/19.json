@@ -3,12 +3,16 @@
   "day": 19,
   "holidays": [
     {
-      "title": "National Garlic Day",
+      "title": "Husband Appreciation Day",
       "description": null
     },
     {
-      "title": "Refresh Your Goals Day",
-      "description": "This is the perfect time to refocus and refresh your personal goals."
+      "title": "National Garlic Day",
+      "description": "One thing&#39;s obvious: There&#39;s a certain something in the air during National Garlic Day."
+    },
+    {
+      "title": "Black Saturday",
+      "description": "This day is mostly a day of silence — and waiting. Let’s observe Black Saturday together."
     },
     {
       "title": "Congenital Diaphragmatic Hernia Action Day",
@@ -17,6 +21,14 @@
     {
       "title": "Dutch-American Friendship Day",
       "description": "Don’t miss celebrating Dutch-American Friendship Day. It’s a special day to spend time with your friends."
+    },
+    {
+      "title": "Easter Saturday",
+      "description": "Join us as we get ready to participate in the Easter Saturday celebrations!"
+    },
+    {
+      "title": "Holy Saturday",
+      "description": "Take a journey of plunging into darkness before entering illuminating light this Holy Saturday with us!"
     },
     {
       "title": "Humorous Day",
@@ -63,8 +75,20 @@
       "description": "Put your money where your mouth is as we celebrate National Poker Day."
     },
     {
+      "title": "Orthodox Holy Saturday",
+      "description": "Commemorate Orthodox Holy Saturday which marks the end of the Lenten fast season."
+    },
+    {
       "title": "Poetry &amp; The Creative Mind Day",
       "description": "Today, we celebrate how words have the power to rouse hearts, shape perspectives, and broaden minds."
+    },
+    {
+      "title": "Record Store Day",
+      "description": "Join us as we appreciate independently owned record stores this Record Store Day!"
+    },
+    {
+      "title": "Refresh Your Goals Day",
+      "description": "This is the perfect time to refocus and refresh your personal goals."
     },
     {
       "title": "Rice Ball Day",
@@ -73,6 +97,14 @@
     {
       "title": "Sylvester the Cat Birthday",
       "description": "Let’s root for Sylvester! Being his special day, maybe things will today go well for him."
+    },
+    {
+      "title": "Jurassic Quest | Buffalo Convention Center | Buffalo, NY 2025",
+      "description": "Friday, April 18, 2025 (12pm - 6pm)\nSaturday, April 19, 2025 (9am - 6pm)\nSunday, April 20, 2025 (9am - 5pm)\n\nThere’s no better place to make pter-iffic…"
+    },
+    {
+      "title": "Jurassic Quest | Buffalo Convention Center | Buffalo, NY 2025",
+      "description": "Friday, April 18, 2025 (12pm - 6pm)\nSaturday, April 19, 2025 (9am - 6pm)\nSunday, April 20, 2025 (9am - 5pm)\n\nThere’s no better place to make pter-iffic…"
     },
     {
       "title": "Hayden Christensen’s Birthday",
