@@ -3,12 +3,8 @@
   "day": 23,
   "holidays": [
     {
-      "title": "National Email Day",
+      "title": "Administrative Professionals Day",
       "description": null
-    },
-    {
-      "title": "National Parvo Awareness Day",
-      "description": "National Parvo Awareness Day is an opportunity to spread greater awareness about the disease."
     },
     {
       "title": "Army Reserve Birthday",
@@ -17,10 +13,6 @@
     {
       "title": "Canada Book Day",
       "description": "Canada Book Day is a great day of joy for all book lovers."
-    },
-    {
-      "title": "God of Medicine&#39;s Birthday",
-      "description": "Today, people across Taiwan commemorate Baosheng Fadi&#39;s birth, also known as the God of Medicine."
     },
     {
       "title": "Impossible Astronaut Day",
@@ -39,10 +31,6 @@
       "description": "Celebrate the International Pixel-Stained Technopeasant Day by showcasing your writing skills today."
     },
     {
-      "title": "London Marathon",
-      "description": "Join the London Marathon and not only get a good body workout but also support charity."
-    },
-    {
       "title": "Movie Theatre Day",
       "description": "Grab some popcorn, sit back, and celebrate with a blockbuster at your favorite local cinema!"
     },
@@ -53,6 +41,10 @@
     {
       "title": "National Cherry Cheesecake Day",
       "description": "We always knew it was a classic, but did you know it dates back to 2,000 B.C.?"
+    },
+    {
+      "title": "National Email Day",
+      "description": "ZeroBounce gives you all the tools you need to ensure your emails reach your customers’ inboxes."
     },
     {
       "title": "National English Muffin Day",
@@ -91,8 +83,8 @@
       "description": "Saint George’s Day, also called the Feast of Saint George, is celebrated by several Christian churches."
     },
     {
-      "title": "School Bus Driver Appreciation Day",
-      "description": "Today, we recognize school bus drivers, who are vital to children&#39;s education yet are often forgotten."
+      "title": "Secretary Day",
+      "description": "This Secretary Day, show secretaries how much you value their hard work."
     },
     {
       "title": "Shakespeare Day",
@@ -141,6 +133,10 @@
     {
       "title": "World Table Tennis Day",
       "description": "It&#39;s raining celluloid balls on World Table Tennis Day, so get those rackets and play."
+    },
+    {
+      "title": "London Marathon",
+      "description": "Join the London Marathon and not only get a good body workout but also support charity."
     },
     {
       "title": "Chaeyoung’s Birthday",
