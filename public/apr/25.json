@@ -3,7 +3,7 @@
   "day": 25,
   "holidays": [
     {
-      "title": "​National Drug Take Back Day",
+      "title": "National Arbor Day",
       "description": null
     },
     {
@@ -23,16 +23,16 @@
       "description": "Anzac Day&#39;s one of Australia and New Zealand&#39;s most important and revered national occasions."
     },
     {
+      "title": "Donate Life Blue and Green Day",
+      "description": "Let’s get our Blue and Green on as we help donate to life this holiday."
+    },
+    {
       "title": "East Meets West Day",
       "description": "Read more to learn about the major events of the Second World War."
     },
     {
       "title": "Freedom Day (Portugal)",
       "description": "This Freedom Day, celebrate the bloodless revolution that ended the tyranny of dictator Marcello Caetano."
-    },
-    {
-      "title": "Gathering of Nations (Pow Wow)",
-      "description": "We have amazing tricks on how to enjoy the day with the best activities."
     },
     {
       "title": "Hairstylist Appreciation Day",
@@ -47,10 +47,6 @@
       "description": "Make a plan today and save 4% of your income to have seamless retirement days."
     },
     {
-      "title": "International Girls In ICT Day",
-      "description": "Let’s work together to get more young women to join the I.C.T. sector."
-    },
-    {
       "title": "International Noise Awareness Day",
       "description": "Let’s celebrate International Noise Awareness Day to spread awareness about noise pollution."
     },
@@ -59,20 +55,16 @@
       "description": "There were 15,000 vehicles in the U.S. when the first license plate was introduced."
     },
     {
-      "title": "Love Your Thighs Day",
-      "description": "Choose to love yourself on Love Your Thighs Day by celebrating right here with National Today."
-    },
-    {
       "title": "National DNA Day",
       "description": "Learn more about the science that makes us genetically unique."
     },
     {
-      "title": "National Liberation Day",
-      "description": "Dance to the tunes of the Italian anti-fascist anthem ‘Bella Ciao’ on National Liberation Day."
+      "title": "National Hairball Awareness Day",
+      "description": "Hairballs are a healthy part of animals’ routines, but can potentially be an underlying health issue."
     },
     {
-      "title": "National Library Workers Day",
-      "description": "Libraries work because library workers work! Let’s recognize their contributions."
+      "title": "National Liberation Day",
+      "description": "Dance to the tunes of the Italian anti-fascist anthem ‘Bella Ciao’ on National Liberation Day."
     },
     {
       "title": "National Lingerie Day",
@@ -103,16 +95,20 @@
       "description": "Remember Sinai from the Bible? Read on to know more about this Peninsula."
     },
     {
-      "title": "Take Our Daughters and Sons to Work Day",
-      "description": "Ever wanted to see what your parents do all day? Get a glimpse!"
-    },
-    {
       "title": "The Feast of St Mark (Italy)",
       "description": "Let’s honor the patron saint and remember his teachings on the Feast of St. Mark."
     },
     {
+      "title": "Undiagnosed Children&#39;s Awareness Day",
+      "description": "Children who are affected by Syndromes Without a Name and their families need our support."
+    },
+    {
       "title": "World Penguin Day",
       "description": "Learn more about this endangered bird that plays an important role in the ecosystem."
+    },
+    {
+      "title": "World Women’s Wellness Day",
+      "description": "Join us, and let’s support women’s health across the world this World Women’s Wellness Day!"
     },
     {
       "title": "Al Pacino’s Birthday",
