@@ -3,12 +3,8 @@
   "day": 26,
   "holidays": [
     {
-      "title": "National Arbor Day",
-      "description": null
-    },
-    {
       "title": "National Pretzel Day",
-      "description": "Would you believe pretzels got their start in the Catholic Church?"
+      "description": null
     },
     {
       "title": "Alien Day",
@@ -19,12 +15,16 @@
       "description": "Learn about an enduring conservation legacy, complete with some fun tips and activity suggestions."
     },
     {
+      "title": "Bob Wills Day",
+      "description": "Celebrating The King Of Western Swing, Bob Wills, right here with us at National Today."
+    },
+    {
       "title": "Confederate Heroes&#39; Day",
       "description": "We get to place flowers on these heroes&#39; graves as we retell of their heroic deeds."
     },
     {
-      "title": "Donate Life Blue and Green Day",
-      "description": "Let’s get our Blue and Green on as we help donate to life this holiday."
+      "title": "Eeyore’s Birthday",
+      "description": "Friends of the Forest never forget to make animals feel special on this day."
     },
     {
       "title": "Get Organized Day",
@@ -35,12 +35,32 @@
       "description": "What a perfect day to spread some love! Hug a loved one; keep the affection flowing."
     },
     {
+      "title": "Independent Bookstore Day",
+      "description": "Join us as we turn the page and learn why books matter so much."
+    },
+    {
       "title": "International Chernobyl Disaster Remembrance Day",
       "description": "Think about nuclear energy on this day, and what it can do for us."
     },
     {
+      "title": "International Marconi Day",
+      "description": "Today, we acknowledge the inventor of wireless communication and seamless radio transmission."
+    },
+    {
+      "title": "International Sculpture Day",
+      "description": "Get your hammer and chisel ready, it’s International Sculpture Day! Celebrate right here with us!"
+    },
+    {
+      "title": "Laylatul Qadr",
+      "description": "Learn why Muslims busy themselves in worship and seek repentance on this Ramadan night."
+    },
+    {
       "title": "National Ai Day",
       "description": "Discover more about Ai and the famous people who shared this name."
+    },
+    {
+      "title": "National Day of Puppetry",
+      "description": "Celebrate the fascinating theatrics of puppets on this day and make one for yourself!"
     },
     {
       "title": "National Dissertation Day",
@@ -55,8 +75,8 @@
       "description": "This National Garage Day, get your creative juices flowing and work in your garage!"
     },
     {
-      "title": "National Hairball Awareness Day",
-      "description": "Hairballs are a healthy part of animals’ routines, but can potentially be an underlying health issue."
+      "title": "National Go Birding Day",
+      "description": "It’s time to break out the binoculars and observe the activities of our feathered friends."
     },
     {
       "title": "National Help A Horse Day",
@@ -71,8 +91,24 @@
       "description": "Celebrate the bond between your fur babies and your actual babies this National Kids and Pets Day!"
     },
     {
+      "title": "National Kiss of Hope Day",
+      "description": "Learn how to embody hope and work with your partner to support your household."
+    },
+    {
       "title": "National No Makeup Day",
       "description": "Makeup allows us to express ourselves and feel confident while we&#39;re out and about."
+    },
+    {
+      "title": "National Pool Opening Day",
+      "description": "See how pool owners across the country take care of their pools in preparation for summer."
+    },
+    {
+      "title": "National Rebuilding Day",
+      "description": "Roll up your sleeves and grab your tools, it’s time to get building."
+    },
+    {
+      "title": "National Sense of Smell Day",
+      "description": "Don’t turn your nose up at this day dedicated to preserving your sense of smell."
     },
     {
       "title": "National South Dakota Day",
@@ -91,6 +127,10 @@
       "description": "Today we pay a tribute to the man who invented the Richter scale."
     },
     {
+      "title": "Save the Frogs Day",
+      "description": "Today is dedicated to our hoppy, jumpy friends who are an important part of our environment."
+    },
+    {
       "title": "Secretaries&#39; Day (Colombia)",
       "description": "This Secretaries’ Day, prove to secretaries just how much you appreciate their efforts."
     },
@@ -99,20 +139,24 @@
       "description": "It’s crazy to think that a third of the food produced on Earth goes to waste!"
     },
     {
-      "title": "Undiagnosed Children&#39;s Awareness Day",
-      "description": "Children who are affected by Syndromes Without a Name and their families need our support."
-    },
-    {
       "title": "World Burlesque Day",
       "description": "Get ready to be entertained, we’re going to celebrate World Burlesque Day!"
+    },
+    {
+      "title": "World Healing Day",
+      "description": "We&#39;ve got the best ways to spend this day with the most rejuvenating activities."
     },
     {
       "title": "World Intellectual Property Day",
       "description": "Join us today as we salute all creators and inventors for their contribution to society’s development."
     },
     {
-      "title": "World Women’s Wellness Day",
-      "description": "Join us, and let’s support women’s health across the world this World Women’s Wellness Day!"
+      "title": "World Tai Chi and Qigong Day",
+      "description": "Take part in a global event that promotes the importance of maintaining your well-being."
+    },
+    {
+      "title": "World Veterinary Day",
+      "description": "Today, we are celebrating veterinarians and the bonds between people and animals!"
     },
     {
       "title": "Channing Tatum’s Birthday",
