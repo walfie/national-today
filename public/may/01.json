@@ -7,10 +7,6 @@
       "description": null
     },
     {
-      "title": "Aces Day",
-      "description": "Put on your workout shoes and stretchy pants, it&#39;s time to exercise."
-    },
-    {
       "title": "Agriculture and Labor Day",
       "description": "Agriculture is crucial for the survival of living beings. That’s why we celebrate this amazing day."
     },
@@ -47,10 +43,6 @@
       "description": "Celebrate yourself and all humanity through acts of love, and promote peace and unity."
     },
     {
-      "title": "Great American Grump Out",
-      "description": "Hey Great America! Let’s give our grumpy mood a day off today."
-    },
-    {
       "title": "International Doodle Dog Day",
       "description": "Enjoy a day of fun and excitement with your poodle-mix this International Doodle Dog Day!"
     },
@@ -83,10 +75,6 @@
       "description": "Today, we are swept back to memories of our childhood fairy tales."
     },
     {
-      "title": "National Anxiety Disorders Screening Day",
-      "description": "Learn more about this day that draws attention to anxiety disorders and mental wellness."
-    },
-    {
       "title": "National Black Barber Shop Appreciation Day",
       "description": "Let us understand the importance of the day and join in the activities to celebrate."
     },
@@ -95,12 +83,16 @@
       "description": "Get your dessert spoons ready for National Chocolate Parfait Day!"
     },
     {
-      "title": "National Infertility Survival Day",
-      "description": "Parents or not, today is the day we celebrate everyone and show them support."
+      "title": "National Day of Prayer",
+      "description": "Learn why America’s founding fathers play an important part."
     },
     {
-      "title": "National Interpreter Appreciation Day",
-      "description": "Can you imagine a world with no interpreters? We can’t! Celebrate National Interpreter Appreciation Day today!"
+      "title": "National Day of Reason",
+      "description": "This is a secular holiday, established as a response to the National Day of Prayer."
+    },
+    {
+      "title": "National Infertility Survival Day",
+      "description": "Parents or not, today is the day we celebrate everyone and show them support."
     },
     {
       "title": "National Loyalty Day",
@@ -117,10 +109,6 @@
     {
       "title": "National Rotate Your Beer Day",
       "description": "After water and tea, beer is the third most-consumed drink in the world."
-    },
-    {
-      "title": "National Skilled Trades Day",
-      "description": "Join millions across the country as we celebrate the tireless efforts of the skilled trades workforce."
     },
     {
       "title": "New Homeowners Day",
@@ -145,6 +133,10 @@
     {
       "title": "Therapeutic Massage Awareness Day",
       "description": "Take advantage of the day, and get yourself a massage to help get rid of stress."
+    },
+    {
+      "title": "World Password Day",
+      "description": "Still using your cat&#39;s name followed by an &#34;&amp;&#34; for your 401(k) account password?"
     },
     {
       "title": "Worthy Wage Day",
