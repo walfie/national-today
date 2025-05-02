@@ -27,20 +27,20 @@
       "description": "From the era of pirates to a modern problem, here’s what you need to know about scurvy."
     },
     {
+      "title": "Israel Independence Day",
+      "description": "Decorate your balconies with Israeli flags as we celebrate a nation that has endured the worst."
+    },
+    {
       "title": "National Byron Day",
       "description": "Relax and read on as we reveal fascinating facts and figures about your favorite Byron."
     },
     {
-      "title": "National Day of Prayer",
-      "description": "Learn why America’s founding fathers play an important part."
-    },
-    {
-      "title": "National Day of Reason",
-      "description": "This is a secular holiday, established as a response to the National Day of Prayer."
-    },
-    {
       "title": "National Life Insurance Day",
       "description": "Join us as we discover how the idea of securing the future started."
+    },
+    {
+      "title": "National No Pants Day",
+      "description": "We know the freeing feeling of changing out of your pants after a long day."
     },
     {
       "title": "National Play Your Ukulele Day",
@@ -51,24 +51,36 @@
       "description": "Want your child to be successful? Here is a name that may propel her to greatness."
     },
     {
+      "title": "National Space Day",
+      "description": "There’s so much going on in the universe, it deserves a day to reflect on everything!"
+    },
+    {
       "title": "National Truffle Day",
       "description": "A fabulous holiday guaranteed to tickle your taste buds and provide a culinary delight!"
+    },
+    {
+      "title": "National Tuba Day",
+      "description": "Join us as we honor tubists in music over the world on Tuba Day."
     },
     {
       "title": "Polish Flag Day",
       "description": "“Na Zdrowie” — cheers to a new day and a new flag! It’s Polish Flag Day."
     },
     {
+      "title": "School Lunch Hero Day",
+      "description": "Check out our interesting and informative ideas to celebrate School Lunch Hero Day!"
+    },
+    {
       "title": "Take a Baby to Lunch Day",
       "description": "It’s time to take a brand new (tiny) partner for lunch!"
     },
     {
-      "title": "World Password Day",
-      "description": "Still using your cat&#39;s name followed by an &#34;&amp;&#34; for your 401(k) account password?"
-    },
-    {
       "title": "World Tuna Day",
       "description": "World Tuna Day is the perfect time to understand that tuna is delicious, but not infinite."
+    },
+    {
+      "title": "Yom HaAtzmaut",
+      "description": "Join us as we learn more about Yom Ha’atzmaut — the Israeli Independence Day."
     },
     {
       "title": "BamBam’s Birthday",
@@ -81,6 +93,10 @@
     {
       "title": "Dwayne Johnson’s Birthday",
       "description": "He may be tough as a “Rock,” but this successful actor has a soft, kind heart."
+    },
+    {
+      "title": "Kentucky Oaks",
+      "description": null
     }
   ]
 }
