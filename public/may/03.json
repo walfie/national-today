@@ -3,12 +3,28 @@
   "day": 3,
   "holidays": [
     {
-      "title": "National Paranormal Day",
+      "title": "Free Comic Book Day",
       "description": null
+    },
+    {
+      "title": "International Pilates Day",
+      "description": "Discover FS8: the low-impact, high-results workout that&#39;s redefining Pilates for every body—anywhere."
+    },
+    {
+      "title": "National Paranormal Day",
+      "description": "Grab your Ouija board and let&#39;s start communicating with the great beyond."
     },
     {
       "title": "AAPI Women&#39;s Equal Pay Day",
       "description": "Observe A.A.P.I. Women&#39;s Equal Pay Day to remember that women are paid less."
+    },
+    {
+      "title": "Beer Pong Day",
+      "description": "Bottoms up! Beer Pong Day is here."
+    },
+    {
+      "title": "Childhood Stroke Awareness Day",
+      "description": "Pediatric strokes are rare but they happen nonetheless. Learn more and take action now."
     },
     {
       "title": "Constitution Memorial Day",
@@ -19,24 +35,52 @@
       "description": "Let’s join hands with the rest of El Salvador to celebrate this special day."
     },
     {
+      "title": "Herb Day",
+      "description": "Let’s get those seeds ready, we’re going herb planting!"
+    },
+    {
+      "title": "International Drone Day",
+      "description": "On International Drone Day, learn about the evolution of drone use over time!"
+    },
+    {
       "title": "International Wild Koala Day",
       "description": "Let’s do our part to save koalas this International Wild Koala Day!"
     },
     {
-      "title": "Kentucky Oaks",
-      "description": "Today, we celebrate one of the oldest continuously contested sporting events in history."
+      "title": "Join Hands Day",
+      "description": "Work for the betterment of society by joining hands with the old and the new."
     },
     {
       "title": "Lumpy Rug Day",
       "description": "It’s time to let go of the old, and usher in the new this spring."
     },
     {
+      "title": "Naked Gardening Day",
+      "description": "Put away all your clothes and get your shovel ready for World Naked Gardening Day!"
+    },
+    {
+      "title": "National Bombshell Day",
+      "description": "National Bombshell Day was created to highlight the importance of spreading self-love and love among women."
+    },
+    {
       "title": "National Chocolate Custard Day",
       "description": "Some call it pudding, some call it custard, but let’s celebrate it regardless of its name!"
     },
     {
+      "title": "National EOD Day",
+      "description": "This day honors E.O.D. specialists, so let&#39;s delve deeper into its history and facts."
+    },
+    {
+      "title": "National Fitness Day",
+      "description": "Make your move to stay fit on National Fitness Day."
+    },
+    {
       "title": "National Garden Meditation Day",
       "description": "Relax your mind and body as we tell you about the marvelous benefits of garden meditation."
+    },
+    {
+      "title": "National Herb Day",
+      "description": "Wondering how National Herb Day came into being? We are here to shed some light."
     },
     {
       "title": "National Justice Day",
@@ -45,10 +89,6 @@
     {
       "title": "National Montana Day",
       "description": "With our amazing tips and facts, you can celebrate Montana, the Land of Treasures!"
-    },
-    {
-      "title": "National No Pants Day",
-      "description": "We know the freeing feeling of changing out of your pants after a long day."
     },
     {
       "title": "National Public Radio Day",
@@ -63,12 +103,20 @@
       "description": "SAN architects work behind the scenes to put their companies front and center."
     },
     {
-      "title": "National Space Day",
-      "description": "There’s so much going on in the universe, it deserves a day to reflect on everything!"
+      "title": "National Scrapbook Day",
+      "description": "Scrapbooks, at the end of the day, are much like visual diaries."
+    },
+    {
+      "title": "National Scrapbooking Day",
+      "description": "Unleash your creative side and start scrapbooking with styles from minimalist to bold and bright."
     },
     {
       "title": "National Specially-Able Pets Day",
       "description": "Your annual reminder that disabled pets are perfectly capable of loving and enjoying life."
+    },
+    {
+      "title": "National Start Seeing Monarchs Day",
+      "description": "Get your binoculars ready and come see some monarch butterflies with us!"
     },
     {
       "title": "National Textile Day",
@@ -79,28 +127,28 @@
       "description": "They clothe us, give us a peaceful sleep, and create things to sit on. They’re textiles!"
     },
     {
-      "title": "National Tuba Day",
-      "description": "Join us as we honor tubists in music over the world on Tuba Day."
-    },
-    {
       "title": "National Two Different Colored Shoes Day",
       "description": "Embrace all your quirks and celebrate all the characteristics that make you uniquely you!"
     },
     {
-      "title": "Orthodox Good Friday",
-      "description": "Get ready to observe orthodox Good Friday, an important day in history, marking Jesus Christ’s crucifixion."
-    },
-    {
-      "title": "School Lunch Hero Day",
-      "description": "Check out our interesting and informative ideas to celebrate School Lunch Hero Day!"
+      "title": "Spring Astronomy Day",
+      "description": "Join us as we gaze up at the heavens this Spring Astronomy Day!"
     },
     {
       "title": "Sun Day",
       "description": "Let’s advocate for the use of solar power which is 100% inexhaustible energy, and renewable and free!"
     },
     {
+      "title": "Wildfire Preparedness Day",
+      "description": "Get together on this day and take action to reduce the risks of wildfire."
+    },
+    {
       "title": "Wordsmith Day",
       "description": "Wordsmith Day is a time to celebrate, recognize and honor talented writers!"
+    },
+    {
+      "title": "World Ankylosing Spondylitis Day",
+      "description": "More than three million people in the U.S. are living with Ankylosing Spondylitis."
     },
     {
       "title": "World Press Freedom Day",
@@ -121,6 +169,14 @@
     {
       "title": "Karen Huger’s Birthday",
       "description": "This reality star and entrepreneur has always been known as a high flier."
+    },
+    {
+      "title": "Iverson Classic All-american Game",
+      "description": null
+    },
+    {
+      "title": "Kentucky Derby",
+      "description": null
     }
   ]
 }
