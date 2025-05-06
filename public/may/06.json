@@ -11,24 +11,20 @@
       "description": "We celebrate Florence Nightingale and recognize the important role nurses play in our lives."
     },
     {
+      "title": "National Teachers&#39; Day",
+      "description": "Everyone has had that favorite teacher that has helped inspire them."
+    },
+    {
+      "title": "Childhood Depression Awareness Day",
+      "description": "Failing to provide appropriate and substantial mental health services puts the lives of kids at risk."
+    },
+    {
       "title": "Dr. Mark A. Groh Cardiothoracic Surgeon Appreciation Day",
       "description": "If a cardiothoracic surgeon ever treated you, send them a thank you note today."
     },
     {
-      "title": "Early May Bank Holiday",
-      "description": "Put off your banking chores and spend the day relaxing this Early May Bank Holiday."
-    },
-    {
-      "title": "Great Lakes Awareness Day",
-      "description": "We&#39;re swimming in cool new ideas to celebrate Great Lakes Awareness Day; check them out."
-    },
-    {
       "title": "Joseph Brackett Day",
       "description": "Get ready for some amazing facts about Joseph Brackett and &#39;Simple Gifts.&#39;"
-    },
-    {
-      "title": "Melanoma Monday",
-      "description": "Melanoma, the deadliest type of skin cancer, is developed by 1 out of every 50 Americans."
     },
     {
       "title": "National Aidan Day",
@@ -43,12 +39,8 @@
       "description": "Let’s learn about crepes Suzette, how they are made, and what makes them so special."
     },
     {
-      "title": "National Meeting Planners Appreciation Day",
-      "description": "Time to make a plan for planners. Celebrate National Meeting Planners Appreciation Day with us!"
-    },
-    {
-      "title": "National Open Farm Day",
-      "description": "Agriculture and farming are critical for humanity’s survival, and here’s why!"
+      "title": "National Foster Care Day",
+      "description": "Let’s celebrate the people who make the foster care system work for children in need."
     },
     {
       "title": "National Tony Day",
@@ -59,12 +51,16 @@
       "description": "Anyone who&#39;s done any traveling is likely guilty of being a tourist."
     },
     {
-      "title": "Orthodox Easter Monday",
-      "description": "It&#39;s another day to rejoice, celebrate the resurrection of Christ, and find some Easter eggs."
+      "title": "Poem on Your Pillow Day",
+      "description": "Celebrate Poem on Your Pillow Day by slipping a poem onto a loved one’s pillow."
     },
     {
       "title": "Sauvignon Blanc Day",
       "description": "Get your wine glasses and bottles ready to make a toast as we celebrate this day!"
+    },
+    {
+      "title": "World Asthma Day",
+      "description": "Wear a gray ribbon, and let’s help and support people suffering from Asthma."
     },
     {
       "title": "Bob Seger’s Birthday",
@@ -85,6 +81,10 @@
     {
       "title": "Willie Mays’s Birthday",
       "description": "This sports legend powered his team to a National League win and was named the M.V.P."
+    },
+    {
+      "title": "Westminster Dog Show",
+      "description": null
     }
   ]
 }
