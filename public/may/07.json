@@ -3,12 +3,12 @@
   "day": 7,
   "holidays": [
     {
-      "title": "National Teachers&#39; Day",
+      "title": "National Tourism Day",
       "description": null
     },
     {
-      "title": "National Tourism Day",
-      "description": "Tourism is observed during National Travel and Tourism Week in the United States."
+      "title": "Aces Day",
+      "description": "Put on your workout shoes and stretchy pants, it&#39;s time to exercise."
     },
     {
       "title": "Beaufort Scale Day",
@@ -19,12 +19,16 @@
       "description": "With timely medical treatment, patients with bladder cancer have a chance of long-term survival."
     },
     {
-      "title": "Childhood Depression Awareness Day",
-      "description": "Failing to provide appropriate and substantial mental health services puts the lives of kids at risk."
+      "title": "Great American Grump Out",
+      "description": "Hey Great America! Let’s give our grumpy mood a day off today."
     },
     {
       "title": "Love&#39;s Baby Soft Day",
       "description": "Love’s Baby Soft is a fragrance that takes you back to your teens."
+    },
+    {
+      "title": "National Anxiety Disorders Screening Day",
+      "description": "Learn more about this day that draws attention to anxiety disorders and mental wellness."
     },
     {
       "title": "National Avery Day",
@@ -39,12 +43,12 @@
       "description": "Quench your thirst with a tipple of the Cosmo on National Cosmopolitan Day."
     },
     {
-      "title": "National Foster Care Day",
-      "description": "Let’s celebrate the people who make the foster care system work for children in need."
-    },
-    {
       "title": "National Homebrew Day",
       "description": "Homebrewing is an art that needs serious tutelage. Let’s show you how to get started."
+    },
+    {
+      "title": "National Interpreter Appreciation Day",
+      "description": "Can you imagine a world with no interpreters? We can’t! Celebrate National Interpreter Appreciation Day today!"
     },
     {
       "title": "National Packaging Design Day",
@@ -59,12 +63,16 @@
       "description": "Want to know why this world-famous dish is celebrated? Read on to find out."
     },
     {
-      "title": "Poem on Your Pillow Day",
-      "description": "Celebrate Poem on Your Pillow Day by slipping a poem onto a loved one’s pillow."
+      "title": "National Skilled Trades Day",
+      "description": "Join millions across the country as we celebrate the tireless efforts of the skilled trades workforce."
     },
     {
-      "title": "World Asthma Day",
-      "description": "Wear a gray ribbon, and let’s help and support people suffering from Asthma."
+      "title": "Occupational Safety and Health Professional Day",
+      "description": "We should never underestimate the importance of safety and health professionals and their contributions."
+    },
+    {
+      "title": "School Nurse Day",
+      "description": "It’s time to shower school nurses with their deserved attention as we mark this important holiday."
     },
     {
       "title": "J Balvin’s Birthday",
