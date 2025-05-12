@@ -3,16 +3,20 @@
   "day": 12,
   "holidays": [
     {
-      "title": "Mother&#39;s Day",
+      "title": "National Limerick Day",
       "description": null
     },
     {
-      "title": "National Limerick Day",
-      "description": "We pay homage to the man who made the short poems widespread — Edward Lear."
+      "title": "Vesak",
+      "description": "Vesak celebrates Buddha’s birth, along with his enlightenment and death in some traditions."
     },
     {
       "title": "Chronic Fatigue Syndrome Day",
       "description": "Stand in solidarity and show your support for people battling Myalgic Encephalomyelitis/Chronic Fatigue Syndrome."
+    },
+    {
+      "title": "Day of Vesak",
+      "description": "It is the Day of Vesak, the day to honor Buddha&#39;s birth, enlightenment, and death."
     },
     {
       "title": "Fibromyalgia Awareness Day",
@@ -33,10 +37,6 @@
     {
       "title": "International Nurses Day",
       "description": "We thank the nurses whose support and care has healed people and saved lives."
-    },
-    {
-      "title": "Mothers at the Wall Day",
-      "description": "It&#39;s time to give your mother a warm hug to express gratitude for her unwavering love."
     },
     {
       "title": "National Anthony Day",
@@ -63,24 +63,16 @@
       "description": "We’re about to break the silence and dispel some of the most common menstrual myths."
     },
     {
-      "title": "National Veal Ban Action Day",
-      "description": "Put down your forks. We’re fighting for animal rights this National Veal Ban Action Day."
+      "title": "National Women&#39;s Check-up Day",
+      "description": "Celebrate National Women&#39;s Check-up Day by scheduling a checkup. It may just save your life."
+    },
+    {
+      "title": "National Women’s Checkup Day",
+      "description": "Get checked and stay healthy if you’re a woman, on National Women&#39;s Checkup Day."
     },
     {
       "title": "National YA DIG Day",
       "description": "Be yourself and acknowledge your growth because you’re destined for greatness this National YA DIG Day!"
-    },
-    {
-      "title": "World Topiary Day",
-      "description": "Let’s celebrate the shaped shrubs and switch the trend from everything cake to everything topiary."
-    },
-    {
-      "title": "Yom HaAtzmaut",
-      "description": "Join us as we learn more about Yom Ha’atzmaut — the Israeli Independence Day."
-    },
-    {
-      "title": "Yom HaZikaron",
-      "description": "Yom HaZikaron is the official remembrance day of fallen soldiers and victims of terrorism."
     },
     {
       "title": "DraconiteDragon’s Birthday",
