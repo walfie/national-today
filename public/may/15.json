@@ -3,7 +3,7 @@
   "day": 15,
   "holidays": [
     {
-      "title": "Break The Glass Ceiling Day",
+      "title": "International Casinos Day",
       "description": null
     },
     {
@@ -15,12 +15,20 @@
       "description": "The multi-purpose and incredibly versatile construction material has a fascinating history."
     },
     {
+      "title": "Break The Glass Ceiling Day",
+      "description": "It’s time to break the often-invisible systemic barriers that exist to keep women and underrepresented communities from professional advancement."
+    },
+    {
       "title": "Bring Flowers To Someone Day",
       "description": "Giving flowers is a wonderful way of expressing your feelings to the people you care about."
     },
     {
-      "title": "Buddha Day",
-      "description": "Discover the history of Buddha Day and how it is celebrated around the world."
+      "title": "Customer Experience Day",
+      "description": "Amazing customer experiences deserve a holiday. Celebrate the people and brands that put customers first."
+    },
+    {
+      "title": "Global Accessibility Awareness Day",
+      "description": "Disabled users must have access to the same high-quality digital services and content as non-disabled users."
     },
     {
       "title": "HG Awareness Day",
@@ -43,16 +51,12 @@
       "description": "Learn how you can help raise awareness for Mucopolysaccharidoses (M.P.S.) Disorders."
     },
     {
-      "title": "National Employee Health and Fitness Day",
-      "description": "On this day, employees and employers are reminded of the necessity and advantages of regular exercise."
+      "title": "National Aperitif Day",
+      "description": "On National Aperitif Day, add a little aperitif to your cocktail and sip it in style!"
     },
     {
-      "title": "National Juice Slush Day",
-      "description": "Marking the start of summer, juice slush is a pleasant drink that will quench your thirst."
-    },
-    {
-      "title": "National Numeracy Day UK",
-      "description": "Numbers and numeracy are important, and this day is set aside to recognize this."
+      "title": "National Notebook Day",
+      "description": "Roses are red, violets are blue, National Notebook Day is here, and we&#39;re celebrating with you."
     },
     {
       "title": "National Nylon Stocking Day",
@@ -83,10 +87,6 @@
       "description": "Tuberous Sclerosis Complex is a genetic disease with symptoms that can range from mild to severe."
     },
     {
-      "title": "Turn Beauty Inside Out Day",
-      "description": "Let’s put an end to the media’s self-esteem breakers by celebrating Turn Beauty Inside Out Day."
-    },
-    {
       "title": "Vascular Birthmarks Awareness Day",
       "description": "Most of us are born with birthmarks — and they are mostly harmless."
     },
@@ -95,16 +95,136 @@
       "description": "Join us as we observe V.B.F. Day of Awareness this May 15!"
     },
     {
-      "title": "World Facilities Management Day",
-      "description": "Let’s give those working in facilities management more credit for their essential contribution to business."
-    },
-    {
       "title": "Chase Hudson’s Birthday",
       "description": "With over 30 million followers on TikTok, let’s delve into what makes Lil Huddy so admired."
     },
     {
       "title": "Emmitt Smith’s Birthday",
       "description": "Former football player and one of the greatest running backs in the National Football League."
+    },
+    {
+      "title": "An Evening with Ken Burns",
+      "description": null
+    },
+    {
+      "title": "Austin FC vs. Atlanta United FC",
+      "description": null
+    },
+    {
+      "title": "BattleBots Destruct-A-Thon",
+      "description": null
+    },
+    {
+      "title": "Birmingham Legion FC vs Rhode Island FC",
+      "description": null
+    },
+    {
+      "title": "Chicago Kids Company Presents Chicken Little",
+      "description": null
+    },
+    {
+      "title": "Final Destination: Bloodlines - The IMAX Experience",
+      "description": null
+    },
+    {
+      "title": "Final Destination: Bloodlines - The IMAX Experience",
+      "description": null
+    },
+    {
+      "title": "Hamilton",
+      "description": null
+    },
+    {
+      "title": "Hamilton (NY)",
+      "description": null
+    },
+    {
+      "title": "Hamilton (Touring)",
+      "description": null
+    },
+    {
+      "title": "Hamilton (Touring)",
+      "description": null
+    },
+    {
+      "title": "Harry Potter and the Cursed Child",
+      "description": null
+    },
+    {
+      "title": "Health - Rat Wars Expansion Tour",
+      "description": null
+    },
+    {
+      "title": "Houston Dynamo vs. Minnesota United FC",
+      "description": null
+    },
+    {
+      "title": "Karaoke Wednesdays",
+      "description": null
+    },
+    {
+      "title": "Los Angeles Football Club vs. Seattle Sounders FC",
+      "description": null
+    },
+    {
+      "title": "Madison No. 1 Dance presents On The Road Again...",
+      "description": null
+    },
+    {
+      "title": "Nashville SC v New York Red Bulls",
+      "description": null
+    },
+    {
+      "title": "New York City FC II vs Toronto FC II",
+      "description": null
+    },
+    {
+      "title": "Peter Antoniou",
+      "description": null
+    },
+    {
+      "title": "PGA Championship - Thursday",
+      "description": null
+    },
+    {
+      "title": "Portland Timbers 2 vs. Los Angeles Football Club 2",
+      "description": null
+    },
+    {
+      "title": "Real Salt Lake vs. Portland Timbers",
+      "description": null
+    },
+    {
+      "title": "San Diego FC vs. Colorado Rapids",
+      "description": null
+    },
+    {
+      "title": "San Jose Earthquakes Season Tickets (starting at $300!)",
+      "description": null
+    },
+    {
+      "title": "San Jose Earthquakes vs. Inter Miami CF",
+      "description": null
+    },
+    {
+      "title": "Sesame Street Live! Say Hello",
+      "description": null
+    },
+    {
+      "title": "Seussical Jr.",
+      "description": null
+    },
+    {
+      "title": "St. Louis City SC vs. Sporting Kansas City",
+      "description": null
+    },
+    {
+      "title": "V-U2 An Immersive Concert Film at Sphere Las Vegas",
+      "description": null
+    },
+    {
+      "title": "West Conf Semis: Warriors at Timberwolves Game 5",
+      "description": null
     }
   ]
 }
