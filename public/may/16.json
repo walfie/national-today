@@ -7,24 +7,44 @@
       "description": null
     },
     {
+      "title": "National Pizza Party Day",
+      "description": "Pizza&#39;s the very definition of a good time and your options are plentiful."
+    },
+    {
+      "title": "Bike To School Day",
+      "description": "Check out our fun ideas to enjoy Bike To School Day with the family."
+    },
+    {
       "title": "Drawing Day",
       "description": "Get out your drawing pads and pencils and bring the images in your imagination to life."
     },
     {
-      "title": "Global Accessibility Awareness Day",
-      "description": "Disabled users must have access to the same high-quality digital services and content as non-disabled users."
+      "title": "General Prayer Day",
+      "description": "General Prayer Day is the celebration of the survival of the Roman Catholic traditions."
     },
     {
       "title": "International Day of Light",
       "description": "Today, let’s come together to celebrate the life-giving light and its role in our lives."
     },
     {
-      "title": "National Aperitif Day",
-      "description": "On National Aperitif Day, add a little aperitif to your cocktail and sip it in style!"
+      "title": "International Virtual Assistants Day",
+      "description": "Dedicated to virtual assistants, this is a day to recognize their hard work, dedication, and perseverance."
+    },
+    {
+      "title": "Lag BaOmer",
+      "description": "We observe this important Jewish holiday that celebrates life and happiness."
+    },
+    {
+      "title": "NASCAR Day",
+      "description": "Enjoy the NASCAR event while also helping children across the country."
     },
     {
       "title": "National BBQ Day",
       "description": "Are you ready to get grilling? Here’s how you can celebrate National BBQ Day."
+    },
+    {
+      "title": "National Bike to Work Day",
+      "description": "This day aims to incentivize us to switch our regular commute with bikes."
     },
     {
       "title": "National Biographer&#39;s Day",
@@ -33,6 +53,10 @@
     {
       "title": "National Coquilles Saint Jacques Day",
       "description": "It’s time to come out of your ‘shell’ as we celebrate a lip-smacking French seafood delicacy."
+    },
+    {
+      "title": "National Defense Transportation Day",
+      "description": "Commemorate National Defense Transportation Day by celebrating the ones behind the wheels!"
     },
     {
       "title": "National Do Something Good for Your Neighbor Day",
@@ -45,10 +69,6 @@
     {
       "title": "National Love a Tree Day",
       "description": "Let’s set a moment aside to appreciate the wonderful gifts of trees."
-    },
-    {
-      "title": "National Notebook Day",
-      "description": "Roses are red, violets are blue, National Notebook Day is here, and we&#39;re celebrating with you."
     },
     {
       "title": "National Piercing Day",
@@ -67,12 +87,16 @@
       "description": "Ride a Unicycle Day takes place annually to appreciate the fun one-wheeled vehicle."
     },
     {
-      "title": "Supply Chain Professionals Day",
-      "description": "All your favorite stores and markets would shut down if there was no supply chain."
+      "title": "Shades Day",
+      "description": "It’s time to slide on some sunshades and lend a helping hand to families in need."
     },
     {
       "title": "Waiters Day",
       "description": "National Waiters’ Day is a national campaign that celebrates the food and service industry workers."
+    },
+    {
+      "title": "Walk Safely To School Day",
+      "description": "Join us as we encourage Australia’s tiny tots to ditch the bus and walk to school."
     },
     {
       "title": "Wear Purple for Peace Day",
@@ -97,6 +121,150 @@
     {
       "title": "Tori Spelling’s Birthday",
       "description": "She nurtured her career to become the globally celebrated actress and author she is today."
+    },
+    {
+      "title": "1925&#39;s Phantom of the Opera with 3-piece live-accompaniment in the Rivoli Theater",
+      "description": null
+    },
+    {
+      "title": "Bernie Kosar",
+      "description": null
+    },
+    {
+      "title": "Beyoncé: COWBOY CARTER TOUR",
+      "description": null
+    },
+    {
+      "title": "Blippi: Join The Band Tour!",
+      "description": null
+    },
+    {
+      "title": "Blippi: Join The Band Tour! Photo Experience",
+      "description": null
+    },
+    {
+      "title": "Chicago Kids Company Presents Chicken Little",
+      "description": null
+    },
+    {
+      "title": "Daniel Habif - Ascender World Tour 2025",
+      "description": null
+    },
+    {
+      "title": "Final Destination: Bloodlines - The IMAX Experience",
+      "description": null
+    },
+    {
+      "title": "Final Destination: Bloodlines - The IMAX Experience",
+      "description": null
+    },
+    {
+      "title": "Final Destination: Bloodlines - The IMAX Experience",
+      "description": null
+    },
+    {
+      "title": "Greenville Liberty vs. Tennessee Soccer Club",
+      "description": null
+    },
+    {
+      "title": "Hamilton (NY)",
+      "description": null
+    },
+    {
+      "title": "Hamilton (Touring)",
+      "description": null
+    },
+    {
+      "title": "Hamilton (Touring)",
+      "description": null
+    },
+    {
+      "title": "Harry Potter and the Cursed Child",
+      "description": null
+    },
+    {
+      "title": "Indy Eleven - Women&#39;s Team vs. Lexington SC",
+      "description": null
+    },
+    {
+      "title": "Jurassic Quest | Rogers Convention Center | Rogers, AR 2025",
+      "description": null
+    },
+    {
+      "title": "Jurassic Quest | Rogers Convention Center | Rogers, AR 2025",
+      "description": null
+    },
+    {
+      "title": "Jurassic Quest | Savannah Convention Center | Savannah, GA 2025",
+      "description": null
+    },
+    {
+      "title": "Jurassic Quest | Savannah Convention Center | Savannah, GA 2025",
+      "description": null
+    },
+    {
+      "title": "Madison No. 1 Dance presents On The Road Again...",
+      "description": null
+    },
+    {
+      "title": "Miami Sharks vs New England Free Jacks",
+      "description": null
+    },
+    {
+      "title": "Monsters On The Beach - FRIDAY EXPERIENCE",
+      "description": null
+    },
+    {
+      "title": "New York Yankees vs. New York Mets",
+      "description": null
+    },
+    {
+      "title": "NJ/NY Gotham FC vs. San Diego Wave FC",
+      "description": null
+    },
+    {
+      "title": "PGA Championship - Friday",
+      "description": null
+    },
+    {
+      "title": "Pinstripe Pass * New York Yankees v. New York Mets",
+      "description": null
+    },
+    {
+      "title": "Pittsburgh Riveters SC vs. Cleveland Force SC",
+      "description": null
+    },
+    {
+      "title": "Pungo Offroad Monsters On The Beach - Friday",
+      "description": null
+    },
+    {
+      "title": "Sesame Street Live! Say Hello!",
+      "description": null
+    },
+    {
+      "title": "Seussical Jr.",
+      "description": null
+    },
+    {
+      "title": "South Carolina Ravens",
+      "description": null
+    },
+    {
+      "title": "The Accountant 2",
+      "description": null
+    },
+    {
+      "title": "USSSA NC Basketball: Beast of the East",
+      "description": null
+    },
+    {
+      "title": "Washington Mystics vs. Atlanta Dream",
+      "description": null
+    },
+    {
+      "title": "West Conf Semis: Oklahoma City Thunder at Denver Nuggets Rd 2 Hm Gm 3",
+      "description": null
     }
   ]
 }
