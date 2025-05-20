@@ -67,6 +67,10 @@
       "description": "Rio is an independent name that is associated with strength and bravery."
     },
     {
+      "title": "National Stop Nausea Day",
+      "description": "Nausea can be very uncomfortable but these days, it can be treated with medication."
+    },
+    {
       "title": "National Streaming Day",
       "description": "Grab your remote and popcorn to enjoy your favorite shows this National Streaming Day."
     },
@@ -75,28 +79,8 @@
       "description": "The day also celebrates women working in commercial aviation, defense, and space."
     },
     {
-      "title": "Victoria Day",
-      "description": "It’s a day to celebrate all the wonderful things that make Canada, Canada."
-    },
-    {
       "title": "Weights and Measures Day",
       "description": "Grab your measuring instruments. It&#39;s time to discover ‘weights and measures’ facts."
-    },
-    {
-      "title": "Whit Monday",
-      "description": "Whit Monday is a Christian holiday celebrating the descent of the Holy Ghost."
-    },
-    {
-      "title": "Whit Monday (Martinique)",
-      "description": "Celebrate Whit Monday with a burst of religious flavor. Let us get you started!"
-    },
-    {
-      "title": "Whit Monday (Saint Barthelemy)",
-      "description": "It&#39;s Whit Monday, a day to remember the ultimate sacrifice made by Jesus Christ."
-    },
-    {
-      "title": "Whit Monday (Saint Martin)",
-      "description": "Learn about Whit Monday, when the holiday originated, and how to celebrate it."
     },
     {
       "title": "World Autoimmune Arthritis Day",
@@ -133,6 +117,66 @@
     {
       "title": "Lonnie Adolphsen’s Birthday",
       "description": "YouTube gaming content creation is still a niche market and we’d love to highlight Lonnie Adolphsen."
+    },
+    {
+      "title": "Connecticut Sun v Las Vegas Aces",
+      "description": null
+    },
+    {
+      "title": "Dive In Movies: Shrek",
+      "description": null
+    },
+    {
+      "title": "East Conf Semis: Knicks at Celtics Round 2 Home Game 4 (if necessary)",
+      "description": null
+    },
+    {
+      "title": "Hamilton",
+      "description": null
+    },
+    {
+      "title": "Hamilton (NY)",
+      "description": null
+    },
+    {
+      "title": "Harry Potter and the Cursed Child",
+      "description": null
+    },
+    {
+      "title": "In the Name of My Daughter",
+      "description": null
+    },
+    {
+      "title": "In the Name of My Daughter",
+      "description": null
+    },
+    {
+      "title": "Indiana Fever vs. Atlanta Dream",
+      "description": null
+    },
+    {
+      "title": "Los Angeles Dodgers vs. Arizona Diamondbacks",
+      "description": null
+    },
+    {
+      "title": "New York Yankees v. Texas Rangers * Premium Seating *",
+      "description": null
+    },
+    {
+      "title": "New York Yankees vs. Texas Rangers",
+      "description": null
+    },
+    {
+      "title": "New York Yankees vs. Texas Rangers * Group Tickets *",
+      "description": null
+    },
+    {
+      "title": "Outlaw Music Festival",
+      "description": null
+    },
+    {
+      "title": "Pinstripe Pass * New York Yankees v. Texas Rangers",
+      "description": null
     }
   ]
 }
