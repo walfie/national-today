@@ -3,16 +3,16 @@
   "day": 25,
   "holidays": [
     {
-      "title": "National Wine Day",
+      "title": "Indianapolis 500",
       "description": null
+    },
+    {
+      "title": "National Wine Day",
+      "description": "Cheers to celebrating over a bottle of wine!"
     },
     {
       "title": "African Liberation Day",
       "description": "Go get yourself a vuvuzela and get ready because we’re going to do African Liberation Day in style."
-    },
-    {
-      "title": "Amateur Radio Military Appreciation Day",
-      "description": "Let us all get behind a mic, as it is time for ARMAD!"
     },
     {
       "title": "Argentina Revolution Day",
@@ -59,10 +59,6 @@
       "description": "Join people named George across the globe as they celebrate their name day."
     },
     {
-      "title": "National Italian Beef Day",
-      "description": "Grab the napkins, and get your best Italian Beef Sandwich to celebrate the day in tradition."
-    },
-    {
       "title": "National Missing Children’s Day",
       "description": "Today we remember missing children and spread the word about child abduction"
     },
@@ -79,16 +75,8 @@
       "description": "Step into the world of virtual reality where you can have your own avatar!"
     },
     {
-      "title": "National Wig Out Day",
-      "description": "National Wig Out Day is a fun day where your head gets to play dress-up."
-    },
-    {
       "title": "Towel Day",
       "description": "We are celebrating this holiday with a towel wrapped around our necks."
-    },
-    {
-      "title": "Tracky Dack Day",
-      "description": "To understand Tracky Dack Day, first, know that ‘dack’ is Australian English slang for trousers."
     },
     {
       "title": "World Thyroid Day",
@@ -117,6 +105,114 @@
     {
       "title": "Thorgy Thor’s Birthday",
       "description": "Learn how this drag queen got her career started and rose to stardom."
+    },
+    {
+      "title": "BottleRock Napa Valley",
+      "description": null
+    },
+    {
+      "title": "Atlanta Dream v Connecticut Sun",
+      "description": null
+    },
+    {
+      "title": "Beyoncé: COWBOY CARTER TOUR",
+      "description": null
+    },
+    {
+      "title": "Boston Calling Music Festival",
+      "description": null
+    },
+    {
+      "title": "Colorado Rockies vs. New York Yankees",
+      "description": null
+    },
+    {
+      "title": "Hamilton",
+      "description": null
+    },
+    {
+      "title": "Hamilton",
+      "description": null
+    },
+    {
+      "title": "Hamilton (NY)",
+      "description": null
+    },
+    {
+      "title": "Hamilton (NY)",
+      "description": null
+    },
+    {
+      "title": "Hamilton (Touring)",
+      "description": null
+    },
+    {
+      "title": "Hamilton (Touring)",
+      "description": null
+    },
+    {
+      "title": "Hamilton (Touring)",
+      "description": null
+    },
+    {
+      "title": "Hamilton (Touring)",
+      "description": null
+    },
+    {
+      "title": "Harry Potter and the Cursed Child",
+      "description": null
+    },
+    {
+      "title": "Harry Potter and the Cursed Child",
+      "description": null
+    },
+    {
+      "title": "Harry Potter and the Cursed Child",
+      "description": null
+    },
+    {
+      "title": "Jurassic Quest | Chattanooga Convention Center | Chattanooga, TN 2025",
+      "description": null
+    },
+    {
+      "title": "Jurassic Quest | Chattanooga Convention Center | Chattanooga, TN 2025",
+      "description": null
+    },
+    {
+      "title": "Los Angeles Sparks vs. Chicago Sky",
+      "description": null
+    },
+    {
+      "title": "Megan Moroney - Am I Okay? Tour With Guest: Maggie Antone",
+      "description": null
+    },
+    {
+      "title": "Mission: Impossible - The Final Reckoning",
+      "description": null
+    },
+    {
+      "title": "Mission: Impossible - The Final Reckoning",
+      "description": null
+    },
+    {
+      "title": "Mission: Impossible - The Final Reckoning",
+      "description": null
+    },
+    {
+      "title": "New York Mets vs. Los Angeles Dodgers",
+      "description": null
+    },
+    {
+      "title": "PBR: Challenger Series",
+      "description": null
+    },
+    {
+      "title": "Phoenix Mercury vs. Washington Mystics",
+      "description": null
+    },
+    {
+      "title": "Seattle Storm vs. Las Vegas Aces",
+      "description": null
     }
   ]
 }
