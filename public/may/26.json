@@ -3,7 +3,7 @@
   "day": 26,
   "holidays": [
     {
-      "title": "Indianapolis 500",
+      "title": "Memorial Day",
       "description": null
     },
     {
@@ -11,8 +11,12 @@
       "description": "Paper airplanes have fascinated children and adults alike around the globe for generations."
     },
     {
-      "title": "General Prayer Day",
-      "description": "General Prayer Day is the celebration of the survival of the Roman Catholic traditions."
+      "title": "Cheese Rolling Gloucester",
+      "description": "Ready, set, go! It is time to experience the Cheese Rolling Gloucester!"
+    },
+    {
+      "title": "Decoration Day",
+      "description": "Bring out the flowers, flags, and red poppies to commemorate the fallen on this day."
     },
     {
       "title": "Georgia Independence Day",
@@ -23,8 +27,8 @@
       "description": "Celebrate Guyana’s Independence Day and the rich cultural heritage of the Guyanese people."
     },
     {
-      "title": "Lag BaOmer",
-      "description": "We observe this important Jewish holiday that celebrates life and happiness."
+      "title": "Jerusalem Day",
+      "description": "Join in the celebration of Jerusalem Day today right here with us at National Today."
     },
     {
       "title": "National Blueberry Cheesecake Day",
@@ -39,12 +43,20 @@
       "description": "National Sorry Day commemorates the mistreatment of Aboriginal and Torres Strait Islander people."
     },
     {
+      "title": "Prayer for Peace Memorial Day",
+      "description": "Honor the brave American soldiers who died in the military this Prayer for Peace Memorial Day."
+    },
+    {
       "title": "Sally Ride Day",
       "description": "Sally Ride Day is a fun holiday that honors the first American woman in space."
     },
     {
-      "title": "Trinity Sunday",
-      "description": "Trinity Sunday celebrates the unity of the Holy Trinity: the Father, the Son, and the Holy Spirit."
+      "title": "Savitri Amavasya",
+      "description": "Get informed about the rituals and traditions of this festival with our great information and tips."
+    },
+    {
+      "title": "Spring Bank Holiday",
+      "description": "A day for the general population in the U.K. to kick back and relax."
     },
     {
       "title": "World Dracula Day",
@@ -81,6 +93,42 @@
     {
       "title": "Stevie Nicks’s Birthday",
       "description": "This tremendously talented rock artist has always been a real eager beaver."
+    },
+    {
+      "title": "Bay Breakers vs New York Exiles – AAPI Heritage Night",
+      "description": null
+    },
+    {
+      "title": "Cleveland Guardians vs. Los Angeles Dodgers",
+      "description": null
+    },
+    {
+      "title": "El Recodo en Lowell",
+      "description": null
+    },
+    {
+      "title": "Hamilton (Touring)",
+      "description": null
+    },
+    {
+      "title": "Memorial Weekly Tickets",
+      "description": null
+    },
+    {
+      "title": "Mission: Impossible - The Final Reckoning",
+      "description": null
+    },
+    {
+      "title": "Mission: Impossible - The Final Reckoning",
+      "description": null
+    },
+    {
+      "title": "Mission: Impossible - The Final Reckoning",
+      "description": null
+    },
+    {
+      "title": "West Conf Semis: TBD at Clippers Rd 2 Game 3",
+      "description": null
     }
   ]
 }
