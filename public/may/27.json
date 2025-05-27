@@ -3,28 +3,12 @@
   "day": 27,
   "holidays": [
     {
-      "title": "Memorial Day",
-      "description": null
-    },
-    {
-      "title": "National Hairstylist Mental Health Awareness Day",
-      "description": "Hairstylists so often lend a friendly ear to their customers — this observation is all about offering yours in return."
-    },
-    {
       "title": "National Sunscreen Day",
-      "description": "Rub and absorb that lotion, cream, or spray before enjoying the warmth and light of summer."
+      "description": null
     },
     {
       "title": "Asher day",
       "description": "Despite its historical and biblical origins, the name Asher wasn’t well known until the 1980s."
-    },
-    {
-      "title": "Cheese Rolling Gloucester",
-      "description": "Ready, set, go! It is time to experience the Cheese Rolling Gloucester!"
-    },
-    {
-      "title": "Decoration Day",
-      "description": "Bring out the flowers, flags, and red poppies to commemorate the fallen on this day."
     },
     {
       "title": "National Aaron Day",
@@ -43,6 +27,10 @@
       "description": "Raise your voices and spread awareness about brain cancer with our information."
     },
     {
+      "title": "National Hairstylist Mental Health Awareness Day",
+      "description": "Hairstylists so often lend a friendly ear to their customers—this observation is all about offering yours in return."
+    },
+    {
       "title": "National Jordan Day",
       "description": "The name Jordan is an intriguing one. This National Jordan Day, let’s find out why."
     },
@@ -55,16 +43,12 @@
       "description": "Old-Time Player Piano Day takes place to memorialize this unique musical instrument that plays itself."
     },
     {
-      "title": "Prayer for Peace Memorial Day",
-      "description": "Honor the brave American soldiers who died in the military this Prayer for Peace Memorial Day."
+      "title": "Scripps Spelling Bee",
+      "description": "Want to know all about the Scripps National Spelling Bee? We have all the info you need."
     },
     {
       "title": "Slavery Abolition Day (Guadeloupe)",
       "description": "This Slavery Abolition Day, join us as we uncover Guadeloupe’s complex history!"
-    },
-    {
-      "title": "Spring Bank Holiday",
-      "description": "A day for the general population in the U.K. to kick back and relax."
     },
     {
       "title": "Sunscreen Day",
@@ -93,6 +77,58 @@
     {
       "title": "Zach Herron’s Birthday",
       "description": "With his melodious voice and dashing looks, Zach Herron has captivated the hearts of millions worldwide."
+    },
+    {
+      "title": "Cleveland Guardians vs. Los Angeles Dodgers",
+      "description": null
+    },
+    {
+      "title": "Connecticut Sun v Dallas Wings",
+      "description": null
+    },
+    {
+      "title": "Dive In Movies: Captain America: The First Avenger",
+      "description": null
+    },
+    {
+      "title": "Hamilton",
+      "description": null
+    },
+    {
+      "title": "Hamilton (NY)",
+      "description": null
+    },
+    {
+      "title": "Hamilton (Touring)",
+      "description": null
+    },
+    {
+      "title": "Harry Potter and the Cursed Child",
+      "description": null
+    },
+    {
+      "title": "Los Angeles Angels vs. New York Yankees",
+      "description": null
+    },
+    {
+      "title": "New York Liberty v. Golden State Valkyries (AAPI Night)",
+      "description": null
+    },
+    {
+      "title": "New York Liberty vs Golden State Valkyries (Suite)",
+      "description": null
+    },
+    {
+      "title": "Sinners",
+      "description": null
+    },
+    {
+      "title": "The Ballad of Suzanne Césaire",
+      "description": null
+    },
+    {
+      "title": "West Conf Semis: TBD at Clippers Rd 2 Game 4",
+      "description": null
     }
   ]
 }
