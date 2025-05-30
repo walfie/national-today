@@ -3,16 +3,12 @@
   "day": 30,
   "holidays": [
     {
-      "title": "National E-Bike Day",
+      "title": "National Mint Julep Day",
       "description": null
     },
     {
-      "title": "National Mint Julep Day",
-      "description": "All you need is bourbon, sugar, mint, and ice!"
-    },
-    {
-      "title": "Corpus Christi",
-      "description": "Corpus Christi is a Christian festival that is celebrated annually on the Thursday after Trinity Sunday."
+      "title": "European Neighbors&#39; Day",
+      "description": "Invite over your neighbors to a nice meal and get to know your community!"
     },
     {
       "title": "Fakesgiving",
@@ -27,8 +23,20 @@
       "description": "Come with us on a wireless journey to learn about telegraphic communications and more."
     },
     {
+      "title": "Martyrdom Day of Sri Guru Arjun Dev Ji",
+      "description": "Let’s honor Guru Arjun Dev Ji’s memory and remember his deeds, which bettered humanity."
+    },
+    {
       "title": "National Creativity Day",
       "description": "This special day was founded to honor and celebrate everyone who creates new things each day."
+    },
+    {
+      "title": "National E-Bike Day",
+      "description": "National E-Bike Day was created to encourage people to ride their e-bike or make the switch to opting into electric transportation. E-bikes are a fun,…"
+    },
+    {
+      "title": "National Heat Awareness Day",
+      "description": "This health holiday cannot get any hotter — keep it cool on National Heat Awareness Day."
     },
     {
       "title": "National Hole In My Bucket Day",
@@ -61,6 +69,74 @@
     {
       "title": "Theo McCoy’s Birthday",
       "description": "Theo McCoy has a uniquely artistic way of connecting with his audience."
+    },
+    {
+      "title": "Breakaway Music Festival",
+      "description": null
+    },
+    {
+      "title": "Chicago Sky vs. Dallas Wings",
+      "description": null
+    },
+    {
+      "title": "Daniel Habif - Ascender World Tour 2025",
+      "description": null
+    },
+    {
+      "title": "FoodieLand - Austin | May 30 - June 1, 2025",
+      "description": null
+    },
+    {
+      "title": "Hamilton (NY)",
+      "description": null
+    },
+    {
+      "title": "Hamilton (Touring)",
+      "description": null
+    },
+    {
+      "title": "Hamilton (Touring)",
+      "description": null
+    },
+    {
+      "title": "Harry Potter and the Cursed Child",
+      "description": null
+    },
+    {
+      "title": "Jurassic Quest | Conway Expo and Event Center | Conway, AR 2025",
+      "description": null
+    },
+    {
+      "title": "Jurassic Quest | Conway Expo and Event Center | Conway, AR 2025",
+      "description": null
+    },
+    {
+      "title": "Karate Kid Legends",
+      "description": null
+    },
+    {
+      "title": "Miami Sharks vs San Diego Legion",
+      "description": null
+    },
+    {
+      "title": "Mission: Impossible - The Final Reckoning",
+      "description": null
+    },
+    {
+      "title": "Mission: Impossible - The Final Reckoning",
+      "description": null
+    },
+    {
+      "title": "Mission: Impossible - The Final Reckoning",
+      "description": null
+    },
+    {
+      "title": "Music City Rodeo Followed by Jelly Roll - A PRCA ProRodeo",
+      "description": null
+    },
+    {
+      "title": "The Wild Kratts Live! 2.0",
+      "description": null
     }
   ]
 }
