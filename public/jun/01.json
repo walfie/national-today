@@ -15,12 +15,12 @@
       "description": "Are you a daredevil? If yes, you will enjoy this day more than anyone else!"
     },
     {
-      "title": "Dinosaur Day",
-      "description": "Let’s travel back to prehistoric times to meet the great and amazing dinosaurs."
-    },
-    {
       "title": "Don&#39;t Give up the Ship Day",
       "description": "This battle is recorded as one of the deadliest in British-American naval history."
+    },
+    {
+      "title": "Erev Shavuot",
+      "description": "Read on to find out how you should be celebrating Erev Shavuot."
     },
     {
       "title": "Flip A Coin Day",
@@ -39,10 +39,6 @@
       "description": "Let’s vow to give every child their rights on this important day!"
     },
     {
-      "title": "International Tabletop Day",
-      "description": "We’re excited to go all-in for our favorite games!"
-    },
-    {
       "title": "Madaraka Day",
       "description": "The first step is sometimes as valuable as any other. Come celebrate Madaraka Day with us!"
     },
@@ -55,12 +51,8 @@
       "description": "The simple concept behind National Billboard day has been around for ages."
     },
     {
-      "title": "National Black Bear Day",
-      "description": "We&#39;ve got all the information you need about America&#39;s black bear right here."
-    },
-    {
-      "title": "National Bubbly Day",
-      "description": "Let your enthusiasm bubble over; celebrate National Bubbly Day our way!"
+      "title": "National Cancer Survivors Day",
+      "description": "The nonprofit National Cancer Survivors Day Foundation rallies its forces and resources to promote the cause."
     },
     {
       "title": "National Hazelnut Cake Day",
@@ -79,20 +71,8 @@
       "description": "The rich tradition of making pen pals continues even today despite social media."
     },
     {
-      "title": "National Prairie Day",
-      "description": "National Prairie Day promotes the appreciation and conservation of America&#39;s native prairies."
-    },
-    {
-      "title": "National Roman Day",
-      "description": "Let’s pull out all the stops for the Romans in the world today."
-    },
-    {
       "title": "National Skincare Education Day",
       "description": "This National Skincare Education Day, learn why taking good care of your skin is critical."
-    },
-    {
-      "title": "National Trails Day",
-      "description": "National Trails Day is not a trial but an awesome celebration of hiking!"
     },
     {
       "title": "New Year&#39;s Resolution Recommitment Day",
@@ -111,6 +91,10 @@
       "description": "People may not remember what you do, but they’ll certainly remember how you made them feel."
     },
     {
+      "title": "Shavuot",
+      "description": "Shavuot—or the Feast of Weeks—is a Jewish holiday, with an agricultural and biblical significance."
+    },
+    {
       "title": "Stand For Children Day",
       "description": "Special days like these can make the country better for the children of America."
     },
@@ -121,10 +105,6 @@
     {
       "title": "Statehood Day in Tennessee",
       "description": "Bust out your red, white, and blue outfit and flag to celebrate Statehood Day of Tennessee!"
-    },
-    {
-      "title": "The Big Lunch",
-      "description": "Get ready to meet and make new friends, it&#39;s The Big Lunch."
     },
     {
       "title": "Wear a Dress Day",
@@ -169,6 +149,70 @@
     {
       "title": "Tom Holland’s Birthday",
       "description": "Our spidey senses think you will enjoy learning more about this talented actor."
+    },
+    {
+      "title": "Chutes and Boots Pro Bull Riding",
+      "description": null
+    },
+    {
+      "title": "Coldplay: Music Of The Spheres World Tour - delivered by DHL",
+      "description": null
+    },
+    {
+      "title": "Hamilton",
+      "description": null
+    },
+    {
+      "title": "Hamilton (NY)",
+      "description": null
+    },
+    {
+      "title": "Hamilton (Touring)",
+      "description": null
+    },
+    {
+      "title": "Hamilton (Touring)",
+      "description": null
+    },
+    {
+      "title": "Hamilton (Touring)",
+      "description": null
+    },
+    {
+      "title": "Hamilton (Touring)",
+      "description": null
+    },
+    {
+      "title": "Harry Potter and the Cursed Child",
+      "description": null
+    },
+    {
+      "title": "Harry Potter and the Cursed Child",
+      "description": null
+    },
+    {
+      "title": "Los Angeles Dodgers vs. New York Yankees",
+      "description": null
+    },
+    {
+      "title": "Mission: Impossible - The Final Reckoning",
+      "description": null
+    },
+    {
+      "title": "Mission: Impossible - The Final Reckoning",
+      "description": null
+    },
+    {
+      "title": "Mission: Impossible - The Final Reckoning",
+      "description": null
+    },
+    {
+      "title": "New York Exiles vs Denver Onyx",
+      "description": null
+    },
+    {
+      "title": "Wild Kratts 2.0: Activate Creature Power!",
+      "description": null
     }
   ]
 }
