@@ -11,10 +11,6 @@
       "description": "A day for celebrating the highest point on Earth? That’s Chimborazo Day for you!"
     },
     {
-      "title": "Columbia Corpus Christi Holiday",
-      "description": "Colombia Corpus Christi is a day to celebrate the body of Christ."
-    },
-    {
       "title": "European Bicycle Day",
       "description": "Non-motorized transport is more important than we think to achieve sustainable development."
     },
@@ -25,14 +21,6 @@
     {
       "title": "Insect Repellent Awareness Day",
       "description": "Rid your environment of pests and diseases by observing Insect Repellent Awareness Day."
-    },
-    {
-      "title": "Isabel Province Day",
-      "description": "This Isabel Province Day, take some time to learn about the province."
-    },
-    {
-      "title": "June Bank Holiday",
-      "description": "Summer is in the air and you have a full day to celebrate this national holiday."
     },
     {
       "title": "Love Conquers All Day",
@@ -61,14 +49,6 @@
     {
       "title": "Repeat Day",
       "description": "Repeating can be a wonderful thing. Especially when it involves an activity we love."
-    },
-    {
-      "title": "The Yang di-Pertuan Agong&#39;s Birthday",
-      "description": "Dive into the history of Malaysian royalty, the only one of its kind in the world."
-    },
-    {
-      "title": "Western Australia Day",
-      "description": "Originally called &#34;Foundation Day,&#34; it has since been renamed to include all Western Australians."
     },
     {
       "title": "World Bicycle Day",
@@ -101,6 +81,54 @@
     {
       "title": "Zayne Emory’s Birthday",
       "description": "Zayne Emory is a talented actor who has appeared in popular T.V. shows like “Supergirl.”"
+    },
+    {
+      "title": "Dive In Movies: Kung Fu Panda 4",
+      "description": null
+    },
+    {
+      "title": "Hamilton",
+      "description": null
+    },
+    {
+      "title": "Hamilton (NY)",
+      "description": null
+    },
+    {
+      "title": "Harry Potter and the Cursed Child",
+      "description": null
+    },
+    {
+      "title": "Karate Kid Legends",
+      "description": null
+    },
+    {
+      "title": "Los Angeles Dodgers vs. New York Mets",
+      "description": null
+    },
+    {
+      "title": "Metallica M72 World Tour",
+      "description": null
+    },
+    {
+      "title": "New York Yankees v. Cleveland Guardians * Premium Seating *",
+      "description": null
+    },
+    {
+      "title": "New York Yankees vs. Cleveland Guardians",
+      "description": null
+    },
+    {
+      "title": "New York Yankees vs. Cleveland Guardians * Group Tickets *",
+      "description": null
+    },
+    {
+      "title": "Pépé le moko",
+      "description": null
+    },
+    {
+      "title": "Pépé le moko",
+      "description": null
     }
   ]
 }
