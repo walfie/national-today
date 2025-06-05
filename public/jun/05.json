@@ -3,16 +3,8 @@
   "day": 5,
   "holidays": [
     {
-      "title": "National Moonshine Day",
-      "description": null
-    },
-    {
       "title": "National Sorry I Was on a Boat Day",
-      "description": "National Sorry I Was on a Boat Day is your official hall pass to log off, head out, and unapologetically float."
-    },
-    {
-      "title": "World Environment Day",
-      "description": "World Environment Day is both a global celebration and a platform for public outreach."
+      "description": null
     },
     {
       "title": "Constitution Day",
@@ -35,10 +27,6 @@
       "description": "It’s time to pull up your sleeves and join the fight against illegal fishing."
     },
     {
-      "title": "International Day for the Fight against Illegal, Unreported and Unregulated Fishing",
-      "description": "This day also attempts to promote local biodiversity as well as food security."
-    },
-    {
       "title": "Khordad National Uprising in Iran",
       "description": "Learn about the events that led to the birth of the Islamic Republic of Iran."
     },
@@ -49,6 +37,10 @@
     {
       "title": "National Lincoln Loud Day",
       "description": "Happy National Lincoln Loud Day! Don&#39;t miss the big celebration this holiday."
+    },
+    {
+      "title": "National Moonshine Day",
+      "description": "Moonshine, once a fiery (and illegal) homemade liquor, has now gone legit."
     },
     {
       "title": "National Veggie Burger Day",
@@ -69,6 +61,10 @@
     {
       "title": "Thank You Day",
       "description": "It’s a day of gratitude and appreciation for the unsung heroes in our communities."
+    },
+    {
+      "title": "World Environment Day",
+      "description": "World Environment Day is both a global celebration and a platform for public outreach."
     },
     {
       "title": "Brandon Farris’s Birthday",
