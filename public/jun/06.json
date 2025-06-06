@@ -3,12 +3,12 @@
   "day": 6,
   "holidays": [
     {
-      "title": "National Eyewear Day",
+      "title": "National Donut Day",
       "description": null
     },
     {
-      "title": "National Moonshine Day",
-      "description": "Moonshine, once a fiery (and illegal) homemade liquor, has now gone legit."
+      "title": "National Eyewear Day",
+      "description": "The good news? Today we can choose from virtually endless styles, shapes, and colors."
     },
     {
       "title": "National Yo-Yo Day",
@@ -31,6 +31,10 @@
       "description": "More than 75 years after the end of World War II, the memories remain fresh."
     },
     {
+      "title": "Hari Raya Haji",
+      "description": "It’s story-time as we celebrate an Islamic tale of devotion that birthed a worldwide event."
+    },
+    {
       "title": "Memorial Day in South Korea",
       "description": "Remembering the brave, fallen soldiers of the Korean War, and all of South Korea."
     },
@@ -51,16 +55,28 @@
       "description": "National Higher Education Day recognizes the importance of education in improving our lives."
     },
     {
-      "title": "Orthodox Ascension Day",
-      "description": "If you celebrate, give thanks to Jesus, Lord and Savior, on Orthodox Ascension Day."
+      "title": "Randol Fawkes Labour Day",
+      "description": "Join the parade as we celebrate and show our appreciation this Randol Fawkes Labor Day."
     },
     {
-      "title": "Savitri Amavasya",
-      "description": "Get informed about the rituals and traditions of this festival with our great information and tips."
+      "title": "Sacrifice Feast Eve",
+      "description": "It is our prayer that Allah accepts your sacrifice and fulfills your desires in life."
+    },
+    {
+      "title": "T. T. Bank Holiday",
+      "description": "Experience one of the most dangerous road racing championships on the planet."
+    },
+    {
+      "title": "Tabaski Day",
+      "description": "It’s time to bow in prayer as we celebrate the Tabaski holiday!"
     },
     {
       "title": "Visually Impaired People Day",
       "description": "Visually Impaired People Day creates awareness about the needs of people with vision loss and impairment."
+    },
+    {
+      "title": "Waqfat Arafat Day",
+      "description": "Let us explore the history behind Waqfat Arafat Day and understand its significance."
     },
     {
       "title": "World Green Roof Day",
@@ -81,6 +97,70 @@
     {
       "title": "Toby Wallace’s Birthday",
       "description": "From “Lucky Country” to “Babyteeth,” Toby continues to surprise us with his talent."
+    },
+    {
+      "title": "First Thursday Cinema Club The Good, The Bad and The Ugly",
+      "description": null
+    },
+    {
+      "title": "Hall Of Fame Fight Night:  Moore vs Wright",
+      "description": null
+    },
+    {
+      "title": "Hamilton",
+      "description": null
+    },
+    {
+      "title": "Hamilton (NY)",
+      "description": null
+    },
+    {
+      "title": "Hamilton (Touring)",
+      "description": null
+    },
+    {
+      "title": "Harry Potter and the Cursed Child",
+      "description": null
+    },
+    {
+      "title": "Harry Potter and the Cursed Child",
+      "description": null
+    },
+    {
+      "title": "Karate Kid Legends",
+      "description": null
+    },
+    {
+      "title": "Mission: Impossible - The Final Reckoning",
+      "description": null
+    },
+    {
+      "title": "Mission: Impossible - The Final Reckoning",
+      "description": null
+    },
+    {
+      "title": "Mission: Impossible - The Final Reckoning",
+      "description": null
+    },
+    {
+      "title": "New York Yankees v. Boston Red Sox * Premium Seating *",
+      "description": null
+    },
+    {
+      "title": "New York Yankees vs. Boston Red Sox",
+      "description": null
+    },
+    {
+      "title": "Pinstripe Pass * New York Yankees v. Boston Red Sox",
+      "description": null
+    },
+    {
+      "title": "The Rocky Horror Picture Show - with Barry Bostwick",
+      "description": null
+    },
+    {
+      "title": "The Wiggles - Bouncing Balls! Tour",
+      "description": null
     }
   ]
 }
