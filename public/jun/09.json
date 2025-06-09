@@ -3,12 +3,8 @@
   "day": 9,
   "holidays": [
     {
-      "title": "International Dark &#39;n Stormy® Day",
-      "description": null
-    },
-    {
       "title": "Day of La Rioja",
-      "description": "Day of La Rioja marks the anniversary of when the autonomous community’s statute was approved."
+      "description": null
     },
     {
       "title": "Day of Murcia",
@@ -19,20 +15,24 @@
       "description": "Well, what do you give to a duck that has it all? His own holiday!"
     },
     {
+      "title": "Eat Flexitarian Day",
+      "description": "Eat Flexitarian Day, celebrated on June 9, is a day for people everywhere to try the incredibly delicious world of plant-based food. By adopting a…"
+    },
+    {
       "title": "Filipino-Chinese Friendship Day",
       "description": "Raise a toast to celebrate Filipino-Chinese Friendship Day right here at National Today."
     },
     {
-      "title": "National Cancer Thriver Day",
-      "description": "Observe National Cancer Thriver Day to celebrate those surviving cancer and those thriving after beating it!"
+      "title": "Holy Spirit Monday",
+      "description": "Today, the faithful celebrate the descension of the Holy Spirit."
+    },
+    {
+      "title": "International Dark &#39;n Stormy® Day",
+      "description": "Grab your Goslings Black Seal Rum® and sparkling ginger beer, we&#39;re celebrating!"
     },
     {
       "title": "National Heroes Day Uganda",
       "description": "Honor the brave who gave their lives for their country on National Heroes Day Uganda."
-    },
-    {
-      "title": "National Kids Day",
-      "description": "Celebrate National Kids Day by celebrating the precious kids in your life."
     },
     {
       "title": "National Krewe of Tucks Day",
@@ -43,20 +43,40 @@
       "description": "Organize your kitchen and treat yourself to your favorite recipes on National Meal Prep Day."
     },
     {
-      "title": "National No Apologies Period Day",
-      "description": "Refuse to abide by the culture that shames menstruators by observing National No Apologies Period Day."
+      "title": "National Mitchell Day",
+      "description": "National Mitchell Day is celebrated on June 9 every year. Mitchell is a surname that has been used as a given name in the U.S.…"
     },
     {
-      "title": "National Sex Day",
-      "description": "Today we celebrate and tell you all about the birds and the bees."
+      "title": "National No Apologies Period Day",
+      "description": "Refuse to abide by the culture that shames menstruators by observing National No Apologies Period Day."
     },
     {
       "title": "National Strawberry Rhubarb Pie Day",
       "description": "It’s time to please that sweet tooth as we celebrate this delicious dessert."
     },
     {
-      "title": "Race Unity Day",
-      "description": "Bahá&#39;í is the original sponsor of Race Unity Day but it can be celebrated by anyone."
+      "title": "Orthodox Pentecost Monday",
+      "description": "Today is the day to prepare a lavish feast to honor the Holy Spirit."
+    },
+    {
+      "title": "Team Green Britain Bike Week",
+      "description": "Grab your cycle out of the shed and go on the ride of a lifetime."
+    },
+    {
+      "title": "Whit Monday",
+      "description": "Whit Monday is a Christian holiday celebrating the descent of the Holy Ghost."
+    },
+    {
+      "title": "Whit Monday (Martinique)",
+      "description": "Celebrate Whit Monday with a burst of religious flavor. Let us get you started!"
+    },
+    {
+      "title": "Whit Monday (Saint Barthelemy)",
+      "description": "It&#39;s Whit Monday, a day to remember the ultimate sacrifice made by Jesus Christ."
+    },
+    {
+      "title": "Whit Monday (Saint Martin)",
+      "description": "Learn about Whit Monday, when the holiday originated, and how to celebrate it."
     },
     {
       "title": "Johnny Depp’s Birthday",
@@ -73,6 +93,18 @@
     {
       "title": "Natalie Portman’s Birthday",
       "description": "Portman is a talented, award-winning, astounding performer who aims to achieve greatness at its fullest."
+    },
+    {
+      "title": "ChiTown Drive-In Presents - Captain America: Brave New World",
+      "description": null
+    },
+    {
+      "title": "Hamilton (Touring)",
+      "description": null
+    },
+    {
+      "title": "The Wiggles - Bouncing Balls! Tour",
+      "description": null
     }
   ]
 }
