@@ -3,12 +3,8 @@
   "day": 10,
   "holidays": [
     {
-      "title": "Eat Flexitarian Day",
-      "description": null
-    },
-    {
       "title": "National Iced Tea Day",
-      "description": "We fill our glasses with iced tea (sweetened or unsweetened—that&#39;s your call) and celebrate."
+      "description": null
     },
     {
       "title": "Abolition Day",
@@ -19,20 +15,8 @@
       "description": "Join us in celebrating the 154th year of horse racing at the Belmont Stakes."
     },
     {
-      "title": "Dragon Boat Festival",
-      "description": "Bring out the zongzi and the wine. Settle in for a journey back in time."
-    },
-    {
       "title": "EHS Day",
       "description": "National EHS Awareness Day is observed every year to spread awareness about electromagnetic hypersensitivity syndrome."
-    },
-    {
-      "title": "Martyrdom Day of Sri Guru Arjun Dev Ji",
-      "description": "Let’s honor Guru Arjun Dev Ji’s memory and remember his deeds, which bettered humanity."
-    },
-    {
-      "title": "National Bae Day",
-      "description": "Today is the day to celebrate that special someone in your life."
     },
     {
       "title": "National Ballpoint Pen Day",
@@ -47,12 +31,20 @@
       "description": "Raise your glasses as we celebrate a soothing summery beverage that is loved by all."
     },
     {
+      "title": "National Call Your Doctor Day",
+      "description": "This day reminds and encourages women to schedule their yearly Well-Woman Exam."
+    },
+    {
       "title": "National Colt Day",
       "description": "Explore the origin, history, and fun trivia about the lively name Colt."
     },
     {
       "title": "National Egg Roll Day",
       "description": "Join us as we unwrap the layers surrounding the origins of this delicious yet underrated treat."
+    },
+    {
+      "title": "National Forklift Safety Day",
+      "description": "Do your bit of the heavy lifting today and commit to safe working environments."
     },
     {
       "title": "National Herbs and Spices Day",
@@ -67,8 +59,12 @@
       "description": "Learn about one of Europe&#39;s most powerful colonial empires and its liberation struggle."
     },
     {
-      "title": "Sacred Heart",
-      "description": "It’s all about the greatest love we’ve ever known this holiday, the love of Jesus Christ."
+      "title": "Poson Festival",
+      "description": "Held at full moon, this day commemorates the introduction of Buddhism to Sri Lanka."
+    },
+    {
+      "title": "Royal Ascot",
+      "description": "Watch the centuries-old Flat racing meeting Royal Ascot held every year in England."
     },
     {
       "title": "Slavery Abolition Day (French Guiana)",
@@ -101,6 +97,30 @@
     {
       "title": "Theresa Caputo’s Birthday",
       "description": "Theresa Caputo sees, hears, and feels things differently than we do in the physical world."
+    },
+    {
+      "title": "David Golder",
+      "description": null
+    },
+    {
+      "title": "David Golder",
+      "description": null
+    },
+    {
+      "title": "Dive In Movies: Harry Potter &amp; The Sorcerer&#39;s Stone",
+      "description": null
+    },
+    {
+      "title": "Hamilton",
+      "description": null
+    },
+    {
+      "title": "Hamilton (NY)",
+      "description": null
+    },
+    {
+      "title": "San Diego Padres vs. Los Angeles Dodgers",
+      "description": null
     }
   ]
 }
