@@ -11,12 +11,24 @@
       "description": "What happens when you combine corn, limestone, white oak, fire, and time? You get bourbon."
     },
     {
+      "title": "National Rosé Day",
+      "description": "Celebrate summer, friends and all things pink on National Rosé Day!"
+    },
+    {
       "title": "World Blood Donor Day",
       "description": "From plasma treatments to emergency uses, donating blood has aided the world on several occasions."
     },
     {
       "title": "Army Birthday",
       "description": "Join the celebration of the U.S. Army Birthday as we remember its creation in 1775."
+    },
+    {
+      "title": "Doll Day",
+      "description": "Bring out your dolls and reminisce about the good ol’ days."
+    },
+    {
+      "title": "Eid-e-Ghadir",
+      "description": "Eid-e-Ghadir is a day of celebration and remembrance for Shia Muslims all over the world."
     },
     {
       "title": "Falkland Islands Liberation Day",
@@ -27,8 +39,16 @@
       "description": "Bring out your bubble bath and enjoy a luxurious soak on International Bath Day."
     },
     {
+      "title": "International Knit in Public Day",
+      "description": "Join us as we stitch together a fun way to celebrate International Knit in Public Day!"
+    },
+    {
       "title": "Monkey Around Day",
       "description": "Today is the day to ‘go ape’, so let go and have a good time."
+    },
+    {
+      "title": "National Dog Dad Day",
+      "description": "This day is for you and your beloved dog. Grab your pupper and enjoy it!"
     },
     {
       "title": "National New Mexico Day",
@@ -47,6 +67,18 @@
       "description": "There’s no better time than Pahili Raja Day to celebrate womanhood and Mother Earth!"
     },
     {
+      "title": "Trooping The Colour",
+      "description": "We go BuckingHAM on the palace with the Trooping the Colour ceremony."
+    },
+    {
+      "title": "World Gin Day",
+      "description": "Join us as we celebrate the world’s favorite juniper-flavored spirit this World Gin Day."
+    },
+    {
+      "title": "World Juggling Day",
+      "description": "Discover the wonders of juggling as an art that has enticed many since its inception."
+    },
+    {
       "title": "Donald Trump’s Birthday",
       "description": "Everyone has an opinion about the 45th President of the United States, Donald Trump!"
     },
@@ -61,6 +93,274 @@
     {
       "title": "Tzuyu’s Birthday",
       "description": "There’s no limit — not even the sky! —  for this amazing singer and dancer."
+    },
+    {
+      "title": "BIG3",
+      "description": null
+    },
+    {
+      "title": "Boney James Slow Burn Tour",
+      "description": null
+    },
+    {
+      "title": "Boney James: Slow Burn Tour",
+      "description": null
+    },
+    {
+      "title": "Bonnaroo Music &amp; Arts Festival",
+      "description": null
+    },
+    {
+      "title": "Boston Red Sox vs. New York Yankees",
+      "description": null
+    },
+    {
+      "title": "BrownstoneJAZZ FEST CONCERT SERIES",
+      "description": null
+    },
+    {
+      "title": "BrownstoneJAZZ FEST CONCERT SERIES",
+      "description": null
+    },
+    {
+      "title": "ChiTown Drive-In Presents - Friday the 13th",
+      "description": null
+    },
+    {
+      "title": "ChiTown Drive-In Presents - Friday the 13th",
+      "description": null
+    },
+    {
+      "title": "Classic Movie Night At The Jefferson Friday The 13th: Part V",
+      "description": null
+    },
+    {
+      "title": "Coldplay: Music Of The Spheres World Tour - delivered by DHL",
+      "description": null
+    },
+    {
+      "title": "CoMo Grown-Up Book Fair",
+      "description": null
+    },
+    {
+      "title": "Day Out With Thomas (TM), Thomas &amp; Friends",
+      "description": null
+    },
+    {
+      "title": "Day Out With Thomas (TM), Thomas &amp; Friends",
+      "description": null
+    },
+    {
+      "title": "Day Out With Thomas (TM), Thomas &amp; Friends",
+      "description": null
+    },
+    {
+      "title": "Day Out With Thomas (TM), Thomas &amp; Friends",
+      "description": null
+    },
+    {
+      "title": "Day Out With Thomas (TM), Thomas &amp; Friends",
+      "description": null
+    },
+    {
+      "title": "Day Out With Thomas (TM), Thomas &amp; Friends",
+      "description": null
+    },
+    {
+      "title": "Day Out With Thomas (TM), Thomas &amp; Friends",
+      "description": null
+    },
+    {
+      "title": "Day Out With Thomas (TM), Thomas &amp; Friends",
+      "description": null
+    },
+    {
+      "title": "Day Out With Thomas (TM), Thomas &amp; Friends",
+      "description": null
+    },
+    {
+      "title": "Day Out With Thomas (TM), Thomas &amp; Friends",
+      "description": null
+    },
+    {
+      "title": "Day Out With Thomas (TM), Thomas &amp; Friends",
+      "description": null
+    },
+    {
+      "title": "Day Out With Thomas (TM), Thomas &amp; Friends",
+      "description": null
+    },
+    {
+      "title": "Day Out With Thomas (TM), Thomas &amp; Friends",
+      "description": null
+    },
+    {
+      "title": "Day Out With Thomas (TM), Thomas &amp; Friends",
+      "description": null
+    },
+    {
+      "title": "Dhoruba Trio | FREE w/ RSVP!",
+      "description": null
+    },
+    {
+      "title": "EVERY WOMAN starring Patryce &#34;Choc&#39;Let&#34; Banks, Freddie Pool, &amp; Grammy Award-winner Hazel Payne",
+      "description": null
+    },
+    {
+      "title": "Father&#39;s Day Pro Boxing Classic",
+      "description": null
+    },
+    {
+      "title": "Hamilton",
+      "description": null
+    },
+    {
+      "title": "Hamilton",
+      "description": null
+    },
+    {
+      "title": "Hamilton (NY)",
+      "description": null
+    },
+    {
+      "title": "Hamilton (Touring)",
+      "description": null
+    },
+    {
+      "title": "Hamilton (Touring)",
+      "description": null
+    },
+    {
+      "title": "Harry Potter and the Cursed Child",
+      "description": null
+    },
+    {
+      "title": "Harry Potter In Concert",
+      "description": null
+    },
+    {
+      "title": "How to Train Your Dragon",
+      "description": null
+    },
+    {
+      "title": "How To Train Your Dragon - An IMAX 3D Experience",
+      "description": null
+    },
+    {
+      "title": "How To Train Your Dragon - The IMAX Experience",
+      "description": null
+    },
+    {
+      "title": "How To Train Your Dragon - The IMAX Experience",
+      "description": null
+    },
+    {
+      "title": "Indiana Fever vs. New York Liberty",
+      "description": null
+    },
+    {
+      "title": "Jacqui Naylor",
+      "description": null
+    },
+    {
+      "title": "Jacqui Naylor",
+      "description": null
+    },
+    {
+      "title": "Jimmy Greene Quintet - As We Are Now release celebration",
+      "description": null
+    },
+    {
+      "title": "Joe Alterman Trio",
+      "description": null
+    },
+    {
+      "title": "Joe Alterman Trio",
+      "description": null
+    },
+    {
+      "title": "Joe Stilgoe",
+      "description": null
+    },
+    {
+      "title": "Los Angeles Dodgers vs. San Francisco Giants",
+      "description": null
+    },
+    {
+      "title": "Loud City Live Experience for NBA Finals Series Game 4",
+      "description": null
+    },
+    {
+      "title": "Matchroom Boxing: Hitchins v. Kambosos Jr.",
+      "description": null
+    },
+    {
+      "title": "Metallica M72 World Tour",
+      "description": null
+    },
+    {
+      "title": "Minnesota Lynx vs. Los Angeles Sparks",
+      "description": null
+    },
+    {
+      "title": "Movie: The Birdcage w/ John DiLeo",
+      "description": null
+    },
+    {
+      "title": "MWC ¨Lucha Libre Mexicana¨ @LaBoomNY",
+      "description": null
+    },
+    {
+      "title": "NBA Finals: Oklahoma City Thunder @ Indiana Pacers Rd 4 Hm Gm 2",
+      "description": null
+    },
+    {
+      "title": "New York Exiles vs Chicago Tempest",
+      "description": null
+    },
+    {
+      "title": "Riley Green: Damn Country Music Tour",
+      "description": null
+    },
+    {
+      "title": "Saturday afternoon on the PATIO w/ GROOVE WITNESS!",
+      "description": null
+    },
+    {
+      "title": "Spyro Gyra",
+      "description": null
+    },
+    {
+      "title": "Star Boxing - Prospects Collide",
+      "description": null
+    },
+    {
+      "title": "STRICTLY SINATRA - A Tribute To FRANK SINATRA Starring Michael Dutra &amp; His 9-Pc. Big Band Ensemble",
+      "description": null
+    },
+    {
+      "title": "The Rat Pack Summer Show: A Tribute to the Sounds of Sinatra  featuring Richard Jacques, Keith Sargent, Kyle Henry and Michelle Murray",
+      "description": null
+    },
+    {
+      "title": "THE REVERENCE PROJECT: John Patitucci, Darryl Jones, Nate Smith &amp; James Francies",
+      "description": null
+    },
+    {
+      "title": "THE REVERENCE PROJECT: John Patitucci, Darryl Jones, Nate Smith &amp; James Francies",
+      "description": null
+    },
+    {
+      "title": "The Wiggles - Bouncing Balls! Tour",
+      "description": null
+    },
+    {
+      "title": "Thomas Rhett: Better In Boots Tour 2025",
+      "description": null
+    },
+    {
+      "title": "Twin Cities Gemini vs Boston Banshees",
+      "description": null
     }
   ]
 }
