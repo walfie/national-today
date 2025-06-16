@@ -3,12 +3,12 @@
   "day": 16,
   "holidays": [
     {
-      "title": "Father&#39;s Day",
+      "title": "National Fudge Day",
       "description": null
     },
     {
-      "title": "National Fudge Day",
-      "description": "&#34;Oh, fudge!&#34; said a confectioner who flubbed while making caramel, ending up creating something equally tasty."
+      "title": "Take Your Cat to Work Day",
+      "description": "We show our cats the world on the other side of the window."
     },
     {
       "title": "Arborist Appreciation Day",
@@ -19,20 +19,12 @@
       "description": "Commemorating the life and legend of Irish writer James Joyce on Bloomsday."
     },
     {
-      "title": "BoxKart Bash Day",
-      "description": "Unleash your creativity and test your bravery and D.I.Y. skills this BoxKart Bash Day."
+      "title": "Clean Your Kitchen Vents Day",
+      "description": "Clean Your Kitchen Vents Day is celebrated on June 17 and National Today is here to tell you all about it. We’re sure you’ve thought…"
     },
     {
       "title": "Fresh Veggies Day",
       "description": "Celebrate Fresh Veggies Day today by including them in your meals to live a healthy lifestyle."
-    },
-    {
-      "title": "Guru Rinpoche Day",
-      "description": "On this day, Guru Rinpoche, who is credited with spreading Buddhism to Bhutan, is honored."
-    },
-    {
-      "title": "Hari Raya Haji",
-      "description": "It’s story-time as we celebrate an Islamic tale of devotion that birthed a worldwide event."
     },
     {
       "title": "International Day of Family Remittances",
@@ -49,30 +41,6 @@
     {
       "title": "Martyrdom of Guru Arjan Dev Sahib",
       "description": "Observe a day of worship and processions on the Martyrdom of Guru Arjan Dev Sahib."
-    },
-    {
-      "title": "National Casey Day",
-      "description": "Celebrate this day with all those named Casey — not forgetting K.C. and Catharine."
-    },
-    {
-      "title": "National Mohammad Day",
-      "description": "Are you ready to celebrate this day? Call someone named Muhammad and start having fun together."
-    },
-    {
-      "title": "National Turkey Lovers Day",
-      "description": "Join the tribe of turkey lovers and make some fun dishes this Turkey Lovers’ Day."
-    },
-    {
-      "title": "Sacrifice Feast Eve",
-      "description": "It is our prayer that Allah accepts your sacrifice and fulfills your desires in life."
-    },
-    {
-      "title": "Tabaski Day",
-      "description": "It’s time to bow in prayer as we celebrate the Tabaski holiday!"
-    },
-    {
-      "title": "Waqfat Arafat Day",
-      "description": "Let us explore the history behind Waqfat Arafat Day and understand its significance."
     },
     {
       "title": "World Sea Turtle Day",
@@ -93,6 +61,106 @@
     {
       "title": "Phil Mickelson’s Birthday",
       "description": "With multiple championship wins, iconic shots, and a professional legacy, Phil Mickelson has created history."
+    },
+    {
+      "title": "8 Seconds Rodeo",
+      "description": null
+    },
+    {
+      "title": "Black, Queer, and Here",
+      "description": null
+    },
+    {
+      "title": "ChiTown Drive-In Presents - Halloween (the 1978 original!)",
+      "description": null
+    },
+    {
+      "title": "ChiTown Movies Presents - Grease",
+      "description": null
+    },
+    {
+      "title": "College National Finals Rodeo: Monday Morning Slack Rounds",
+      "description": null
+    },
+    {
+      "title": "DAVID GARFIELD: SONGS FOR OUR FATHERS, A Father&#39;s Day Celebration (Musician and Renaissance Man) || with special guest SIMON PHILLIPS, feat: Lenny Castro (perc.) Robbie Wyckoff (vocals) &amp; more!",
+      "description": null
+    },
+    {
+      "title": "Day Out With Thomas (TM), Thomas &amp; Friends",
+      "description": null
+    },
+    {
+      "title": "Day Out With Thomas (TM), Thomas &amp; Friends",
+      "description": null
+    },
+    {
+      "title": "Day Out With Thomas (TM), Thomas &amp; Friends",
+      "description": null
+    },
+    {
+      "title": "Day Out With Thomas (TM), Thomas &amp; Friends",
+      "description": null
+    },
+    {
+      "title": "Day Out With Thomas (TM), Thomas &amp; Friends",
+      "description": null
+    },
+    {
+      "title": "Joe Alterman Trio w/ Houston Person",
+      "description": null
+    },
+    {
+      "title": "Kaleigh Baker",
+      "description": null
+    },
+    {
+      "title": "Keiko Matsui",
+      "description": null
+    },
+    {
+      "title": "Keiko Matsui",
+      "description": null
+    },
+    {
+      "title": "New York Yankees v. Los Angeles Angels * Premium Seating *",
+      "description": null
+    },
+    {
+      "title": "New York Yankees vs. Los Angeles Angels",
+      "description": null
+    },
+    {
+      "title": "New York Yankees vs. Los Angeles Angels * Group Tickets *",
+      "description": null
+    },
+    {
+      "title": "Pinstripe Pass * New York Yankees v. Los Angeles Angels",
+      "description": null
+    },
+    {
+      "title": "The Afro Latin Jazz Orchestra",
+      "description": null
+    },
+    {
+      "title": "The Afro Latin Jazz Orchestra",
+      "description": null
+    },
+    {
+      "title": "The Grammy Winning Hot 8 Brass Band",
+      "description": null
+    },
+    {
+      "title": "THE REVERENCE PROJECT: John Patitucci, Darryl Jones, Nate Smith &amp; James Francies",
+      "description": null
+    },
+    {
+      "title": "THE REVERENCE PROJECT: John Patitucci, Darryl Jones, Nate Smith &amp; James Francies",
+      "description": null
+    },
+    {
+      "title": "TROMBONE SHORTY &amp; ORLEANS AVENUE - MIGHT NOT MAKE IT HOME TOUR",
+      "description": null
     }
   ]
 }
