@@ -3,12 +3,8 @@
   "day": 15,
   "holidays": [
     {
-      "title": "Museum Selfie Day",
-      "description": null
-    },
-    {
       "title": "National Bagel Day",
-      "description": "Bagels have a history that is richer than your favorite cream cheese spread!"
+      "description": null
     },
     {
       "title": "National Hat Day",
@@ -43,8 +39,16 @@
       "description": "Even if you’re strictly vanilla or chocolate, add some pink tartness to your ice cream today."
     },
     {
+      "title": "Spring Festival Golden Week holiday",
+      "description": "Mark your calendars and celebrate Spring Festival Golden Week of the New Year with us!"
+    },
+    {
       "title": "Wikipedia Day",
       "description": "Explore the love for research by checking out some of the most famous Wikipedia pages."
+    },
+    {
+      "title": "Women’s Healthy Weight Day",
+      "description": "Get ready ladies as it’s time to flaunt that beautiful body with confidence."
     },
     {
       "title": "Martin Luther King’s Birthday",

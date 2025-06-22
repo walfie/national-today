@@ -3,8 +3,12 @@
   "day": 21,
   "holidays": [
     {
-      "title": "National Check Your Coverage Day",
+      "title": "Museum Selfie Day",
       "description": null
+    },
+    {
+      "title": "National Check Your Coverage Day",
+      "description": "Check your coverage of Talkspace and receive access to online therapy and psychiatry covered by insurance."
     },
     {
       "title": "National Hugging Day",
@@ -25,6 +29,10 @@
     {
       "title": "International Sweatpants Day",
       "description": "Have fun and rock your favorite baggy sweatpants this International Sweatpants Day."
+    },
+    {
+      "title": "Mariachi Day",
+      "description": "Pound your feet on the dance floor as we groove to the beat of mariachi."
     },
     {
       "title": "National Bakers-Crafters-Makers Day",
@@ -59,16 +67,12 @@
       "description": "Owning a home is not exactly easy, so why not celebrate your homeownership status."
     },
     {
-      "title": "Rid the World of Fad Diets &amp; Gimmicks Day",
-      "description": "Get ready for a healthy lifestyle — it’s Rid the World of Fad Diets and Gimmicks Day!"
-    },
-    {
       "title": "Thank Your Mentor Day",
       "description": "Pssst! Remember, you can always thank your mentor by giving him or her a surprise!"
     },
     {
-      "title": "Mariachi Day",
-      "description": "Pound your feet on the dance floor as we groove to the beat of mariachi."
+      "title": "Weedless Wednesday",
+      "description": "How about quitting smoking just for a day … today?"
     },
     {
       "title": "Aleksa Safiya’s Birthday",

@@ -3,16 +3,16 @@
   "day": 10,
   "holidays": [
     {
-      "title": "National Clean Out Your Computer Day",
-      "description": null
-    },
-    {
       "title": "All the News That&#39;s Fit to Print Day",
-      "description": "All the News That’s Fit to Print Day is observed to encourage honest journalism."
+      "description": null
     },
     {
       "title": "Children&#39;s Hospice Day",
       "description": "Children&#39;s Hospice Day also recognizes the importance of hospices in healthcare. Let’s learn more."
+    },
+    {
+      "title": "Extraterrestrial Culture Day",
+      "description": "Have you ever wondered about the lives that may exist in other galaxies?"
     },
     {
       "title": "Feast of St. Paul&#39;s Shipwreck",
@@ -21,10 +21,6 @@
     {
       "title": "International Cribbage Day",
       "description": "Play cribbage with your friends or family to commemorate International Cribbage Day."
-    },
-    {
-      "title": "International Epilepsy Day",
-      "description": "Learn more about one of the world’s oldest-known diseases on International Epilepsy Day."
     },
     {
       "title": "National Cream Cheese Brownie Day",
@@ -43,24 +39,16 @@
       "description": "Get ready to celebrate one of the most iconic names in the world."
     },
     {
-      "title": "National Poop Day",
-      "description": "It’s the day to celebrate one of the body’s most important functions."
-    },
-    {
       "title": "National Umbrella Day",
       "description": "As part of many cultures since ancient times, umbrellas have a storied history worth commemorating."
-    },
-    {
-      "title": "Oatmeal Monday",
-      "description": "Get your pan ready and the fire going — we are making Oatmeal Monday come to life."
     },
     {
       "title": "Plimsoll Day",
       "description": "Get ready to know why Plimsoll Day is important in the shipping industry!"
     },
     {
-      "title": "Sick of Food Waste Day",
-      "description": "The Monday after the Big Game is known for being a major “sick” day, with 16+ million people estimated to call in “sick” from work…"
+      "title": "Qatar Sports Day",
+      "description": "Qatar encourages all citizens to get fit by recognizing National Sports Day."
     },
     {
       "title": "Teddy Day",
@@ -69,6 +57,10 @@
     {
       "title": "Valentismas",
       "description": "Remind yourself of the love that you are surrounded by on Valentismas."
+    },
+    {
+      "title": "World AG Expo",
+      "description": "The World A.G. Expo is celebrated to encourage the export of American-made agricultural goods."
     },
     {
       "title": "World Pulses Day",

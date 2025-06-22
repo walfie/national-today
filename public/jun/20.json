@@ -1,5 +1,106 @@
 {
   "month": "jun",
   "day": 20,
-  "holidays": []
+  "holidays": [
+    {
+      "title": "American Eagle Day",
+      "description": null
+    },
+    {
+      "title": "National Take Your Dog to Work Day",
+      "description": "As you run out the door, don’t forget your briefcase and a doggie bag."
+    },
+    {
+      "title": "Ugliest Dog Day",
+      "description": "When it comes to man’s best friend, is there really any dog that can’t be adorable?"
+    },
+    {
+      "title": "World Refugee Day",
+      "description": "For refugees, fleeing their home country is often just the beginning of a difficult journey."
+    },
+    {
+      "title": "Clear Your Drains Day",
+      "description": "It&#39;s time to tackle a forgotten hero of your home – your drains!"
+    },
+    {
+      "title": "Flag Day Argentina",
+      "description": "The day commemorates Manuel Belgrano, the man who designed Argentina’s current flag."
+    },
+    {
+      "title": "Kouign Amann Day",
+      "description": "Celebrate National Kouign Amann Day and learn to transform this simple tea-time snack into a delectable dessert."
+    },
+    {
+      "title": "Martyrs&#39; Day in Eritrea",
+      "description": "The day honors those who gave their lives for the country’s freedom."
+    },
+    {
+      "title": "Matariki",
+      "description": "We’re taking a starry ride to New Zealand to celebrate a holiday like no other."
+    },
+    {
+      "title": "National Celluma Light Therapy Day",
+      "description": "This holiday raises awareness about a non-toxic, non-invasive alternative to medications and surgical intervention."
+    },
+    {
+      "title": "National Day of the Indigenous People in Chile",
+      "description": "Join us in celebration of this day which honors the unique culture of indigenous people."
+    },
+    {
+      "title": "National Flip Flop Day",
+      "description": "Check out our fun suggestions for making the most of National Flip Flop Day."
+    },
+    {
+      "title": "National Hike with a Geek Day",
+      "description": "Explore your nearest hiking trail with a geeky friend on National Hike with a Geek Day."
+    },
+    {
+      "title": "National Ice Cream Soda Day",
+      "description": "Celebrate ice cream soda by learning how it originated and which flavors are the most popular."
+    },
+    {
+      "title": "National Take Back the Lunch Break Day",
+      "description": "Want to know why you need to take a lunch break? Read on..."
+    },
+    {
+      "title": "National Vanilla Milkshake Day",
+      "description": "Vanilla is native to Mexico and it&#39;s the only fruit-bearing member of the orchid family."
+    },
+    {
+      "title": "National West Virginia Day",
+      "description": "There is so much that West Virginia has that its residents can be proud of."
+    },
+    {
+      "title": "Nystagmus Awareness Day",
+      "description": "Learn how you can contribute to improving the lives of people with nystagmus."
+    },
+    {
+      "title": "World Productivity Day",
+      "description": "Want to be more productive? Here’s how to get stuff done today!"
+    },
+    {
+      "title": "Alex Guarnaschelli’s Birthday",
+      "description": "Alex Guarnaschelli is a huge food personality, and her talent has no equal."
+    },
+    {
+      "title": "Capri Bryant’s Birthday",
+      "description": "Little Bryant is well-known for her adorable smile. Join us as we celebrate her birthday."
+    },
+    {
+      "title": "Dave Hawks’s Birthday",
+      "description": "The talented singer Dave Hawks is also a brilliant photographer and owns a magnificent studio."
+    },
+    {
+      "title": "Lionel Richie’s Birthday",
+      "description": "He’s among the most successful balladeers of the ’80s, he’s sold millions of records worldwide."
+    },
+    {
+      "title": "Nicole Kidman’s Birthday",
+      "description": "Let’s celebrate Kidman, who’s been a part of some of Hollywood’s best films."
+    },
+    {
+      "title": "Sage The Gemini’s Birthday",
+      "description": "Nothing is stopping this incredible rapper and record producer; he’s the future of music!"
+    }
+  ]
 }

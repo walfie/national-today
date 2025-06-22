@@ -3,12 +3,8 @@
   "day": 5,
   "holidays": [
     {
-      "title": "Ash Wednesday",
-      "description": null
-    },
-    {
       "title": "National Absinthe Day",
-      "description": "“The green fairy” drink enjoys a mystique, making it an especially fun drink to enjoy!"
+      "description": null
     },
     {
       "title": "Arrival Of The First Missionaries",
@@ -19,16 +15,12 @@
       "description": "Loosen up with a tall drink of your favorite alcoholic beverage for Cinco de Marcho."
     },
     {
-      "title": "Discover What Your Name Means Day",
-      "description": "Let’s get ready to search for the true meaning of our name this holiday!"
+      "title": "Custom Chief&#39;s Day",
+      "description": "Culture and tradition bind us together as a society, so preserving them is important."
     },
     {
       "title": "Dissociative Identity Disorder Awareness Day",
       "description": "Learn more about dissociative identity disorders and how they can be managed."
-    },
-    {
-      "title": "Equal Pay Day",
-      "description": "Learn about the history of the long struggle for equality and how it carries on today."
     },
     {
       "title": "International Open Data Day",
@@ -39,16 +31,20 @@
       "description": "Hats are a fashionable accessory, but today we honor a Kyrgyz cultural adornment."
     },
     {
-      "title": "Learn What Your Name Means Day",
-      "description": "What’s in a name? Turns out, a lot. Let’s find out what your name actually means."
-    },
-    {
       "title": "Multiple Personality Day",
       "description": "There are two approaches to observing this day and celebrating the complexities of the human personality."
     },
     {
+      "title": "Nametag Day",
+      "description": "Get ready to introduce yourself to the world by donning a name tag!"
+    },
+    {
       "title": "National Cheese Doodle Day",
       "description": "From cheese doodles, to cheese balls, these tasty snacks are sure to leave fingers bright orange."
+    },
+    {
+      "title": "National Hospitalist Day",
+      "description": "Do you know what the difference between a hospitalist and a doctor is? No? Read on!"
     },
     {
       "title": "National Potty Dance Day",
@@ -63,16 +59,8 @@
       "description": "The official holiday of Cornwall honors the patron saint of tin miners."
     },
     {
-      "title": "Stop Bad Service Day",
-      "description": "Join us and let’s work together to put an end to bad service!"
-    },
-    {
       "title": "World Information Architecture Day",
       "description": "You&#39;re invited to join the conversation and learn how information architecture simplifies complex data."
-    },
-    {
-      "title": "Custom Chief&#39;s Day",
-      "description": "Culture and tradition bind us together as a society, so preserving them is important."
     },
     {
       "title": "Chloe Veitch’s Birthday",

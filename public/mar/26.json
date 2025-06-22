@@ -3,20 +3,12 @@
   "day": 26,
   "holidays": [
     {
-      "title": "Manatee Appreciation Day",
-      "description": null
-    },
-    {
       "title": "National Spinach Day",
-      "description": "“I&#39;m Popeye the Sailor Man, I&#39;m strong to the finich, cause I eats me spinach...”"
+      "description": null
     },
     {
       "title": "Air Max Day",
       "description": "Air Max Day celebrates one of the most iconic sneakers design in history."
-    },
-    {
-      "title": "American Red Cross Giving Day",
-      "description": "Let’s give our hearts to humanity and build a world we can be proud of."
     },
     {
       "title": "Black Marriage Day",
@@ -35,12 +27,12 @@
       "description": "Join us as we celebrate with the beautiful people of Bangladesh!"
     },
     {
-      "title": "Little Red Wagon Day",
-      "description": "As a child, were you also pulled across the park in a little red wagon?"
-    },
-    {
       "title": "Live Long and Prosper Day",
       "description": "Become a Vulcan for a day and throw up a sign to wish others well."
+    },
+    {
+      "title": "Major League Baseball Opening Day",
+      "description": "Every year thousands of people call in sick so they can be in the seats when the first pitch is thrown."
     },
     {
       "title": "Make Up Your Own Holiday Day",
@@ -53,10 +45,6 @@
     {
       "title": "National Day of Life, Peace and Justice",
       "description": "Wondering how to celebrate this day? We’ve got some suggestions for you!"
-    },
-    {
-      "title": "National Governance Professionals Day",
-      "description": "We raise awareness and celebrate the essential role of governance professionals who contribute to businesses’ success."
     },
     {
       "title": "National Landon Day",
@@ -75,16 +63,16 @@
       "description": "Join us as we celebrate the life and accomplishments of Prince Kuhio, Hawaii’s last prince."
     },
     {
+      "title": "Ram Navami Day",
+      "description": "Get ready to understand the story behind Ram Navami and the importance of the day."
+    },
+    {
       "title": "Solitude Day",
       "description": "Even the most social of butterflies can benefit from time alone today."
     },
     {
       "title": "Wear A Hat Day",
       "description": "We raise awareness and funds for brain-tumor research, and look good while we’re at it!"
-    },
-    {
-      "title": "Whole Grain Sampling Day",
-      "description": "On this day, get that silverware out to celebrate Whole Grain Sampling Day."
     },
     {
       "title": "Brittany Banks’s Birthday",

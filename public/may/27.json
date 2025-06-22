@@ -35,6 +35,10 @@
       "description": "The name Jordan is an intriguing one. This National Jordan Day, let’s find out why."
     },
     {
+      "title": "National Senior Health and Fitness Day",
+      "description": "The common goal of this day is to help senior Americans stay fit and healthy."
+    },
+    {
       "title": "Nothing to Fear Day",
       "description": "Fear not; come and join us as we celebrate Nothing To Fear Day."
     },
@@ -43,16 +47,16 @@
       "description": "Old-Time Player Piano Day takes place to memorialize this unique musical instrument that plays itself."
     },
     {
-      "title": "Scripps Spelling Bee",
-      "description": "Want to know all about the Scripps National Spelling Bee? We have all the info you need."
-    },
-    {
       "title": "Slavery Abolition Day (Guadeloupe)",
       "description": "This Slavery Abolition Day, join us as we uncover Guadeloupe’s complex history!"
     },
     {
       "title": "Sunscreen Day",
       "description": "Making sunscreen a priority, and protecting the largest organ of the body at all costs."
+    },
+    {
+      "title": "World Otter Day",
+      "description": "Learn more about these charming critters and what you can do to save them."
     },
     {
       "title": "Blippi’s Birthday",
@@ -77,58 +81,6 @@
     {
       "title": "Zach Herron’s Birthday",
       "description": "With his melodious voice and dashing looks, Zach Herron has captivated the hearts of millions worldwide."
-    },
-    {
-      "title": "Cleveland Guardians vs. Los Angeles Dodgers",
-      "description": null
-    },
-    {
-      "title": "Connecticut Sun v Dallas Wings",
-      "description": null
-    },
-    {
-      "title": "Dive In Movies: Captain America: The First Avenger",
-      "description": null
-    },
-    {
-      "title": "Hamilton",
-      "description": null
-    },
-    {
-      "title": "Hamilton (NY)",
-      "description": null
-    },
-    {
-      "title": "Hamilton (Touring)",
-      "description": null
-    },
-    {
-      "title": "Harry Potter and the Cursed Child",
-      "description": null
-    },
-    {
-      "title": "Los Angeles Angels vs. New York Yankees",
-      "description": null
-    },
-    {
-      "title": "New York Liberty v. Golden State Valkyries (AAPI Night)",
-      "description": null
-    },
-    {
-      "title": "New York Liberty vs Golden State Valkyries (Suite)",
-      "description": null
-    },
-    {
-      "title": "Sinners",
-      "description": null
-    },
-    {
-      "title": "The Ballad of Suzanne Césaire",
-      "description": null
-    },
-    {
-      "title": "West Conf Semis: TBD at Clippers Rd 2 Game 4",
-      "description": null
     }
   ]
 }

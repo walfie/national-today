@@ -43,12 +43,24 @@
       "description": "Show all the Elis you know they — and their name — are loved."
     },
     {
+      "title": "National Employee Health and Fitness Day",
+      "description": "On this day, employees and employers are reminded of the necessity and advantages of regular exercise."
+    },
+    {
       "title": "National High Heel Day",
       "description": "It’s that time of the year to strut in your highest heels and make history."
     },
     {
       "title": "National Jase Day",
       "description": "Rejoice and celebrate all the Jases out there with our awesome celebration suggestions."
+    },
+    {
+      "title": "National Juice Slush Day",
+      "description": "Marking the start of summer, juice slush is a pleasant drink that will quench your thirst."
+    },
+    {
+      "title": "National Numeracy Day UK",
+      "description": "Numbers and numeracy are important, and this day is set aside to recognize this."
     },
     {
       "title": "National Pick Strawberries Day",
@@ -67,16 +79,16 @@
       "description": "Rio is an independent name that is associated with strength and bravery."
     },
     {
-      "title": "National Stop Nausea Day",
-      "description": "Nausea can be very uncomfortable but these days, it can be treated with medication."
-    },
-    {
       "title": "National Streaming Day",
       "description": "Grab your remote and popcorn to enjoy your favorite shows this National Streaming Day."
     },
     {
       "title": "National Women In Aerospace Day",
       "description": "The day also celebrates women working in commercial aviation, defense, and space."
+    },
+    {
+      "title": "Turn Beauty Inside Out Day",
+      "description": "Let’s put an end to the media’s self-esteem breakers by celebrating Turn Beauty Inside Out Day."
     },
     {
       "title": "Weights and Measures Day",
@@ -117,66 +129,6 @@
     {
       "title": "Lonnie Adolphsen’s Birthday",
       "description": "YouTube gaming content creation is still a niche market and we’d love to highlight Lonnie Adolphsen."
-    },
-    {
-      "title": "Connecticut Sun v Las Vegas Aces",
-      "description": null
-    },
-    {
-      "title": "Dive In Movies: Shrek",
-      "description": null
-    },
-    {
-      "title": "East Conf Semis: Knicks at Celtics Round 2 Home Game 4 (if necessary)",
-      "description": null
-    },
-    {
-      "title": "Hamilton",
-      "description": null
-    },
-    {
-      "title": "Hamilton (NY)",
-      "description": null
-    },
-    {
-      "title": "Harry Potter and the Cursed Child",
-      "description": null
-    },
-    {
-      "title": "In the Name of My Daughter",
-      "description": null
-    },
-    {
-      "title": "In the Name of My Daughter",
-      "description": null
-    },
-    {
-      "title": "Indiana Fever vs. Atlanta Dream",
-      "description": null
-    },
-    {
-      "title": "Los Angeles Dodgers vs. Arizona Diamondbacks",
-      "description": null
-    },
-    {
-      "title": "New York Yankees v. Texas Rangers * Premium Seating *",
-      "description": null
-    },
-    {
-      "title": "New York Yankees vs. Texas Rangers",
-      "description": null
-    },
-    {
-      "title": "New York Yankees vs. Texas Rangers * Group Tickets *",
-      "description": null
-    },
-    {
-      "title": "Outlaw Music Festival",
-      "description": null
-    },
-    {
-      "title": "Pinstripe Pass * New York Yankees v. Texas Rangers",
-      "description": null
     }
   ]
 }

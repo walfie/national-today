@@ -15,10 +15,6 @@
       "description": "Today is the perfect time for whiskey connoisseurs to unwind with a fine bottle."
     },
     {
-      "title": "Major League Baseball Opening Day",
-      "description": "Every year thousands of people call in sick so they can be in the seats when the first pitch is thrown."
-    },
-    {
       "title": "Myanmar Armed Forces Day",
       "description": "It is a prominent national holiday in Myanmar, known as Armed Forces Day."
     },
@@ -43,8 +39,16 @@
       "description": "A day to appreciate some country music songs with imaginative titles that make you smile."
     },
     {
+      "title": "Ram Navami",
+      "description": "Devotees of Lord Rama keep a day-long fast on the significant day of Ram Navami."
+    },
+    {
       "title": "Scribble Day",
       "description": "Today is all about celebrating the creativity and the art associated with scribbling."
+    },
+    {
+      "title": "Ultra Music Festival",
+      "description": "Attend Ultra Music Festival, one of the biggest electronic music festivals in the world."
     },
     {
       "title": "World Theatre Day",

@@ -3,28 +3,24 @@
   "day": 5,
   "holidays": [
     {
-      "title": "National Hoagie Day",
+      "title": "Cinco de Mayo",
       "description": null
     },
     {
-      "title": "Buddha Day",
-      "description": "Discover the history of Buddha Day and how it is celebrated around the world."
+      "title": "National Hoagie Day",
+      "description": "Head to the deli for a hoagie. Or a sub. Or a grinder. Or a hero."
+    },
+    {
+      "title": "Childhood Depression Awareness Day",
+      "description": "Failing to provide appropriate and substantial mental health services puts the lives of kids at risk."
     },
     {
       "title": "Children&#39;s Day (Kodomo no Hi)",
       "description": "Join us as we celebrate children this Kodomo no Hi on May 5!"
     },
     {
-      "title": "Early May Bank Holiday",
-      "description": "Put off your banking chores and spend the day relaxing this Early May Bank Holiday."
-    },
-    {
       "title": "Europe Day",
       "description": "On Europe Day, an entire continent celebrates its unity, even in diversity."
-    },
-    {
-      "title": "Great Lakes Awareness Day",
-      "description": "We&#39;re swimming in cool new ideas to celebrate Great Lakes Awareness Day; check them out."
     },
     {
       "title": "Hug a Shed and Take a Selfie Day",
@@ -39,12 +35,12 @@
       "description": "Join the global community to appreciate the amazing work of midwives on International Midwives’ Day."
     },
     {
-      "title": "Liberation Day (Bevrijdingsdag)",
-      "description": "Celebrate by learning about the Netherlands’ important WWII history."
+      "title": "Lag BaOmer",
+      "description": "We observe this important Jewish holiday that celebrates life and happiness."
     },
     {
-      "title": "Melanoma Monday",
-      "description": "Melanoma, the deadliest type of skin cancer, is developed by 1 out of every 50 Americans."
+      "title": "Liberation Day (Bevrijdingsdag)",
+      "description": "Celebrate by learning about the Netherlands’ important WWII history."
     },
     {
       "title": "Museum Lover&#39;s Day",
@@ -63,20 +59,24 @@
       "description": "Read about this day&#39;s history, check out five famous cartoons, and much more, right here!"
     },
     {
+      "title": "National Concert Day",
+      "description": "Let&#39;s take part in an event that honors the culture of live musical performances."
+    },
+    {
       "title": "National Devin Day",
       "description": "Celebrate the day and appreciate all the Devins all around the world."
     },
     {
-      "title": "National Meeting Planners Appreciation Day",
-      "description": "Time to make a plan for planners. Celebrate National Meeting Planners Appreciation Day with us!"
-    },
-    {
-      "title": "National Open Farm Day",
-      "description": "Agriculture and farming are critical for humanity’s survival, and here’s why!"
+      "title": "National Foster Care Day",
+      "description": "Let’s celebrate the people who make the foster care system work for children in need."
     },
     {
       "title": "National Silence the Shame Day",
       "description": "Speak up for mental health which is as important as physical health for our total well-being."
+    },
+    {
+      "title": "Poem on Your Pillow Day",
+      "description": "Celebrate Poem on Your Pillow Day by slipping a poem onto a loved one’s pillow."
     },
     {
       "title": "Revenge of the 5th",
@@ -89,6 +89,10 @@
     {
       "title": "Totally Chipotle Day",
       "description": "Chipotle peppers are a Mexican ingredient that Americans have not just welcomed, but embraced."
+    },
+    {
+      "title": "World Asthma Day",
+      "description": "Wear a gray ribbon, and let’s help and support people suffering from Asthma."
     },
     {
       "title": "World Hand Hygiene Day",
@@ -117,14 +121,6 @@
     {
       "title": "Niki Demartino’s Birthday",
       "description": "This fashion influencer is making waves when it comes to all things style."
-    },
-    {
-      "title": "Cinco de Mayo",
-      "description": null
-    },
-    {
-      "title": "National Concert Day",
-      "description": null
     }
   ]
 }

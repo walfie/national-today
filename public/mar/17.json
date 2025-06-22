@@ -3,12 +3,8 @@
   "day": 17,
   "holidays": [
     {
-      "title": "Act Happy Day",
+      "title": "St. Patrick&#39;s Day",
       "description": null
-    },
-    {
-      "title": "Benito Juarez Day",
-      "description": "Remember and celebrate the exploits of Mexican icon Benito Juárez on his birthday memorial day."
     },
     {
       "title": "Camp Fire Girls day",
@@ -27,6 +23,14 @@
       "description": "We’re a little jealous of all the Bay Staters who get Evacuation Day off today!"
     },
     {
+      "title": "National 3-D Day",
+      "description": "If you enjoy 3.D. movies, art, or technology, today’s the day to celebrate 3.D."
+    },
+    {
+      "title": "National Ag Day",
+      "description": "Everything we eat, use, or wear every day is provided by agriculture."
+    },
+    {
       "title": "National Corned Beef and Cabbage Day",
       "description": "Beef in brine and sliced crunchy cabbage, this day is here to stay!"
     },
@@ -43,12 +47,12 @@
       "description": "Sheikh Mujibur Rahman is one of the most respected leaders in the history of Bangladesh."
     },
     {
-      "title": "Wellderly Day",
-      "description": "This Wellderly Day, re-examine what &#39;old&#39; means and continue living life to the fullest!"
+      "title": "Tea for Two Tuesday",
+      "description": "There’s no better way to enjoy someone’s company than over a cup of tea."
     },
     {
-      "title": "St. Patrick&#39;s Day",
-      "description": "Leprechauns, pots of gold, and a whole lot of green!"
+      "title": "World Social Work Day",
+      "description": "Get more people inspired to do good and observe World Social Work Day."
     },
     {
       "title": "Alev Aydin’s Birthday",

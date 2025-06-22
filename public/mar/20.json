@@ -15,10 +15,6 @@
       "description": "Triple cheese. Wild mushroom. Butternut squash. Ravioli can handle just about anything."
     },
     {
-      "title": "Absolutely Incredible Kid Day®",
-      "description": "Kids are the future. And Camp Fire stands ready to help."
-    },
-    {
       "title": "Alien Abduction Day",
       "description": "Do you believe in aliens? Maybe you will when you are done reading this!"
     },
@@ -35,12 +31,16 @@
       "description": "For those about to bock, spare a few minutes and read all about bock beer!"
     },
     {
-      "title": "Companies That Care Day",
-      "description": "A lesson all employers must learn is that a happy employee is a loyal employee."
-    },
-    {
       "title": "Dogs in Yellow Day",
       "description": "All that #dogsinyellow need is some space and then the world feels less terrifying."
+    },
+    {
+      "title": "Earth God&#39;s Birthday",
+      "description": "Looking for a job or need more business? Earth God might grant your wishes."
+    },
+    {
+      "title": "Eid al-Fitr",
+      "description": "Gather friends and family for a day of merriment, celebrations, gifts, and good food on Eid."
     },
     {
       "title": "Feast of Saint Joseph",
@@ -53,6 +53,10 @@
     {
       "title": "French Language Day",
       "description": "Celebrate with some French culture, language, and history as we ask...&#34;Parlez vous Francais?&#34;"
+    },
+    {
+      "title": "Friday Fish Fry Day",
+      "description": "Grab your fork and take a bite of your fried fish this Friday Fish Fry Day."
     },
     {
       "title": "Great American Meat Out Day",
@@ -71,12 +75,12 @@
       "description": "Stop and smell the roses as we celebrate the change of seasons."
     },
     {
-      "title": "National Close the Gap Day",
-      "description": "The campaign encourages planning of events that focus on health issues of Australia’s indigenous people."
+      "title": "National Cherry Blossom Festival",
+      "description": "Springtime sets in and cherry blossoms are in full bloom; we delight in their beauty."
     },
     {
-      "title": "National Farm Rescuer Day",
-      "description": "Farm rescuers help farmers by volunteering their time, talents, and financial resources."
+      "title": "National Day of Action Against Bullying and Violence",
+      "description": "Let’s all prepare to join forces to create long-term solutions to bullying!"
     },
     {
       "title": "National Jump Out Day",
@@ -91,8 +95,20 @@
       "description": "Put on your boxing gloves for the fight against H.I.V./AIDS."
     },
     {
-      "title": "Oranges And Lemons Day",
-      "description": "Let’s celebrate Oranges and Lemons Day by feasting on these citrus fruits."
+      "title": "National Preschool Teacher Appreciation Day",
+      "description": "It&#39;s time to honor the preschool teachers who provide us with the tools of learning."
+    },
+    {
+      "title": "National Preschool Teachers Appreciation Day",
+      "description": "Check out some inspiring ways to show preschool educators your admiration for them!"
+    },
+    {
+      "title": "Ougadi",
+      "description": "Let’s celebrate Ougadi, the time to get yourself ready for a new beginning."
+    },
+    {
+      "title": "Snowman Burning Day",
+      "description": "Out with the cold, in with the warm. Let’s get ready for Snowman Burning Day!"
     },
     {
       "title": "Spring Begins",
@@ -135,16 +151,8 @@
       "description": "Let’s celebrate storytelling, an art form that is older than time itself."
     },
     {
-      "title": "National Cherry Blossom Festival",
-      "description": "Springtime sets in and cherry blossoms are in full bloom; we delight in their beauty."
-    },
-    {
-      "title": "Naw-Ruz (Baha&#39;i New Year)",
-      "description": "Naw-Rúz is the day of spiritual spring. Celebrate with us today!"
-    },
-    {
-      "title": "Snowman Burning Day",
-      "description": "Out with the cold, in with the warm. Let’s get ready for Snowman Burning Day!"
+      "title": "Zhonghe Festival",
+      "description": "Get ready for this yearly festival as “the dragon raises its head.”"
     },
     {
       "title": "Fred Rogers’s Birthday",

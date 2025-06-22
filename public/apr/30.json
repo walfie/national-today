@@ -3,20 +3,12 @@
   "day": 30,
   "holidays": [
     {
-      "title": "International Guide Dog Day",
-      "description": null
-    },
-    {
       "title": "International Jazz Day",
-      "description": "Take a musical look at a distinctly American art form."
+      "description": null
     },
     {
       "title": "Day of the Child",
       "description": "This day recognizes the significance of cultivating the habit of reading among children."
-    },
-    {
-      "title": "Denim Day",
-      "description": "Sexual assault victims deserve all your support and your voice this Denim Day!"
     },
     {
       "title": "Hairstyle Appreciation Day",
@@ -29,10 +21,6 @@
     {
       "title": "Honesty Day",
       "description": "The whole truth and nothing but the truth? That&#39;s right!"
-    },
-    {
-      "title": "Israel Memorial Day",
-      "description": "Prepare to honor the fallen Israeli soldiers and victims of terrorist attacks!"
     },
     {
       "title": "Military Brats Day",
@@ -95,6 +83,10 @@
       "description": "This Tie Dye Day, let your inner artist out by using your garments as a canvas."
     },
     {
+      "title": "Pesach Sheni",
+      "description": "On Pesach Sheni, let’s commemorate the ancient second Passover tradition by eating a piece of matzah."
+    },
+    {
       "title": "Queen&#39;s Day",
       "description": "Queen’s Day is one of the most special celebrations in the Netherlands."
     },
@@ -105,10 +97,6 @@
     {
       "title": "Walpurgis Night",
       "description": "To fend off evil spirits, celebrate Walpurgis Night by blazing bonfires all night."
-    },
-    {
-      "title": "World Stationery Day",
-      "description": "It’s a day to put pen to paper and do things the old-fashioned way."
     },
     {
       "title": "Ayisha Diaz’s Birthday",

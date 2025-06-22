@@ -3,8 +3,12 @@
   "day": 11,
   "holidays": [
     {
-      "title": "Birth anniversary of National Artist Atang de la Rama",
+      "title": "Baptism of the Lord",
       "description": null
+    },
+    {
+      "title": "Birth anniversary of National Artist Atang de la Rama",
+      "description": "Let’s take a trip down memory lane, it’s Atang de la Rama’s birthday!"
     },
     {
       "title": "Cigarettes are Hazardous to Your Health Day",
@@ -55,12 +59,12 @@
       "description": "Holy cow, it&#39;s National Milk Day! Celebrate the cornerstone of dairy with these ideas."
     },
     {
-      "title": "National Tara Day",
-      "description": "You may just be Tara to some, but you’re a goddess worth celebrating to us."
+      "title": "National Sunday Supper Day",
+      "description": "Let us inspire you to create a closer bond with your family members with shared mealtimes."
     },
     {
-      "title": "National Vision Board Day",
-      "description": "Get creative, using your imagination and pictures to envision the goals you desire for your life."
+      "title": "National Tara Day",
+      "description": "You may just be Tara to some, but you’re a goddess worth celebrating to us."
     },
     {
       "title": "No Longer New Year&#39;s Day",
@@ -77,6 +81,10 @@
     {
       "title": "Step in a Puddle and Splash Your Friends Day",
       "description": "Step in, splash, and have wet fun with friends; the rain brings puddles for a reason."
+    },
+    {
+      "title": "Unknown Citizens’ Day",
+      "description": "Join us as we celebrate the backbone of Filipino society this Unknown Citizens’ Day!"
     },
     {
       "title": "World Sketchnote Day",

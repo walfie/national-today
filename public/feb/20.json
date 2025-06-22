@@ -11,16 +11,16 @@
       "description": "Your old dusty books need some T.L.C. every once in a while. Let’s dive in."
     },
     {
-      "title": "Great American Spit Out",
-      "description": "For Great American Spit Out, we’re removing the deadly effect of tobacco from our lives."
-    },
-    {
       "title": "Hoodie Hoo Day",
       "description": "Goodbye winter, welcome spring; this is what Hoodie Hoo Day is all about."
     },
     {
       "title": "Mizoram State Day",
       "description": "Learn about the history of Mizoram and why this day is so special."
+    },
+    {
+      "title": "National Caregivers Day",
+      "description": "We honor individuals who selflessly provide physical-and emotional support to those who need it most."
     },
     {
       "title": "National Cherry Pie Day",
@@ -51,8 +51,16 @@
       "description": "Let&#39;s come together to give back and build our community this National Student Volunteer Day."
     },
     {
+      "title": "National Tartar Sauce Day",
+      "description": "As long as you have your tartar sauce next to it, you can never go wrong with seafood."
+    },
+    {
       "title": "National Whistleblower Reward Day",
       "description": "Want to save the economy and government and make your lives better? Read this."
+    },
+    {
+      "title": "No One Eats Alone Day",
+      "description": "Sit with the loneliest kid and share your meal with him or her as you bond."
     },
     {
       "title": "No Politics Day",
@@ -65,14 +73,6 @@
     {
       "title": "Women in Blue Jeans Days",
       "description": "Put on your denim tops and snazzy jeans! Let&#39;s celebrate Women in Blue Jeans Day!"
-    },
-    {
-      "title": "World Anthropology Day",
-      "description": "Learn more about how anthropology explains the factors that influence human lives."
-    },
-    {
-      "title": "World Cholangiocarcinoma Day",
-      "description": "Let’s learn more about one of the rarest and most aggressive types of cancer — cholangiocarcinoma."
     },
     {
       "title": "World Day of Social Justice",

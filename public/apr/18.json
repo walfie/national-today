@@ -3,12 +3,8 @@
   "day": 18,
   "holidays": [
     {
-      "title": "Good Friday",
-      "description": null
-    },
-    {
       "title": "Adult Autism Awareness Day",
-      "description": "Adult Autism Awareness Day aims to empower adults with autism and their loved ones."
+      "description": null
     },
     {
       "title": "International Day for Monuments and Sites",
@@ -51,32 +47,16 @@
       "description": "&#34;We designed it, we built it, and then they discovered it. That still boggles my mind.&#34;"
     },
     {
-      "title": "Orthodox Good Friday",
-      "description": "Get ready to observe orthodox Good Friday, an important day in history, marking Jesus Christ’s crucifixion."
-    },
-    {
       "title": "Pet Owners Independence Day",
       "description": "We nap in the sunlight and leave the work in the paws of our furry friends."
     },
     {
+      "title": "Record Store Day",
+      "description": "Join us as we appreciate independently owned record stores this Record Store Day!"
+    },
+    {
       "title": "World Amateur Radio Day",
       "description": "Amateur radio operators provide emergency communications during both natural and man-made disasters."
-    },
-    {
-      "title": "World Marbles Day",
-      "description": "It’s time to play and throw your cares away on World Marbles Day."
-    },
-    {
-      "title": "Coachella Valley Music &amp; Arts Festival",
-      "description": "The wait is finally over and the festival is here! Let’s enjoy our favorite artists."
-    },
-    {
-      "title": "Jurassic Quest | Buffalo Convention Center | Buffalo, NY 2025",
-      "description": "Friday, April 18, 2025 (12pm - 6pm)\nSaturday, April 19, 2025 (9am - 6pm)\nSunday, April 20, 2025 (9am - 5pm)\n\nThere’s no better place to make pter-iffic…"
-    },
-    {
-      "title": "Jurassic Quest | Buffalo Convention Center | Buffalo, NY 2025",
-      "description": "Friday, April 18, 2025 (12pm - 6pm)\nSaturday, April 19, 2025 (9am - 6pm)\nSunday, April 20, 2025 (9am - 5pm)\n\nThere’s no better place to make pter-iffic…"
     },
     {
       "title": "Conan O&#39;Brien’s Birthday",

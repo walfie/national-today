@@ -3,16 +3,16 @@
   "day": 23,
   "holidays": [
     {
-      "title": "Administrative Professionals Day",
-      "description": null
-    },
-    {
       "title": "Army Reserve Birthday",
-      "description": "Let your patriotism shine as we celebrate the Army Reserves&#39; 114th Birthday."
+      "description": null
     },
     {
       "title": "Canada Book Day",
       "description": "Canada Book Day is a great day of joy for all book lovers."
+    },
+    {
+      "title": "Gathering of Nations (Pow Wow)",
+      "description": "We have amazing tricks on how to enjoy the day with the best activities."
     },
     {
       "title": "Impossible Astronaut Day",
@@ -27,8 +27,20 @@
       "description": "Grab your favorite book and devote today to studying the English language!"
     },
     {
+      "title": "International Girls In ICT Day",
+      "description": "Let’s work together to get more young women to join the I.C.T. sector."
+    },
+    {
       "title": "International Pixel-Stained Technopeasant Day",
       "description": "Celebrate the International Pixel-Stained Technopeasant Day by showcasing your writing skills today."
+    },
+    {
+      "title": "London Marathon",
+      "description": "Join the London Marathon and not only get a good body workout but also support charity."
+    },
+    {
+      "title": "Love Your Thighs Day",
+      "description": "Choose to love yourself on Love Your Thighs Day by celebrating right here with National Today."
     },
     {
       "title": "Movie Theatre Day",
@@ -83,10 +95,6 @@
       "description": "Saint George’s Day, also called the Feast of Saint George, is celebrated by several Christian churches."
     },
     {
-      "title": "Secretary Day",
-      "description": "This Secretary Day, show secretaries how much you value their hard work."
-    },
-    {
       "title": "Shakespeare Day",
       "description": "Lend us your ears, we have lots of interesting information about the Bard."
     },
@@ -101,6 +109,10 @@
     {
       "title": "St. George&#39;s Day",
       "description": "The patron saint of England has captivated British imaginations since the Crusades and Hundred Years&#39; War."
+    },
+    {
+      "title": "Take Our Daughters and Sons to Work Day",
+      "description": "Ever wanted to see what your parents do all day? Get a glimpse!"
     },
     {
       "title": "Talk Like Shakespeare Day",
@@ -133,10 +145,6 @@
     {
       "title": "World Table Tennis Day",
       "description": "It&#39;s raining celluloid balls on World Table Tennis Day, so get those rackets and play."
-    },
-    {
-      "title": "London Marathon",
-      "description": "Join the London Marathon and not only get a good body workout but also support charity."
     },
     {
       "title": "Chaeyoung’s Birthday",

@@ -3,36 +3,20 @@
   "day": 10,
   "holidays": [
     {
-      "title": "National Napping Day",
-      "description": null
-    },
-    {
       "title": "National Pack Your Lunch Day",
-      "description": "Remember the good ol’ days when your mom used to pack you lunch in elementary school?"
-    },
-    {
-      "title": "Canberra Day",
-      "description": "On Canberra Day, let’s celebrate its rich history and its numerous contributions to Australia."
-    },
-    {
-      "title": "Commonwealth Day Canada",
-      "description": "God Save the Queen and her Commonwealth! Celebrate the glorious history of the British Empire."
-    },
-    {
-      "title": "Eight Hours Day",
-      "description": "Celebrate the victory of the workers of Australia and an eight-hour workday with us."
+      "description": null
     },
     {
       "title": "Festival Of Life In Cracks Day",
       "description": "Beauty can be found everywhere, even between the cracks in the sidewalk."
     },
     {
-      "title": "Fill Our Staplers Day",
-      "description": "Without further ado, let’s find out more about how we can observe this holiday."
-    },
-    {
       "title": "Harriet Tubman Day",
       "description": "Let us pay tribute to Harriet Tubman&#39;s bravery by fighting racial injustice!"
+    },
+    {
+      "title": "Histotechnology Professionals Day",
+      "description": "We show you how to boost the role of these dedicated healthcare professionals."
     },
     {
       "title": "International Bagpipe Day",
@@ -63,12 +47,12 @@
       "description": "Celebrating the beauty secrets of the “money rich, time poor” generation, one spray at a time."
     },
     {
-      "title": "National Heroes and Benefactors Day",
-      "description": "Let us honor those who have generously contributed their service and support to Belize."
-    },
-    {
       "title": "National Landline Telephone Day",
       "description": "Remember when phones were left at home because they were attached to the house?"
+    },
+    {
+      "title": "National Organize Your Home Office Day",
+      "description": "Put on your dusting gloves, as we get ready to flaunt our organizing skills!"
     },
     {
       "title": "National Peel Day",
@@ -95,24 +79,8 @@
       "description": "Inclusivity will never go out of style, which is precisely what the Salvation Army does best."
     },
     {
-      "title": "Taranaki Anniversary",
-      "description": "Prepare for some history, today we are going to learn about Taranaki and its conflicts."
-    },
-    {
       "title": "Tibetan Uprising Day",
       "description": "Prepare your hearts as we commemorate a day propelling for freedom and justice."
-    },
-    {
-      "title": "Adelaide Cup Day",
-      "description": "Get ready for the fastest horses and jockeys this March Public Holiday!"
-    },
-    {
-      "title": "Commonwealth Day",
-      "description": "The historic event is a public holiday in some of its states and honors history."
-    },
-    {
-      "title": "Histotechnology Professionals Day",
-      "description": "We show you how to boost the role of these dedicated healthcare professionals."
     },
     {
       "title": "Bad Bunny’s Birthday",

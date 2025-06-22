@@ -3,24 +3,12 @@
   "day": 11,
   "holidays": [
     {
-      "title": "Mother&#39;s Day",
-      "description": null
-    },
-    {
       "title": "National Eat What You Want Day",
-      "description": "Treat yourself by giving in to your sweet tooth, and eating breakfast for dinner."
-    },
-    {
-      "title": "Buddha Purnima",
-      "description": "Take deep breaths and clear your mind, as we take you on a mystical journey!"
+      "description": null
     },
     {
       "title": "Hostess CupCake Day",
       "description": "We’re ditching our diets and getting a taste of some delicious Hostess CupCakes!"
-    },
-    {
-      "title": "Mothers at the Wall Day",
-      "description": "It&#39;s time to give your mother a warm hug to express gratitude for her unwavering love."
     },
     {
       "title": "National Foam Rolling Day",
@@ -31,12 +19,12 @@
       "description": "Join us as we celebrate yet another ground-breaking achievement in technology."
     },
     {
-      "title": "National Veal Ban Action Day",
-      "description": "Put down your forks. We’re fighting for animal rights this National Veal Ban Action Day."
+      "title": "National Women&#39;s Check-up Day",
+      "description": "Celebrate National Women&#39;s Check-up Day by scheduling a checkup. It may just save your life."
     },
     {
-      "title": "Pesach Sheni",
-      "description": "On Pesach Sheni, let’s commemorate the ancient second Passover tradition by eating a piece of matzah."
+      "title": "National Women’s Checkup Day",
+      "description": "Get checked and stay healthy if you’re a woman, on National Women&#39;s Checkup Day."
     },
     {
       "title": "Somerset Day",
@@ -49,10 +37,6 @@
     {
       "title": "World Ego Awareness Day",
       "description": "Assess yourself and your relationship with others this World Ego Awareness Day."
-    },
-    {
-      "title": "World Topiary Day",
-      "description": "Let’s celebrate the shaped shrubs and switch the trend from everything cake to everything topiary."
     },
     {
       "title": "Arlene MC’s Birthday",

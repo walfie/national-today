@@ -15,6 +15,10 @@
       "description": "Are you a daredevil? If yes, you will enjoy this day more than anyone else!"
     },
     {
+      "title": "Dinosaur Day",
+      "description": "Let’s travel back to prehistoric times to meet the great and amazing dinosaurs."
+    },
+    {
       "title": "Don&#39;t Give up the Ship Day",
       "description": "This battle is recorded as one of the deadliest in British-American naval history."
     },
@@ -149,70 +153,6 @@
     {
       "title": "Tom Holland’s Birthday",
       "description": "Our spidey senses think you will enjoy learning more about this talented actor."
-    },
-    {
-      "title": "Chutes and Boots Pro Bull Riding",
-      "description": null
-    },
-    {
-      "title": "Coldplay: Music Of The Spheres World Tour - delivered by DHL",
-      "description": null
-    },
-    {
-      "title": "Hamilton",
-      "description": null
-    },
-    {
-      "title": "Hamilton (NY)",
-      "description": null
-    },
-    {
-      "title": "Hamilton (Touring)",
-      "description": null
-    },
-    {
-      "title": "Hamilton (Touring)",
-      "description": null
-    },
-    {
-      "title": "Hamilton (Touring)",
-      "description": null
-    },
-    {
-      "title": "Hamilton (Touring)",
-      "description": null
-    },
-    {
-      "title": "Harry Potter and the Cursed Child",
-      "description": null
-    },
-    {
-      "title": "Harry Potter and the Cursed Child",
-      "description": null
-    },
-    {
-      "title": "Los Angeles Dodgers vs. New York Yankees",
-      "description": null
-    },
-    {
-      "title": "Mission: Impossible - The Final Reckoning",
-      "description": null
-    },
-    {
-      "title": "Mission: Impossible - The Final Reckoning",
-      "description": null
-    },
-    {
-      "title": "Mission: Impossible - The Final Reckoning",
-      "description": null
-    },
-    {
-      "title": "New York Exiles vs Denver Onyx",
-      "description": null
-    },
-    {
-      "title": "Wild Kratts 2.0: Activate Creature Power!",
-      "description": null
     }
   ]
 }

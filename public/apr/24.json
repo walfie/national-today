@@ -3,12 +3,8 @@
   "day": 24,
   "holidays": [
     {
-      "title": "National Pet Care for All Day",
-      "description": null
-    },
-    {
       "title": "Action Day for Tolerance and Respect between People",
-      "description": "Let us take the time to understand the forgotten people from our history."
+      "description": null
     },
     {
       "title": "Armenian Genocide Remembrance Day",
@@ -19,6 +15,10 @@
       "description": "We’re saying a prayer as we observe Coronation Day of Pope Benedict XVI."
     },
     {
+      "title": "Donate Life Blue and Green Day",
+      "description": "Let’s get our Blue and Green on as we help donate to life this holiday."
+    },
+    {
       "title": "Fashion Revolution Day",
       "description": "Finally, let us know more about this powerful day in the history of the fashion industry."
     },
@@ -27,16 +27,16 @@
       "description": "Make a global effort through multilateralism to promote world peace, security, and cooperation."
     },
     {
-      "title": "International Girls In ICT Day",
-      "description": "Let’s work together to get more young women to join the I.C.T. sector."
-    },
-    {
-      "title": "Love Your Thighs Day",
-      "description": "Choose to love yourself on Love Your Thighs Day by celebrating right here with National Today."
-    },
-    {
       "title": "National Brandon Day",
       "description": "Explore the variations and cultural influences that revolve around this name that’s predominantly given to boys."
+    },
+    {
+      "title": "National Hairball Awareness Day",
+      "description": "Hairballs are a healthy part of animals’ routines, but can potentially be an underlying health issue."
+    },
+    {
+      "title": "National Pet Care for All Day",
+      "description": "All pets and their families deserve access to affordable, quality pet care."
     },
     {
       "title": "National Pigs in a Blanket Day",
@@ -55,24 +55,16 @@
       "description": "I scream, you scream, we all scream for… Scream Day! Celebrate with us right here!"
     },
     {
-      "title": "Take Our Daughters and Sons to Work Day",
-      "description": "Ever wanted to see what your parents do all day? Get a glimpse!"
+      "title": "Undiagnosed Children&#39;s Awareness Day",
+      "description": "Children who are affected by Syndromes Without a Name and their families need our support."
     },
     {
       "title": "World Day for Animals in Laboratories",
       "description": "Animal lives matter too, so join us today in advocating for the protection of their rights."
     },
     {
-      "title": "Yom HaShoah",
-      "description": "Yom HaShoah brings with it garlands of determination and strength amidst tales of suffering."
-    },
-    {
-      "title": "Gathering of Nations (Pow Wow)",
-      "description": "We have amazing tricks on how to enjoy the day with the best activities."
-    },
-    {
-      "title": "Jazz Is Dead",
-      "description": null
+      "title": "World Women’s Wellness Day",
+      "description": "Join us, and let’s support women’s health across the world this World Women’s Wellness Day!"
     },
     {
       "title": "Barbra Streisand’s Birthday",

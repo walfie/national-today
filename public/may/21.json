@@ -7,16 +7,20 @@
       "description": null
     },
     {
+      "title": "Chardonnay Day",
+      "description": "Celebrating Chardonnay, crafted from the beautiful vineyards of Pinot noir and Gouais blanc."
+    },
+    {
       "title": "Eat More Fruits and Vegetables Day",
       "description": "Prepare your tummy for a healthy treat as we celebrate Eat More Fruits and Vegetables Day."
     },
     {
-      "title": "Emergency Medical Services for Children Day (EMSC)",
-      "description": "Find out how mascot Benny Bearamedic is helping children, one T-shirt at a time!"
-    },
-    {
       "title": "End of the World",
       "description": "End of the World Day reminds us how fake apocalypse warnings distress people around the world."
+    },
+    {
+      "title": "Global Accessibility Awareness Day",
+      "description": "Disabled users must have access to the same high-quality digital services and content as non-disabled users."
     },
     {
       "title": "I Need a Patch For That Day",
@@ -31,20 +35,16 @@
       "description": "Gain some insight into the founder of the American Red Cross, and the organization itself."
     },
     {
-      "title": "National Employee Health and Fitness Day",
-      "description": "On this day, employees and employers are reminded of the necessity and advantages of regular exercise."
-    },
-    {
-      "title": "National Juice Slush Day",
-      "description": "Marking the start of summer, juice slush is a pleasant drink that will quench your thirst."
+      "title": "National Aperitif Day",
+      "description": "On National Aperitif Day, add a little aperitif to your cocktail and sip it in style!"
     },
     {
       "title": "National Memo Day",
       "description": "A memo is any piece of important information that is penned or typed down."
     },
     {
-      "title": "National Numeracy Day UK",
-      "description": "Numbers and numeracy are important, and this day is set aside to recognize this."
+      "title": "National Notebook Day",
+      "description": "Roses are red, violets are blue, National Notebook Day is here, and we&#39;re celebrating with you."
     },
     {
       "title": "National Strawberries and Cream Day",
@@ -71,10 +71,6 @@
       "description": "Yoda fans honor the day we first met the wisest little green guy in the galaxy."
     },
     {
-      "title": "Turn Beauty Inside Out Day",
-      "description": "Let’s put an end to the media’s self-esteem breakers by celebrating Turn Beauty Inside Out Day."
-    },
-    {
       "title": "World Day for Cultural Diversity for Dialogue and Development",
       "description": "Learn how to celebrate World Day for Cultural Diversity for Dialogue and Development."
     },
@@ -97,70 +93,6 @@
     {
       "title": "Notorious B.I.G.’s Birthday",
       "description": "He had a great career and hit the right notes on the rapping scene."
-    },
-    {
-      "title": "Chicago Kids Company Presents Chicken Little",
-      "description": null
-    },
-    {
-      "title": "Final Destination: Bloodlines - The IMAX Experience",
-      "description": null
-    },
-    {
-      "title": "Final Destination: Bloodlines - The IMAX Experience",
-      "description": null
-    },
-    {
-      "title": "Final Destination: Bloodlines - The IMAX Experience",
-      "description": null
-    },
-    {
-      "title": "Hamilton",
-      "description": null
-    },
-    {
-      "title": "Hamilton (NY)",
-      "description": null
-    },
-    {
-      "title": "Hamilton (Touring)",
-      "description": null
-    },
-    {
-      "title": "Hamilton (Touring)",
-      "description": null
-    },
-    {
-      "title": "HOCHBERG LOWER SCHOOL PRESENTS &#34;BEAUTY AND THE BEAST JR.&#34;",
-      "description": null
-    },
-    {
-      "title": "New York Yankees v. Texas Rangers * Premium Seating *",
-      "description": null
-    },
-    {
-      "title": "New York Yankees vs. Texas Rangers",
-      "description": null
-    },
-    {
-      "title": "New York Yankees vs. Texas Rangers * Group Tickets *",
-      "description": null
-    },
-    {
-      "title": "Pinstripe Pass * New York Yankees v. Texas Rangers",
-      "description": null
-    },
-    {
-      "title": "The Accountant 2 (Open Caption Showing)",
-      "description": null
-    },
-    {
-      "title": "V-U2 An Immersive Concert Film at Sphere Las Vegas",
-      "description": null
-    },
-    {
-      "title": "West Conf Semis: Warriors at Timberwolves Game 4 (If played)",
-      "description": null
     }
   ]
 }

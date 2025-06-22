@@ -3,8 +3,12 @@
   "day": 15,
   "holidays": [
     {
-      "title": "International Casinos Day",
+      "title": "Customer Experience Day",
       "description": null
+    },
+    {
+      "title": "International Casinos Day",
+      "description": "Celebrating Casinos Around The World - International Casinos Day"
     },
     {
       "title": "National Chocolate Chip Day",
@@ -15,20 +19,16 @@
       "description": "The multi-purpose and incredibly versatile construction material has a fascinating history."
     },
     {
+      "title": "Bike To School Day",
+      "description": "Check out our fun ideas to enjoy Bike To School Day with the family."
+    },
+    {
       "title": "Break The Glass Ceiling Day",
       "description": "It’s time to break the often-invisible systemic barriers that exist to keep women and underrepresented communities from professional advancement."
     },
     {
       "title": "Bring Flowers To Someone Day",
       "description": "Giving flowers is a wonderful way of expressing your feelings to the people you care about."
-    },
-    {
-      "title": "Customer Experience Day",
-      "description": "Amazing customer experiences deserve a holiday. Celebrate the people and brands that put customers first."
-    },
-    {
-      "title": "Global Accessibility Awareness Day",
-      "description": "Disabled users must have access to the same high-quality digital services and content as non-disabled users."
     },
     {
       "title": "HG Awareness Day",
@@ -47,16 +47,24 @@
       "description": "Kangaroo Mother Care is a simple yet effective way for parents to bond with their infants."
     },
     {
+      "title": "International Virtual Assistants Day",
+      "description": "Dedicated to virtual assistants, this is a day to recognize their hard work, dedication, and perseverance."
+    },
+    {
+      "title": "Jerusalem Day",
+      "description": "Join in the celebration of Jerusalem Day today right here with us at National Today."
+    },
+    {
       "title": "MPS Awareness Day",
       "description": "Learn how you can help raise awareness for Mucopolysaccharidoses (M.P.S.) Disorders."
     },
     {
-      "title": "National Aperitif Day",
-      "description": "On National Aperitif Day, add a little aperitif to your cocktail and sip it in style!"
+      "title": "NASCAR Day",
+      "description": "Enjoy the NASCAR event while also helping children across the country."
     },
     {
-      "title": "National Notebook Day",
-      "description": "Roses are red, violets are blue, National Notebook Day is here, and we&#39;re celebrating with you."
+      "title": "National Bike to Work Day",
+      "description": "This day aims to incentivize us to switch our regular commute with bikes."
     },
     {
       "title": "National Nylon Stocking Day",
@@ -79,6 +87,10 @@
       "description": "We’ve put together the best ways to show your appreciation to those who keep the peace."
     },
     {
+      "title": "Shades Day",
+      "description": "It’s time to slide on some sunshades and lend a helping hand to families in need."
+    },
+    {
       "title": "Straw Hat Day",
       "description": "Panama, boater, or straw fedora, make your fashion statement to celebrate Straw Hat Day."
     },
@@ -95,136 +107,16 @@
       "description": "Join us as we observe V.B.F. Day of Awareness this May 15!"
     },
     {
+      "title": "Walk Safely To School Day",
+      "description": "Join us as we encourage Australia’s tiny tots to ditch the bus and walk to school."
+    },
+    {
       "title": "Chase Hudson’s Birthday",
       "description": "With over 30 million followers on TikTok, let’s delve into what makes Lil Huddy so admired."
     },
     {
       "title": "Emmitt Smith’s Birthday",
       "description": "Former football player and one of the greatest running backs in the National Football League."
-    },
-    {
-      "title": "An Evening with Ken Burns",
-      "description": null
-    },
-    {
-      "title": "Austin FC vs. Atlanta United FC",
-      "description": null
-    },
-    {
-      "title": "BattleBots Destruct-A-Thon",
-      "description": null
-    },
-    {
-      "title": "Birmingham Legion FC vs Rhode Island FC",
-      "description": null
-    },
-    {
-      "title": "Chicago Kids Company Presents Chicken Little",
-      "description": null
-    },
-    {
-      "title": "Final Destination: Bloodlines - The IMAX Experience",
-      "description": null
-    },
-    {
-      "title": "Final Destination: Bloodlines - The IMAX Experience",
-      "description": null
-    },
-    {
-      "title": "Hamilton",
-      "description": null
-    },
-    {
-      "title": "Hamilton (NY)",
-      "description": null
-    },
-    {
-      "title": "Hamilton (Touring)",
-      "description": null
-    },
-    {
-      "title": "Hamilton (Touring)",
-      "description": null
-    },
-    {
-      "title": "Harry Potter and the Cursed Child",
-      "description": null
-    },
-    {
-      "title": "Health - Rat Wars Expansion Tour",
-      "description": null
-    },
-    {
-      "title": "Houston Dynamo vs. Minnesota United FC",
-      "description": null
-    },
-    {
-      "title": "Karaoke Wednesdays",
-      "description": null
-    },
-    {
-      "title": "Los Angeles Football Club vs. Seattle Sounders FC",
-      "description": null
-    },
-    {
-      "title": "Madison No. 1 Dance presents On The Road Again...",
-      "description": null
-    },
-    {
-      "title": "Nashville SC v New York Red Bulls",
-      "description": null
-    },
-    {
-      "title": "New York City FC II vs Toronto FC II",
-      "description": null
-    },
-    {
-      "title": "Peter Antoniou",
-      "description": null
-    },
-    {
-      "title": "PGA Championship - Thursday",
-      "description": null
-    },
-    {
-      "title": "Portland Timbers 2 vs. Los Angeles Football Club 2",
-      "description": null
-    },
-    {
-      "title": "Real Salt Lake vs. Portland Timbers",
-      "description": null
-    },
-    {
-      "title": "San Diego FC vs. Colorado Rapids",
-      "description": null
-    },
-    {
-      "title": "San Jose Earthquakes Season Tickets (starting at $300!)",
-      "description": null
-    },
-    {
-      "title": "San Jose Earthquakes vs. Inter Miami CF",
-      "description": null
-    },
-    {
-      "title": "Sesame Street Live! Say Hello",
-      "description": null
-    },
-    {
-      "title": "Seussical Jr.",
-      "description": null
-    },
-    {
-      "title": "St. Louis City SC vs. Sporting Kansas City",
-      "description": null
-    },
-    {
-      "title": "V-U2 An Immersive Concert Film at Sphere Las Vegas",
-      "description": null
-    },
-    {
-      "title": "West Conf Semis: Warriors at Timberwolves Game 5",
-      "description": null
     }
   ]
 }

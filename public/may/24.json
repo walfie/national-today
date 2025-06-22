@@ -3,16 +3,16 @@
   "day": 24,
   "holidays": [
     {
-      "title": "Amateur Radio Military Appreciation Day",
-      "description": null
-    },
-    {
       "title": "Aviation Maintenance Technician Day",
-      "description": "Without Aviation Maintenance techs, we’d never make it where we wanted to go."
+      "description": null
     },
     {
       "title": "Bermuda Day",
       "description": "Grab your shades, a pair of Bermuda shorts, and dive in the island style."
+    },
+    {
+      "title": "Buddha Day",
+      "description": "Discover the history of Buddha Day and how it is celebrated around the world."
     },
     {
       "title": "Empire Day",
@@ -43,16 +43,8 @@
       "description": "For all those who love exotic eating, get ready to celebrate the French delicacy of escargot."
     },
     {
-      "title": "National Italian Beef Day",
-      "description": "Grab the napkins, and get your best Italian Beef Sandwich to celebrate the day in tradition."
-    },
-    {
       "title": "National Scavenger Hunt Day",
       "description": "Hunting for a list of items, or solving a series of clues to “win” the game."
-    },
-    {
-      "title": "National Wig Out Day",
-      "description": "National Wig Out Day is a fun day where your head gets to play dress-up."
     },
     {
       "title": "The Battle of Pichincha Day",
@@ -93,150 +85,6 @@
     {
       "title": "Suzanne Lenglen’s Birthday",
       "description": "She remains a tennis superstar due to her smooth style, technique, and simple form."
-    },
-    {
-      "title": "BottleRock Napa Valley",
-      "description": null
-    },
-    {
-      "title": "Atlanta Dream v Dallas Wings (Praise ATL Night)",
-      "description": null
-    },
-    {
-      "title": "Beyoncé: COWBOY CARTER TOUR",
-      "description": null
-    },
-    {
-      "title": "Boston Calling Music Festival",
-      "description": null
-    },
-    {
-      "title": "Classic Movie Night At The Jefferson Stop Making Sense",
-      "description": null
-    },
-    {
-      "title": "Colorado Rockies vs. New York Yankees",
-      "description": null
-    },
-    {
-      "title": "Colorado Rockies vs. New York Yankees",
-      "description": null
-    },
-    {
-      "title": "Daniel Habif",
-      "description": null
-    },
-    {
-      "title": "Denver Onyx vs Boston Banshees",
-      "description": null
-    },
-    {
-      "title": "Gira de los Niños y Los Primos del Este en Memphis",
-      "description": null
-    },
-    {
-      "title": "Hamilton",
-      "description": null
-    },
-    {
-      "title": "Hamilton",
-      "description": null
-    },
-    {
-      "title": "Hamilton (NY)",
-      "description": null
-    },
-    {
-      "title": "Hamilton (NY)",
-      "description": null
-    },
-    {
-      "title": "Hamilton (Touring)",
-      "description": null
-    },
-    {
-      "title": "Hamilton (Touring)",
-      "description": null
-    },
-    {
-      "title": "Hamilton (Touring)",
-      "description": null
-    },
-    {
-      "title": "Hamilton (Touring)",
-      "description": null
-    },
-    {
-      "title": "Harry Potter and the Cursed Child",
-      "description": null
-    },
-    {
-      "title": "Indiana Fever vs. New York Liberty",
-      "description": null
-    },
-    {
-      "title": "Jurassic Quest | Chattanooga Convention Center | Chattanooga, TN 2025",
-      "description": null
-    },
-    {
-      "title": "Jurassic Quest | Chattanooga Convention Center | Chattanooga, TN 2025",
-      "description": null
-    },
-    {
-      "title": "Jurassic Quest | Chattanooga Convention Center | Chattanooga, TN 2025",
-      "description": null
-    },
-    {
-      "title": "Los Angeles Sparks vs. Golden State Valkyries",
-      "description": null
-    },
-    {
-      "title": "Mac and Cheese  Festival",
-      "description": null
-    },
-    {
-      "title": "Mission: Impossible - The Final Reckoning",
-      "description": null
-    },
-    {
-      "title": "Mission: Impossible - The Final Reckoning",
-      "description": null
-    },
-    {
-      "title": "Mission: Impossible - The Final Reckoning",
-      "description": null
-    },
-    {
-      "title": "New York Mets vs. Los Angeles Dodgers",
-      "description": null
-    },
-    {
-      "title": "Seattle Storm vs. Phoenix Mercury",
-      "description": null
-    },
-    {
-      "title": "She&#39;s All That Screening w/ Freddie Prinze Jr. &amp; Rachael Leigh Cook",
-      "description": null
-    },
-    {
-      "title": "Sinners",
-      "description": null
-    },
-    {
-      "title": "Sinners",
-      "description": null
-    },
-    {
-      "title": "Sinners",
-      "description": null
-    },
-    {
-      "title": "TXRD - Las Putas Del Fuego vs. Cherry Bombs (Doors @6pm, Game @7pm) - Buda",
-      "description": null
-    },
-    {
-      "title": "USSSA NC Basketball: May Day State Championship",
-      "description": null
     }
   ]
 }

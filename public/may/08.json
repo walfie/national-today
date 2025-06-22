@@ -3,8 +3,16 @@
   "day": 8,
   "holidays": [
     {
-      "title": "Free Trade Day",
+      "title": "Child Care Provider Day",
       "description": null
+    },
+    {
+      "title": "Fintastic Friday",
+      "description": "It’s Fintastic Friday, and we want you to partake in some fintastic awareness drives."
+    },
+    {
+      "title": "Free Trade Day",
+      "description": "Keep reading to learn the history and important facts about free trade and Free Trade Day."
     },
     {
       "title": "Iris Day",
@@ -15,20 +23,12 @@
       "description": "Take a day to reflect on colonialism, life in 17th century Virginia, and Native American cultures."
     },
     {
-      "title": "Make a Book Day",
-      "description": "Celebrate the ability of books to open doors to other realms and alternate realities!"
-    },
-    {
       "title": "National Amyloidosis Day",
       "description": "Let us join hands and hearts in solidarity with the patients and families affected by amyloidosis."
     },
     {
       "title": "National Animal Disaster Preparedness Day",
       "description": "Circumstances may compel you to act. Plan ahead of time for yourself and your beloved pets!"
-    },
-    {
-      "title": "National Children&#39;s Mental Health Awareness Day",
-      "description": "Get ready to spend a day with children as their mental support structure."
     },
     {
       "title": "National Coconut Cream Pie Day",
@@ -51,8 +51,20 @@
       "description": "This National Maria Day, honor the 18th most popular name in the United States."
     },
     {
+      "title": "National Military Spouse Appreciation Day",
+      "description": "Discover what the government is doing to help struggling servicemen and women’s spouses?"
+    },
+    {
       "title": "National Nova Day",
       "description": "Nova is a unique name that deserves to be celebrated this National Nova Day!"
+    },
+    {
+      "title": "National Provider Appreciation Day",
+      "description": "The day focuses on thanking childcare workers, and showcasing their contributions to their communities."
+    },
+    {
+      "title": "National Public Gardens Day",
+      "description": "To the park! Because doggies are not the only ones excited about the walkies today."
     },
     {
       "title": "National Report Government Contractor Fraud Day",

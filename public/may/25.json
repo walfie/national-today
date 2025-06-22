@@ -3,12 +3,8 @@
   "day": 25,
   "holidays": [
     {
-      "title": "Indianapolis 500",
-      "description": null
-    },
-    {
       "title": "National Wine Day",
-      "description": "Cheers to celebrating over a bottle of wine!"
+      "description": null
     },
     {
       "title": "African Liberation Day",
@@ -17,6 +13,14 @@
     {
       "title": "Argentina Revolution Day",
       "description": "Wave the flag of Argentina’s independence high on the occasion of May 25!"
+    },
+    {
+      "title": "Cheese Rolling Gloucester",
+      "description": "Ready, set, go! It is time to experience the Cheese Rolling Gloucester!"
+    },
+    {
+      "title": "Decoration Day",
+      "description": "Bring out the flowers, flags, and red poppies to commemorate the fallen on this day."
     },
     {
       "title": "Geek Pride Day",
@@ -75,6 +79,14 @@
       "description": "Step into the world of virtual reality where you can have your own avatar!"
     },
     {
+      "title": "Prayer for Peace Memorial Day",
+      "description": "Honor the brave American soldiers who died in the military this Prayer for Peace Memorial Day."
+    },
+    {
+      "title": "Spring Bank Holiday",
+      "description": "A day for the general population in the U.K. to kick back and relax."
+    },
+    {
       "title": "Towel Day",
       "description": "We are celebrating this holiday with a towel wrapped around our necks."
     },
@@ -105,114 +117,6 @@
     {
       "title": "Thorgy Thor’s Birthday",
       "description": "Learn how this drag queen got her career started and rose to stardom."
-    },
-    {
-      "title": "BottleRock Napa Valley",
-      "description": null
-    },
-    {
-      "title": "Atlanta Dream v Connecticut Sun",
-      "description": null
-    },
-    {
-      "title": "Beyoncé: COWBOY CARTER TOUR",
-      "description": null
-    },
-    {
-      "title": "Boston Calling Music Festival",
-      "description": null
-    },
-    {
-      "title": "Colorado Rockies vs. New York Yankees",
-      "description": null
-    },
-    {
-      "title": "Hamilton",
-      "description": null
-    },
-    {
-      "title": "Hamilton",
-      "description": null
-    },
-    {
-      "title": "Hamilton (NY)",
-      "description": null
-    },
-    {
-      "title": "Hamilton (NY)",
-      "description": null
-    },
-    {
-      "title": "Hamilton (Touring)",
-      "description": null
-    },
-    {
-      "title": "Hamilton (Touring)",
-      "description": null
-    },
-    {
-      "title": "Hamilton (Touring)",
-      "description": null
-    },
-    {
-      "title": "Hamilton (Touring)",
-      "description": null
-    },
-    {
-      "title": "Harry Potter and the Cursed Child",
-      "description": null
-    },
-    {
-      "title": "Harry Potter and the Cursed Child",
-      "description": null
-    },
-    {
-      "title": "Harry Potter and the Cursed Child",
-      "description": null
-    },
-    {
-      "title": "Jurassic Quest | Chattanooga Convention Center | Chattanooga, TN 2025",
-      "description": null
-    },
-    {
-      "title": "Jurassic Quest | Chattanooga Convention Center | Chattanooga, TN 2025",
-      "description": null
-    },
-    {
-      "title": "Los Angeles Sparks vs. Chicago Sky",
-      "description": null
-    },
-    {
-      "title": "Megan Moroney - Am I Okay? Tour With Guest: Maggie Antone",
-      "description": null
-    },
-    {
-      "title": "Mission: Impossible - The Final Reckoning",
-      "description": null
-    },
-    {
-      "title": "Mission: Impossible - The Final Reckoning",
-      "description": null
-    },
-    {
-      "title": "Mission: Impossible - The Final Reckoning",
-      "description": null
-    },
-    {
-      "title": "New York Mets vs. Los Angeles Dodgers",
-      "description": null
-    },
-    {
-      "title": "PBR: Challenger Series",
-      "description": null
-    },
-    {
-      "title": "Phoenix Mercury vs. Washington Mystics",
-      "description": null
-    },
-    {
-      "title": "Seattle Storm vs. Las Vegas Aces",
-      "description": null
     }
   ]
 }

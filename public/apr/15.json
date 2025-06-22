@@ -3,16 +3,8 @@
   "day": 15,
   "holidays": [
     {
-      "title": "National Bunion Day",
-      "description": null
-    },
-    {
       "title": "National Laundry Day",
-      "description": "Think clean clothes, fresh sheets, and that special fresh laundry scent."
-    },
-    {
-      "title": "Tax Day",
-      "description": "Federal income taxes are an important cornerstone of our economy."
+      "description": null
     },
     {
       "title": "Declaration of Malacca as a Historical City",
@@ -21,10 +13,6 @@
     {
       "title": "Father Damien Day",
       "description": "Commemorate Father Damien and his deeds, and give help to people in need."
-    },
-    {
-      "title": "Holy Tuesday",
-      "description": "Get informed about this important day with our informative article about Holy Tuesday."
     },
     {
       "title": "International Microvolunteering Day",
@@ -45,6 +33,10 @@
     {
       "title": "National ASL Day",
       "description": "American Sign Language is an inclusive language for the Deaf and mute."
+    },
+    {
+      "title": "National Banana Day",
+      "description": "What an amazing time to celebrate the awesomeness of the world’s most popular fruit — the banana!"
     },
     {
       "title": "National Glazed Spiral Ham Day",
@@ -93,6 +85,10 @@
     {
       "title": "World Art Day",
       "description": "World Art Day is a colorful holiday that encourages curiosity about the beautiful things around us."
+    },
+    {
+      "title": "Youth Homelessness Matters Day",
+      "description": "Let’s raise awareness to support the youth experiencing or at risk of homelessness."
     },
     {
       "title": "Emma Watson’s Birthday",

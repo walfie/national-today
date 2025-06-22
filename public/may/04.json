@@ -3,12 +3,8 @@
   "day": 4,
   "holidays": [
     {
-      "title": "National Lemonade Day",
-      "description": null
-    },
-    {
       "title": "Star Wars Day",
-      "description": "It&#39;s party time on Tatooine. May the Forth be with you!"
+      "description": null
     },
     {
       "title": "45 Day",
@@ -19,16 +15,20 @@
       "description": "Let’s pledge to listen, offer support, and pay closer attention to bullied children everywhere."
     },
     {
-      "title": "Bereaved Mother&#39;s Day",
-      "description": "Let us acknowledge, listen, and find intentional ways to help all grieving mums today."
-    },
-    {
       "title": "Dave Brubeck Day",
       "description": "Let us honor Dave Brubeck, the quiet man of jazz and the marvel of his craft."
     },
     {
+      "title": "Early May Bank Holiday",
+      "description": "Put off your banking chores and spend the day relaxing this Early May Bank Holiday."
+    },
+    {
       "title": "Firefighters&#39; Memorial Day",
       "description": "Let’s join in honoring those who make the ultimate sacrifice in the line of duty."
+    },
+    {
+      "title": "Great Lakes Awareness Day",
+      "description": "We&#39;re swimming in cool new ideas to celebrate Great Lakes Awareness Day; check them out."
     },
     {
       "title": "Greenery Day",
@@ -39,16 +39,8 @@
       "description": "Join us as we express our gratitude to nature this Greenery Day!"
     },
     {
-      "title": "International Dawn Chorus Day",
-      "description": "Set your alarm clock because you don’t want to miss the morning sounds of these melodious songbirds."
-    },
-    {
       "title": "International Firefighters Day",
       "description": "Today is International Firefighters Day. Remember that while fire is useful, fire safety is critical."
-    },
-    {
-      "title": "International Permaculture Day",
-      "description": "Today we call upon you to play your part in saving the environment."
     },
     {
       "title": "International Respect for Chickens Day",
@@ -63,12 +55,8 @@
       "description": "Continue reading for more information on the largest student protests in U.S. history."
     },
     {
-      "title": "Mayday for Mutts",
-      "description": "Mayday for Mutts is a national day to spread love and acceptance for mixed breed dogs."
-    },
-    {
-      "title": "Motorcycle Mass and Blessing of the Bikes Day",
-      "description": "Participate in the event and pray for the safe return of every biker on this day."
+      "title": "Melanoma Monday",
+      "description": "Melanoma, the deadliest type of skin cancer, is developed by 1 out of every 50 Americans."
     },
     {
       "title": "National Candied Orange Peel Day",
@@ -77,6 +65,14 @@
     {
       "title": "National Kids Fitness Day",
       "description": "Physical fitness ought to be a key component of every child’s daily routine."
+    },
+    {
+      "title": "National Meeting Planners Appreciation Day",
+      "description": "Time to make a plan for planners. Celebrate National Meeting Planners Appreciation Day with us!"
+    },
+    {
+      "title": "National Open Farm Day",
+      "description": "Agriculture and farming are critical for humanity’s survival, and here’s why!"
     },
     {
       "title": "National Orange Juice Day",
@@ -99,10 +95,6 @@
       "description": "If you’re below 5’4” and struggle to reach high surfaces, this day is for you."
     },
     {
-      "title": "Puppy Mill Action Week",
-      "description": "Grab your friends and fight to get those furry cuties out of confinement during Puppy Mill Action Week."
-    },
-    {
       "title": "Relationship Renewal Day",
       "description": "Today is the perfect day to reach out to that person you’ve lost touch with."
     },
@@ -117,10 +109,6 @@
     {
       "title": "World Give Day",
       "description": "Take part in the joy of giving with people across the globe on World Give Day."
-    },
-    {
-      "title": "World Laughter Day",
-      "description": "Make your bonds with people stronger as you laugh together on this day!"
     },
     {
       "title": "Audrey Hepburn’s Birthday",

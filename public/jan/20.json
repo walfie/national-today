@@ -3,12 +3,8 @@
   "day": 20,
   "holidays": [
     {
-      "title": "Martin Luther King Day",
-      "description": null
-    },
-    {
       "title": "National Cheese Lover&#39;s Day",
-      "description": "Get ready to ‘havarti’ a ‘gouda’ time, because it’s National Cheese Lover’s Day!"
+      "description": null
     },
     {
       "title": "National DJ Day",
@@ -19,36 +15,12 @@
       "description": "They walk around in tuxedos, they have a cute waddle, and they&#39;re unique!"
     },
     {
-      "title": "Blue Monday",
-      "description": "Are we destined to be blue on this specific Monday? Read on and decide, if so!"
-    },
-    {
-      "title": "Brew Monday",
-      "description": "Time to schedule a meeting with someone who finds this cold, gray winter’s day an obstacle."
-    },
-    {
       "title": "Camcorder Day",
       "description": "Get ready to record as we celebrate the rich history of our beloved camcorder."
     },
     {
-      "title": "Civil Rights Day",
-      "description": "In the words of Frederick Douglass: “If there is no struggle, there is no progress.”"
-    },
-    {
-      "title": "Elementary School Teacher Day",
-      "description": "Elementary school teachers leave a lasting impression on us with their warmth and kindness."
-    },
-    {
       "title": "Guru Gobind Singh Jayanti",
       "description": "This year marks the 354th birth anniversary of Guru Gobind Singh."
-    },
-    {
-      "title": "Idaho Human Rights Day",
-      "description": "Prepare for a parade honoring the life of Martin Luther King Jr., our favorite civil-rights activist."
-    },
-    {
-      "title": "Inauguration Day",
-      "description": "Join us in keeping up the spirit, and celebrate this ceremonial day of swearing-ins, parades, and more."
     },
     {
       "title": "International Day of Acceptance",
@@ -71,12 +43,12 @@
       "description": "The penguin population needs us! Let’s get ready to raise awareness"
     },
     {
-      "title": "Take A Walk Outdoors Day",
-      "description": "Put your sedentary life on pause and step out for a stroll today."
+      "title": "Rid the World of Fad Diets &amp; Gimmicks Day",
+      "description": "Get ready for a healthy lifestyle — it’s Rid the World of Fad Diets and Gimmicks Day!"
     },
     {
-      "title": "Cancertalk Week",
-      "description": "Help, support, and encourage those living with cancer, as well as their families."
+      "title": "Take A Walk Outdoors Day",
+      "description": "Put your sedentary life on pause and step out for a stroll today."
     },
     {
       "title": "Bill Maher’s Birthday",

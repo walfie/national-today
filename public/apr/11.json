@@ -3,12 +3,8 @@
   "day": 11,
   "holidays": [
     {
-      "title": "Day of Silence",
-      "description": null
-    },
-    {
       "title": "National Pet Day",
-      "description": "Hug your dog, bond with your bunny, and cut your kitty some catnip!"
+      "description": null
     },
     {
       "title": "Anniversary of the Battle of Rivas",
@@ -31,6 +27,10 @@
       "description": "Let us get ready to rock and roll as we learn more about this popular tune!"
     },
     {
+      "title": "National Catch and Release Day",
+      "description": "The catch and release method benefits both the anglers and fish species in the long run."
+    },
+    {
       "title": "National Cheese Fondue Day",
       "description": "Only a few delicacies can compete with the cheesy goodness of cheese fondue."
     },
@@ -41,10 +41,6 @@
     {
       "title": "National Eight Track Tape Day",
       "description": "Bust out your old eight track tapes and explain what it is to Gen Zs."
-    },
-    {
-      "title": "National Fast and Prayer Day",
-      "description": "Take full advantage of the day to fast, pray, and humbly ask God for protection."
     },
     {
       "title": "National James Day",
@@ -71,48 +67,8 @@
       "description": "It’s not just enemies and the sea they have to contend with."
     },
     {
-      "title": "Poet in a Cupcake Day",
-      "description": "It&#39;s time to whip up some delectable cupcakes featuring lyrics from our favorite poet."
-    },
-    {
-      "title": "Boston Celtics vs. Charlotte Hornets",
-      "description": "Please adhere to the published ticket limits. Guests attending TD Garden events are advised that laptops, tablets, bags, backpacks, luggage, coolers, parcels, briefcases and like…"
-    },
-    {
-      "title": "Detroit Pistons v Milwaukee Bucks (Fashion Glasses Giveaway)",
-      "description": null
-    },
-    {
-      "title": "Detroit Pistons vs Milwaukee Bucks - Suite / Loge",
-      "description": null
-    },
-    {
-      "title": "Indiana Pacers vs. Orlando Magic",
-      "description": null
-    },
-    {
-      "title": "Memphis Grizzlies vs. Minnesota Timberwolves",
-      "description": null
-    },
-    {
-      "title": "Milwaukee Bucks vs New Orleans Pelicans (Premium Spaces)",
-      "description": null
-    },
-    {
-      "title": "Milwaukee Bucks vs. New Orleans Pelicans",
-      "description": null
-    },
-    {
-      "title": "New York Knicks vs. Cleveland Cavaliers",
-      "description": "Not a Fan First Member? Sign-up for the Knicks Fan First Program to take part in this early access opportunity to purchase tickets for the…"
-    },
-    {
-      "title": "Philadelphia 76ers vs. Atlanta Hawks",
-      "description": null
-    },
-    {
-      "title": "Phoenix Suns vs. San Antonio Spurs",
-      "description": "All tickets will be delivered electronically with no exceptions, therefore will call is no longer available. All tickets are available via the Ticketmaster app or the Suns-Mercury-PHX Arena app."
+      "title": "Slow Art Day",
+      "description": "Art is supposed to be studied and interpreted, not just viewed as something pretty."
     },
     {
       "title": "Jahvahn Greek’s Birthday",

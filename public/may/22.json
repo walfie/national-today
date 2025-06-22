@@ -27,12 +27,16 @@
       "description": "Join us as we learn more and celebrate Canadian Immigrants Day this May."
     },
     {
-      "title": "Chardonnay Day",
-      "description": "Celebrating Chardonnay, crafted from the beautiful vineyards of Pinot noir and Gouais blanc."
+      "title": "Carb Day",
+      "description": "This is the day for racing enthusiasts! It’s Carb Day and we are raring to go."
     },
     {
       "title": "Declaration of the Bab",
       "description": "Learn about the Bahá’í Faith and the Promised One on this Declaration of the Bab day."
+    },
+    {
+      "title": "Don’t Fry Day",
+      "description": "You wouldn’t let your child smoke, why let them fry? Don’t Fry Day is here!"
     },
     {
       "title": "International Coco Mom Day",
@@ -43,12 +47,28 @@
       "description": "The sky&#39;s the limit for boss babes! Let’s celebrate all these amazing women today!"
     },
     {
+      "title": "National Cooler Day",
+      "description": "Grab your cooler filled with ice and drinks, and let’s head out this National Cooler Day."
+    },
+    {
       "title": "National Craft Distillery Day",
       "description": "Relax and enjoy your favorite small-batch distilled spirit on National Craft Distillery Day. Cheers!"
     },
     {
+      "title": "National Death Busters Day",
+      "description": "Let’s remind ourselves and our loved ones to buckle up, be cautious, and drive safely."
+    },
+    {
+      "title": "National Road Trip Day",
+      "description": "Think you know all about the ‘Great American Road Trip’? We’ll see about that!"
+    },
+    {
       "title": "National Solitaire Day",
       "description": "Addicted to playing solitaire? Find out more about your favorite card game!"
+    },
+    {
+      "title": "National Title Track Day",
+      "description": "Keep reading to find out how title tracks evolved over the years and how to celebrate."
     },
     {
       "title": "National Vanilla Pudding Day",
@@ -77,106 +97,6 @@
     {
       "title": "Emma Chamberlain’s Birthday",
       "description": "Emma Chamberlain keeps proving that content creation and persistence can bring value holistically."
-    },
-    {
-      "title": "Atlanta Dream v Indiana Fever",
-      "description": null
-    },
-    {
-      "title": "Beyoncé: COWBOY CARTER TOUR",
-      "description": null
-    },
-    {
-      "title": "Golden State Valkyries vs. Washington Mystics",
-      "description": null
-    },
-    {
-      "title": "Hamilton",
-      "description": null
-    },
-    {
-      "title": "Hamilton (NY)",
-      "description": null
-    },
-    {
-      "title": "Hamilton (Touring)",
-      "description": null
-    },
-    {
-      "title": "Hamilton (Touring)",
-      "description": null
-    },
-    {
-      "title": "Hamilton (Touring)",
-      "description": null
-    },
-    {
-      "title": "Harry Potter and the Cursed Child",
-      "description": null
-    },
-    {
-      "title": "HOCHBERG LOWER SCHOOL PRESENTS &#34;BEAUTY AND THE BEAST JR.&#34;",
-      "description": null
-    },
-    {
-      "title": "Los Angeles Dodgers vs. Arizona Diamondbacks",
-      "description": null
-    },
-    {
-      "title": "Megan Moroney - Am I Okay? Tour",
-      "description": null
-    },
-    {
-      "title": "Minnesota Lynx vs. Dallas Wings",
-      "description": null
-    },
-    {
-      "title": "MISSION IMPOSSIBLE - Opening Day Fan Event",
-      "description": null
-    },
-    {
-      "title": "Mission: Impossible - The Final Reckoning",
-      "description": null
-    },
-    {
-      "title": "MR. SMITH GOES TO WASHINGTON (1939) - Classic Movie",
-      "description": null
-    },
-    {
-      "title": "New York Yankees v. Texas Rangers * Premium Seating *",
-      "description": null
-    },
-    {
-      "title": "New York Yankees vs. Texas Rangers",
-      "description": null
-    },
-    {
-      "title": "New York Yankees vs. Texas Rangers * Group Tickets *",
-      "description": null
-    },
-    {
-      "title": "Outlaw Music Festival",
-      "description": null
-    },
-    {
-      "title": "Phoenix Mercury vs. Los Angeles Sparks",
-      "description": null
-    },
-    {
-      "title": "Pinstripe Pass * New York Yankees v. Texas Rangers",
-      "description": null
-    },
-    {
-      "title": "Shakira - Las Mujeres Ya No Lloran - World Tour",
-      "description": null
-    },
-    {
-      "title": "Teddy Swims - I&#39;ve Tried Everything But Therapy Tour",
-      "description": null
-    },
-    {
-      "title": "The Accountant 2",
-      "description": null
     }
   ]
 }

@@ -3,8 +3,12 @@
   "day": 10,
   "holidays": [
     {
-      "title": "National Hug Your Dog Day",
+      "title": "Day of Silence",
       "description": null
+    },
+    {
+      "title": "National Hug Your Dog Day",
+      "description": "Not only does a good squeeze strengthen your bond, it shows your pet that you care."
     },
     {
       "title": "National Siblings Day",
@@ -31,14 +35,6 @@
       "description": "Let us get ready to celebrate the versatile and invaluable safety pin!"
     },
     {
-      "title": "Mahavir Jayanti",
-      "description": "It&#39;s Mahavir Jayanti, so get ready to celebrate as we commemorate Mahavira&#39;s birth in style!"
-    },
-    {
-      "title": "National Alcohol Screening Day",
-      "description": "Let’s say no to alcohol, and yes to a healthy body and mind. Let’s take action!"
-    },
-    {
       "title": "National Bookmobile Day",
       "description": "Travel into fictional worlds through mobile libraries if you can’t get to a regular library."
     },
@@ -53,6 +49,10 @@
     {
       "title": "National Farm Animals Day",
       "description": "Taking care of our farm animals ensures their well-being as well as ours."
+    },
+    {
+      "title": "National Fast and Prayer Day",
+      "description": "Take full advantage of the day to fast, pray, and humbly ask God for protection."
     },
     {
       "title": "National Nana Day",
@@ -71,12 +71,16 @@
       "description": "Prepare to learn about and help raise awareness about these potentially fatal diseases!"
     },
     {
-      "title": "Salvation Army Founder&#39;s Day",
-      "description": "Follow in William Booth’s footsteps and join efforts to help those in need without discrimination."
+      "title": "Orthodox Good Friday",
+      "description": "Get ready to observe orthodox Good Friday, an important day in history, marking Jesus Christ’s crucifixion."
     },
     {
-      "title": "Support Teen Literature Day",
-      "description": "There is nothing quite like getting lost in the literary world of books — try it."
+      "title": "Poet in a Cupcake Day",
+      "description": "It&#39;s time to whip up some delectable cupcakes featuring lyrics from our favorite poet."
+    },
+    {
+      "title": "Salvation Army Founder&#39;s Day",
+      "description": "Follow in William Booth’s footsteps and join efforts to help those in need without discrimination."
     },
     {
       "title": "World Homeopathy Day",

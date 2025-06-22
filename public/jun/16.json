@@ -3,8 +3,12 @@
   "day": 16,
   "holidays": [
     {
-      "title": "National Fudge Day",
+      "title": "Father&#39;s Day",
       "description": null
+    },
+    {
+      "title": "National Fudge Day",
+      "description": "&#34;Oh, fudge!&#34; said a confectioner who flubbed while making caramel, ending up creating something equally tasty."
     },
     {
       "title": "Take Your Cat to Work Day",
@@ -17,10 +21,6 @@
     {
       "title": "Bloomsday",
       "description": "Commemorating the life and legend of Irish writer James Joyce on Bloomsday."
-    },
-    {
-      "title": "Clean Your Kitchen Vents Day",
-      "description": "Clean Your Kitchen Vents Day is celebrated on June 17 and National Today is here to tell you all about it. We’re sure you’ve thought…"
     },
     {
       "title": "Fresh Veggies Day",
@@ -61,106 +61,6 @@
     {
       "title": "Phil Mickelson’s Birthday",
       "description": "With multiple championship wins, iconic shots, and a professional legacy, Phil Mickelson has created history."
-    },
-    {
-      "title": "8 Seconds Rodeo",
-      "description": null
-    },
-    {
-      "title": "Black, Queer, and Here",
-      "description": null
-    },
-    {
-      "title": "ChiTown Drive-In Presents - Halloween (the 1978 original!)",
-      "description": null
-    },
-    {
-      "title": "ChiTown Movies Presents - Grease",
-      "description": null
-    },
-    {
-      "title": "College National Finals Rodeo: Monday Morning Slack Rounds",
-      "description": null
-    },
-    {
-      "title": "DAVID GARFIELD: SONGS FOR OUR FATHERS, A Father&#39;s Day Celebration (Musician and Renaissance Man) || with special guest SIMON PHILLIPS, feat: Lenny Castro (perc.) Robbie Wyckoff (vocals) &amp; more!",
-      "description": null
-    },
-    {
-      "title": "Day Out With Thomas (TM), Thomas &amp; Friends",
-      "description": null
-    },
-    {
-      "title": "Day Out With Thomas (TM), Thomas &amp; Friends",
-      "description": null
-    },
-    {
-      "title": "Day Out With Thomas (TM), Thomas &amp; Friends",
-      "description": null
-    },
-    {
-      "title": "Day Out With Thomas (TM), Thomas &amp; Friends",
-      "description": null
-    },
-    {
-      "title": "Day Out With Thomas (TM), Thomas &amp; Friends",
-      "description": null
-    },
-    {
-      "title": "Joe Alterman Trio w/ Houston Person",
-      "description": null
-    },
-    {
-      "title": "Kaleigh Baker",
-      "description": null
-    },
-    {
-      "title": "Keiko Matsui",
-      "description": null
-    },
-    {
-      "title": "Keiko Matsui",
-      "description": null
-    },
-    {
-      "title": "New York Yankees v. Los Angeles Angels * Premium Seating *",
-      "description": null
-    },
-    {
-      "title": "New York Yankees vs. Los Angeles Angels",
-      "description": null
-    },
-    {
-      "title": "New York Yankees vs. Los Angeles Angels * Group Tickets *",
-      "description": null
-    },
-    {
-      "title": "Pinstripe Pass * New York Yankees v. Los Angeles Angels",
-      "description": null
-    },
-    {
-      "title": "The Afro Latin Jazz Orchestra",
-      "description": null
-    },
-    {
-      "title": "The Afro Latin Jazz Orchestra",
-      "description": null
-    },
-    {
-      "title": "The Grammy Winning Hot 8 Brass Band",
-      "description": null
-    },
-    {
-      "title": "THE REVERENCE PROJECT: John Patitucci, Darryl Jones, Nate Smith &amp; James Francies",
-      "description": null
-    },
-    {
-      "title": "THE REVERENCE PROJECT: John Patitucci, Darryl Jones, Nate Smith &amp; James Francies",
-      "description": null
-    },
-    {
-      "title": "TROMBONE SHORTY &amp; ORLEANS AVENUE - MIGHT NOT MAKE IT HOME TOUR",
-      "description": null
     }
   ]
 }
