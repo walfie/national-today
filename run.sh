@@ -10,7 +10,7 @@ cleanup() {
 
 trap cleanup EXIT
 
-DATE=$(date +%B-%d | tr '[:upper:]' '[:lower:]')
+DATE=$(date +%B-%-d | tr '[:upper:]' '[:lower:]')
 curl "https://nationaltoday.com/$DATE/" >$INPUT
 
 MONTH=$(pup '.ntdb-holiday-day text{}' <$INPUT | tr '[:upper:]' '[:lower:]' | sed -n 1p)
@@ -20,11 +20,11 @@ OUTPUT="public/$MONTH/$DAY.json"
 
 mkdir -p $(dirname $OUTPUT)
 
-pup '.content-container-content .title-box > :not(.holiday-date) json{}' <$INPUT \
+pup '.card-holiday-title json{}' <$INPUT \
   | jq "{
     month: \"$MONTH\",
     day: $DAY,
-    holidays: map(.children | { title: .[0].children[0].text, description: .[1].text })
+    holidays: map({ title: .text, description: null })
   }" >$OUTPUT
 
 ln -sf "$MONTH/$DAY.json" public/today.json
