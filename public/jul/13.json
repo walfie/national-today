@@ -3,6 +3,10 @@
   "day": 13,
   "holidays": [
     {
+      "title": "Barn Day",
+      "description": null
+    },
+    {
       "title": "Beef Tallow Day",
       "description": null
     },
@@ -11,56 +15,44 @@
       "description": null
     },
     {
+      "title": "Fast of Shiva Asar B&#39;Tammuz",
+      "description": null
+    },
+    {
+      "title": "Fast of Tammuz",
+      "description": null
+    },
+    {
       "title": "Fool&#39;s Paradise Day",
-      "description": "Strip away your fears, and let yourself fall into a world of peace and happiness."
+      "description": null
     },
     {
       "title": "Gruntled Workers Day",
-      "description": "Look at the glass half full and spread positivity around work by celebrating this holiday."
-    },
-    {
-      "title": "International Skinny Dip Day",
-      "description": "Get naked, feel the water, and jump in as we celebrate International Skinny Dip Day."
+      "description": null
     },
     {
       "title": "National Barbershop Music Appreciation Day",
-      "description": "We have all the information you need — party ideas, interesting facts, and a little history lesson."
+      "description": null
     },
     {
       "title": "NATIONAL BEANS ‘N’ FRANKS DAY",
-      "description": "Today is Beanie and Weenies’ Day. Get ready to eat a lot of them."
+      "description": null
     },
     {
       "title": "National Delaware Day",
-      "description": "Join us to celebrate Delaware and the spirit of American independence this July 13."
+      "description": null
+    },
+    {
+      "title": "National Paul Day",
+      "description": null
     },
     {
       "title": "National Rock Day",
-      "description": "Today we delve into rocks, what makes them so special and why we celebrate them."
+      "description": null
     },
     {
       "title": "Sovereignty Day of Montenegro",
-      "description": "Dabble in the joy of freedom with local food and the cultural extravaganza of Montenegro."
-    },
-    {
-      "title": "Caleb Logan LeBlanc’s Birthday",
-      "description": "This former YouTube star’s nicknames were Wheels and Baked Potato. Let’s learn more about his life."
-    },
-    {
-      "title": "Harrison Ford’s Birthday",
-      "description": "This veteran actor described Han Solo as “the great rapscallion of the universe.”"
-    },
-    {
-      "title": "MF DOOM’s Birthday",
-      "description": "For this late rapper-songwriter, having his “Gladiator” mask on controls the narrative."
-    },
-    {
-      "title": "Patrick Stewart’s Birthday",
-      "description": "We don&#39;t take this movie icon&#39;s five decades of pure undiluted entertainment for granted."
-    },
-    {
-      "title": "Wyatt Oleff’s Birthday",
-      "description": "This young actor is slowly but surely establishing himself in the entertainment industry."
+      "description": null
     }
   ]
 }
