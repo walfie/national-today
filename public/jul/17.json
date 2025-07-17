@@ -3,76 +3,44 @@
   "day": 17,
   "holidays": [
     {
-      "title": "National Hot Dog Day",
+      "title": "National Lottery Day",
       "description": null
     },
     {
-      "title": "National Lottery Day",
-      "description": "There’s something about free money that seems rather appealing."
-    },
-    {
       "title": "World Emoji Day",
-      "description": "Light up your friends&#39; phones with all the emojis you want today — it&#39;s a healthy obsession."
+      "description": null
     },
     {
       "title": "Constitution Day Korea",
-      "description": "Hang the national flag in honor of the proclamation of the South Korean constitution."
+      "description": null
     },
     {
       "title": "King&#39;s Birthday in Lesotho",
-      "description": "Let&#39;s dive into the history of this event and check out fun ways to celebrate."
+      "description": null
     },
     {
       "title": "National Peach Ice Cream Day",
-      "description": "It&#39;s sweet, it&#39;s tangy, it&#39;s cold — it is everything you need in this hot weather!"
+      "description": null
     },
     {
       "title": "National Tattoo Day",
-      "description": "It illuminates something you didn’t see before."
-    },
-    {
-      "title": "Take Your Poet to Work Day",
-      "description": "If you&#39;ve ever wished that you could spend all day with your favorite poet, today’s your day!"
+      "description": null
     },
     {
       "title": "Tirot Sing Day",
-      "description": "Celebrate the power of determination and bravery as we mark Tirot Sing Day."
+      "description": null
     },
     {
       "title": "World Day for International Justice",
-      "description": "Justice is served, internationally! Read on for how we plan to honor this day."
+      "description": null
     },
     {
       "title": "Wrong Way Corrigan Day",
-      "description": "We celebrate the man famous for flying the &#39;wrong way&#39; — Douglas Corrigan."
+      "description": null
     },
     {
       "title": "Yellow Pig Day",
-      "description": "Whether you’re a math rookie or a world-leading professor, let&#39;s celebrate!"
-    },
-    {
-      "title": "Angela Merkel’s Birthday",
-      "description": "Merkel started her political journey in 1989 when she joined the Democratic Awakening."
-    },
-    {
-      "title": "David Hasselhoff’s Birthday",
-      "description": "David Hasselhoff has inspired the globe with his roles for more than 40 years."
-    },
-    {
-      "title": "Jeremih Felton’s Birthday",
-      "description": "This singer, songwriter, and producer’s debut single catapulted him into the limelight."
-    },
-    {
-      "title": "Kade Skye’s Birthday",
-      "description": "Kade Skye is a YouTube star and is recognized as a part of the “Kids Fun T.V.”"
-    },
-    {
-      "title": "Kali Uchis’s Birthday",
-      "description": "She’s a Grammy-award-winning singer with a long list of achievements to be proud of."
-    },
-    {
-      "title": "Luke Bryan’s Birthday",
-      "description": "This talented American country singer will remain authentic, that is for sure."
+      "description": null
     }
   ]
 }
