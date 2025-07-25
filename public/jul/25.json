@@ -3,128 +3,92 @@
   "day": 25,
   "holidays": [
     {
-      "title": "International Digital Adoption (DAP) Professionals Day",
+      "title": "Annexation of Guanacaste Day",
       "description": null
     },
     {
-      "title": "National Chili Dog Day",
-      "description": "Do you want chili? ora hot dogs? Sometimes it doesn’t have to be so complicated."
-    },
-    {
-      "title": "National Hot Fudge Sundae Day",
-      "description": "Raise your spoons for National Hot Fudge Sundae Day!"
-    },
-    {
-      "title": "Annexation of Guanacaste Day",
-      "description": "Join the celebrations of the Annexation of Guanacaste to Costa Rica, formerly known as Nicoya."
-    },
-    {
       "title": "Carousel Day",
-      "description": "We’re about to relive some of our merriest memories on Carousel Day."
+      "description": null
     },
     {
       "title": "Commemoration of the Assault on Moncada",
-      "description": "Fidel Castro marked the failed assault of Moncada as the beginning of his revolution."
+      "description": null
     },
     {
       "title": "Culinarians Day",
-      "description": "A perfect day to appreciate chefs and cooks who enhance your culinary experience!"
+      "description": null
     },
     {
-      "title": "Earth Overshoot Day",
-      "description": "Ever wonder how it will be if we run out of resources on our planet? Read on to find out."
+      "title": "Darwin Show Day",
+      "description": null
     },
     {
       "title": "Feast of St. James",
-      "description": "Today we join our brothers in Spain as they honor Saint James the Apostle."
+      "description": null
     },
     {
       "title": "Fiesta de Santiago (Nicaragua)",
-      "description": "Join in the festivities and fun activities as we join Nicaraguans in Fiesta de Santiago."
+      "description": null
     },
     {
       "title": "Guanacaste Day",
-      "description": "It’s Guanacaste Day! Join this beautiful Costa Rican province in celebrating through music, food, and more."
+      "description": null
     },
     {
       "title": "Health and Happiness with Hypnosis Day",
-      "description": "Discover how hypnotherapy can help you improve your overall health and happiness."
+      "description": null
     },
     {
       "title": "Houston Day",
-      "description": "Let’s celebrate the strength of mind and spirit exhibited by people named Houston."
+      "description": null
     },
     {
       "title": "International Red Shoe Day",
-      "description": "Wear your reds to show your solidarity and appreciation for Lyme disease patients everywhere."
+      "description": null
     },
     {
       "title": "National Drowning Prevention Day",
-      "description": "Observe this day to raise awareness about life-saving measures that can help prevent future drownings."
+      "description": null
     },
     {
       "title": "National Hire a Veteran Day",
-      "description": "This day aims to teach people about the value of hiring a veteran."
-    },
-    {
-      "title": "National Intern Day",
-      "description": "Future leaders of the world unite! Today is National Intern Day."
+      "description": null
     },
     {
       "title": "National Merry Go Round Day",
-      "description": "A highlight of amusement parks, these rides are still widely popular across America and the globe."
+      "description": null
     },
     {
-      "title": "National Refreshment Day",
-      "description": "Hit the refresh button on your life by pausing to indulge in a refreshing drink."
+      "title": "National Talk in an Elevator Day",
+      "description": null
     },
     {
       "title": "National Thread the Needle Day",
-      "description": "“Thread the needle” has many meanings in English so this day invites different kinds of celebrations."
+      "description": null
     },
     {
       "title": "National Wine and Cheese Day",
-      "description": "One of the most basic, yet classic food-and-drink pairings is wine and cheese."
+      "description": null
     },
     {
       "title": "Puerto Rico Constitution Day",
-      "description": "Learn how Puerto Rico is fighting for full citizenship rights and autonomy even after centuries."
+      "description": null
     },
     {
       "title": "St James TG",
-      "description": "Observe Saint James the Great (T.G.) to honor St. James, an Apostle of Jesus."
+      "description": null
+    },
+    {
+      "title": "System Administrator Appreciation Day",
+      "description": null
     },
     {
       "title": "Tunisia Republic Day",
-      "description": "Celebrate the abolishment of the monarchy on Tunisia Republic Day."
+      "description": null
     },
     {
       "title": "World Drowning Prevention Day",
-      "description": "Anyone can drown but no one should. It&#39;s time to learn water safety measures."
-    },
-    {
-      "title": "Dennis McKinley’s Birthday",
-      "description": "McKinley is a successful businessman and reality star. He is the real deal."
-    },
-    {
-      "title": "Estelle Getty’s Birthday",
-      "description": "Join us as we celebrate the legendary actress and comedian on her birthday."
-    },
-    {
-      "title": "Finn Bálor’s Birthday",
-      "description": "This wrestling champion is the human embodiment of fighting until you succeed!"
-    },
-    {
-      "title": "Hasan Piker’s Birthday",
-      "description": "This rising streamer has gained fans all over the world and he is not stopping soon."
-    },
-    {
-      "title": "Jackie Christie’s Birthday",
-      "description": "The reality television star comes across as a talented and driven personality."
-    },
-    {
-      "title": "Juwany Roman’s Birthday",
-      "description": "The young Snapchat star is keeping fans around the world entertained with his funny videos."
+      "description": null
     }
   ]
 }
