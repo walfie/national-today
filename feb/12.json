@@ -1,0 +1,86 @@
+{
+  "month": "feb",
+  "day": 12,
+  "holidays": [
+    {
+      "title": "Darwin Day",
+      "description": null
+    },
+    {
+      "title": "Fat Thursday",
+      "description": "Presenting the ultimate cheat day — join us as we bring good luck and cheer through donuts."
+    },
+    {
+      "title": "Feast of Saint Vartan",
+      "description": "Join us as we celebrate the Feast of Saint Vartan this February."
+    },
+    {
+      "title": "Georgia Day",
+      "description": "Want to know what Georgia Day is about? Then let’s get digging!"
+    },
+    {
+      "title": "Giving Hearts Day",
+      "description": "Giving is something that brings you joy, satisfaction, and fulfillment like nothing else can."
+    },
+    {
+      "title": "Hug Day",
+      "description": "Share warmth and love by hugging a loved one or a stranger today."
+    },
+    {
+      "title": "International Day Against the Use of Child Soldiers",
+      "description": "This International Day Against the Use of Child Soldiers, help stop the use of child soldiers."
+    },
+    {
+      "title": "NAACP Day",
+      "description": "Join us as we explore what the N.A.A.C.P. is all about."
+    },
+    {
+      "title": "National Freedom to Marry Day",
+      "description": "We&#39;ve come a long way, but normalization of same-sex marriage is still not over."
+    },
+    {
+      "title": "National Lost Penny Day",
+      "description": "Roll up your sleeves and search the nooks and crannies; you might find a lost penny."
+    },
+    {
+      "title": "National Plum Pudding Day",
+      "description": "Did you know plum pudding contains no plums?"
+    },
+    {
+      "title": "Oglethorpe Day",
+      "description": "Let’s tap into the history of Georgia to learn more about its founding father."
+    },
+    {
+      "title": "Paczki Day",
+      "description": "Known as a dessert indulged in around lent, Paczki Day isn’t just about the pastries."
+    },
+    {
+      "title": "Red Hand Day",
+      "description": "Paint your hand red, and raise your voice against using children in wars on this day."
+    },
+    {
+      "title": "Safety Pup Day",
+      "description": "It’s time to celebrate the puppets that keep your children safe from harm."
+    },
+    {
+      "title": "Union Day",
+      "description": "Join the Union Day celebrations as the Burmese mark their independence in style."
+    },
+    {
+      "title": "Abraham Lincoln’s Birthday",
+      "description": "We look back at some remarkable moments in the life of Abraham Lincoln."
+    },
+    {
+      "title": "Charles Darwin’s Birthday",
+      "description": "This celebrated historical mover and shaker revolutionized the evolutionary theory of mankind."
+    },
+    {
+      "title": "Gucci Mane’s Birthday",
+      "description": "He’s a talented musician who knows how to maintain his place among the stars despite challenges."
+    },
+    {
+      "title": "Yungeen Ace’s Birthday",
+      "description": "For this self-made and talented rapper, the only way to go is up!"
+    }
+  ]
+}
