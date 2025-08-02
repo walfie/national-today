@@ -3,72 +3,48 @@
   "day": 2,
   "holidays": [
     {
-      "title": "International Beer Day",
+      "title": "National Ice Cream Sandwich Day",
       "description": null
     },
     {
-      "title": "National Ice Cream Sandwich Day",
-      "description": "It&#39;s a simple thing, really, but oh, what deliciousness!"
+      "title": "National Mustard Day",
+      "description": null
     },
     {
-      "title": "Braham Pie Day",
-      "description": "Indulge your sweet tooth and serve yourself a big slice of Braham pie today."
-    },
-    {
-      "title": "Mary Prince Day",
-      "description": "Find out Mary Prince’s experiences as a female slave and how her book changed the world."
+      "title": "Mead Day",
+      "description": null
     },
     {
       "title": "National CAD Day",
-      "description": "Let’s find out the benefit of using computer-aided design over manual drawing."
+      "description": null
     },
     {
       "title": "National Coloring Book Day",
-      "description": "Coloring is no longer just for kids. So break out those coloring books!"
+      "description": null
     },
     {
-      "title": "National Water Balloon Day",
-      "description": "Fill &#39;em up and let &#39;em fly; today is the day water balloons color the sky."
+      "title": "National Disc Golf Day",
+      "description": null
+    },
+    {
+      "title": "National Jamaican Patty Day",
+      "description": null
     },
     {
       "title": "Republic Day in North Macedonia",
-      "description": "Stand in remembrance of the chain of events that allowed Macedonia to achieve independence."
+      "description": null
     },
     {
-      "title": "Umuganura Day",
-      "description": "Be ready to have fun and get into the harvest mood for Umuganura Day."
+      "title": "Sandcastle Day",
+      "description": null
+    },
+    {
+      "title": "Tisha B&#39;Av",
+      "description": null
     },
     {
       "title": "Virgin of Los Angeles Day",
-      "description": "Let’s celebrate and honor La Negrita with the locals on the Virgin of Los Angeles Day."
-    },
-    {
-      "title": "Ayden Mekus’s Birthday",
-      "description": "The young multi-talented star is taking social media, and Hollywood, by storm."
-    },
-    {
-      "title": "Charli XCX’s Birthday",
-      "description": "This talented star loves making pop rock music and enjoys outdoor activities."
-    },
-    {
-      "title": "James Baldwin’s Birthday",
-      "description": "His voice has made a significant difference to social issues and injustices that affect the world."
-    },
-    {
-      "title": "Kris Wilson’s Birthday",
-      "description": "Let&#39;s get to know the famous artist in a bit more detail."
-    },
-    {
-      "title": "Mark Lee’s Birthday",
-      "description": "This K-pop star has melted our hearts since his rise to stardom, and we love it!"
-    },
-    {
-      "title": "Ola Aphrodite’s Birthday",
-      "description": "It&#39;s time to celebrate the stylish, beautiful, and brilliant cosplay model on her birthday."
-    },
-    {
-      "title": "Tiana Small’s Birthday",
-      "description": "This reality television star gave us something to talk about while she was in the limelight!"
+      "description": null
     }
   ]
 }
