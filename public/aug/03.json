@@ -3,7 +3,11 @@
   "day": 3,
   "holidays": [
     {
-      "title": "National Mustard Day",
+      "title": "National Friendship Day",
+      "description": null
+    },
+    {
+      "title": "National Sisters Day",
       "description": null
     },
     {
@@ -11,68 +15,40 @@
       "description": null
     },
     {
+      "title": "American Family Day",
+      "description": null
+    },
+    {
       "title": "Big Forehead Day",
-      "description": "Let go of those insecurities and focus on the beauty of your bold and beautiful forehead."
+      "description": null
     },
     {
       "title": "Clean Your Floors Day",
-      "description": "Grab your mop and clean your floors on this Clean Your Floors Day."
+      "description": null
     },
     {
       "title": "Cloves Syndrome Awareness Day",
-      "description": "Join us in raising awareness, funds, and support for patients with Cloves."
+      "description": null
+    },
+    {
+      "title": "Fast of Ninth of Av",
+      "description": null
     },
     {
       "title": "Makira-Ulawa Province Day",
-      "description": "Discover the Makira-Ulawa province and check out fun ways to celebrate this day."
-    },
-    {
-      "title": "Mead Day",
-      "description": "Get your glasses ready to drink up all things incredible about mead."
-    },
-    {
-      "title": "National Disc Golf Day",
-      "description": "Celebrate America&#39;s fourth-largest sport in style, with some fun ideas we have for you."
+      "description": null
     },
     {
       "title": "National Grab Some Nuts Day",
-      "description": "You won’t be surprised to hear that it’s a very nutty occasion."
-    },
-    {
-      "title": "National Jamaican Patty Day",
-      "description": "Check out these awesome ideas to satisfy your Jamaican patty cravings and honor the dish too!"
+      "description": null
     },
     {
       "title": "Pidjiguiti Day",
-      "description": "Remember the fallen heroes of the Pidjiguiti massacre as we celebrate their invaluable sacrifice."
+      "description": null
     },
     {
-      "title": "Sandcastle Day",
-      "description": "Come on, let&#39;s head to the beach! It&#39;s a perfect day to build sandcastles!"
-    },
-    {
-      "title": "Tom Brady’s Birthday",
-      "description": "Happy Birthday to one of the most prolific and successful quarterbacks in NFL history!"
-    },
-    {
-      "title": "Devon Lee Carlson’s Birthday",
-      "description": "This social media star is on the right path to making a name for herself."
-    },
-    {
-      "title": "James Hetfield’s Birthday",
-      "description": "Through music, there’s nothing this talented rock vocalist, guitarist, and songwriter can’t do."
-    },
-    {
-      "title": "Martha Stewart’s Birthday",
-      "description": "This smart and tactical businesswoman has built a media empire around herself from scratch."
-    },
-    {
-      "title": "Tony Bennett’s Birthday",
-      "description": "One lesson learned from this jazz icon is to never give up!"
-    },
-    {
-      "title": "Zach Wilson’s Birthday",
-      "description": "From Draper to the N.F.L., this play never stops pursuing a higher goal."
+      "title": "Psychic Day",
+      "description": null
     }
   ]
 }
