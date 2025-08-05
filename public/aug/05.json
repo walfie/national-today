@@ -3,116 +3,44 @@
   "day": 5,
   "holidays": [
     {
-      "title": "Civic Holiday",
-      "description": null
-    },
-    {
       "title": "Blogger Day",
       "description": null
     },
     {
-      "title": "British Columbia Day",
-      "description": "All across Canada, the day is marked by parades, festivals, and other public gatherings."
-    },
-    {
       "title": "Burkina Faso Independence Day",
-      "description": "Read on till you know all you need about Burkina Faso Independence Day."
+      "description": null
     },
     {
-      "title": "Commerce Day",
-      "description": "Commerce Day is a day to rest — leave work and relax on this public holiday."
-    },
-    {
-      "title": "Festival Monday",
-      "description": "Get your party hats and put on your dancing shoes; it’s Festival Monday!"
-    },
-    {
-      "title": "Heritage Day Alberta",
-      "description": "Sunshine, fresh air, and open spaces, Alberta is a melting pot of different cultures and ethnicities."
-    },
-    {
-      "title": "Kadooment Day",
-      "description": "Put on your finest clothes and get ready to party all day long."
-    },
-    {
-      "title": "Kiribati Youth Day",
-      "description": "Celebrate Kiribati Youth Day with youth across the globe hoping for a brighter future."
-    },
-    {
-      "title": "Natal Day",
-      "description": "Get ready to celebrate, attend a lot of outdoor parties and eat a ton of cake."
+      "title": "Culturama Day",
+      "description": null
     },
     {
       "title": "National Couscous Day",
-      "description": "Get ready to savor and have your fill of couscous in all its forms!"
+      "description": null
     },
     {
       "title": "National Dash Cam Day",
-      "description": "Dash cams have made telling your stories easier than ever. Learn more!"
+      "description": null
+    },
+    {
+      "title": "National Night Out",
+      "description": null
     },
     {
       "title": "National Oyster Day",
-      "description": "Slurp up these great ideas to celebrate the day with a couple of oysters."
+      "description": null
     },
     {
       "title": "National Underwear Day",
-      "description": "Let us just brief-ly tell why we love underwear."
-    },
-    {
-      "title": "New Brunswick Day",
-      "description": "It&#39;s not often that a birthday party is held for an entire province!"
-    },
-    {
-      "title": "New South Wales Bank Holiday",
-      "description": "Let&#39;s all celebrate three day weekends—the savior of nine-to-fivers around the world."
+      "description": null
     },
     {
       "title": "Our Lady of Africa",
-      "description": "Go all out, and join Ceuta to celebrate our Lady of Africa today."
-    },
-    {
-      "title": "Picnic Day NT",
-      "description": "Northern Territory Aussies have been celebrating Picnic Day since the late 1800s."
-    },
-    {
-      "title": "Terry Fox Day",
-      "description": "Honor a great man, a great foundation and a great cause by celebrating Terry Fox Day."
+      "description": null
     },
     {
       "title": "Work Like a Dog Day",
-      "description": "This quirky day is inspired by the reputed strong work ethic of canines, especially service dogs."
-    },
-    {
-      "title": "World Alternative Games",
-      "description": "A day cannot get any more eccentric, thrilling, and fantastic than this."
-    },
-    {
-      "title": "Cookiee Kawaii’s Birthday",
-      "description": "She is the creator of several TikTok sensations. Celebrate her special day with us!"
-    },
-    {
-      "title": "Elyse Dehlbom’s Birthday",
-      "description": "This reality T.V. Star has eight adorable puppies! Celebrate her special day with us!"
-    },
-    {
-      "title": "Gohan Son’s Birthday",
-      "description": "This YouTuber is fluent in English and Korean and is charming as well!"
-    },
-    {
-      "title": "Ja&#39;net Dubois’s Birthday",
-      "description": "The contributions of this legendary performer to the entertainment world will last an eternity!"
-    },
-    {
-      "title": "Lolo Jones’s Birthday",
-      "description": "This outstanding athlete is doing exceptionally well for herself! Celebrate her special day today!"
-    },
-    {
-      "title": "Neil Armstrong’s Birthday",
-      "description": "He has become a symbol of what’s possible for human exploration and discovery."
-    },
-    {
-      "title": "Yungblud’s Birthday",
-      "description": "We celebrate Yungblud who initially struggled to fit in but now has a solid fan base."
+      "description": null
     }
   ]
 }
