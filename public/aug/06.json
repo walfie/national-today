@@ -3,7 +3,15 @@
   "day": 6,
   "holidays": [
     {
+      "title": "Finish Your Degree Day",
+      "description": null
+    },
+    {
       "title": "National Root Beer Float Day",
+      "description": null
+    },
+    {
+      "title": "Regatta Day",
       "description": null
     },
     {
@@ -12,75 +20,47 @@
     },
     {
       "title": "Bolivia Independence Day",
-      "description": "Get your red, yellow, and green out because it’s Bolivia Independence Day"
+      "description": null
     },
     {
       "title": "Celebrations of San Salvador",
-      "description": "Celebrate the Divine Savior of the World with the Celebrations of San Salvador."
-    },
-    {
-      "title": "Culturama Day",
-      "description": "Marvel at the beauty of the Caribbean in the cultural displays of Culturama Day."
+      "description": null
     },
     {
       "title": "Farmworker Appreciation Day",
-      "description": "Be ready to raise awareness about the importance of farmworkers on this special day!"
+      "description": null
     },
     {
       "title": "Fiesta de San Salvador",
-      "description": "Let’s celebrate all things Salvador and the Transfiguration of Jesus Christ on Fiesta de San Salvador!"
+      "description": null
     },
     {
       "title": "Fiesta Patronales Holiday",
-      "description": "Join the celebrations for the Divine Saviour of the World on Fiesta Patronales Day."
+      "description": null
     },
     {
       "title": "Hiroshima Day",
-      "description": "On Hiroshima Day, we remember one of the deadliest days in recent history."
+      "description": null
     },
     {
       "title": "Jamaica Independence Day",
-      "description": "It’s Jamaica Independence Day! Prepare your black, yellow, and green apparel for this celebration."
+      "description": null
     },
     {
       "title": "National Fresh Breath Day",
-      "description": "Avoid a social faux pas and check if your breath is minty fresh."
+      "description": null
     },
     {
-      "title": "National Night Out",
-      "description": "Civilians, organizations, and the Metropolitan Police Department join hands to enhance the relationship between neighborhoods and communities."
+      "title": "National Psychiatric Technician Appreciation Day",
+      "description": null
     },
     {
       "title": "National Wiggle Your Toes Day",
-      "description": "Show off your digits on National Wiggle Your Toes Day. Let’s see those piggies!"
+      "description": null
     },
     {
       "title": "Sailor Moon Day",
-      "description": "Calling all manga and anime lovers to celebrate International Sailor Moon Day."
-    },
-    {
-      "title": "Andy Warhol’s Birthday",
-      "description": "This artist’s finest achievement was elevating his character to the status of a pop icon."
-    },
-    {
-      "title": "Elliott Smith’s Birthday",
-      "description": "He was a multi-instrumentalist who could play the piano and guitar and had a distinct voice."
-    },
-    {
-      "title": "Leslie Odom Jr.’s Birthday",
-      "description": "From his music and acting to everything in between, read on for more on Odom."
-    },
-    {
-      "title": "Lucille Ball’s Birthday",
-      "description": "She will be remembered as the goofy and lovable Lucy Ricardo forever."
-    },
-    {
-      "title": "Ty Simpkins’s Birthday",
-      "description": "Curious about Ty Simpkins? You’ve come to the right place. Celebrate his special day right here."
-    },
-    {
-      "title": "Veronica Merrell’s Birthday",
-      "description": "Here’s everything you need to know about Veronica Merrell of The Merrell Twins."
+      "description": null
     }
   ]
 }
