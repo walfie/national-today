@@ -3,84 +3,56 @@
   "day": 7,
   "holidays": [
     {
-      "title": "Regatta Day",
-      "description": null
-    },
-    {
       "title": "Aged Care Employee Day",
       "description": null
     },
     {
       "title": "Battle of Boyaca",
-      "description": "Today, Colombians celebrate the decisive battle that freed them from the clutches of the Spanish."
+      "description": null
     },
     {
       "title": "Côte d&#39;Ivoire Independence Day",
-      "description": "Join Ivorians across the globe as they wish Côte d&#39;Ivoire bonne fête de l&#39;indépendance."
+      "description": null
+    },
+    {
+      "title": "Cycle to Work Day",
+      "description": null
+    },
+    {
+      "title": "India Pale Ale Day",
+      "description": null
     },
     {
       "title": "Ivory Coast Independence Day",
-      "description": "Ivory Coast Independence Day is an annual event that commemorates the Ivory Coast’s anniversary of independence."
+      "description": null
+    },
+    {
+      "title": "National IPA Day (India Pale Ale Beer)",
+      "description": null
     },
     {
       "title": "National Lighthouse Day",
-      "description": "We celebrate how these scenic, historic structures comforted travelers throughout the centuries."
-    },
-    {
-      "title": "National Psychiatric Technician Appreciation Day",
-      "description": "Let’s show our appreciation for those who care by celebrating the heroes of mental healthcare."
+      "description": null
     },
     {
       "title": "National Raspberries n’ Cream Day",
-      "description": "Get ready to eat as many raspberries as you can on this special day!"
+      "description": null
     },
     {
       "title": "National Sea Serpent Day",
-      "description": "Join the ancient quest for truth as we study the legend of the great sea serpents."
+      "description": null
     },
     {
       "title": "Particularly Preposterous Packaging Day",
-      "description": "Let’s minimize unnecessary packaging and say no to plastic bags to reduce waste."
+      "description": null
     },
     {
       "title": "Professional Speakers Day",
-      "description": "Get your mics ready to talk about all the great information we have about professional speakers."
+      "description": null
     },
     {
       "title": "Purple Heart Day",
-      "description": "We remember and honor the men and women who bravely represented and sacrificed for their country."
-    },
-    {
-      "title": "Bruce Dickinson’s Birthday",
-      "description": "The legacy of the Beast and other stories — find out more about the multi-faceted Bruce Dickinson."
-    },
-    {
-      "title": "Charlize Theron’s Birthday",
-      "description": "For this influential South African actress, there are no limits. Celebrate her special day with us."
-    },
-    {
-      "title": "Dalton Gomez’s Birthday",
-      "description": "This young successful luxury real estate agent has a lot to teach us."
-    },
-    {
-      "title": "David Duchovny’s Birthday",
-      "description": "Actor, writer, producer, director, and novelist. Is there anything this man cannot do?"
-    },
-    {
-      "title": "Jen Sincero’s Birthday",
-      "description": "Going from broke to unbelievably wealthy, this self-improvement guru knows her stuff."
-    },
-    {
-      "title": "Jett Lawrence’s Birthday",
-      "description": "Jett Lawrence was already a great motocross racer at the age of 11."
-    },
-    {
-      "title": "Luca Luhan’s Birthday",
-      "description": "Uncover the story behind the young star’s rise to success right here with us."
-    },
-    {
-      "title": "NotYourAverageFlight’s Birthday",
-      "description": "He is known for his prank and challenge videos, which he uploads on YouTube."
+      "description": null
     }
   ]
 }
