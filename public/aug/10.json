@@ -3,108 +3,88 @@
   "day": 10,
   "holidays": [
     {
-      "title": "National Bowling Day",
+      "title": "National Lazy Day",
       "description": null
     },
     {
-      "title": "National Lazy Day",
-      "description": "In today&#39;s plugged-in world, we have a day when we don&#39;t have to do anything."
-    },
-    {
       "title": "National Spoil Your Dog Day",
-      "description": "It might be a sickness but we&#39;re stupid in love with our dogs!"
+      "description": null
     },
     {
       "title": "Abai Day",
-      "description": "Grab Abai Kunanbaiuly’s poetry book and celebrate Abai Day in Kazakhstan today!"
+      "description": null
     },
     {
       "title": "Ascent of Saint Dominic",
-      "description": "Take to the streets and join the colorful parade on the Ascent of Saint Dominic!"
+      "description": null
     },
     {
       "title": "Dean Day",
-      "description": "Learn more about Dean and the people in history going by this name."
+      "description": null
     },
     {
       "title": "Duran Duran Appreciation Day",
-      "description": "Let’s find out more and celebrate the Duran Duran band on this national holiday."
+      "description": null
     },
     {
       "title": "Ecuador Independence Day",
-      "description": "Learn how Ecuadorians managed to declare sovereignty and how to celebrate this festivity."
+      "description": null
     },
     {
       "title": "Ekka People&#39;s Day",
-      "description": "We&#39;ve got some amazing ideas to celebrate Ekka People&#39;s Day so scroll down and check them out."
+      "description": null
     },
     {
-      "title": "Garage Sale Day",
-      "description": "Did you know the best day to hold a garage sale is on a Saturday?"
+      "title": "Esala Perahera",
+      "description": null
+    },
+    {
+      "title": "Gay Uncles Day",
+      "description": null
     },
     {
       "title": "Herbert Hoover Day",
-      "description": "Join the birth anniversary celebration of the 31st U.S. president on Herbert Hoover Day!"
+      "description": null
     },
     {
       "title": "International Biodiesel Day",
-      "description": "Let’s find out what the best fuel is for vehicles, which causes the least environmental damage."
+      "description": null
+    },
+    {
+      "title": "Melon Day",
+      "description": null
     },
     {
       "title": "National Connecticut Day",
-      "description": "Let’s take this opportunity to honor and learn about the fifth state to join the U.S."
+      "description": null
     },
     {
       "title": "National S’mores Day",
-      "description": "We honor the most commonly packed camping snack!"
+      "description": null
     },
     {
       "title": "National Shapewear Day",
-      "description": "National Shapewear Day takes place on August 10 to celebrate and appreciate slimming garments."
+      "description": null
     },
     {
       "title": "National SKI Citrus Soda Day",
-      "description": "Grab your favorite citrus-flavored SKI soda drink this National SKI Citrus Soda Day!"
+      "description": null
     },
     {
-      "title": "Qixi Festival",
-      "description": "Buy some gifts, look your best, and say those three magical words to your beloved!"
+      "title": "The Day of Cantabria",
+      "description": null
     },
     {
       "title": "Update Your Bio Day",
-      "description": "Open your laptop, update your resumé, and find your dream job this Update Your Bio Day!"
+      "description": null
     },
     {
       "title": "Vlogging Day",
-      "description": "Vlogging Day is celebrated on August 10 around the world to appreciate vloggers."
+      "description": null
     },
     {
       "title": "World Lion Day",
-      "description": "Protect the wild cat’s roar — raise your voice for endangered lions this World Lion Day."
-    },
-    {
-      "title": "Alycia Bellamy’s Birthday",
-      "description": "This pop singer is blonde forever! Celebrate her special day with us right here!"
-    },
-    {
-      "title": "Chris Marek’s Birthday",
-      "description": "Celebrate the birthday of Chris Marek from “Little People, Big World” with us!"
-    },
-    {
-      "title": "Jacob Latimore’s Birthday",
-      "description": "Join us as we celebrate the birthday of this multi-talented actor and singer."
-    },
-    {
-      "title": "Kylie Jenner’s Birthday",
-      "description": "For Kylie Jenner, the amazing businesswoman, socialite, model, and influencer, she’s already hit gold."
-    },
-    {
-      "title": "Maci Bookout’s Birthday",
-      "description": "For this talented reality star, Maci Bookout, the sky&#39;s definitely the limit and nothing less."
-    },
-    {
-      "title": "Sunny Suljic’s Birthday",
-      "description": "For this super talented actor, everything Suljic touches turns to gold. Celebrate his special day today."
+      "description": null
     }
   ]
 }
