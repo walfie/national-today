@@ -1,0 +1,98 @@
+{
+  "month": "may",
+  "day": 21,
+  "holidays": [
+    {
+      "title": "National Waitstaff Day",
+      "description": null
+    },
+    {
+      "title": "Chardonnay Day",
+      "description": "Celebrating Chardonnay, crafted from the beautiful vineyards of Pinot noir and Gouais blanc."
+    },
+    {
+      "title": "Eat More Fruits and Vegetables Day",
+      "description": "Prepare your tummy for a healthy treat as we celebrate Eat More Fruits and Vegetables Day."
+    },
+    {
+      "title": "End of the World",
+      "description": "End of the World Day reminds us how fake apocalypse warnings distress people around the world."
+    },
+    {
+      "title": "Global Accessibility Awareness Day",
+      "description": "Disabled users must have access to the same high-quality digital services and content as non-disabled users."
+    },
+    {
+      "title": "I Need a Patch For That Day",
+      "description": "We’re ready to patch everything up and think outside the box on this quirky holiday!"
+    },
+    {
+      "title": "International Tea Day",
+      "description": "People across the world drink more than two billion cups of tea every day."
+    },
+    {
+      "title": "National American Red Cross Founder’s Day",
+      "description": "Gain some insight into the founder of the American Red Cross, and the organization itself."
+    },
+    {
+      "title": "National Aperitif Day",
+      "description": "On National Aperitif Day, add a little aperitif to your cocktail and sip it in style!"
+    },
+    {
+      "title": "National Memo Day",
+      "description": "A memo is any piece of important information that is penned or typed down."
+    },
+    {
+      "title": "National Notebook Day",
+      "description": "Roses are red, violets are blue, National Notebook Day is here, and we&#39;re celebrating with you."
+    },
+    {
+      "title": "National Strawberries and Cream Day",
+      "description": "Fresh strawberries and cream is the best treat to indulge in, on a hot day."
+    },
+    {
+      "title": "National Waiters and Waitresses Day",
+      "description": "Celebrate National Waiters and Waitresses Day today."
+    },
+    {
+      "title": "Navy Day Chile",
+      "description": "Learn why Navy Day is so important in Chile and how the locals celebrate it."
+    },
+    {
+      "title": "Rapture Party Day",
+      "description": "Instead of being fearful on this day, enjoy it as much as you can!"
+    },
+    {
+      "title": "Sister Maria Hummel Day",
+      "description": "Sister Maria Hummel Day honors this Franciscan nun and artist, whose work is highly admired."
+    },
+    {
+      "title": "Talk Like Yoda Day",
+      "description": "Yoda fans honor the day we first met the wisest little green guy in the galaxy."
+    },
+    {
+      "title": "World Day for Cultural Diversity for Dialogue and Development",
+      "description": "Learn how to celebrate World Day for Cultural Diversity for Dialogue and Development."
+    },
+    {
+      "title": "World Fish Migration Day",
+      "description": "World Fish Migration Day advocates for the protection of migratory fish and their natural habitat."
+    },
+    {
+      "title": "World Meditation Day",
+      "description": "It’s time to relax and take a deep breath this World Meditation Day."
+    },
+    {
+      "title": "Josh Allen’s Birthday",
+      "description": "He’s young but he’s already made football history — let’s celebrate Josh Allen today!"
+    },
+    {
+      "title": "Noel Fielding’s Birthday",
+      "description": "A man of many talents, there is nothing that Noel Fielding cannot do!"
+    },
+    {
+      "title": "Notorious B.I.G.’s Birthday",
+      "description": "He had a great career and hit the right notes on the rapping scene."
+    }
+  ]
+}
