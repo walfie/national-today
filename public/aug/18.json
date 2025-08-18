@@ -3,84 +3,56 @@
   "day": 18,
   "holidays": [
     {
+      "title": "National Couple&#39;s Day",
+      "description": null
+    },
+    {
       "title": "National Fajita Day",
       "description": null
     },
     {
       "title": "Bad Poetry Day",
-      "description": "Roses are red, violets are blue. If Shakespeare can write poetry, so can you!"
+      "description": null
     },
     {
-      "title": "Green Man Festival",
-      "description": "Grab your keys and let’s head out to Wales’ most vibrant festival — Green Man Festival!"
+      "title": "Discovery Day",
+      "description": null
     },
     {
       "title": "Indonesia Constitution Day",
-      "description": "The heart and soul of the country is the constitution. Unity in diversity is Indonesia’s identity."
+      "description": null
     },
     {
       "title": "Long Tan Day",
-      "description": "No, it’s not about getting a good tan under the sun. It’s a solemn remembrance day."
+      "description": null
     },
     {
       "title": "National Ice Cream Pie Day",
-      "description": "Prepare to treat your taste buds to this insanely delicious ice cream pie!"
+      "description": null
     },
     {
       "title": "National Mail Order Catalog Day",
-      "description": "Let’s celebrate and learn about the world&#39;s oldest and most innovative marketing strategies."
+      "description": null
     },
     {
       "title": "Never Give Up Day",
-      "description": "When the going gets tough, the tough get going. Never give up!"
+      "description": null
     },
     {
       "title": "Pinot Noir Day",
-      "description": "Grab a wine opener, and enjoy a little refinement this Pinot Noir Day."
+      "description": null
+    },
+    {
+      "title": "San Martin Day",
+      "description": null
     },
     {
       "title": "Serendipity Day",
-      "description": "Let’s dare to be different, try something new, and appreciate the beauty of the moment!"
-    },
-    {
-      "title": "Spirit Festival",
-      "description": "Ghost Festival is observed by people in China as a traditional way of honoring their dead."
-    },
-    {
-      "title": "Tu B&#39;Av",
-      "description": "Find out the historical significance of Tu B&#39;Av and how it changed in modern times."
-    },
-    {
-      "title": "Ullambana",
-      "description": "Read on to find out more about Ullambana and the ways to celebrate it traditionally."
+      "description": null
     },
     {
       "title": "World Breast Cancer Research Day",
-      "description": "Hug a loved one and learn a bit more about the ongoing struggle to combat breast cancer."
-    },
-    {
-      "title": "Edward Norton’s Birthday",
-      "description": "A great inspiration to millions of people, Edward Norton is only just getting started!"
-    },
-    {
-      "title": "Emma Langevin’s Birthday",
-      "description": "This social media personality is creating her legacy, one post at a time."
-    },
-    {
-      "title": "Lauren Pisciotta’s Birthday",
-      "description": "This fitness model is creating her legacy, one post at a time."
-    },
-    {
-      "title": "Louie Castro’s Birthday",
-      "description": "This amazing social media star is brimming with confidence! Celebrate his special day here!"
-    },
-    {
-      "title": "Madelaine Petsch’s Birthday",
-      "description": "Aside from her acting, she used to be a very talented dancer."
-    },
-    {
-      "title": "Patrick Swayze’s Birthday",
-      "description": "For this exceptional actor and dancer, the world was definitely his stage!"
+      "description": null
     }
   ]
 }
