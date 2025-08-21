@@ -3,88 +3,8 @@
   "day": 21,
   "holidays": [
     {
-      "title": "JUVÉDERM® Day",
-      "description": null
-    },
-    {
       "title": "International Day of Remembrance and Tribute to the Victims of Terrorism",
-      "description": "Today, we remember those who have died as a result of terrorism and honor the survivors."
-    },
-    {
-      "title": "Internet Self-Care Day",
-      "description": "The internet is full of information. Use that information for some self-care today."
-    },
-    {
-      "title": "National Brazilian Blowout Day",
-      "description": "Let&#39;s get ready to protect our hair from the scorching heat of the summer!"
-    },
-    {
-      "title": "National Report Upcoding Fraud Day",
-      "description": "Let’s stand up and speak out against unethical behavior when we see it."
-    },
-    {
-      "title": "National Senior Citizens Day",
-      "description": "For all they have achieved for the good of their communities, senior citizens deserve our thanks!"
-    },
-    {
-      "title": "National Spumoni Day",
-      "description": "Enjoy a taste or two of this delicious layered Italian ice cream dessert."
-    },
-    {
-      "title": "Ninoy Aquino Day",
-      "description": "This day forever commemorates the life and legacy of a beloved hero of freedom."
-    },
-    {
-      "title": "Alexandra Cooper’s Birthday",
-      "description": "Cooper has the Midas touch. Everything she dips her hand into turns to gold."
-    },
-    {
-      "title": "Bo Burnham’s Birthday",
-      "description": "The possibilities are endless for this talented comedian, singer, songwriter, and actor."
-    },
-    {
-      "title": "Garrett Powell’s Birthday",
-      "description": "This reality star has gained so much popularity in such a short period of time."
-    },
-    {
-      "title": "Hayden Panettiere’s Birthday",
-      "description": "Acting is in her blood, and she’s not about to stop anytime soon."
-    },
-    {
-      "title": "Joe Strummer’s Birthday",
-      "description": "Strummer was a British musician whose career spanned more than two decades."
-    },
-    {
-      "title": "Kacey Musgraves’s Birthday",
-      "description": "This singer has won numerous awards for her talent, and she is not stopping anytime soon."
-    },
-    {
-      "title": "Kelis’s Birthday",
-      "description": "For this multi-talented singer, songwriter, chef, and entrepreneur, ambition is the path to success."
-    },
-    {
-      "title": "Kenny Rogers’s Birthday",
-      "description": "This singer, songwriter, and actor, strove not to be successful but rather to be of value."
-    },
-    {
-      "title": "Kyle Creek’s Birthday",
-      "description": "After years of anonymity, Kyle Creek finally steps into the light to share his incredible story."
-    },
-    {
-      "title": "Piper Rockelle’s Birthday",
-      "description": "Piper Rockelle’s hunger for success is something to watch out for as she secures the bag!"
-    },
-    {
-      "title": "Sadie Crowell’s Birthday",
-      "description": "The talented YouTube star believes all our dreams come true if we dare to pursue them."
-    },
-    {
-      "title": "Timmy Thick’s Birthday",
-      "description": "This internet star and social media personality is one upload away from enviable success."
-    },
-    {
-      "title": "Usain Bolt’s Birthday",
-      "description": "Although retired, his record as a sprinter remains unbeaten; ‘Lightning Bolt’ will never be forgotten"
+      "description": null
     }
   ]
 }
