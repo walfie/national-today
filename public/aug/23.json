@@ -3,88 +3,56 @@
   "day": 23,
   "holidays": [
     {
+      "title": "Health Unit Coordinators Day",
+      "description": null
+    },
+    {
+      "title": "National Sponge Cake Day",
+      "description": null
+    },
+    {
+      "title": "Cheap Flight Day",
+      "description": null
+    },
+    {
+      "title": "Day for Remembrance of the Slave Trade and Its Abolition",
+      "description": null
+    },
+    {
+      "title": "Day of the National Flag",
+      "description": null
+    },
+    {
+      "title": "European Day of Remembrance for Victims of Stalinism and Nazism",
+      "description": null
+    },
+    {
       "title": "Find Your Inner Nerd Day",
       "description": null
     },
     {
-      "title": "Health Unit Coordinators Day",
-      "description": "Without them, hospitals would be unable to navigate even the most basic health care tasks."
-    },
-    {
-      "title": "National Sponge Cake Day",
-      "description": "This decadent dessert was first created by an Italian pastry chef for a Spanish lord."
-    },
-    {
-      "title": "Cheap Flight Day",
-      "description": "Hopefully, you globetrotters marked your calendars for Cheap Flight Day, well in advance."
-    },
-    {
-      "title": "Day for Remembrance of the Slave Trade and Its Abolition",
-      "description": "Keep memories alive so the world never makes the same mistakes again."
-    },
-    {
-      "title": "Day of the National Flag",
-      "description": "Let&#39;s honor the flag, and what we stand for as a Nation  — freedom, equality, and hope!"
-    },
-    {
-      "title": "European Day of Remembrance for Victims of Stalinism and Nazism",
-      "description": "Wear a black ribbon today to commemorate the European Day of Remembrance for Victims of Stalinism and Nazism."
-    },
-    {
       "title": "International Day for the Remembrance of the Slave Trade and its Abolition",
-      "description": "Join us and this movement against the slave trade to make the world a better place."
+      "description": null
     },
     {
       "title": "National Cuban Sandwich Day",
-      "description": "The sandwich is mostly characterized by its delectable blend of ham, cheese, pork, and mustard."
+      "description": null
     },
     {
       "title": "National Ride The Wind Day",
-      "description": "Take flight, relax, and enjoy the late summer breeze. It&#39;s time to ride the wind."
+      "description": null
+    },
+    {
+      "title": "Pride Cymru",
+      "description": null
     },
     {
       "title": "Slavery Remembrance Day",
-      "description": "The transatlantic slave trade is a blight on our history, but it must not be forgotten."
+      "description": null
     },
     {
       "title": "Valentino Day",
-      "description": "If your taste is classic vintage, let the Sheik show you how it&#39;s done."
-    },
-    {
-      "title": "Badda TD’s Birthday",
-      "description": "Dubbed the Prince of Flatbush, Badda TD is young, hungry, and one to watch."
-    },
-    {
-      "title": "Francesca Reale’s Birthday",
-      "description": "Francesca Reale is just getting started and the sky is the limit for this actress."
-    },
-    {
-      "title": "James Tucker’s Birthday",
-      "description": "Tucker’s sense of humor and self-possession make him one of the most interesting kids on YouTube."
-    },
-    {
-      "title": "Jennelle Eliana’s Birthday",
-      "description": "Eliana put Gen-Z, female, black vanlifers on the map with her off-script, quirky travels."
-    },
-    {
-      "title": "Kobe Bryant’s Birthday",
-      "description": "The legendary player, the late Kobe Bryant, was one of the highest-paid basketball players in history."
-    },
-    {
-      "title": "Rick Springfield’s Birthday",
-      "description": "Rick Springfield is considered a multi-talented singer and acting legend, and we aren’t surprised!"
-    },
-    {
-      "title": "River Phoenix’s Birthday",
-      "description": "Phoenix was an exceptional talent in Hollywood whose life and bright career were tragically cut short."
-    },
-    {
-      "title": "Trixie Mattel’s Birthday",
-      "description": "Mattel is loved for her exaggerated style that combines fun, comedy, and acoustic pop."
-    },
-    {
-      "title": "William Ernest Henley’s Birthday",
-      "description": "As a writer, editor, and critic, Henley embodied the Victorian era in word and thought."
+      "description": null
     }
   ]
 }
