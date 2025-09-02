@@ -3,112 +3,52 @@
   "day": 2,
   "holidays": [
     {
-      "title": "Labor Day",
+      "title": "Telephone Tuesday",
+      "description": null
+    },
+    {
+      "title": "Another Look Unlimited Day",
       "description": null
     },
     {
       "title": "Bison-ten Yell Day",
-      "description": "Join us as we learn more about this holiday that has nothing to do with bison."
+      "description": null
     },
     {
       "title": "Calendar Adjustment Day",
-      "description": "Join us as we learn more about the fascinating history behind this day."
+      "description": null
     },
     {
       "title": "Ceuta Day",
-      "description": "Take a break from your routines and spend a quiet day at home this Ceuta Day."
-    },
-    {
-      "title": "Death of Prophet Muhammad",
-      "description": "Take time to reflect on the teachings of the Prophet Muhammad as we honor his death."
+      "description": null
     },
     {
       "title": "Independence Day of Vietnam",
-      "description": "National Day of Vietnam, or Independence Day of Vietnam, is a festive occasion!"
-    },
-    {
-      "title": "Mouthguard Day",
-      "description": "Let&#39;s encourage people to wear mouthguards to reduce the risk of broken teeth and jaws!"
+      "description": null
     },
     {
       "title": "National Blueberry Popsicle Day",
-      "description": "The underrated blueberry popsicle flavor is celebrated today."
+      "description": null
     },
     {
       "title": "National Live Fearless Day",
-      "description": "Let&#39;s acknowledge an area in our lives where we feel fear and do something about it!"
+      "description": null
     },
     {
       "title": "Pierce Your Ears Day",
-      "description": "Beauty is sometimes painful! Join us as we dive into the background of ear piercing."
+      "description": null
     },
     {
       "title": "Spalding Baseball Day",
-      "description": "Come join us to witness the dramatic moments of a baseball game while hitting a fly ball."
-    },
-    {
-      "title": "Umhlanga reed dance Day",
-      "description": "Umhlanga Reed Dance Day is a grand celebration of purity and girlhood."
+      "description": null
     },
     {
       "title": "VJ Day",
-      "description": "V-J Day, commemorates a shift in the Second World War in favor of the Allies."
-    },
-    {
-      "title": "West Indian Day Parade",
-      "description": "West Indian culture is colorful and multifaceted. But what do we mean by &#34;West Indian?&#34;"
+      "description": null
     },
     {
       "title": "World Coconut Day",
-      "description": "You can’t make a piña colada or a decent Thai curry without it."
-    },
-    {
-      "title": "Camille Grammer’s Birthday",
-      "description": "She was one of the most interesting characters on “The Real Housewives of Beverly Hills.”"
-    },
-    {
-      "title": "Charles Trippy’s Birthday",
-      "description": "He has given vlogs a new meaning and is on his way to even bigger things."
-    },
-    {
-      "title": "Eugenio Derbez’s Birthday",
-      "description": "Whether performing physically or voice acting, he is renowned for adding humor to movies."
-    },
-    {
-      "title": "Faye Chrisley’s Birthday",
-      "description": "This reality T.V. star best plays the role of a loving and dedicated mother."
-    },
-    {
-      "title": "Hayley LeBlanc’s Birthday",
-      "description": "After her meteoric rise to fame, the young star is now ready to rule the world."
-    },
-    {
-      "title": "Katt Williams’s Birthday",
-      "description": "This multi-talented actor and comedian has made a big name for himself in Hollywood."
-    },
-    {
-      "title": "Keanu Reeves’s Birthday",
-      "description": "In 2014, he started playing the legendary assassin in the “John Wick” franchise."
-    },
-    {
-      "title": "Kian Lawley’s Birthday",
-      "description": "This YouTube homeboy and actor will make your heart skip a beat!"
-    },
-    {
-      "title": "Leah Ashe’s Birthday",
-      "description": "This multifaceted YouTube star has a colorful personality and videos to match."
-    },
-    {
-      "title": "Mark Harmon’s Birthday",
-      "description": "This award-winning actor has garnered thousands of fans around the world."
-    },
-    {
-      "title": "Patrick Cloud’s Birthday",
-      "description": "One of Cloud’s shows, “Roast Me”, has blown up and become a phenomenon."
-    },
-    {
-      "title": "Salma Hayek’s Birthday",
-      "description": "She’s an unstoppable, multi-talented artist; well-known Mexican star who’s made a name for herself in Hollywood."
+      "description": null
     }
   ]
 }
