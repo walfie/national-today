@@ -3,144 +3,92 @@
   "day": 7,
   "holidays": [
     {
+      "title": "Grandparents Day",
+      "description": null
+    },
+    {
       "title": "National Beer Lovers Day",
       "description": null
     },
     {
       "title": "Brazil Independence Day",
-      "description": "Or as they say in Brazil — Sete de Setembro!"
+      "description": null
     },
     {
       "title": "Buy a Book Day",
-      "description": "Suit up, we are going to buy and read some awesome books!"
-    },
-    {
-      "title": "Carl Garner Federal Lands Cleanup Day",
-      "description": "On Carl Garner Federal Lands Cleanup Day, let’s find out how to get involved in our areas."
+      "description": null
     },
     {
       "title": "Fluidra International Pool Pro Day",
-      "description": "Let&#39;s celebrate the excellent work of pool professionals on Fluidra International Pool Pro Day!"
-    },
-    {
-      "title": "Ganesh Chaturthi",
-      "description": "A ten day festival, held to honor the Hindu god of intelligence, Ganesha."
+      "description": null
     },
     {
       "title": "Google Commemoration Day",
-      "description": "Get your keypads and keyboards at the ready, it’s time to celebrate Google Commemoration Day."
+      "description": null
     },
     {
       "title": "Grandma Moses Day",
-      "description": "Grandma Moses Day is a reminder that it’s never too late to start afresh."
+      "description": null
     },
     {
       "title": "Indigenous Literacy Day",
-      "description": "Settle in for some much-needed unlearning today as we observe Indigenous Literacy Day."
-    },
-    {
-      "title": "International Bacon Day",
-      "description": "Let’s go hog-wild and enjoy more of this delicious, sizzling American staple."
+      "description": null
     },
     {
       "title": "International Day of Clean Air",
-      "description": "An estimated seven million people worldwide die from diseases related to unclean air each year."
+      "description": null
     },
     {
       "title": "International Day of Clean Air for Blue Skies",
-      "description": "Take action today to reduce air pollution and bring about a fundamental change in our world."
+      "description": null
     },
     {
       "title": "National Acorn Squash Day",
-      "description": "Just as sweet as it is healthy, this celebration will keep your taste buds wanting more."
+      "description": null
     },
     {
       "title": "National Feel the Love Day",
-      "description": "National Feel the Love Day is a celebration of everyone and everything that brings us joy."
+      "description": null
     },
     {
       "title": "National First Day of Peel Season",
-      "description": "This is the perfect time of the year to give your skin some extra T.L.C."
+      "description": null
     },
     {
       "title": "National Grateful Patient Day",
-      "description": "An amazing healthcare worker matches perfectly with a grateful patient. Be one today!"
-    },
-    {
-      "title": "National Hummingbird Day",
-      "description": "It seems more and more people are excited about seeing Hummingbirds than their favorite celebrities."
+      "description": null
     },
     {
       "title": "National Neither Snow Nor Rain Day",
-      "description": "Through sunshine and hail, our postal service workers are here to stay."
+      "description": null
     },
     {
       "title": "National New Hampshire Day",
-      "description": "National New Hampshire Day is a celebration of the state’s beautiful culture, landscapes, and history."
+      "description": null
+    },
+    {
+      "title": "National Pet Rock Day",
+      "description": null
     },
     {
       "title": "National Salami Day",
-      "description": "Meat lovers gather around, as we dig into the delicious celebration of this world-renowned sausage!"
+      "description": null
     },
     {
-      "title": "National Tailgating Day",
-      "description": "Good food, great company, and a lot of fun are reasons to enjoy this national pastime."
+      "title": "Pitru Paksha",
+      "description": null
     },
     {
       "title": "Superhuman Day",
-      "description": "Explore the power of real superhumans in this world — people who overcome challenges!"
+      "description": null
     },
     {
       "title": "Texas Energy Savings Day",
-      "description": "The majority of Texans are overpaying for their electricity, and with so many complicated plans and bills, many Texans don&#39;t even realize it."
-    },
-    {
-      "title": "Turkey Vulture Day",
-      "description": "Help raise awareness of the importance of vulture conservation at this year’s celebration."
-    },
-    {
-      "title": "World Beard Day",
-      "description": "Bushy, trimmed, or closely manicured, the beard remains supreme and we’re here to celebrate it."
+      "description": null
     },
     {
       "title": "World Duchenne Awareness Day",
-      "description": "The first step to progress is awareness —  join us as we dive in to learn more."
-    },
-    {
-      "title": "Buddy Holly’s Birthday",
-      "description": "The American rock singer was a central figure of mid-20th century rock and roll."
-    },
-    {
-      "title": "Cartman’s Birthday",
-      "description": "Thanks to him, the world is a funnier place! Let’s celebrate Cartman’s birthday today."
-    },
-    {
-      "title": "Eazy-E’s Birthday",
-      "description": "This talented rapper can rest in peace knowing his legacy will always remain timeless and untainted."
-    },
-    {
-      "title": "Elizabeth I of England’s Birthday",
-      "description": "Regardless of gender, this monarch ruled like a king with the strength of a thousand men."
-    },
-    {
-      "title": "Evan Rachel Wood’s Birthday",
-      "description": "A singer, activist, and actress, there is no stopping Evan Rachel Wood."
-    },
-    {
-      "title": "Hulk the Dog’s Birthday",
-      "description": "This special dog has great potential and is every dog lover’s dream."
-    },
-    {
-      "title": "Ivan Cervantes’s Birthday",
-      "description": "For this TikTok star and internet personality, greatness is one post away."
-    },
-    {
-      "title": "Rosie McClelland’s Birthday",
-      "description": "She is a young woman who is changing the world with her social media brilliance."
-    },
-    {
-      "title": "Ruth Righi’s Birthday",
-      "description": "This talented actress is destined for greatness, and we can&#39;t wait to see what’s next."
+      "description": null
     }
   ]
 }
