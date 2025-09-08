@@ -3,108 +3,52 @@
   "day": 8,
   "holidays": [
     {
-      "title": "Grandparents Day",
+      "title": "International Literacy Day",
       "description": null
     },
     {
-      "title": "International Literacy Day",
-      "description": "&#34;To remind the public of the importance of literacy as dignity and human rights.”"
-    },
-    {
       "title": "Actors&#39; Day",
-      "description": "On this day, we celebrate the actors and actresses who make stories come alive."
-    },
-    {
-      "title": "Day of the Homeland",
-      "description": "Day of the Homeland is celebrated annually in the Federal Republic of Germany."
+      "description": null
     },
     {
       "title": "National Ampersand Day",
-      "description": "Oh, yes, ampersand! Get your pens ready as we explore this curly and quirky little character."
+      "description": null
+    },
+    {
+      "title": "National Boss/Employee Exchange Day",
+      "description": null
     },
     {
       "title": "National Dog Walker Appreciation Day",
-      "description": "Let us appreciate the incredible people who help and celebrate our furry friends every day!"
-    },
-    {
-      "title": "National Hug Your Hound Day",
-      "description": "They say every dog has its day, and today is that day!"
+      "description": null
     },
     {
       "title": "National Iguana Awareness Day",
-      "description": "It’s the day to learn about taking good care of iguanas."
+      "description": null
     },
     {
       "title": "National Pediatric Hematology/Oncology Nurses Day",
-      "description": "Honor and laud the efforts of our nurses as they help young patients and their families."
-    },
-    {
-      "title": "National Pet Memorial Day",
-      "description": "Pet owners across the country remember their beloved pets who have passed on."
+      "description": null
     },
     {
       "title": "Our Lady of Meritxell Day",
-      "description": "Get ready to honor the heritage of the most hallowed Andorran holiday."
+      "description": null
     },
     {
       "title": "Pardon Day",
-      "description": "Human relationships can become sour, but also give us a chance to find peace and happiness."
+      "description": null
     },
     {
       "title": "Star Trek Day",
-      "description": "Live long and prosper, and binge on one of the world’s best media franchises."
+      "description": null
     },
     {
       "title": "World Literacy Day",
-      "description": "Be a part of the movement as millions across the globe advocate for literacy!"
+      "description": null
     },
     {
       "title": "World Physical Therapy Day",
-      "description": "World Physical Therapy Day is observed every year on September 8. It is celebrated to raise awareness about the critical role of physical therapists and…"
-    },
-    {
-      "title": "Avicii’s Birthday",
-      "description": "This musician can rest knowing the world is better off having experienced his talents."
-    },
-    {
-      "title": "Fe4RLess’s Birthday",
-      "description": "This YouTuber has achieved the coveted trifecta of fame, success, and greatness."
-    },
-    {
-      "title": "Jonah Michael Scott’s Birthday",
-      "description": "For this exceptional American voice actor, the sky is indeed the limit."
-    },
-    {
-      "title": "Jonathan Taylor Thomas’s Birthday",
-      "description": "Throughout the 1990s, Jonathan Taylor Thomas was the guy of every teenager’s dreams."
-    },
-    {
-      "title": "Martin Freeman’s Birthday",
-      "description": "Martin Freeman is a seasoned actor — he has portrayed many beloved characters!"
-    },
-    {
-      "title": "Moe Assad’s Birthday",
-      "description": "For this professional Twitch streamer, irrevocable success is one live stream away."
-    },
-    {
-      "title": "Patsy Cline’s Birthday",
-      "description": "The inimitable Patsy Cline leaves behind a rich musical legacy. May her soul rest in peace."
-    },
-    {
-      "title": "Pink’s Birthday",
-      "description": "This talented singer has created a legacy that will stand the test of time."
-    },
-    {
-      "title": "Quinton Griggs’s Birthday",
-      "description": "For this TikTok star and pop singer, nothing can get in the way of greatness."
-    },
-    {
-      "title": "Ruby Bridges’s Birthday",
-      "description": "This civil rights activist walked a challenging path so that present and future generations could fly."
-    },
-    {
-      "title": "Wiz Khalifa’s Birthday",
-      "description": "This talented musician has created a timeless legacy in the music industry."
+      "description": null
     }
   ]
 }
