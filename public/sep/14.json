@@ -3,80 +3,52 @@
   "day": 14,
   "holidays": [
     {
+      "title": "Day of the Homeland",
+      "description": null
+    },
+    {
+      "title": "Gobstopper Day",
+      "description": null
+    },
+    {
+      "title": "National Coloring Day",
+      "description": null
+    },
+    {
+      "title": "National Cream Filled Donut Day",
+      "description": null
+    },
+    {
+      "title": "NATIONAL EAT A HOAGIE DAY",
+      "description": null
+    },
+    {
+      "title": "National Food Is Medicine Day",
+      "description": null
+    },
+    {
+      "title": "National Hug Your Hound Day",
+      "description": null
+    },
+    {
+      "title": "NATIONAL LIVE CREATIVE DAY",
+      "description": null
+    },
+    {
+      "title": "National Pet Memorial Day",
+      "description": null
+    },
+    {
       "title": "National Rosa Tequila Day",
       "description": null
     },
     {
-      "title": "Drive Your Studebaker Day",
-      "description": "Learn why Studebaker is regarded as the most exquisite car of the 20th century."
-    },
-    {
-      "title": "Farmers&#39; Consumer Awareness Day",
-      "description": "Farmers&#39; Consumer Awareness Day is the most exciting way to learn where your food comes from."
-    },
-    {
-      "title": "Free Dental Day",
-      "description": "Say goodbye to that toothache because dentists are available to help you for free today."
-    },
-    {
-      "title": "German Language Day",
-      "description": "German is the language of poets Bertolt Brecht, Rainer Maria Rilke, and classic Weimar-era cinema."
-    },
-    {
-      "title": "Gobstopper Day",
-      "description": "Gobstopper Day celebrates gobstopper candies and their shared history with generations of children."
-    },
-    {
-      "title": "National Coloring Day",
-      "description": "Get creative with paper and crayons, colored pencils or markers, and brighten up your day!"
-    },
-    {
-      "title": "National Cream Filled Donut Day",
-      "description": "Once you bite into one, you&#39;ll know why these donuts deserve their own day!"
-    },
-    {
-      "title": "NATIONAL EAT A HOAGIE DAY",
-      "description": "Spread out your napkins as we celebrate this one-of-a-kind sandwich."
-    },
-    {
-      "title": "National Food Is Medicine Day",
-      "description": "Learn about the risks of poor nutrition and the barriers to nutritious eating."
-    },
-    {
-      "title": "NATIONAL LIVE CREATIVE DAY",
-      "description": "Time to unleash your creative energy!"
-    },
-    {
       "title": "National Sober Day",
-      "description": "Celebrate National Sober Day by applauding and supporting those who are keeping up their sobriety."
+      "description": null
     },
     {
       "title": "National Virginia Day",
-      "description": "Let’s get ready to commemorate everything that has happened in the Commonwealth."
-    },
-    {
-      "title": "Amy Winehouse’s Birthday",
-      "description": "The award-winning singer and songwriter has left behind a rich legacy for her fans worldwide."
-    },
-    {
-      "title": "Andrew Lincoln’s Birthday",
-      "description": "Here’s all you need to know about the hit actor from “The Walking Dead.”"
-    },
-    {
-      "title": "Audriana Giudice’s Birthday",
-      "description": "An admirable reality star captures the hearts of millions through her beauty and dancing."
-    },
-    {
-      "title": "Deshaun Watson’s Birthday",
-      "description": "This American footballer has one of the grandest contracts in N.F.L. history!"
-    },
-    {
-      "title": "Nas’s Birthday",
-      "description": "The award-winning rapper continues to enthrall audiences with his storytelling through evocative lyrics."
-    },
-    {
-      "title": "Shayne Topp’s Birthday",
-      "description": "This famous actor has piercing blue eyes that will leave you stunned!"
+      "description": null
     }
   ]
 }
