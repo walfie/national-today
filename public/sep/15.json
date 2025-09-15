@@ -3,156 +3,104 @@
   "day": 15,
   "holidays": [
     {
-      "title": "Wife Appreciation Day",
+      "title": "Butterscotch Cinnamon Pie Day",
       "description": null
     },
     {
-      "title": "Birthday of Prophet Muhammad",
-      "description": "Prophet Muhammad’s Birthday commemorates the birth of the religion of Islam’s founder."
-    },
-    {
-      "title": "Butterscotch Cinnamon Pie Day",
-      "description": "Delight yourself by indulging in a decadent slice or two of butterscotch cinnamon pie."
-    },
-    {
       "title": "Costa Rica Independence Day",
-      "description": "Costa Rica celebrates its official Independence Day with much fun and joy today."
+      "description": null
     },
     {
       "title": "Dot Day",
-      "description": "It started with a story about a little girl named Vashti, the protagonist of “The Dot.”"
-    },
-    {
-      "title": "Egypt: Al-Mouled Al-Nabawy",
-      "description": "Egypt celebrates Al-Mouled Al-Nabawy in honor of Prophet Muhammad’s birth. Join us as we commemorate it!"
+      "description": null
     },
     {
       "title": "El Salvador Independence Day",
-      "description": "Let&#39;s give a special shoutout to El Salvador Independence Day on this memorable day."
+      "description": null
+    },
+    {
+      "title": "FAMILY AND COMMUNITY DAY",
+      "description": null
     },
     {
       "title": "Felt Hat Day",
-      "description": "Felt Hat Day is celebrated to honor the long history of hats."
+      "description": null
     },
     {
       "title": "Greenpeace Day",
-      "description": "A day dedicated to environmental activism to create a green and clean future."
+      "description": null
     },
     {
       "title": "Guatemala Independence Day",
-      "description": "Delve into the exciting historical journey of one of the most intriguing South American nations."
+      "description": null
     },
     {
       "title": "Honduras Independence Day",
-      "description": "Christopher Columbus called the area ‘Golfo de Honduras’ — which means ‘The Gulf of the Depths.&#39;"
+      "description": null
     },
     {
       "title": "International Day of Democracy",
-      "description": "When freedom is absent, life includes unimaginable challenges that are often incomprehensible."
+      "description": null
     },
     {
       "title": "Make a Hat Day",
-      "description": "We celebrate Make a Hat Day by making hats that suit us the best."
+      "description": null
     },
     {
       "title": "National Africa Civility Day",
-      "description": "Discover what Africa Civility Day is about and the best ways to commemorate the occasion."
+      "description": null
     },
     {
       "title": "National Cheese Toast Day",
-      "description": "Celebrate the amalgamation of crunchiness and cheesiness of this dish in your mouth."
+      "description": null
     },
     {
       "title": "National Creme de Menthe Day",
-      "description": "Get set to unwind and cool down with this soothing flavored liqueur."
+      "description": null
     },
     {
       "title": "National Custom Framing Day",
-      "description": "Have you ever wondered how boring a painting or photograph would look without a frame?"
+      "description": null
     },
     {
       "title": "National D.A.R.E. Day",
-      "description": "Get ready to learn about preventing drug abuse and how you can help."
+      "description": null
     },
     {
       "title": "National Double Cheeseburger Day",
-      "description": "Join us in celebrating one of America’s revered and most savored food items."
+      "description": null
     },
     {
       "title": "National Google.com Day",
-      "description": "Do you know what day it is today? It&#39;s National Google.com Day! Let&#39;s celebrate together."
+      "description": null
     },
     {
       "title": "National Linguine Day",
-      "description": "The pesto is blended, the shrimp is boiled. Time to add the most important ingredient — linguine."
+      "description": null
     },
     {
       "title": "National Online Learning Day",
-      "description": "The internet has revolutionized the learning process and offers flexible learning environment to students."
+      "description": null
     },
     {
       "title": "National Tackle Kids Cancer Day",
-      "description": "National Tackle Kids Cancer Day is observed to raise critical funds for pediatric cancer research."
+      "description": null
+    },
+    {
+      "title": "Respect for the Aged Day",
+      "description": null
     },
     {
       "title": "Shout of Dolores",
-      "description": "¡Viva Mexico! These are the words powerful enough to free a nation!"
+      "description": null
     },
     {
       "title": "World Afro Day",
-      "description": "We have all you need to celebrate your natural coils and curls this World Afro Day!"
+      "description": null
     },
     {
       "title": "World Engineers Day",
-      "description": "Get those helmets on and let’s celebrate World Engineers Day right here!"
-    },
-    {
-      "title": "Aaliyah Mendes’s Birthday",
-      "description": "Find out more about Aaliyah Mendes and how she came to be famous!"
-    },
-    {
-      "title": "Agatha Christie’s Birthday",
-      "description": "With over two billion copies sold, this author is the best-selling fiction author in history."
-    },
-    {
-      "title": "Jenna Marbles’s Birthday",
-      "description": "This humorous persona and incredible woman will be dearly missed on our screens."
-    },
-    {
-      "title": "Lee Felix’s Birthday",
-      "description": "This K-pop star has all the makings of a heartthrob, and his fan following is proof."
-    },
-    {
-      "title": "Lisa Vanderpump’s Birthday",
-      "description": "Life isn&#39;t all diamonds and roses, but her life is one to be envious of."
-    },
-    {
-      "title": "Marco Polo’s Birthday",
-      "description": "The travel book of Marco Polo inspired the likes of Christopher Columbus. Explore his journey here."
-    },
-    {
-      "title": "Nipsey Russell’s Birthday",
-      "description": "We celebrate a great entertainer who was all about fun and living his best life."
-    },
-    {
-      "title": "Park Jae-hyung’s Birthday",
-      "description": "Here’s what the former guitarist of boyband Day6 has been up to."
-    },
-    {
-      "title": "Prince Harry’s Birthday",
-      "description": "The glory of living lies not in never falling, but in rising, just like Prince Harry."
-    },
-    {
-      "title": "Sommer Ray’s Birthday",
-      "description": "Her evolution as a stunning model and social media celebrity is one that everyone should emulate."
-    },
-    {
-      "title": "Tom Hardy’s Birthday",
-      "description": "The British heartthrob who makes us shiver with his performances is celebrating his birthday!"
-    },
-    {
-      "title": "Tommy Lee Jones’s Birthday",
-      "description": "From portraying the villain to the sexy agent, this actor’s skills know no limit."
+      "description": null
     }
   ]
 }
