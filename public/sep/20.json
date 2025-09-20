@@ -3,76 +3,92 @@
   "day": 20,
   "holidays": [
     {
+      "title": "National Dance Day",
+      "description": null
+    },
+    {
       "title": "National Queso Day",
       "description": null
     },
     {
-      "title": "NFT Day",
-      "description": "Creating digital expressions and ownership like never before!"
+      "title": "Batman Day",
+      "description": null
     },
     {
       "title": "German World Children&#39;s Day",
-      "description": "The official children’s day of Germany, one of two children’s days recognized in Germany every year."
+      "description": null
+    },
+    {
+      "title": "International Coastal Cleanup Day",
+      "description": null
+    },
+    {
+      "title": "International Eat An Apple Day",
+      "description": null
+    },
+    {
+      "title": "International NFT Day",
+      "description": null
+    },
+    {
+      "title": "International Red Panda Day",
+      "description": null
+    },
+    {
+      "title": "National AKC Responsible Dog Ownership Day",
+      "description": null
+    },
+    {
+      "title": "National Boys’ and Girls’ Club Day for Kids",
+      "description": null
     },
     {
       "title": "National Care For Kids Day",
-      "description": "A successful community is one that provides healthcare, education, and emotional care to its children."
+      "description": null
     },
     {
-      "title": "National Concussion Awareness Day",
-      "description": "Learn and educate others on how non-visible physical injuries can also be fatal."
+      "title": "National Clean Up Day",
+      "description": null
     },
     {
       "title": "National Crime and Intelligence Analyst Appreciation Day",
-      "description": "Take a minute to learn about the importance these professionals play in combating crime!"
+      "description": null
     },
     {
       "title": "National Fried Rice Day",
-      "description": "Fulfill your inner cravings with this amazing dish as we celebrate Fried Rice Day."
+      "description": null
     },
     {
-      "title": "National POW/MIA Recognition Day",
-      "description": "They’ll always be in our hearts — the gallant and beloved Americans who fought for freedom."
+      "title": "National Gymnastics Day",
+      "description": null
+    },
+    {
+      "title": "National Multivitamin Day",
+      "description": null
     },
     {
       "title": "National Punch Day",
-      "description": "It&#39;s not really soda, not really juice and not completely a cocktail."
+      "description": null
+    },
+    {
+      "title": "National Sew a Jelly Roll Day",
+      "description": null
     },
     {
       "title": "National String Cheese Day",
-      "description": "Join the foodie bandwagon as this snack strings you along to culinary bliss."
+      "description": null
     },
     {
-      "title": "National Tradesmen Day",
-      "description": "Let’s come together to express our gratitude to the tradesmen (and -women) of the country."
+      "title": "Puppy Mill Awareness Day",
+      "description": null
     },
     {
-      "title": "Ellie Louise’s Birthday",
-      "description": "Ellie Louise is amazing because of her positivity and fitness — we&#39;re proud of her achievements!"
+      "title": "Responsible Dog Ownership Day",
+      "description": null
     },
     {
-      "title": "Jack Hemmings’s Birthday",
-      "description": "Jack Hemmings made a name for himself — he’s destined to do much more!"
-    },
-    {
-      "title": "Katrina Stuart’s Birthday",
-      "description": "For this talented singer, actress, and model the sky is the limit."
-    },
-    {
-      "title": "Khabib Nurmagomedov’s Birthday",
-      "description": "This mixed martial arts fighter’s record-breaking career remains unmatched to this day."
-    },
-    {
-      "title": "Sophia Loren’s Birthday",
-      "description": "This Italian actress rose from humble beginnings in postwar Naples to become a legendary movie star"
-    },
-    {
-      "title": "Tara Wallace’s Birthday",
-      "description": "For this reality T.V. star, nothing is off the table. Celebrate her special day today!"
-    },
-    {
-      "title": "Yung Joc’s Birthday",
-      "description": "This rapper has faced many controversies throughout his career, but he is very resilient."
+      "title": "Usher Syndrome Awareness Day",
+      "description": null
     }
   ]
 }
