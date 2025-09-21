@@ -3,176 +3,84 @@
   "day": 21,
   "holidays": [
     {
-      "title": "Batman Day",
+      "title": "Wife Appreciation Day",
       "description": null
     },
     {
-      "title": "National Clean Up Day",
-      "description": "After all, being a good citizen includes keeping our communities clean!"
-    },
-    {
-      "title": "National Dance Day",
-      "description": "We brought the music, you bring the moves!"
-    },
-    {
-      "title": "National Multivitamin Day",
-      "description": "Get the nutrients you need, even when fruit or greens aren’t on the menu."
-    },
-    {
-      "title": "National Singles Day",
-      "description": "A 24-hour period where it’s okay to be about “me, me, me.”"
-    },
-    {
-      "title": "Abergavenny Food Festival",
-      "description": "Don’t even think about missing this food festival if you are in the U.K."
+      "title": "Ancestors&#39; Day",
+      "description": null
     },
     {
       "title": "Armenia Independence Day",
-      "description": "Join the people of Armenia in mass parades and festivals as they celebrate their independence day."
+      "description": null
+    },
+    {
+      "title": "Bathukamma Starting Day",
+      "description": null
     },
     {
       "title": "Belize Independence Day",
-      "description": "Feeling festive? This country&#39;s celebration has it all — music, food, friends, and fun."
+      "description": null
     },
     {
       "title": "Escapology Day",
-      "description": "Check out three magical ways you too can enjoy Escapology Day like a professional."
-    },
-    {
-      "title": "International Coastal Cleanup Day",
-      "description": "Let’s roll up our sleeves and clean our beaches and coastlines to reduce pollution."
+      "description": null
     },
     {
       "title": "International Day of Peace",
-      "description": "Let there be peace by making the world a better and more sustainable place for all."
-    },
-    {
-      "title": "International Eat An Apple Day",
-      "description": "As the saying goes, that&#39;s how you keep the doctor away."
-    },
-    {
-      "title": "International Red Panda Day",
-      "description": "Celebrate the day to encourage the preservation of the adorable red pandas."
+      "description": null
     },
     {
       "title": "Mabon",
-      "description": "Grab your fruit baskets and wine as we dedicate this festival to the bountiful harvest."
+      "description": null
     },
     {
       "title": "Malta Independence Day",
-      "description": "Though one of the smallest nations globally, Malta has a rich political and cultural history."
+      "description": null
     },
     {
       "title": "Miniature Golf Day",
-      "description": "Miniature golf can be traced back to the 19th century."
-    },
-    {
-      "title": "National AKC Responsible Dog Ownership Day",
-      "description": "Hey, dog owners, kiss your buddies and give them extra special treats today!"
-    },
-    {
-      "title": "National Boys’ and Girls’ Club Day for Kids",
-      "description": "National Boys’ and Girls’ Club Day for Kids is here, let’s celebrate!"
+      "description": null
     },
     {
       "title": "National Cat &amp; Dog Gut Health Awareness Day",
-      "description": "Almost every aspect of your cat’s or dog’s health depends on the complex community of microorganisms living in their gut. In all sorts of amazing ways, a healthy gut can help your pet live a longer, happier life."
+      "description": null
     },
     {
       "title": "National Chai Day",
-      "description": "Ready your cups, water, and tea mix, as we celebrate an amazing herbal, nourishing drink."
+      "description": null
     },
     {
       "title": "National Garage Condo Day",
-      "description": "Join us as we celebrate National Garage Condo Day this September 21!"
-    },
-    {
-      "title": "National Gymnastics Day",
-      "description": "Gyms turn into beehives of activity, highlighting the benefits of a healthy body."
+      "description": null
     },
     {
       "title": "National Opioid Awareness Day",
-      "description": "It’s National Opioid Awareness Day; all hands on deck to eliminate the abuse of these drugs."
+      "description": null
     },
     {
       "title": "National Pecan Cookie Day",
-      "description": "Get your taste buds dancing as we dive into the cookie jar for National Pecan Cookie Day."
+      "description": null
     },
     {
-      "title": "National Sew a Jelly Roll Day",
-      "description": "Warm those Jelly Rolls up; it’s time for National Sew a Jelly Roll Day!"
-    },
-    {
-      "title": "Puppy Mill Awareness Day",
-      "description": "Did you know millions of dogs are killed due to puppy mills every day?"
-    },
-    {
-      "title": "Responsible Dog Ownership Day",
-      "description": "Today, pet parents ‘pawse’ and remember the promises they made to their ‘furever’ friends."
+      "title": "Pchum Ben",
+      "description": null
     },
     {
       "title": "Telegraph Pole Appreciation Day",
-      "description": "It’s time to ramp it up for a day dedicated to the appreciation for telegraph poles!"
-    },
-    {
-      "title": "Usher Syndrome Awareness Day",
-      "description": "The first step to raising awareness for this rare genetic disease is educating yourself."
+      "description": null
     },
     {
       "title": "World Alzheimer’s Day",
-      "description": "On this day, the world concentrates its efforts on creating awareness of Alzheimer’s disease."
+      "description": null
     },
     {
       "title": "World Gratitude Day",
-      "description": "World Gratitude Day is the day to start living a life of gratitude."
+      "description": null
     },
     {
       "title": "World Mini Golf Day",
-      "description": "Come and join us as we learn more about this tee-rific holiday."
-    },
-    {
-      "title": "Bill Murray’s Birthday",
-      "description": "A celebration of America&#39;s favorite actor is a civic duty for all of us."
-    },
-    {
-      "title": "Chen’s Birthday",
-      "description": "This talented musician has used his beautiful soulful voice to warm the hearts of many."
-    },
-    {
-      "title": "Elsy Guevara’s Birthday",
-      "description": "This fashion influencer is hard-working and an inspiration to young women everywhere."
-    },
-    {
-      "title": "Faith Hill’s Birthday",
-      "description": "This country music star is among the most well-known in the world."
-    },
-    {
-      "title": "Jason Derulo’s Birthday",
-      "description": "Work hard, have faith, and never stop believing in yourself are his mantras."
-    },
-    {
-      "title": "Jena Frumes’s Birthday",
-      "description": "This is just the beginning of success for this television and social media personality."
-    },
-    {
-      "title": "Liam Gallagher’s Birthday",
-      "description": "Rock’s biggest god has been doing a great job at entertaining us throughout the years."
-    },
-    {
-      "title": "Megan Everett’s Birthday",
-      "description": "This experienced Twitch streamer has been in the business for a long time."
-    },
-    {
-      "title": "Nicole Richie’s Birthday",
-      "description": "What are some of the things she&#39;s accomplished? Who is she related to?"
-    },
-    {
-      "title": "Shay Shariatzadeh’s Birthday",
-      "description": "This engineer stays out of the spotlight, but she is a very supportive wife."
-    },
-    {
-      "title": "Stephen King’s Birthday",
-      "description": "He published his first novel in 1974 and has since written over 50 books."
+      "description": null
     }
   ]
 }
