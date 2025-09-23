@@ -3,136 +3,80 @@
   "day": 23,
   "holidays": [
     {
-      "title": "National Family Day",
+      "title": "Celebrate Bisexuality Day",
       "description": null
     },
     {
-      "title": "Celebrate Bisexuality Day",
-      "description": "Today is the day for bi visibility."
-    },
-    {
       "title": "Education Technology Day",
-      "description": "It’s time to appreciate and learn more about technology on this Educational Technology Day!"
+      "description": null
     },
     {
       "title": "Elvis Festival Porthcawl",
-      "description": "This is an exciting festival that pays tribute to one of the biggest stars that ever lived."
+      "description": null
     },
     {
       "title": "Go With Your Gut Day",
-      "description": "It’s time for that health check with Go With Your Gut Day!"
+      "description": null
     },
     {
       "title": "Innergize Day",
-      "description": "Forget your troubles, and ease into the tranquil spirit of the autumn season."
+      "description": null
     },
     {
       "title": "International Day of Sign Languages",
-      "description": "Want to learn a new language? Sign language is just the perfect pick!"
+      "description": null
     },
     {
       "title": "National AFM Day",
-      "description": "Get to learn more about A.F.M., the disease recently discovered and spiking in numbers."
+      "description": null
     },
     {
       "title": "National Apple Cider Vinegar Day",
-      "description": "It might be bitter to swallow, but here are some facts to help the medicine go down."
+      "description": null
     },
     {
       "title": "National Baker Day",
-      "description": "Baker is the last name with pedigree and ancient roots dating back to the Middle Ages."
+      "description": null
     },
     {
       "title": "National Checkers Day",
-      "description": "We celebrate memories of political pets!"
+      "description": null
     },
     {
       "title": "National Dogs in Politics Day",
-      "description": "The First Dog of the United States holds an important place in our hearts."
+      "description": null
     },
     {
       "title": "National Field Marketer’s Day",
-      "description": "Time to prepare your very best sales pitch on this National Field Marketers’ Day!"
+      "description": null
     },
     {
       "title": "National Great American Pot Pie Day",
-      "description": "Get your bellies ready, and your hearts merry, for this savory celebration."
+      "description": null
     },
     {
       "title": "National Snack Stick Day",
-      "description": "Get yourself some snack sticks as we celebrate a traditional family snack."
+      "description": null
+    },
+    {
+      "title": "​National Voter Registration Day",
+      "description": null
     },
     {
       "title": "Restless Legs Awareness Day",
-      "description": "Get excited as we dish out some hardcore educational tips and facts about a lifelong neurological condition!"
+      "description": null
     },
     {
       "title": "Seed Gathering Season",
-      "description": "Learn about the history of this season and fun ways to get involved."
+      "description": null
     },
     {
       "title": "Teal Talk Day",
-      "description": "Gather your friends, wear teal for a day out together and talk about ovarian cancer!"
+      "description": null
     },
     {
       "title": "Za’atar Day",
-      "description": "Everyone gather at the dining table because today is Za’atar Day! Celebrate with us!"
-    },
-    {
-      "title": "Anthony Mackie’s Birthday",
-      "description": "This talented actor’s successful career is a testament to never giving up on one&#39;s craft."
-    },
-    {
-      "title": "Bruce Springsteen’s Birthday",
-      "description": "The impact of this rock legend will forever be remembered for generations to come."
-    },
-    {
-      "title": "Chris Sails’s Birthday",
-      "description": "Join us as we celebrate this trail-blazing social media personality, rapper, and all-round funny man."
-    },
-    {
-      "title": "Darcey Silva’s Birthday",
-      "description": "We can only expect greatness from this multi-talented media personality, fashion designer, and influencer."
-    },
-    {
-      "title": "J.I.’s Birthday",
-      "description": "From rap competition winner to Spotify star, J.I. is a rap legend."
-    },
-    {
-      "title": "Jermaine Dupri’s Birthday",
-      "description": "From rapping to writing songs to producing music, Jermaine Dupri has done it all."
-    },
-    {
-      "title": "John Coltrane’s Birthday",
-      "description": "Learn about the jazz legend John Coltrane and how his influence has changed the world."
-    },
-    {
-      "title": "Jordyn Woods’s Birthday",
-      "description": "This sought-after American model and social media celebrity inspires body confidence and self-acceptance."
-    },
-    {
-      "title": "Kalani Hilliker’s Birthday",
-      "description": "All the world’s a stage for this incredible young dancer and contortionist."
-    },
-    {
-      "title": "Key’s Birthday",
-      "description": "Key is truly multi-talented and is admired around the world for his entertainment and fashion."
-    },
-    {
-      "title": "Kimberly Woodruff’s Birthday",
-      "description": "For this celebrity and philanthropist, privacy takes priority over the spotlight. Celebrate her today!"
-    },
-    {
-      "title": "LisaRaye McCoy’s Birthday",
-      "description": "This trendsetting U.S. actress and businesswoman exudes steely confidence and fashion flair."
-    },
-    {
-      "title": "Matt Hardy’s Birthday",
-      "description": "He may have a few gimmicks, but his wrestling talent sure isn’t one."
-    },
-    {
-      "title": "Ray Charles’s Birthday",
-      "description": "Let’s celebrate the legendary pioneer of soul music whose work lives on today."
+      "description": null
     }
   ]
 }
