@@ -3,144 +3,128 @@
   "day": 26,
   "holidays": [
     {
-      "title": "World Quantum Readiness Day",
+      "title": "AFL Grand Final Friday",
       "description": null
     },
     {
       "title": "Alpaca Day",
-      "description": "Alpaca Owners Association founded Alpaca Day to educate people about alpacas."
+      "description": null
+    },
+    {
+      "title": "American Indian Day",
+      "description": null
     },
     {
       "title": "Better Breakfast Day",
-      "description": "Wake up America — let&#39;s make the most of our mornings!"
+      "description": null
     },
     {
       "title": "Dominion Status Day",
-      "description": "Join us as New Zealand celebrates independence on Dominion Status Day."
+      "description": null
     },
     {
       "title": "European Day of Languages",
-      "description": "Are you ready to learn another language? E.D.L. is the perfect day to do it!"
+      "description": null
     },
     {
       "title": "European Languages Day",
-      "description": "Be inspired and brush up on your language learning skills for an enriching and fulfilling life."
+      "description": null
+    },
+    {
+      "title": "German Sandwich Day",
+      "description": null
     },
     {
       "title": "HR Professionals Day",
-      "description": "H.R. professional or not, this day can be celebrated by everybody!"
+      "description": null
+    },
+    {
+      "title": "Hug A Vegetarian Day",
+      "description": null
     },
     {
       "title": "International Day for the Total Elimination of Nuclear Weapons",
-      "description": "Get ready to learn the history of this important day right here with us!"
+      "description": null
     },
     {
       "title": "Johnny Appleseed Day",
-      "description": "Yes, this American legend was a living, breathing, historical human being!"
+      "description": null
     },
     {
       "title": "Love Note Day",
-      "description": "Grab a pen and paper and get ready to celebrate someone special this Love Note Day."
+      "description": null
     },
     {
       "title": "Lumberjack Day",
-      "description": "Lumberjacks are the real deal! Join in the celebration as we appreciate these hardworking professionals."
+      "description": null
+    },
+    {
+      "title": "Michigan Indian Day",
+      "description": null
+    },
+    {
+      "title": "National BRAVE Day",
+      "description": null
     },
     {
       "title": "National Chimichanga Day",
-      "description": "Celebrating one of history&#39;s greatest culinary accidents — the deep-fried goodness that is the chimichanga."
+      "description": null
     },
     {
       "title": "National Compliance Officer Day",
-      "description": "A day for all those who ensure an ethical and safe environment for organizations to thrive."
+      "description": null
     },
     {
       "title": "National Day of Praise and Worship",
-      "description": "September 26 is dedicated to praise and worship, which is an important aspect of Christianity."
+      "description": null
+    },
+    {
+      "title": "National Doodle Day",
+      "description": null
     },
     {
       "title": "National Dumpling Day",
-      "description": "No matter your ancestry, you probably have some form of dumpling in your history."
+      "description": null
     },
     {
       "title": "National Key Lime Pie Day",
-      "description": "Could you imagine life without key lime pies? We can&#39;t bear to think of it either!"
+      "description": null
     },
     {
       "title": "National Law Enforcement Suicide Awareness Day",
-      "description": "Do not miss celebrating National Law Enforcement Suicide Awareness Day this September 26!"
+      "description": null
     },
     {
       "title": "National Mesothelioma Awareness Day",
-      "description": "Mesothelioma Awareness Day to educate Americans affected by, or in danger of being affected by, asbestos."
+      "description": null
     },
     {
       "title": "National Pancake Day",
-      "description": "Get those hotcakes on the griddle, it’s time to prepare some pancakes!"
+      "description": null
     },
     {
       "title": "National Situational Awareness Day",
-      "description": "Let us draw your attention to the importance of situational awareness."
+      "description": null
     },
     {
-      "title": "Remember Me Thursday",
-      "description": "Honor our stray, abandoned, and orphaned pets today, because their lives matter too."
+      "title": "Native American Day",
+      "description": null
+    },
+    {
+      "title": "Save The Koala Day",
+      "description": null
     },
     {
       "title": "Shamu the Whale Day",
-      "description": "Appreciate the remarkable life of orcas on Shamu the Whale Day."
+      "description": null
     },
     {
-      "title": "World Maritime Day",
-      "description": "Toss your hats in honor of the seafarers on World Maritime Day."
+      "title": "Sport Purple for Platelets Day",
+      "description": null
     },
     {
-      "title": "Ant Antixx’s Birthday",
-      "description": "This YouTuber is a few uploads away from unmatched fame and success!"
-    },
-    {
-      "title": "Asuka’s Birthday",
-      "description": "This fierce and feisty Japanese wrestler isn’t planning on retiring any time soon."
-    },
-    {
-      "title": "Chloe Burrows’s Birthday",
-      "description": "Chloe Burrows is a talented influencer. We can&#39;t wait to see what she does next!"
-    },
-    {
-      "title": "Dat Boi T’s Birthday",
-      "description": "For this Houston-born artist, the bar is set really high! Celebrate his special day with us!"
-    },
-    {
-      "title": "Johnny Appleseed’s Birthday",
-      "description": "If you enjoy eating apples, it might be the legacy of this historic nurseryman’s work."
-    },
-    {
-      "title": "Killumantii’s Birthday",
-      "description": "This talented rapper is one chart-topping track away from a Grammy award!"
-    },
-    {
-      "title": "Landon McBroom’s Birthday",
-      "description": "McBroom is an internet personality who’s faced various controversies and keeps fighting to face another day."
-    },
-    {
-      "title": "Lilly Singh’s Birthday",
-      "description": "Not only is she an entertaining comedian, but she’s also a human and children&#39;s rights activist!"
-    },
-    {
-      "title": "Russ Diemon’s Birthday",
-      "description": "This rising artist on the rap scene will have you vibing to his amazing beats."
-    },
-    {
-      "title": "Serena Williams’s Birthday",
-      "description": "This incredibly talented tennis player has broken many a record and is a formidable athlete."
-    },
-    {
-      "title": "Sherri Gaskins’s Birthday",
-      "description": "For this blogger and YouTuber, limitless fame and recognition are a few posts away!"
-    },
-    {
-      "title": "Walker Bryant’s Birthday",
-      "description": "This young actor and social media personality has won the hearts of thousands, including ours."
+      "title": "World’s Biggest Coffee Morning",
+      "description": null
     }
   ]
 }
