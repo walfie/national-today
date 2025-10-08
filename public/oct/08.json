@@ -3,144 +3,88 @@
   "day": 8,
   "holidays": [
     {
+      "title": "National Pet Obesity Awareness Day",
+      "description": null
+    },
+    {
       "title": "National Pierogi Day",
       "description": null
     },
     {
-      "title": "ADA Lovelace Day",
-      "description": "Ada Lovelace Day highlights the achievements of women in science, technology, engineering, and mathematics."
-    },
-    {
       "title": "Alvin C. York Day",
-      "description": "What makes Alvin C. York so special? We have all the information you need!"
+      "description": null
     },
     {
       "title": "American Touch Tag Day",
-      "description": "Put on your running shoes as we celebrate one of the world’s most popular games."
+      "description": null
     },
     {
       "title": "Battle of Angamos",
-      "description": "Discover why the Battle of Angamos is significant in Peru and how it is commemorated."
+      "description": null
+    },
+    {
+      "title": "Boat Racing Festival Laos",
+      "description": null
     },
     {
       "title": "Dyslexia Day",
-      "description": "Dyslexia Day helps patients and caretakers find ways to live a fulfilling life."
+      "description": null
+    },
+    {
+      "title": "Emergency Nurses Day",
+      "description": null
     },
     {
       "title": "Honduras: Discovery of America Day",
-      "description": "Did you know that Columbus did not even set foot in North America?"
+      "description": null
     },
     {
       "title": "Indian Air Force Day",
-      "description": "Be motivated to fly high by learning more about the history behind the Indian Air Force."
+      "description": null
     },
     {
       "title": "International Birth Registration Day",
-      "description": "Understand why this is such an important day for millions of children across the globe."
+      "description": null
     },
     {
       "title": "International Newspaper Carrier Day",
-      "description": "National Newspaper Carrier Day on October 8 celebrates the resilient paper carriers who have been around for as long as newspapers themselves. These fearless riders…"
+      "description": null
     },
     {
-      "title": "NATIONAL FACE YOUR FEARS DAY",
-      "description": "It’s time to confront your fears and be bold."
+      "title": "International Top Spinning Day",
+      "description": null
+    },
+    {
+      "title": "National Bring Your Teddy Bear to School Day",
+      "description": null
+    },
+    {
+      "title": "National Curves Day",
+      "description": null
     },
     {
       "title": "National Fluffernutter Day",
-      "description": "Celebrate the childhood sandwich of peanut butter and Marshmallow Fluff squished between two slices of bread."
+      "description": null
     },
     {
       "title": "National Harbormaster Appreciation Day",
-      "description": "Let&#39;s understand why it&#39;s so important that we say thank you to harbormasters."
+      "description": null
     },
     {
       "title": "National Heroes’ Day",
-      "description": "From battlefields to classrooms, we have heroes who inspire change with their noteworthy actions."
+      "description": null
     },
     {
       "title": "National Salmon Day",
-      "description": "Whip out your recipes, prepare your wild or packaged salmon, and make delicious healthy food."
+      "description": null
+    },
+    {
+      "title": "National Stop Bullying Day",
+      "description": null
     },
     {
       "title": "World Octopus Day",
-      "description": "We celebrate the special day of a remarkable eight-legged creature."
-    },
-    {
-      "title": "Bella Thorne’s Birthday",
-      "description": "Come along as we get to know the actress, model, writer, and singer."
-    },
-    {
-      "title": "Bruno Mars’s Birthday",
-      "description": "We have here all the interesting information and facts about this multi-talented megastar."
-    },
-    {
-      "title": "Cara Gosselin’s Birthday",
-      "description": "Her representation of her life exemplifies what a reality star is all about."
-    },
-    {
-      "title": "Chevy Chase’s Birthday",
-      "description": "This actor provided the blueprint that will be relevant to future generations of actors."
-    },
-    {
-      "title": "Elz the Witch’s Birthday",
-      "description": "Elz the Witch has made it in a man’s world — let’s get to know her more."
-    },
-    {
-      "title": "Famous Ocean’s Birthday",
-      "description": "This young rapper, Famous Ocean, is creating a legacy she can be proud of."
-    },
-    {
-      "title": "Funny Mike’s Birthday",
-      "description": "Here&#39;s all you need to know about Funny Mike in honor of his birthday."
-    },
-    {
-      "title": "G Herbo’s Birthday",
-      "description": "Let’s take a deeper look into the life of American rapper G Herbo."
-    },
-    {
-      "title": "Gauri Khan’s Birthday",
-      "description": "This talented film producer’s body of work will remain relevant for generations to come!"
-    },
-    {
-      "title": "Grayson Allen’s Birthday",
-      "description": "For this basketball player, his legacy is in the works, one game at a time!"
-    },
-    {
-      "title": "Jack Doherty’s Birthday",
-      "description": "This YouTube content creator is one step away from massive stardom and success."
-    },
-    {
-      "title": "Jesse Jackson’s Birthday",
-      "description": "When it comes to this American politician and activist, the world will always know his name!"
-    },
-    {
-      "title": "Louise Hay’s Birthday",
-      "description": "This motivational author inspired millions of people around the world with her teachings."
-    },
-    {
-      "title": "Matt Damon’s Birthday",
-      "description": "This superstar actor is a legend in his field, and we have all the deets!"
-    },
-    {
-      "title": "Mikan Mandarin’s Birthday",
-      "description": "For this social media star and YouTuber, success is one post away!"
-    },
-    {
-      "title": "Nava Rose’s Birthday",
-      "description": "She has a flawless sense of elegance, which never fails to impress her audience."
-    },
-    {
-      "title": "Nick Cannon’s Birthday",
-      "description": "There is no stopping this multi-talented Hollywood celebrity; Nick Cannon has it all."
-    },
-    {
-      "title": "Sigourney Weaver’s Birthday",
-      "description": "This inimitable actress has dominated the genres of science-fiction, action, and adventure!"
-    },
-    {
-      "title": "The Miz’s Birthday",
-      "description": "This talented wrestler and actor is creating a timeless legacy in both niches."
+      "description": null
     }
   ]
 }
