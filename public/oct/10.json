@@ -3,176 +3,100 @@
   "day": 10,
   "holidays": [
     {
+      "title": "MISTR&#39;s National PrEP Day",
+      "description": null
+    },
+    {
       "title": "World Mental Health Day",
       "description": null
     },
     {
       "title": "Cuba Independence Day",
-      "description": "Join the Cuban people by honoring the heroes that made this historic day possible"
+      "description": null
     },
     {
       "title": "Curaçao Day",
-      "description": "Commemorate Curaçao Day with parades, flag hoisting activities, and the island’s cultural displays."
-    },
-    {
-      "title": "Durga Ashtami",
-      "description": "People gather on this day to perform &#39;garba&#39; and wear colorful costumes to honor Durga Ashtami."
+      "description": null
     },
     {
       "title": "Fiji Day",
-      "description": "Immerse yourself in the history and culture of Fiji on this day."
+      "description": null
     },
     {
       "title": "Huduma Day",
-      "description": "Formerly known as Moi Day, discover why Huduma Day is a special Kenyan holiday."
+      "description": null
     },
     {
       "title": "Inclusion Day",
-      "description": "Celebrate World Inclusion Day by reaching out to individuals all across the world."
+      "description": null
     },
     {
       "title": "International Stage Management Day",
-      "description": "Grab a seat while we appreciate the people who rule backstage."
+      "description": null
     },
     {
       "title": "Local Government Day",
-      "description": "Filipinos commemorate Local Government Day with parades and events for the 1991 enactment of the code."
-    },
-    {
-      "title": "Maha Saptami",
-      "description": "An intriguing and religious festival dedicated to a goddess celebrated in India."
+      "description": null
     },
     {
       "title": "Maroons Day",
-      "description": "Remember the fight of the Maroons of Suriname to keep their land and identity."
+      "description": null
     },
     {
       "title": "Maroons Day",
-      "description": "On this day, join us as we explore the rich culture and history of the Maroons."
+      "description": null
     },
     {
       "title": "National Angel Food Cake Day",
-      "description": "Be inspired by the spongy goodness as we dive into one of America’s favorite desserts."
+      "description": null
     },
     {
       "title": "National Cake Decorating Day",
-      "description": "With holiday dessert buffets coming up soon, now is the perfect time to practice your technique!"
-    },
-    {
-      "title": "National Depression Screening Day",
-      "description": "Roughly 40 million adults in the U.S. struggle with depression or anxiety."
+      "description": null
     },
     {
       "title": "National Handbag Day",
-      "description": "The handbag is an essential item for many women and even some men!"
+      "description": null
     },
     {
       "title": "National Hug a Kevin Day",
-      "description": "If you are a Kevin, get ready to receive some premium hugs."
+      "description": null
     },
     {
       "title": "Taiwan: National Day / Double Ten day",
-      "description": "Enjoy the fanfare and military parades by raising the flag and joining in the national anthem."
+      "description": null
     },
     {
       "title": "The Beginning of the Ten Years’ War",
-      "description": "Join us as we celebrate Cuban independence, commemorating the nation&#39;s brave fight."
+      "description": null
+    },
+    {
+      "title": "Vet Nurse Day",
+      "description": null
     },
     {
       "title": "World Animal Road Accident Awareness Day",
-      "description": "Love animals? Drive cautiously to observe this worthy reminder of the welfare of our furry friends."
+      "description": null
     },
     {
       "title": "World Day Against The Death Penalty",
-      "description": "Raise your voices as we mark an important day to bring an end to the death penalty."
+      "description": null
+    },
+    {
+      "title": "World Egg Day",
+      "description": null
     },
     {
       "title": "World Homeless Day",
-      "description": "Want to know how you can contribute to ending homelessness?"
+      "description": null
     },
     {
       "title": "World Plant-based Burger Day",
-      "description": "Make a plant-based burger for supper to celebrate World Plant-Based Burger Day!"
+      "description": null
     },
     {
       "title": "World Porridge Day",
-      "description": "Bring on your biggest appetite as we explore the origins of a breakfast favorite."
-    },
-    {
-      "title": "World Sight Day",
-      "description": "Read on and get ready to see and appreciate the gift of sight!"
-    },
-    {
-      "title": "Bae Suzy’s Birthday",
-      "description": "This singer is the master of her destiny and the captain of her success!"
-    },
-    {
-      "title": "Brett Favre’s Birthday",
-      "description": "We have all the insights and facts on this renowned football player."
-    },
-    {
-      "title": "Chaz Smith’s Birthday",
-      "description": "This popular YouTuber rose to fame as a result of his comedic videos on social media."
-    },
-    {
-      "title": "Cherliz Cohen’s Birthday",
-      "description": "This social media star has created a name for herself. Discover why fans love her!"
-    },
-    {
-      "title": "Da&#39;Vinchi’s Birthday",
-      "description": "This young, gifted actor has worked hard and has earned his success!"
-    },
-    {
-      "title": "Dale Earnhardt Jr.’s Birthday",
-      "description": "Dale Earnhardt Jr.&#39;s most important career: it has been the career of life."
-    },
-    {
-      "title": "Dan Stevens’s Birthday",
-      "description": "This actor has made his mark in the world of entertainment and it&#39;s only the beginning."
-    },
-    {
-      "title": "David Lee Roth’s Birthday",
-      "description": "This talented musician is known and adored by fans for his wild, energetic stage persona."
-    },
-    {
-      "title": "Lzzy Hale’s Birthday",
-      "description": "This musician is the master of her destiny, and she is doing just fine!"
-    },
-    {
-      "title": "Marina Diamandis’s Birthday",
-      "description": "This talented singer, songwriter, and record producer is carving a name for herself in the industry."
-    },
-    {
-      "title": "Mario Lopez’s Birthday",
-      "description": "This famous actor rose to fame after starring in the popular sitcom &#34;Saved by the Bell.&#34;"
-    },
-    {
-      "title": "Marjorie Harvey’s Birthday",
-      "description": "She’s got style, she’s got class, she’s got grace and we celebrate her today."
-    },
-    {
-      "title": "Meli V’s Birthday",
-      "description": "For this creative Instagram star, she has achieved the accolades she deserves!"
-    },
-    {
-      "title": "Mya’s Birthday",
-      "description": "Here&#39;s to the talented singer, dancer, songwriter, producer, and actress, today is yours!"
-    },
-    {
-      "title": "Pressley Hosbach’s Birthday",
-      "description": "Step after step, Pressley Hosbach is dancing towards success! Let’s celebrate her birthday together."
-    },
-    {
-      "title": "Rekha’s Birthday",
-      "description": "In honor of her big day, here are some facts about Rekha that you should know."
-    },
-    {
-      "title": "Tanya Tucker’s Birthday",
-      "description": "For this country music singer, success is in the palm of her hands!"
-    },
-    {
-      "title": "Thelonious Monk’s Birthday",
-      "description": "Thelonious Monk played a huge role in the early 1940s jazz revolution."
+      "description": null
     }
   ]
 }
