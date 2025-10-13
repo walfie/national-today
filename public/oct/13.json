@@ -3,10 +3,6 @@
   "day": 13,
   "holidays": [
     {
-      "title": "Indigenous Peoples&#39; Day",
-      "description": null
-    },
-    {
       "title": "National No Bra Day",
       "description": null
     },
@@ -32,6 +28,10 @@
     },
     {
       "title": "Herpes Awareness Day",
+      "description": null
+    },
+    {
+      "title": "Indigenous Peoples&#39; Day",
       "description": null
     },
     {
