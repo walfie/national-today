@@ -3,104 +3,40 @@
   "day": 19,
   "holidays": [
     {
-      "title": "National Fetch Day",
+      "title": "National New Friends Day",
       "description": null
     },
     {
-      "title": "National New Friends Day",
-      "description": "Make room for new connections in your life, and celebrate friendship everywhere you go."
-    },
-    {
-      "title": "Sweetest Day",
-      "description": "It’s a day to give a card with a sweet message to someone you appreciate."
-    },
-    {
-      "title": "Bridge Day",
-      "description": "Join the other adrenaline-fueled daredevils at the New River Gorge Bridge on Bridge Day."
-    },
-    {
-      "title": "Ethnicity day",
-      "description": "Celebrate Ethnicity Day by learning about the different ethnic groups in Estonia."
-    },
-    {
       "title": "Evaluate Your Life Day",
-      "description": "This day encourages us to reflect on our lives to become better versions of ourselves."
-    },
-    {
-      "title": "International Raw Milk Cheese Appreciation Day",
-      "description": "Nibbling on cheese helps your gut rather than your waistline, which is worth celebrating."
-    },
-    {
-      "title": "International Sloth Day",
-      "description": "Although sloths look like some kind of furry bear, their closest relatives are anteaters and armadillos."
+      "description": null
     },
     {
       "title": "LGBT Center Awareness Day",
-      "description": "Get ready to learn about the importance of L.G.B.T.Q centers in your community!"
+      "description": null
     },
     {
       "title": "National Kentucky Day",
-      "description": "Kentucky is all about horses, food, coal, culture, and astounding historic landmarks."
+      "description": null
     },
     {
       "title": "National Seafood Bisque Day",
-      "description": "Get out your spoon as we dig into all the fun facts about this special day."
+      "description": null
+    },
+    {
+      "title": "Sunday School Teacher Appreciation Day",
+      "description": null
     },
     {
       "title": "World Humanitarian Action Day",
-      "description": "Let us honor and respect the humanitarian martyrs who died while protecting others!"
+      "description": null
     },
     {
       "title": "World Pediatric Bone and Joint Day",
-      "description": "World Pediatric Bone and Joint Day highlights obesity, screening, and prevention."
+      "description": null
     },
     {
-      "title": "Angel Brinks’s Birthday",
-      "description": "She took plain leggings and turned them into something enticing, earning the title &#34;Queen of Leggings.&#34;"
-    },
-    {
-      "title": "Arzaylea’s Birthday",
-      "description": "It doesn’t look like she’s slowed down, ever since her stardom on Instagram."
-    },
-    {
-      "title": "Candice Pool’s Birthday",
-      "description": "This jewelry designer has a distinct vision and the talent to make it a reality!"
-    },
-    {
-      "title": "Cari Roblox’s Birthday",
-      "description": "This talented YouTube star and actor is known for her expressive voice and fun content."
-    },
-    {
-      "title": "Dorinda Clark-Cole’s Birthday",
-      "description": "This multi-talented musician has taken us through a journey of a lifetime."
-    },
-    {
-      "title": "Evander Holyfield’s Birthday",
-      "description": "Holyfield was indeed ‘The Real Deal’ of boxing, determined to be the best."
-    },
-    {
-      "title": "HappyBirthdayCalvin’s Birthday",
-      "description": "This young rapper is starting to receive international acclaim, and it&#39;s exciting to see!"
-    },
-    {
-      "title": "Jeon Hee-Jin’s Birthday",
-      "description": "This young achiever has a dream, and she’s working hard to attain it."
-    },
-    {
-      "title": "Lil Durk’s Birthday",
-      "description": "This talented rapper stays working, stays busy, and is always motivated to keep going!"
-    },
-    {
-      "title": "Mohammed Tarek’s Birthday",
-      "description": "Mohammed Tarek is only just getting started on his ventures, and his future is looking bright!"
-    },
-    {
-      "title": "Peter Tosh’s Birthday",
-      "description": "Peter Tosh was posthumously granted Jamaica&#39;s third highest decoration, the Order of Merit."
-    },
-    {
-      "title": "Sam Pottorff’s Birthday",
-      "description": "An influencer like no other, let’s celebrate his special day today right here!"
+      "title": "World Toy Camera Day",
+      "description": null
     }
   ]
 }
