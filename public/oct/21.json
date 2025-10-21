@@ -3,168 +3,88 @@
   "day": 21,
   "holidays": [
     {
+      "title": "National Share the Warmth Day",
+      "description": null
+    },
+    {
       "title": "American Frog Day",
       "description": null
     },
     {
       "title": "Armed Forces Day in Honduras",
-      "description": "Today, we honor the valiant Honduran soldiers who risk their lives for others’ safety."
+      "description": null
     },
     {
       "title": "​Back to the Future Day",
-      "description": "Throw on your Nikes, pop in a VHS and rev up your DeLorean."
+      "description": null
     },
     {
       "title": "Celebration of the Mind Day",
-      "description": "Gear up for a day full of logic, learning, and fun — even with numbers involved!"
+      "description": null
     },
     {
       "title": "Count Your Buttons Day",
-      "description": "A fun day to celebrate this useful innovation that has made our clothes and lives beautiful."
-    },
-    {
-      "title": "Day of the Races",
-      "description": "Day of the Race is a significant holiday, despite some resistance in the indigenous community."
+      "description": null
     },
     {
       "title": "Everyone Writes Day",
-      "description": "Learn the history of writing and the best activities for Everyone Writes Day."
+      "description": null
     },
     {
       "title": "Global Iodine Deficiency Disorders Prevention Day",
-      "description": "The day raises awareness about the importance of iodine and the disorders it prevents."
-    },
-    {
-      "title": "Heroes and Forefathers Day",
-      "description": "Creating a more British Virgin Islands-focused holiday honors the territory’s rich past."
-    },
-    {
-      "title": "Heroes&#39; Day (In Jamaica)",
-      "description": "Jamaica has seven great heroes that are remembered and cherished even today."
+      "description": null
     },
     {
       "title": "Honduran Army Day",
-      "description": "An important symbol of Honduran unity is celebrated on this day. Join us in commemorating it!"
-    },
-    {
-      "title": "Loud Shirt Day",
-      "description": "Let’s all make some noise and get loud for Loud Shirt Day right!"
-    },
-    {
-      "title": "Mashujaa Day Kenya",
-      "description": "On Mashujaa Day, Kenyans celebrate those who fought for independence from colonial rule."
+      "description": null
     },
     {
       "title": "National Apple Day",
-      "description": "Celebrate all things apple: apple pie, apple sauce, apple crisp… we could go on!"
+      "description": null
     },
     {
       "title": "National Archives Day",
-      "description": "Take a look at the historical records as well as the preservation of such important information."
+      "description": null
     },
     {
       "title": "National Check Your Meds Day",
-      "description": "It’s a rare chance for consumers to get free medical advice."
+      "description": null
     },
     {
       "title": "National Pets for Veterans Day",
-      "description": "It all started with a dog named Bear."
+      "description": null
     },
     {
       "title": "National Pumpkin Cheesecake Day",
-      "description": "Pumpkin cheesecake is yet another way to win any American’s heart."
+      "description": null
     },
     {
       "title": "National Reptile Day",
-      "description": "The squeamish and admirers alike appreciate the role these creatures play in our ecosystem."
+      "description": null
+    },
+    {
+      "title": "Pharmacy Technician Day",
+      "description": null
     },
     {
       "title": "Police Commemoration Day",
-      "description": "Let us all come together to raise our hands and salute those who have served."
+      "description": null
     },
     {
       "title": "President Ndadaye&#39;s Day",
-      "description": "Join us in honoring an unsung African hero who stood for the truth of democracy."
+      "description": null
+    },
+    {
+      "title": "Pro-Life Day of Silent Solidarity",
+      "description": null
     },
     {
       "title": "Reptile Awareness Day",
-      "description": "Godzilla. Reptar. The Geico Gecko. Those two lizards that always hang out around your back porch."
+      "description": null
     },
     {
       "title": "Trafalgar Day",
-      "description": "More than two centuries ago, the British Navy defeated French and Spanish ships at Trafalgar."
-    },
-    {
-      "title": "Aaron Tveit’s Birthday",
-      "description": "The multitalented actor consistently demonstrates his acting and singing skills in many performances."
-    },
-    {
-      "title": "Amber Rose’s Birthday",
-      "description": "We celebrate this star whose dance moves gave her an in into the entertainment business."
-    },
-    {
-      "title": "Carrie Fisher’s Birthday",
-      "description": "This beauty left a lasting mark on the movie industry and a legacy that’ll live forever."
-    },
-    {
-      "title": "Celia Cruz’s Birthday",
-      "description": "Through her music and style, Cruz has left an indelible mark on the entire world."
-    },
-    {
-      "title": "Cristy Lee’s Birthday",
-      "description": "Let’s talk about the “All Girls Garage” star Cristy Lee and her life journey."
-    },
-    {
-      "title": "Devyn Kohl’s Birthday",
-      "description": "Beautiful and mesmerizing, this rising social media star will surely capture your heart!"
-    },
-    {
-      "title": "Doja Cat’s Birthday",
-      "description": "This amazing talent is on her way to building a strong reputation in the music world."
-    },
-    {
-      "title": "Hope Hicks’s Birthday",
-      "description": "Hicks outlasted all of Trump’s inner circle to become his longest-serving political aide."
-    },
-    {
-      "title": "Judge Judy Sheindlin’s Birthday",
-      "description": "She is a tough one! Fully in charge of her courtroom where no crime goes unpunished."
-    },
-    {
-      "title": "Julia Havens’s Birthday",
-      "description": "Her online journey sets an excellent example for fashion lovers and aspiring vloggers."
-    },
-    {
-      "title": "Kaleb Alva’s Birthday",
-      "description": "For this rising TikTok star and soccer player, it is only the beginning."
-    },
-    {
-      "title": "Kane Brown’s Birthday",
-      "description": "This young singer is destined for success with his rich voice and talent."
-    },
-    {
-      "title": "Kaycee Rice’s Birthday",
-      "description": "This performer is one big bundle of talent—an actress, businesswoman, choreographer, and personal trainer!"
-    },
-    {
-      "title": "Kim Kardashian’s Birthday",
-      "description": "She&#39;s the embodiment of the confident and smart woman&#39;s guide to self-belief with the Kim-K brand."
-    },
-    {
-      "title": "Marzia Kjellberg’s Birthday",
-      "description": "With her personality and knowledge of beauty and fashion, she’s indeed one of the internet’s sweethearts."
-    },
-    {
-      "title": "Matt Carriker’s Birthday",
-      "description": "As a YouTuber and a veterinarian, Matt has made it big like no other!"
-    },
-    {
-      "title": "Tessica Brown’s Birthday",
-      "description": "She rose to stardom almost overnight and now stays at the top!"
-    },
-    {
-      "title": "Yella Beezy’s Birthday",
-      "description": "This talented rapper is only just getting started and we’re here to celebrate."
+      "description": null
     }
   ]
 }
