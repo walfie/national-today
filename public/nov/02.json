@@ -3,10 +3,6 @@
   "day": 2,
   "holidays": [
     {
-      "title": "Day of the Dead",
-      "description": null
-    },
-    {
       "title": "National Deviled Egg Day",
       "description": null
     },
@@ -28,6 +24,10 @@
     },
     {
       "title": "Broadcast Traffic Professionals Day",
+      "description": null
+    },
+    {
+      "title": "Day of the Dead",
       "description": null
     },
     {
