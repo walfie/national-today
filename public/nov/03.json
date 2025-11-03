@@ -3,14 +3,6 @@
   "day": 3,
   "holidays": [
     {
-      "title": "Job Action Day",
-      "description": null
-    },
-    {
-      "title": "National Homemaker Day",
-      "description": null
-    },
-    {
       "title": "National Sandwich Day",
       "description": null
     },
@@ -47,11 +39,19 @@
       "description": null
     },
     {
+      "title": "Job Action Day",
+      "description": null
+    },
+    {
       "title": "Marlborough Anniversary Day",
       "description": null
     },
     {
       "title": "National Accessory Day",
+      "description": null
+    },
+    {
+      "title": "National Homemaker Day",
       "description": null
     },
     {
