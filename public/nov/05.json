@@ -3,10 +3,6 @@
   "day": 5,
   "holidays": [
     {
-      "title": "American Football Day",
-      "description": null
-    },
-    {
       "title": "National Controlled Environment Certifier Day",
       "description": null
     },
@@ -16,6 +12,10 @@
     },
     {
       "title": "National Redhead Day",
+      "description": null
+    },
+    {
+      "title": "American Football Day",
       "description": null
     },
     {
