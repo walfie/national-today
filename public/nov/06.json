@@ -3,140 +3,60 @@
   "day": 6,
   "holidays": [
     {
+      "title": "National Men Make Dinner Day",
+      "description": null
+    },
+    {
       "title": "National Nacho Day",
       "description": null
     },
     {
       "title": "Dog Film Festival",
-      "description": "Your furry friend now has a whole theater ready for them. Enjoy the show!"
+      "description": null
     },
     {
       "title": "International Day for Preventing the Exploitation of the Environment in War and Armed Conflict",
-      "description": "Without natural resources that sustain livelihoods and ecosystems, peace is impossible."
+      "description": null
+    },
+    {
+      "title": "International Stout Day",
+      "description": null
+    },
+    {
+      "title": "Liberia Thanksgiving",
+      "description": null
     },
     {
       "title": "Marooned Without a Compass Day",
-      "description": "Are you heading in the right direction in the pathway of your life? Let’s find out."
-    },
-    {
-      "title": "National Advent Calendar Day",
-      "description": "Get your shopping list ready — coffee, mugs, chocolate, and wine all make for a merry season."
+      "description": null
     },
     {
       "title": "National Basketball Day",
-      "description": "Channel your inner baller and rack up points as we celebrate National Basketball Day."
+      "description": null
+    },
+    {
+      "title": "National Cash Back Day",
+      "description": null
     },
     {
       "title": "National Ladies Learning Code Day",
-      "description": "Across the country, we empower women in the tech industry on National Ladies Learning Code Day."
+      "description": null
     },
     {
       "title": "National Report Home Health Care Fraud Day",
-      "description": "If you see fraud and do not say ‘fraud,’ you are a fraud."
+      "description": null
     },
     {
       "title": "National Saxophone Day",
-      "description": "This soulful instrument has a rich history and musical range."
-    },
-    {
-      "title": "National Stress Awareness Day",
-      "description": "Don’t worry; everything will be OK! Just live in the moment and destress your life"
+      "description": null
     },
     {
       "title": "National Team Manager Day",
-      "description": "We celebrate the unsung heroes and the glue that holds every team together: team managers."
+      "description": null
     },
     {
-      "title": "Adolphe Sax’s Birthday",
-      "description": "Adolphe Sax’s exceptional talent and immense passion have created a lasting legacy."
-    },
-    {
-      "title": "Ali-A’s Birthday",
-      "description": "The celebrated YouTube star has risen to become one of the most influential online celebrities."
-    },
-    {
-      "title": "Anna Shumate’s Birthday",
-      "description": "The young TikTok sensation is only rising higher on the popularity charts."
-    },
-    {
-      "title": "Baby Fendi’s Birthday",
-      "description": "The figure of a young, talented, and strong woman goes to the American rapper, Baby Fendi."
-    },
-    {
-      "title": "Carl Lentz’s Birthday",
-      "description": "He came to the fore as a charismatic pastor and came crashing down riddled with scandals."
-    },
-    {
-      "title": "Cohen Muse’s Birthday",
-      "description": "For this multi-talented, inspiring, and funny social media king, success is one post away."
-    },
-    {
-      "title": "Emma Rose Sutcliffe’s Birthday",
-      "description": "This Australian model and social media influencer has a successful career ahead of her."
-    },
-    {
-      "title": "Emma Stone’s Birthday",
-      "description": "Today’s Emma Stone’s birthday; let’s celebrate it by getting to know her more."
-    },
-    {
-      "title": "Glenn Frey’s Birthday",
-      "description": "This musician, actor, and songwriter has a special place in every rock lover&#39;s heart!"
-    },
-    {
-      "title": "Hannah Rathbun’s Birthday",
-      "description": "Simplicity is key, and this stunning reality star applies this philosophy to her lifestyle."
-    },
-    {
-      "title": "Hero Fiennes Tiffin’s Birthday",
-      "description": "From epic magical sagas to erotic dramas, this young heartthrob&#39;s shining star is on the rise!"
-    },
-    {
-      "title": "Jackie Oshry’s Birthday",
-      "description": "A determined and hardworking social media personality like Jackie Oshry is a legendary role model."
-    },
-    {
-      "title": "Kris Wu’s Birthday",
-      "description": "He is one of the most in-demand celebrities in the entertainment industry."
-    },
-    {
-      "title": "Lamar Odom’s Birthday",
-      "description": "The former Los Angeles Lakers forward continues to be in the limelight with controversial actions."
-    },
-    {
-      "title": "Lauren Orlando’s Birthday",
-      "description": "For this bubbly social media personality, breaking into film is the next visual frontier!"
-    },
-    {
-      "title": "Maria Shriver’s Birthday",
-      "description": "Be it in journalism or health activism, this trailblazer has never failed to make her mark."
-    },
-    {
-      "title": "Mike Wolfe’s Birthday",
-      "description": "He has become synonymous with the show that he’s called Mike Wolfe American Picker."
-    },
-    {
-      "title": "Pat Tillman’s Birthday",
-      "description": "On Pat Tillman’s birthday, let us remember his achievements and learn more about him."
-    },
-    {
-      "title": "Sal Vulcano’s Birthday",
-      "description": "A versatile stand-up comedian who has a terrible cat phobia? Only Sal Vulcano!"
-    },
-    {
-      "title": "Sally Field’s Birthday",
-      "description": "Field&#39;s compelling performances continue to captivate audiences and enthrall everyone to this day."
-    },
-    {
-      "title": "Speaker Knockerz’s Birthday",
-      "description": "The young rapper’s music has inspired many musicians and he continues to be popular among fans."
-    },
-    {
-      "title": "Talia Mar’s Birthday",
-      "description": "This multi-talented singer and social media influencer is about to take the world by storm."
-    },
-    {
-      "title": "Traci Steele’s Birthday",
-      "description": "Her charisma translated into several television appearances due to her distinct personality and sharp humor."
+      "title": "Project Management Day",
+      "description": null
     }
   ]
 }
