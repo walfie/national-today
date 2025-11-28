@@ -3,104 +3,60 @@
   "day": 28,
   "holidays": [
     {
-      "title": "National Day of Mourning",
+      "title": "Black Friday",
       "description": null
     },
     {
       "title": "National French Toast Day",
-      "description": "The thick, sweet, savory dish that’s become a staple of the American breakfast diet."
-    },
-    {
-      "title": "Thanksgiving",
-      "description": "Thanksgiving — a rare celebratory holiday without an established gift-giving component."
+      "description": null
     },
     {
       "title": "Albania Independence Day",
-      "description": "Keep reading to learn the history leading up to the Albanian Declaration of Independence."
+      "description": null
     },
     {
-      "title": "Macy’s Thanksgiving Day Parade",
-      "description": "There’s no better way to start Thanksgiving than by enjoying this fun festivity with your family!"
+      "title": "Buy Nothing Day",
+      "description": null
+    },
+    {
+      "title": "Flossing Day",
+      "description": null
+    },
+    {
+      "title": "Fur-Free Friday",
+      "description": null
+    },
+    {
+      "title": "Maize Day",
+      "description": null
     },
     {
       "title": "Mauritania Independence Day",
-      "description": "Get ready to celebrate Mauritania Independence Day and learn more about this fascinating country!"
+      "description": null
     },
     {
-      "title": "Mindanao Week of Peace",
-      "description": "Prepare for week-long activities to promote peace and harmony throughout the community."
+      "title": "National Day of Listening",
+      "description": null
     },
     {
-      "title": "National Dog Show Broadcast",
-      "description": "Get ready — watch the cream of the crop on one of the most prestigious dog shows in history."
-    },
-    {
-      "title": "National Family Health History Day",
-      "description": "Take some time when everyone in your family is assembled and discuss the family health history."
+      "title": "Native American Heritage Day",
+      "description": null
     },
     {
       "title": "Red Planet Day",
-      "description": "We recognize the planet which has captivated human observers for countless years, Mars."
+      "description": null
     },
     {
-      "title": "Turkey-free Thanksgiving",
-      "description": "Whether you’re a vegetarian or just dislike turkey, there are many alternatives for a turkey-free Thanksgiving."
+      "title": "Sinkie Day",
+      "description": null
     },
     {
-      "title": "Unthanksgiving Day",
-      "description": "Let us explore the rich history and significance of the lesser-known Unthanksgiving Day!"
+      "title": "Systems Engineer Day",
+      "description": null
     },
     {
-      "title": "Anna Nicole Smith’s Birthday",
-      "description": "This star was famous for her charisma, charm, and talent before her untimely death."
-    },
-    {
-      "title": "Arjun Gupta’s Birthday",
-      "description": "Join us as we celebrate this star who has received several awards and nominations."
-    },
-    {
-      "title": "Bryshere Gray’s Birthday",
-      "description": "Gray has played at several Philadelphia music events, including Jay-Z&#39;s “Made in America” Festival."
-    },
-    {
-      "title": "Chase Elliott’s Birthday",
-      "description": "For this road-racing, series-winning NASCAR driving champion, the race track to success calls!"
-    },
-    {
-      "title": "Christine Blasey Ford’s Birthday",
-      "description": "Knowledge lives forever, and this professor has endlessly contributed to its endurance."
-    },
-    {
-      "title": "Fatman Scoop’s Birthday",
-      "description": "He has interviewed a wide range of personalities in the entertainment world for his podcast."
-    },
-    {
-      "title": "Jake Miller’s Birthday",
-      "description": "Jake Miller, while still in high school, began uploading his music videos on YouTube."
-    },
-    {
-      "title": "Jarvis Landry’s Birthday",
-      "description": "This New Orleans Saints football player is one of the N.F.L.’s most talented."
-    },
-    {
-      "title": "Jon Stewart’s Birthday",
-      "description": "This brilliant television show host has won over 20 Primetime Emmy Awards in his career."
-    },
-    {
-      "title": "Judd Nelson’s Birthday",
-      "description": "Judd Nelson was a teen star in the 1980s and we are excited to celebrate him today!"
-    },
-    {
-      "title": "Karen Gillan’s Birthday",
-      "description": "This actress is providing the blueprint that future generations can learn from."
-    },
-    {
-      "title": "Rosemarie Vega’s Birthday",
-      "description": "Vega is well-known for numerous reasons, including being a single mother to her son Prince."
-    },
-    {
-      "title": "Ryan Letourneau’s Birthday",
-      "description": "Meet this prominent twitch streamer and Youtuber who hosts the Northernlion Live Super Show."
+      "title": "You’re Welcomegiving Day",
+      "description": null
     }
   ]
 }
