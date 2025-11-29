@@ -1,0 +1,34 @@
+{
+  "month": "sep",
+  "day": 3,
+  "holidays": [
+    {
+      "title": "Skyscraper Day",
+      "description": null
+    },
+    {
+      "title": "Foundation Day in San Marino",
+      "description": null
+    },
+    {
+      "title": "Global Talent Acquisition Day",
+      "description": null
+    },
+    {
+      "title": "Merchant Navy Day",
+      "description": null
+    },
+    {
+      "title": "National Welsh Rarebit Day",
+      "description": null
+    },
+    {
+      "title": "US Bowling League Day",
+      "description": null
+    },
+    {
+      "title": "Yamashita Surrender Day",
+      "description": null
+    }
+  ]
+}
