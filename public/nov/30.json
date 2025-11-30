@@ -3,152 +3,72 @@
   "day": 30,
   "holidays": [
     {
+      "title": "Cyber Safety Sunday",
+      "description": null
+    },
+    {
       "title": "National Computer Security Day",
       "description": null
     },
     {
-      "title": "Small Business Saturday",
-      "description": "In the age of Black Friday and Cyber Monday, don’t forget about smaller neighborhood shops."
-    },
-    {
       "title": "St. Andrew&#39;s Day",
-      "description": "St Andrew’s Day ranks as one of three major dates during the winter period."
+      "description": null
     },
     {
       "title": "Barbados Independence Day",
-      "description": "Celebrate the independence of one of the oldest British colonies on Barbados Independence Day."
+      "description": null
     },
     {
       "title": "Bonifacio Day",
-      "description": "Take the time to celebrate the national holiday honoring the Father of the Philippine Revolution."
+      "description": null
     },
     {
       "title": "Cities for Life Day",
-      "description": "Celebrate your human right to live, and the end of the inhumane act of the death penalty."
+      "description": null
     },
     {
       "title": "Day of Remembrance for all Victims of Chemical Warfare",
-      "description": "This day honors those lost to chemical warfare and encourages people to continue protesting against it."
+      "description": null
     },
     {
       "title": "Guru Nanak Jayanti",
-      "description": "It is one of the most sacred festivals in Sikhism."
+      "description": null
+    },
+    {
+      "title": "International Shift Worker Sunday",
+      "description": null
     },
     {
       "title": "Meth Awareness Day",
-      "description": "Spread the word and save a life or two from the fatal effects of this drug."
+      "description": null
     },
     {
       "title": "National Mason Jar Day",
-      "description": "Celebrate the holiday by trying an out-of-the-box craft with your mason jars."
+      "description": null
     },
     {
       "title": "National Mississippi Day",
-      "description": "National Mississippi day is a fun opportunity to celebrate the great state of Mississippi."
+      "description": null
     },
     {
       "title": "National Mousse Day",
-      "description": "Put on your baker’s hat and surprise your loved ones with a glass of the fluffiest mousse."
+      "description": null
     },
     {
       "title": "National Personal Space Day",
-      "description": "Change the way you show you care about people by learning about the importance of personal space."
+      "description": null
     },
     {
       "title": "National Stay at Home Because You&#39;re Well Day",
-      "description": "You don’t need to call in sick or fake it; take a day off for being well."
+      "description": null
     },
     {
       "title": "Native Women&#39;s Equal Pay Day",
-      "description": "Let’s learn more about Native Women’s Equal Pay Day and how to raise awareness."
+      "description": null
     },
     {
       "title": "Perpetual Youth Day",
-      "description": "Rock and roll lives on, and this day makes sure the memory of Clark is long-lived."
-    },
-    {
-      "title": "Billy Idol’s Birthday",
-      "description": "Billy Idol’s bad-boy persona is loved by rock music fans across the world."
-    },
-    {
-      "title": "Bo Jackson’s Birthday",
-      "description": "He&#39;s a former professional baseball and American football player. Jackson does it all."
-    },
-    {
-      "title": "Cheyenne Evans’s Birthday",
-      "description": "Cheyenne Evans exhibits all the beauty and talent an all-around star should have!"
-    },
-    {
-      "title": "Chrissy Teigen’s Birthday",
-      "description": "This stunning multi-talented celebrity is truly unique. Let&#39;s celebrate Chrissy Teigen’s birthday today!"
-    },
-    {
-      "title": "Der Echter Gangster’s Birthday",
-      "description": "Der Echter rose to fame after losing his temper while playing &#34;Unreal Tournament.&#34;"
-    },
-    {
-      "title": "Emily Skinner’s Birthday",
-      "description": "We celebrate this bright young lady who aspired to be an actress and achieved her goal."
-    },
-    {
-      "title": "Hannah Bagshawe’s Birthday",
-      "description": "We celebrate this business executive who is the wife/publicist of actor Eddie Redmayne."
-    },
-    {
-      "title": "Ian Hecox’s Birthday",
-      "description": "We are honoring Ian Hecox, one of YouTube&#39;s oldest and most influential creators."
-    },
-    {
-      "title": "Jill Zarin’s Birthday",
-      "description": "Meet everyone’s favorite contestant from “The Real Housewives of New York City,” Jill Zarin."
-    },
-    {
-      "title": "Jorge Garay’s Birthday",
-      "description": "Jorge Garay, the TikTok sensation who is taking over the internet, has an interesting back story."
-    },
-    {
-      "title": "Kaley Cuoco’s Birthday",
-      "description": "She started out as a tennis player but later discovered she wanted to act instead."
-    },
-    {
-      "title": "Mandy Patinkin’s Birthday",
-      "description": "This multi-award-winning screen and stage actor is also a singer and activist rolled into one."
-    },
-    {
-      "title": "Mark Twain’s Birthday",
-      "description": "Mark Twain is one of the greatest American authors of the 19th and 20th centuries."
-    },
-    {
-      "title": "Nyjah Huston’s Birthday",
-      "description": "Huston is one of the wealthiest skateboarders, with more prizes than any other skateboarder in history."
-    },
-    {
-      "title": "Pigeon John’s Birthday",
-      "description": "Pigeon John picked his stage name with the help of his friend’s mother."
-    },
-    {
-      "title": "Rianna Pepe’s Birthday",
-      "description": "Rianna Pepe is a popular dancer who has performed at the Broadway Dance Center."
-    },
-    {
-      "title": "Stephanie Carrillo’s Birthday",
-      "description": "This Columbian journalist is truly loved by people and for all good reasons!"
-    },
-    {
-      "title": "Steve Aoki’s Birthday",
-      "description": "Meet Steve Aoki, the world-renowned D.J. with an unexpected journey to stardom."
-    },
-    {
-      "title": "Trill Sammy’s Birthday",
-      "description": "Garcia began his career as a high school student using social media to promote himself."
-    },
-    {
-      "title": "Winston Churchill’s Birthday",
-      "description": "He’s among the most well-known soldier turned statesman and we’re excited to share his remarkable journey."
-    },
-    {
-      "title": "Woody Allen’s Birthday",
-      "description": "Here is the iconic film director, writer, actor, and comedian who’s as talented as he’s versatile!"
+      "description": null
     }
   ]
 }
