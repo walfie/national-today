@@ -1,0 +1,46 @@
+{
+  "month": "mar",
+  "day": 7,
+  "holidays": [
+    {
+      "title": "National Be Heard Day",
+      "description": null
+    },
+    {
+      "title": "National Cereal Day",
+      "description": "A bowl of cereal, a spoon and some milk equals a party in your mouth!"
+    },
+    {
+      "title": "Alexander Graham Bell Day",
+      "description": "Alexander Graham Bell revolutionized how we communicate when he invented the telephone."
+    },
+    {
+      "title": "Jose Abad Santos Day",
+      "description": "Jose Abad Santos was a Philippine Chief Justice and war hero of the second world war."
+    },
+    {
+      "title": "National Ben Day",
+      "description": "On this day, celebrate all the Bens in your life — it’s National Ben Day!"
+    },
+    {
+      "title": "National Cooper Day",
+      "description": "Celebrate National Cooper Day by learning the origins of the term right here with us."
+    },
+    {
+      "title": "National Crown Roast of Pork Day",
+      "description": "Add regality to your dinner table with a crown roast of pork at its center."
+    },
+    {
+      "title": "National Flapjack Day",
+      "description": "Indulge in some yummy, fun, and nutrition-rich flapjacks for breakfast to fuel your day."
+    },
+    {
+      "title": "Plant Power Day",
+      "description": "Get ready to experience and love all the healthy benefits of plant-based eating."
+    },
+    {
+      "title": "Sock Monkey Day",
+      "description": "Give your old socks a new lease on life as we mark Sock Monkey Day."
+    }
+  ]
+}
