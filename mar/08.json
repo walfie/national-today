@@ -1,0 +1,50 @@
+{
+  "month": "mar",
+  "day": 8,
+  "holidays": [
+    {
+      "title": "International Women&#39;s Day",
+      "description": null
+    },
+    {
+      "title": "National Proofreading Day",
+      "description": "Because we all make typos, grammar mistakes, and spelling errors when we write!"
+    },
+    {
+      "title": "Be Nasty Day",
+      "description": "Get your wittiest quips ready to take the sting out of your nasty words this day."
+    },
+    {
+      "title": "Check Your Batteries Day",
+      "description": "Check Your Batteries Day raises awareness about testing your batteries to ensure they are working properly."
+    },
+    {
+      "title": "Daylight Savings",
+      "description": "This way of looking at the time maximizes natural light and saves electricity."
+    },
+    {
+      "title": "Nari Dibas",
+      "description": "Here’s to strong women. May we know them, raise them, and celebrate them on Nari Dibas."
+    },
+    {
+      "title": "National August Day",
+      "description": "If your name is August, then today is your day! Let’s celebrate it together."
+    },
+    {
+      "title": "National Oregon Day",
+      "description": "Get ready to celebrate the Beaver State, its people and all its natural diversity."
+    },
+    {
+      "title": "National Peanut Cluster Day",
+      "description": "Start thinking about chocolate and crunchy peanuts — National Peanut Cluster Day is around the corner."
+    },
+    {
+      "title": "National Retro Video Game Day",
+      "description": "Celebrate Retro Games and bring out your old games to release your inner child."
+    },
+    {
+      "title": "United Nations Day for Women&#39;s Rights and International Peace",
+      "description": "Join us in raising awareness and working to address women&#39;s rights issues."
+    }
+  ]
+}

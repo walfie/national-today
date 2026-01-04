@@ -1,0 +1,74 @@
+{
+  "month": "oct",
+  "day": 31,
+  "holidays": [
+    {
+      "title": "Halloween",
+      "description": null
+    },
+    {
+      "title": "​National Caramel Apple Day",
+      "description": null
+    },
+    {
+      "title": "National Unity Day (Rashtriya Ekta Diwas)",
+      "description": null
+    },
+    {
+      "title": "Bandana Day",
+      "description": null
+    },
+    {
+      "title": "Books For Treats Day",
+      "description": null
+    },
+    {
+      "title": "Frankenstein Friday",
+      "description": null
+    },
+    {
+      "title": "Girl Scout Founder’s Day",
+      "description": null
+    },
+    {
+      "title": "National Breadstick Day",
+      "description": null
+    },
+    {
+      "title": "National Doorbell Day",
+      "description": null
+    },
+    {
+      "title": "National Knock Knock Joke Day",
+      "description": null
+    },
+    {
+      "title": "National Magic Day",
+      "description": null
+    },
+    {
+      "title": "Nevada Day",
+      "description": null
+    },
+    {
+      "title": "Reformation Day",
+      "description": null
+    },
+    {
+      "title": "Samhain",
+      "description": null
+    },
+    {
+      "title": "World Cities Day",
+      "description": null
+    },
+    {
+      "title": "World Lemur Day",
+      "description": null
+    },
+    {
+      "title": "World Savings Day",
+      "description": null
+    }
+  ]
+}
