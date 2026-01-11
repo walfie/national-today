@@ -1,0 +1,86 @@
+{
+  "month": "nov",
+  "day": 11,
+  "holidays": [
+    {
+      "title": "Veterans Day",
+      "description": null
+    },
+    {
+      "title": "Angola Independence Day",
+      "description": null
+    },
+    {
+      "title": "Armistice Day (Martinique)",
+      "description": null
+    },
+    {
+      "title": "Armistice Day (Saint Barthelemy)",
+      "description": null
+    },
+    {
+      "title": "Death/Duty Day",
+      "description": null
+    },
+    {
+      "title": "Fasching",
+      "description": null
+    },
+    {
+      "title": "French Armistice Day",
+      "description": null
+    },
+    {
+      "title": "French Guiana Armistice Day",
+      "description": null
+    },
+    {
+      "title": "Metal Day",
+      "description": null
+    },
+    {
+      "title": "National Education Day",
+      "description": null
+    },
+    {
+      "title": "National Indiana Day",
+      "description": null
+    },
+    {
+      "title": "National Lei Day",
+      "description": null
+    },
+    {
+      "title": "National Origami Day",
+      "description": null
+    },
+    {
+      "title": "National Sundae Day",
+      "description": null
+    },
+    {
+      "title": "Pocky Day",
+      "description": null
+    },
+    {
+      "title": "PPUR Day",
+      "description": null
+    },
+    {
+      "title": "Remembrance Day",
+      "description": null
+    },
+    {
+      "title": "Remembrance Day Australia",
+      "description": null
+    },
+    {
+      "title": "Singles Day",
+      "description": null
+    },
+    {
+      "title": "St. Martin’s Day",
+      "description": null
+    }
+  ]
+}
