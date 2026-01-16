@@ -1,0 +1,42 @@
+{
+  "month": "jan",
+  "day": 10,
+  "holidays": [
+    {
+      "title": "Houseplant Appreciation Day",
+      "description": null
+    },
+    {
+      "title": "League of Nations Day",
+      "description": null
+    },
+    {
+      "title": "National Bittersweet Chocolate Day",
+      "description": null
+    },
+    {
+      "title": "National Cut Your Energy Costs Day",
+      "description": null
+    },
+    {
+      "title": "National Oysters Rockefeller Day",
+      "description": null
+    },
+    {
+      "title": "National Save The Eagles Day",
+      "description": null
+    },
+    {
+      "title": "National Shareholders Day",
+      "description": null
+    },
+    {
+      "title": "National Vision Board Day",
+      "description": null
+    },
+    {
+      "title": "Peculiar People Day",
+      "description": null
+    }
+  ]
+}
