@@ -3,92 +3,80 @@
   "day": 21,
   "holidays": [
     {
+      "title": "National Personalized Learning Day",
+      "description": null
+    },
+    {
+      "title": "Squirrel Appreciation Day",
+      "description": null
+    },
+    {
+      "title": "Grandma Day",
+      "description": null
+    },
+    {
+      "title": "International Playdate Day",
+      "description": null
+    },
+    {
+      "title": "International Sweatpants Day",
+      "description": null
+    },
+    {
+      "title": "Mariachi Day",
+      "description": null
+    },
+    {
       "title": "Museum Selfie Day",
       "description": null
     },
     {
-      "title": "National Check Your Coverage Day",
-      "description": "Check your coverage of Talkspace and receive access to online therapy and psychiatry covered by insurance."
-    },
-    {
-      "title": "National Hugging Day",
-      "description": "We love all types of hugs, from the one-armed bro hug to full bear hugs."
-    },
-    {
-      "title": "Squirrel Appreciation Day",
-      "description": "Squirrel Appreciation Day on January 21 is when we show appreciation for the world&#39;s cutest rodents."
-    },
-    {
-      "title": "Grandma Day",
-      "description": "We have all the reasons why you should show your grandmother appreciation today!"
-    },
-    {
-      "title": "International Playdate Day",
-      "description": "Arrange a playdate for your kids so they can enjoy a fun-filled afternoon."
-    },
-    {
-      "title": "International Sweatpants Day",
-      "description": "Have fun and rock your favorite baggy sweatpants this International Sweatpants Day."
-    },
-    {
-      "title": "Mariachi Day",
-      "description": "Pound your feet on the dance floor as we groove to the beat of mariachi."
-    },
-    {
       "title": "National Bakers-Crafters-Makers Day",
-      "description": "Today is a great day to spend money on handmade products — support these talented creators."
+      "description": null
+    },
+    {
+      "title": "National Check Your Coverage Day",
+      "description": null
     },
     {
       "title": "National Cheesy Socks Day",
-      "description": "Get ready to sport your favorite cheesy socks. Let the world admire you!"
+      "description": null
     },
     {
       "title": "National Conscious Uncoupling Day",
-      "description": "Let’s promote amicable separation through conscious uncoupling to prevent families from being broken by divorce."
+      "description": null
     },
     {
       "title": "National Granola Bar Day",
-      "description": "Now is the time to put your granola-making skills to the test."
+      "description": null
     },
     {
       "title": "National Hug Your Puppy Day",
-      "description": "It’s National Hug Your Puppy Day — pick up your puppy and give him/her a hug!"
+      "description": null
+    },
+    {
+      "title": "National Hugging Day",
+      "description": null
     },
     {
       "title": "One-Liners Day",
-      "description": "You don’t have to be a comedian or even witty to enjoy One-Liners Day."
+      "description": null
     },
     {
       "title": "Our Lady of Altagracia",
-      "description": "Here&#39;s all you need to know about the Our Lady of Altagracia holiday."
+      "description": null
     },
     {
       "title": "Own Your Own Home Day",
-      "description": "Owning a home is not exactly easy, so why not celebrate your homeownership status."
+      "description": null
     },
     {
       "title": "Thank Your Mentor Day",
-      "description": "Pssst! Remember, you can always thank your mentor by giving him or her a surprise!"
+      "description": null
     },
     {
       "title": "Weedless Wednesday",
-      "description": "How about quitting smoking just for a day … today?"
-    },
-    {
-      "title": "Aleksa Safiya’s Birthday",
-      "description": "Get ready to celebrate a lady with a sweet voice and bold aspirations."
-    },
-    {
-      "title": "Freddie Tomlinson’s Birthday",
-      "description": "Freddie Tomlinson is growing steadily in the shadow of his father’s fame."
-    },
-    {
-      "title": "Sushant Singh Rajput’s Birthday",
-      "description": "Sushant Singh Rajput is remembered for his extraordinary talent and desire for excellence."
-    },
-    {
-      "title": "Thomas Stonewall Jackson’s Birthday",
-      "description": "Thomas Stonewall Jackson was a superb battle tactician with even ampler commitment."
+      "description": null
     }
   ]
 }
