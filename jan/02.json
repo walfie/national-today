@@ -1,0 +1,70 @@
+{
+  "month": "jan",
+  "day": 2,
+  "holidays": [
+    {
+      "title": "National Science Fiction Day",
+      "description": null
+    },
+    {
+      "title": "55 mph Speed Limit Day",
+      "description": null
+    },
+    {
+      "title": "Ancestry Day",
+      "description": null
+    },
+    {
+      "title": "Happy Mew Year for Cats Day",
+      "description": null
+    },
+    {
+      "title": "Motivation and Inspiration Day",
+      "description": null
+    },
+    {
+      "title": "National Buffet Day",
+      "description": null
+    },
+    {
+      "title": "National Cream Puff Day",
+      "description": null
+    },
+    {
+      "title": "National Erica Day",
+      "description": null
+    },
+    {
+      "title": "National Personal Trainer Day",
+      "description": null
+    },
+    {
+      "title": "National Pet Travel Safety Day",
+      "description": null
+    },
+    {
+      "title": "New Year&#39;s Day Substitute",
+      "description": null
+    },
+    {
+      "title": "Reconquest Day",
+      "description": null
+    },
+    {
+      "title": "Run it Up the Flagpole and See If Anyone Salutes it Day",
+      "description": null
+    },
+    {
+      "title": "Saint Basil&#39;s Day",
+      "description": null
+    },
+    {
+      "title": "Swiss Cheese Day",
+      "description": null
+    },
+    {
+      "title": "World Introvert Day",
+      "description": null
+    }
+  ]
+}
