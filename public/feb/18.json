@@ -3,72 +3,48 @@
   "day": 18,
   "holidays": [
     {
+      "title": "Ash Wednesday",
+      "description": null
+    },
+    {
       "title": "National Drink Wine Day",
       "description": null
     },
     {
       "title": "Cow Milked While Flying in an Airplane Day",
-      "description": "Get ready to be amused by Elm Farm Ollie’s calmness and massive generosity."
+      "description": null
     },
     {
       "title": "Gambia Independence Day",
-      "description": "Join us as we celebrate Gambia Independence Day and the end of Africa’s colonization."
+      "description": null
     },
     {
       "title": "Losar",
-      "description": "Cheers to a new year filled with prosperity as we mark Losar, Bhutanese New Year."
+      "description": null
     },
     {
       "title": "National Battery Day",
-      "description": "While remaining charged, batteries will keep you connected even when the power is out."
+      "description": null
     },
     {
       "title": "National Crab Stuffed Flounder Day",
-      "description": "Experience this mouth-watering dish created with the savory flavors of the sea."
+      "description": null
     },
     {
       "title": "Pluto Day",
-      "description": "Do you know why a day on Pluto is equivalent to 6.4 Earth days?"
+      "description": null
     },
     {
       "title": "Ramadan Begins",
-      "description": "Let us join our Muslim brothers and observe Ramadan with fasting, prayer, and faithful intention."
-    },
-    {
-      "title": "Sonam Losar",
-      "description": "Experience the exotic Tamang culture in Nepal on Sonam Lhosar."
+      "description": null
     },
     {
       "title": "Thumb Appreciation Day",
-      "description": "Thumbs exhibit the forms of emotion that the body it is attached to feels. Here’s how."
+      "description": null
     },
     {
       "title": "Tsagaan Sar",
-      "description": "Get ready to bring in the best of luck this Mongolian Lunar New Year."
-    },
-    {
-      "title": "Damien Prince’s Birthday",
-      "description": "From a troubled youth to becoming an icon, Damien Prince’s hustle to fame is truly inspiring!"
-    },
-    {
-      "title": "Dr. Dre’s Birthday",
-      "description": "The music doctor who prescribed the world a large dose of good songs and talent."
-    },
-    {
-      "title": "Hansol Vernon Chwe’s Birthday",
-      "description": "Born in one country and raised in another, today he is a global icon!"
-    },
-    {
-      "title": "John Travolta’s Birthday",
-      "description": "Travolta is a global movie star whose skill and talent shine through every role he plays."
-    },
-    {
-      "title": "Vanna White’s Birthday",
-      "description": "She first made a mark in the ‘80s, then turned into a star that shines forever!"
-    },
-    {
-      "title": "Yoko Ono’s Birthday",
-      "description": "During her more than half-decade career, she had several hit music albums."
+      "description": null
     }
   ]
 }
