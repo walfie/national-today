@@ -3,68 +3,60 @@
   "day": 24,
   "holidays": [
     {
+      "title": "National Tortilla Chip Day",
+      "description": null
+    },
+    {
+      "title": "DiscoverE Girl Day",
+      "description": null
+    },
+    {
+      "title": "Dragobete",
+      "description": null
+    },
+    {
+      "title": "Edward Dickinson Baker Day",
+      "description": null
+    },
+    {
+      "title": "Estonia Independence Day",
+      "description": null
+    },
+    {
+      "title": "Flag Day Mexico",
+      "description": null
+    },
+    {
+      "title": "I Hate Coriander Day",
+      "description": null
+    },
+    {
       "title": "National Steakburger Day",
       "description": null
     },
     {
-      "title": "National Tortilla Chip Day",
-      "description": "Whether you eat yours plain or dip them, tortilla chips bring the fiesta to any occasion."
-    },
-    {
-      "title": "DiscoverE Girl Day",
-      "description": "Encourage young girls to pursue their engineering dreams this DiscoverE Girl Day!"
-    },
-    {
-      "title": "Dragobete",
-      "description": "Birds do it, bees do it, and so do the Romanian youth on this particular day!"
-    },
-    {
-      "title": "Edward Dickinson Baker Day",
-      "description": "His history, fun facts, and why he’s so important — we&#39;re sharing it all with you!"
-    },
-    {
-      "title": "Estonia Independence Day",
-      "description": "We’re taking a virtual trip to Estonia and celebrating in grand style."
-    },
-    {
-      "title": "Flag Day Mexico",
-      "description": "Time to sport some red, white, and green in solidarity with your Mexican ‘compadres’ today."
-    },
-    {
-      "title": "I Hate Coriander Day",
-      "description": "If rich dishes filled with coriander give you re-curry-ing nightmares, this is the day for you!"
-    },
-    {
       "title": "National Trading Card Day",
-      "description": "If you are a 90s kid, you will remember how important trading cards were to you."
+      "description": null
     },
     {
       "title": "Sweden Finns Day",
-      "description": "Call your friends! We’re celebrating Sweden Finns Day, and it’s all about community."
+      "description": null
     },
     {
       "title": "Twin Peaks Day",
-      "description": "Twin Peaks is ranked among the greatest T.V. shows ever made — find out why here."
+      "description": null
     },
     {
       "title": "Whooping Crane Festival",
-      "description": "Get your dancing shoes ready to celebrate the hope-filled saga of the whooping crane with us."
+      "description": null
     },
     {
       "title": "World Bartender Day",
-      "description": "Bartenders mix our favorite drinks, keep customers happy, and often come up with delicious new drinks."
+      "description": null
     },
     {
-      "title": "Earl Sweatshirt’s Birthday",
-      "description": "He has won the hearts of millions with his spectacular performances and rapping."
-    },
-    {
-      "title": "Floyd Mayweather Jr.’s Birthday",
-      "description": "Known as one of the greatest boxers, Floyd Mayweather is a 12- time world champion."
-    },
-    {
-      "title": "Steve Jobs’s Birthday",
-      "description": "This ambitious visionary can rest knowing he showed humanity the way to its tech future."
+      "title": "World Spay Day",
+      "description": null
     }
   ]
 }
