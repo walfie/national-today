@@ -1,0 +1,54 @@
+{
+  "month": "jan",
+  "day": 15,
+  "holidays": [
+    {
+      "title": "National Bagel Day",
+      "description": null
+    },
+    {
+      "title": "National Hat Day",
+      "description": null
+    },
+    {
+      "title": "Alpha Kappa Alpha Day",
+      "description": null
+    },
+    {
+      "title": "Indian Army Day",
+      "description": null
+    },
+    {
+      "title": "National Booch Day",
+      "description": null
+    },
+    {
+      "title": "National Fresh Squeezed Juice Day",
+      "description": null
+    },
+    {
+      "title": "National Kayla Day",
+      "description": null
+    },
+    {
+      "title": "National Pothole Day",
+      "description": null
+    },
+    {
+      "title": "National Strawberry Ice Cream Day",
+      "description": null
+    },
+    {
+      "title": "Spring Festival Golden Week holiday",
+      "description": null
+    },
+    {
+      "title": "Wikipedia Day",
+      "description": null
+    },
+    {
+      "title": "Women’s Healthy Weight Day",
+      "description": null
+    }
+  ]
+}

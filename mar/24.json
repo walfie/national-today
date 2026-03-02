@@ -1,0 +1,70 @@
+{
+  "month": "mar",
+  "day": 24,
+  "holidays": [
+    {
+      "title": "American Diabetes Alert Day",
+      "description": null
+    },
+    {
+      "title": "Commonwealth Covenant Day",
+      "description": "Join the festive roadside activities as you celebrate Commonwealth Covenant Day today."
+    },
+    {
+      "title": "Day of Remembrance for Truth and Justice",
+      "description": "Learn the history of this day and how you can contribute to honoring the victims&#39; memories."
+    },
+    {
+      "title": "Flatmates Day",
+      "description": "Have a great flatmate? Here’s some ways to express your gratitude and appreciation."
+    },
+    {
+      "title": "Independent Accommodation Day",
+      "description": "Celebrate the millions of independent and privately owned accommodations across the globe!"
+    },
+    {
+      "title": "International Day For Achievers",
+      "description": "To the ones selflessly striving to make our world a better place, we celebrate you!"
+    },
+    {
+      "title": "International Day for the Right to the Truth concerning Gross Human Rights Violations and for the Dignity of Victims",
+      "description": "We&#39;ve created a list of three simple ways to observe this day."
+    },
+    {
+      "title": "National Adverse Drug Event Awareness Day",
+      "description": "Let us learn more about the fourth-leading cause of death in America: adverse drug events."
+    },
+    {
+      "title": "National Cheesesteak Day",
+      "description": "Much like national liberty itself, the cheesesteak is elegant, necessary, pure, and was born in Philadelphia."
+    },
+    {
+      "title": "National Chocolate Covered Raisin Day",
+      "description": "As one of America’s favorite candies it is no stranger to the spotlight."
+    },
+    {
+      "title": "National Cocktail Day",
+      "description": "Whip up a glass of your favorite cocktail and get your party on!"
+    },
+    {
+      "title": "National Each Person is A Person of Worth Day",
+      "description": "We&#39;ve got the best ideas to observe this day — because you’re worth it!"
+    },
+    {
+      "title": "National Stephanie Day",
+      "description": "Know a Stephanie? Today is a terrific day to commemorate them and share their name&#39;s origins."
+    },
+    {
+      "title": "World Tuberculosis Day",
+      "description": "Tuberculosis is curable, but can go undetected for years, so it’s important to spread awareness."
+    },
+    {
+      "title": "Peyton Manning’s Birthday",
+      "description": "This exceptional athlete makes running across a field seem like the ultimate dream."
+    },
+    {
+      "title": "The Undertaker’s Birthday",
+      "description": "His enduring involvement in wrestling has ensured that The Undertaker is known around the world!"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "month": "aug",
+  "day": 21,
+  "holidays": [
+    {
+      "title": "International Day of Remembrance and Tribute to the Victims of Terrorism",
+      "description": null
+    },
+    {
+      "title": "Internet Self-Care Day",
+      "description": null
+    },
+    {
+      "title": "National Brazilian Blowout Day",
+      "description": null
+    },
+    {
+      "title": "National Report Upcoding Fraud Day",
+      "description": null
+    },
+    {
+      "title": "National Senior Citizens Day",
+      "description": null
+    },
+    {
+      "title": "National Spumoni Day",
+      "description": null
+    },
+    {
+      "title": "Ninoy Aquino Day",
+      "description": null
+    }
+  ]
+}

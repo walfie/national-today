@@ -1,0 +1,54 @@
+{
+  "month": "dec",
+  "day": 26,
+  "holidays": [
+    {
+      "title": "Boxing Day",
+      "description": null
+    },
+    {
+      "title": "Kwanzaa",
+      "description": null
+    },
+    {
+      "title": "National Thank You Note Day",
+      "description": null
+    },
+    {
+      "title": "Day of Goodwill",
+      "description": null
+    },
+    {
+      "title": "Junkanoo",
+      "description": null
+    },
+    {
+      "title": "National Candy Cane Day",
+      "description": null
+    },
+    {
+      "title": "National Homeowners Day",
+      "description": null
+    },
+    {
+      "title": "National Whiners Day",
+      "description": null
+    },
+    {
+      "title": "Proclamation Day",
+      "description": null
+    },
+    {
+      "title": "Slovenia Independence Day",
+      "description": null
+    },
+    {
+      "title": "St. Stephen&#39;s Day (Ireland)",
+      "description": null
+    },
+    {
+      "title": "Synaxis of the Mother of God",
+      "description": null
+    }
+  ]
+}

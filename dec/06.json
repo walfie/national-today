@@ -1,0 +1,86 @@
+{
+  "month": "dec",
+  "day": 6,
+  "holidays": [
+    {
+      "title": "National Gazpacho Day",
+      "description": null
+    },
+    {
+      "title": "National Miners Day",
+      "description": null
+    },
+    {
+      "title": "St. Nicholas Day",
+      "description": null
+    },
+    {
+      "title": "Candle Day",
+      "description": null
+    },
+    {
+      "title": "Chester Greenwood (Earmuff) Day",
+      "description": null
+    },
+    {
+      "title": "Coats and Toys for Kids Day",
+      "description": null
+    },
+    {
+      "title": "Crate Day",
+      "description": null
+    },
+    {
+      "title": "Día de la Constitución",
+      "description": null
+    },
+    {
+      "title": "Finland Independence Day",
+      "description": null
+    },
+    {
+      "title": "Foundation of Quito Day",
+      "description": null
+    },
+    {
+      "title": "Global Fat Bike Day",
+      "description": null
+    },
+    {
+      "title": "Mitten Tree Day",
+      "description": null
+    },
+    {
+      "title": "National Day of Remembrance and Action on Violence Against Women",
+      "description": null
+    },
+    {
+      "title": "National Microwave Oven Day",
+      "description": null
+    },
+    {
+      "title": "National Pawnbrokers Day",
+      "description": null
+    },
+    {
+      "title": "National Rhubarb Vodka Day",
+      "description": null
+    },
+    {
+      "title": "Put on Your Own Shoes Day",
+      "description": null
+    },
+    {
+      "title": "SKYWARN™ Recognition Day",
+      "description": null
+    },
+    {
+      "title": "St Nicholas Day",
+      "description": null
+    },
+    {
+      "title": "Tree Dressing Day",
+      "description": null
+    }
+  ]
+}
