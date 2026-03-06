@@ -3,116 +3,96 @@
   "day": 6,
   "holidays": [
     {
+      "title": "National Day of Unplugging",
+      "description": null
+    },
+    {
       "title": "National Dentist Day",
       "description": null
     },
     {
       "title": "National Dress Day",
-      "description": "Pay homage to dresses and the magical moments that happen when we wear them."
+      "description": null
     },
     {
       "title": "National Frozen Food Day",
-      "description": "Stock up your freezers to celebrate subzero sustenance on National Frozen Food Day."
+      "description": null
     },
     {
       "title": "National Oreo Day",
-      "description": "With crisp chocolate cookies and creamy filling, these little cookies have captured hearts  — and our stomachs."
+      "description": null
     },
     {
       "title": "Alamo Day",
-      "description": "Join the celebration for the brave hundreds who gave their lives at the Alamo."
+      "description": null
     },
     {
       "title": "Day of Memorial And Respect For Veterans",
-      "description": "Day of Memorial and Respect for Veterans is an event in Kosovo that honors all veterans."
+      "description": null
     },
     {
       "title": "Day of the Dude",
-      "description": "Take a chill pill, and enjoy life’s simple moments on this holiday that’s all about relaxation."
+      "description": null
     },
     {
       "title": "Denim Day for Dementia",
-      "description": "On Denim Day for Dementia, raise funds for dementia patients by wearing denim."
+      "description": null
     },
     {
       "title": "Dentist Day",
-      "description": "Let’s honor the professionals who work tirelessly to keep our teeth in the finest possible condition."
+      "description": null
     },
     {
       "title": "Ghana Independence Day",
-      "description": "Ghanaians celebrate the heroes who led the way in the country’s struggle for independence."
+      "description": null
     },
     {
       "title": "Iraq Day Of Tolerance And Coexistence",
-      "description": "Observe Iraq Day of Tolerance and Coexistence to promote religious tolerance in Iraq."
+      "description": null
     },
     {
       "title": "National Damien Day",
-      "description": "Let’s honor and learn about the name Damien this National Damien Day."
+      "description": null
     },
     {
       "title": "National Dress in Blue Day",
-      "description": "Wear your favorite blue outfit today to raise awareness about this deadly disease."
+      "description": null
     },
     {
       "title": "National Employee Appreciation Day",
-      "description": "Strong employer-employee relations are at the core of any truly successful business."
+      "description": null
     },
     {
       "title": "National Middle Name Pride Day",
-      "description": "Where first names are often simple and modern, middle names are more personalized, creative, or cultural."
+      "description": null
     },
     {
       "title": "National Report General Service Administration (GSA) Fraud Day",
-      "description": "The day sensitizes the public to fraud committed against the G.S.A. government program."
+      "description": null
     },
     {
       "title": "National Speech and Debate Education Day",
-      "description": "Join in today’s activities and let’s prepare students for a brighter future and a better world!"
+      "description": null
     },
     {
       "title": "National White Chocolate Cheesecake Day",
-      "description": "Who doesn’t love a rich, creamy cheesecake? No one. Absolutely no one."
+      "description": null
     },
     {
       "title": "No Homework Day",
-      "description": "No homework, no problem! Move the books over and let’s try something new."
+      "description": null
     },
     {
       "title": "Overseas N.H.S. Workers Day",
-      "description": "A day to show love and respect to the overseas healthcare workers in the U.K."
+      "description": null
     },
     {
-      "title": "Walk to Work Day",
-      "description": "Experience the wonders of walking as we walk you through some amazing walking benefits."
+      "title": "Paralympic Winter Games",
+      "description": null
     },
     {
       "title": "World Day of Prayer",
-      "description": "World Day of Prayer is a truly international day observed in 170 countries across continents."
-    },
-    {
-      "title": "Biannca Prince’s Birthday",
-      "description": "This couple owns five different YouTube channels. Each channel has millions of subscribers."
-    },
-    {
-      "title": "Harriet Tubman’s Birthday",
-      "description": "Honoring  Harriet Tubman — the woman who showed extraordinary courage, ingenuity, persistence, and iron discipline"
-    },
-    {
-      "title": "Jacob Bertrand’s Birthday",
-      "description": "For talented actor Jacob Bertrand, karate is only just the beginning. Celebrate him today!"
-    },
-    {
-      "title": "Shaquille O&#39;Neal’s Birthday",
-      "description": "Shaquille O&#39;Neal is one of those basketball players who need little to no introduction."
-    },
-    {
-      "title": "Tyler The Creator’s Birthday",
-      "description": "A Baudelaire that rose from nowhere and whose grim style evolved into a soulful expression!"
-    },
-    {
-      "title": "Tyler1’s Birthday",
-      "description": "From zero to hero — how a permanent ban catapulted this streamer’s career!"
+      "description": null
     }
   ]
 }
