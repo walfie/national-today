@@ -1,0 +1,54 @@
+{
+  "month": "jan",
+  "day": 30,
+  "holidays": [
+    {
+      "title": "National Croissant Day",
+      "description": null
+    },
+    {
+      "title": "National Fun at Work Day",
+      "description": null
+    },
+    {
+      "title": "Earned Income Tax Credit Awareness Day",
+      "description": null
+    },
+    {
+      "title": "Martyrs&#39; Day",
+      "description": null
+    },
+    {
+      "title": "National Big Wig Day",
+      "description": null
+    },
+    {
+      "title": "National Draw A Dinosaur Day",
+      "description": null
+    },
+    {
+      "title": "National Escape Day",
+      "description": null
+    },
+    {
+      "title": "National Inane Answering Message Day",
+      "description": null
+    },
+    {
+      "title": "National Maxwell Day",
+      "description": null
+    },
+    {
+      "title": "National Preschool Health and Fitness Day",
+      "description": null
+    },
+    {
+      "title": "School Day of Non-violence and Peace",
+      "description": null
+    },
+    {
+      "title": "Yodel For Your Neighbors Day",
+      "description": null
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "month": "nov",
+  "day": 27,
+  "holidays": [
+    {
+      "title": "National Day of Mourning",
+      "description": null
+    },
+    {
+      "title": "Thanksgiving",
+      "description": null
+    },
+    {
+      "title": "Lancashire Day",
+      "description": null
+    },
+    {
+      "title": "Macy’s Thanksgiving Day Parade",
+      "description": null
+    },
+    {
+      "title": "Mindanao Week of Peace",
+      "description": null
+    },
+    {
+      "title": "National Bavarian Cream Pie Day",
+      "description": null
+    },
+    {
+      "title": "National Craft Jerky Day",
+      "description": null
+    },
+    {
+      "title": "National Dog Show Broadcast",
+      "description": null
+    },
+    {
+      "title": "National Family Health History Day",
+      "description": null
+    },
+    {
+      "title": "Pins and Needles Day",
+      "description": null
+    },
+    {
+      "title": "Turkey-free Thanksgiving",
+      "description": null
+    },
+    {
+      "title": "Turtle Adoption Day",
+      "description": null
+    },
+    {
+      "title": "Unthanksgiving Day",
+      "description": null
+    }
+  ]
+}
