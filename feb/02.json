@@ -1,0 +1,102 @@
+{
+  "month": "feb",
+  "day": 2,
+  "holidays": [
+    {
+      "title": "Groundhog Day",
+      "description": null
+    },
+    {
+      "title": "Hedgehog Day",
+      "description": null
+    },
+    {
+      "title": "National Tater Tot Day",
+      "description": null
+    },
+    {
+      "title": "National Ukulele Day",
+      "description": null
+    },
+    {
+      "title": "Ayn Rand Day",
+      "description": null
+    },
+    {
+      "title": "California Kiwifruit Day",
+      "description": null
+    },
+    {
+      "title": "Candlemas Day",
+      "description": null
+    },
+    {
+      "title": "Crepe Day",
+      "description": null
+    },
+    {
+      "title": "Feast of Candelaria",
+      "description": null
+    },
+    {
+      "title": "Groundhog Job Shadow Day",
+      "description": null
+    },
+    {
+      "title": "Marmot Day",
+      "description": null
+    },
+    {
+      "title": "National Brown Dog Day",
+      "description": null
+    },
+    {
+      "title": "National Catchers Day",
+      "description": null
+    },
+    {
+      "title": "National Heavenly Hash Day",
+      "description": null
+    },
+    {
+      "title": "National River Day",
+      "description": null
+    },
+    {
+      "title": "National Sickie Day",
+      "description": null
+    },
+    {
+      "title": "Nelson Anniversary Day",
+      "description": null
+    },
+    {
+      "title": "Rheumatoid Arthritis Awareness Day",
+      "description": null
+    },
+    {
+      "title": "Self Renewal Day",
+      "description": null
+    },
+    {
+      "title": "Sled Dog Day",
+      "description": null
+    },
+    {
+      "title": "The Record of a Sneeze Day",
+      "description": null
+    },
+    {
+      "title": "Treaty of Guadalupe Hidalgo",
+      "description": null
+    },
+    {
+      "title": "Tu BiShvat",
+      "description": null
+    },
+    {
+      "title": "World Wetlands Day",
+      "description": null
+    }
+  ]
+}
