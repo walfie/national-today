@@ -1,0 +1,78 @@
+{
+  "month": "jan",
+  "day": 18,
+  "holidays": [
+    {
+      "title": "Winnie the Pooh Day",
+      "description": null
+    },
+    {
+      "title": "Day of Sanctity and Protection of Human Life",
+      "description": "Today reflects on how precious life is — no matter how short it is."
+    },
+    {
+      "title": "National Gourmet Coffee Day",
+      "description": "Join us as we celebrate the crème de la crème of the caffeine world!"
+    },
+    {
+      "title": "National Michigan Day",
+      "description": "We celebrate the Great Lakes State with all its history and in all its glory."
+    },
+    {
+      "title": "National Peking Duck Day",
+      "description": "Peking duck is the national dish of China, one of its many gifts to the world."
+    },
+    {
+      "title": "National Thesaurus Day",
+      "description": "On Thesaurus Day, we are happy, merry, delighted, and overjoyed!"
+    },
+    {
+      "title": "World Religion Day",
+      "description": "Our differences make us stronger, so join us in celebrating our different beliefs and cultures."
+    },
+    {
+      "title": "World Snow Day",
+      "description": "‘Enjoy, experience and explore’ —  the motto of World Snow Day, which we’re taking seriously indeed."
+    },
+    {
+      "title": "AA Milne’s Birthday",
+      "description": "A pioneer in children’s literature, Milne contributed immensely to this genre throughout his entire career."
+    },
+    {
+      "title": "Cary Grant’s Birthday",
+      "description": "Cary Grant might be from a different time, but his work is still relevant today."
+    },
+    {
+      "title": "Eugene Lee Yang’s Birthday",
+      "description": "The possibilities are endless for this multi-talented celebrity, and we’d love to see them."
+    },
+    {
+      "title": "Isaac Elliot Rivera’s Birthday",
+      "description": "We are looking forward to what this budding reality star achieves for himself."
+    },
+    {
+      "title": "Jonathan Davis’s Birthday",
+      "description": "His distinctive personality and great music influenced the next generation of musicians and performers."
+    },
+    {
+      "title": "Karan Brar’s Birthday",
+      "description": "This young actor&#39;s contribution to making childhood entertainment memorable is valued by the Gen-Z generation."
+    },
+    {
+      "title": "Kevin Costner’s Birthday",
+      "description": "Known as one of Hollywood’s most generous actors, we’re excited to celebrate his birthday."
+    },
+    {
+      "title": "Linda Sun’s Birthday",
+      "description": "This young star is on the right path to greatness and we love to see it!"
+    },
+    {
+      "title": "Lps Dave’s Birthday",
+      "description": "For this cool YouTuber, all we have to say is we sure love timeless classics."
+    },
+    {
+      "title": "Nathaniel Simonsen’s Birthday",
+      "description": "Nathaniel Simonsen, the young and talented social media sensation, is winning hearts on social media."
+    }
+  ]
+}
