@@ -3,15 +3,7 @@
   "day": 3,
   "holidays": [
     {
-      "title": "Global Running Day",
-      "description": null
-    },
-    {
       "title": "National Chicken Salad Day",
-      "description": null
-    },
-    {
-      "title": "National Egg Day",
       "description": null
     },
     {
@@ -24,6 +16,10 @@
     },
     {
       "title": "European Bicycle Day",
+      "description": null
+    },
+    {
+      "title": "Global Running Day",
       "description": null
     },
     {
@@ -48,6 +44,10 @@
     },
     {
       "title": "National Chocolate Macaroon Day",
+      "description": null
+    },
+    {
+      "title": "National Egg Day",
       "description": null
     },
     {
