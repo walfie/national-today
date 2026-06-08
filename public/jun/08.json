@@ -3,10 +3,6 @@
   "day": 8,
   "holidays": [
     {
-      "title": "National Best Friends Day",
-      "description": null
-    },
-    {
       "title": "World Oceans Day",
       "description": null
     },
@@ -28,6 +24,10 @@
     },
     {
       "title": "Name Your Poison Day",
+      "description": null
+    },
+    {
+      "title": "National Best Friends Day",
       "description": null
     },
     {
