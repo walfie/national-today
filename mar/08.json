@@ -1,0 +1,50 @@
+{
+  "month": "mar",
+  "day": 8,
+  "holidays": [
+    {
+      "title": "International Women&#39;s Day",
+      "description": null
+    },
+    {
+      "title": "National Proofreading Day",
+      "description": null
+    },
+    {
+      "title": "Be Nasty Day",
+      "description": null
+    },
+    {
+      "title": "Check Your Batteries Day",
+      "description": null
+    },
+    {
+      "title": "Daylight Savings",
+      "description": null
+    },
+    {
+      "title": "Nari Dibas",
+      "description": null
+    },
+    {
+      "title": "National August Day",
+      "description": null
+    },
+    {
+      "title": "National Oregon Day",
+      "description": null
+    },
+    {
+      "title": "National Peanut Cluster Day",
+      "description": null
+    },
+    {
+      "title": "National Retro Video Game Day",
+      "description": null
+    },
+    {
+      "title": "United Nations Day for Women&#39;s Rights and International Peace",
+      "description": null
+    }
+  ]
+}

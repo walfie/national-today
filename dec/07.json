@@ -1,0 +1,42 @@
+{
+  "month": "dec",
+  "day": 7,
+  "holidays": [
+    {
+      "title": "National Letter Writing Day",
+      "description": null
+    },
+    {
+      "title": "National Pearl Harbor Day of Remembrance",
+      "description": null
+    },
+    {
+      "title": "Feast of St. Ambrose",
+      "description": null
+    },
+    {
+      "title": "Flag Day of India",
+      "description": null
+    },
+    {
+      "title": "International Civil Aviation Day",
+      "description": null
+    },
+    {
+      "title": "Memorial Day in East Timor",
+      "description": null
+    },
+    {
+      "title": "National Cotton Candy Day",
+      "description": null
+    },
+    {
+      "title": "National Illinois Day",
+      "description": null
+    },
+    {
+      "title": "National Rina Day",
+      "description": null
+    }
+  ]
+}

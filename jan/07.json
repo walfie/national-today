@@ -1,0 +1,42 @@
+{
+  "month": "jan",
+  "day": 7,
+  "holidays": [
+    {
+      "title": "Distaff Day",
+      "description": null
+    },
+    {
+      "title": "Harlem Globetrotter’s Day",
+      "description": null
+    },
+    {
+      "title": "I Am a Mentor Day",
+      "description": null
+    },
+    {
+      "title": "I’m Not Going To Take It Anymore Day",
+      "description": null
+    },
+    {
+      "title": "National Bobblehead Day",
+      "description": null
+    },
+    {
+      "title": "National Pass Gas Day",
+      "description": null
+    },
+    {
+      "title": "National Tempura Day",
+      "description": null
+    },
+    {
+      "title": "Old Rock Day",
+      "description": null
+    },
+    {
+      "title": "Orthodox Christmas Day",
+      "description": null
+    }
+  ]
+}

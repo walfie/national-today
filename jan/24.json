@@ -1,0 +1,62 @@
+{
+  "month": "jan",
+  "day": 24,
+  "holidays": [
+    {
+      "title": "Beer Can Appreciation Day",
+      "description": null
+    },
+    {
+      "title": "Macintosh Computer Day",
+      "description": null
+    },
+    {
+      "title": "National Compliment Day",
+      "description": null
+    },
+    {
+      "title": "National Peanut Butter Day",
+      "description": null
+    },
+    {
+      "title": "&#34;Just Do It&#34; Day",
+      "description": null
+    },
+    {
+      "title": "Belly Laugh Day",
+      "description": null
+    },
+    {
+      "title": "Change a Pet’s Life Day",
+      "description": null
+    },
+    {
+      "title": "International Day of Education",
+      "description": null
+    },
+    {
+      "title": "International Mobile Phone Recycling Day",
+      "description": null
+    },
+    {
+      "title": "Local Quilt Shop Day",
+      "description": null
+    },
+    {
+      "title": "National Lobster Thermidor Day",
+      "description": null
+    },
+    {
+      "title": "Paul Pitcher Day",
+      "description": null
+    },
+    {
+      "title": "Talk Like a Grizzled Prospector Day",
+      "description": null
+    },
+    {
+      "title": "Unification Day",
+      "description": null
+    }
+  ]
+}
