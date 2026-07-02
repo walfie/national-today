@@ -1,0 +1,50 @@
+{
+  "month": "jan",
+  "day": 5,
+  "holidays": [
+    {
+      "title": "Carver Day",
+      "description": null
+    },
+    {
+      "title": "Handsel Monday",
+      "description": null
+    },
+    {
+      "title": "Harbin Ice Festival",
+      "description": null
+    },
+    {
+      "title": "National Bird Day",
+      "description": null
+    },
+    {
+      "title": "National Day of Dialogue",
+      "description": null
+    },
+    {
+      "title": "National Ellen Day",
+      "description": null
+    },
+    {
+      "title": "National Keto Day",
+      "description": null
+    },
+    {
+      "title": "National Screenwriters Day",
+      "description": null
+    },
+    {
+      "title": "National Thank God Its Monday Day",
+      "description": null
+    },
+    {
+      "title": "National Whipped Cream Day",
+      "description": null
+    },
+    {
+      "title": "Twelfth Night",
+      "description": null
+    }
+  ]
+}

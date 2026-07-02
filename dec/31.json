@@ -1,0 +1,46 @@
+{
+  "month": "dec",
+  "day": 31,
+  "holidays": [
+    {
+      "title": "New Year&#39;s Eve",
+      "description": null
+    },
+    {
+      "title": "Hogmanay",
+      "description": null
+    },
+    {
+      "title": "International Solidarity Day of Azerbaijanis",
+      "description": null
+    },
+    {
+      "title": "Make Up Your Mind Day",
+      "description": null
+    },
+    {
+      "title": "National Champagne Day",
+      "description": null
+    },
+    {
+      "title": "National Heroes Day (Timor-Leste)",
+      "description": null
+    },
+    {
+      "title": "No Interruptions Day",
+      "description": null
+    },
+    {
+      "title": "Restoration Day in Geneva",
+      "description": null
+    },
+    {
+      "title": "Unlucky Day",
+      "description": null
+    },
+    {
+      "title": "World Peace Meditation Day",
+      "description": null
+    }
+  ]
+}
