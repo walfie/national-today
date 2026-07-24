@@ -1,0 +1,58 @@
+{
+  "month": "apr",
+  "day": 20,
+  "holidays": [
+    {
+      "title": "Chinese Language Day",
+      "description": null
+    },
+    {
+      "title": "420",
+      "description": null
+    },
+    {
+      "title": "International Cli-Fi Day",
+      "description": null
+    },
+    {
+      "title": "Israel Memorial Day",
+      "description": null
+    },
+    {
+      "title": "Landing of the 33 Patriots Day",
+      "description": null
+    },
+    {
+      "title": "Lima Bean Respect Day",
+      "description": null
+    },
+    {
+      "title": "Look Alike Day",
+      "description": null
+    },
+    {
+      "title": "National Cheddar Fries Day",
+      "description": null
+    },
+    {
+      "title": "National Death Doula Day",
+      "description": null
+    },
+    {
+      "title": "National Pineapple Upside-Down Cake Day",
+      "description": null
+    },
+    {
+      "title": "UN Chinese Language Day",
+      "description": null
+    },
+    {
+      "title": "Volunteer Recognition Day",
+      "description": null
+    },
+    {
+      "title": "Yom HaZikaron",
+      "description": null
+    }
+  ]
+}
