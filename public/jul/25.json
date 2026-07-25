@@ -3,6 +3,10 @@
   "day": 25,
   "holidays": [
     {
+      "title": "National Hot Fudge Sundae Day",
+      "description": null
+    },
+    {
       "title": "Annexation of Guanacaste Day",
       "description": null
     },
@@ -16,10 +20,6 @@
     },
     {
       "title": "Culinarians Day",
-      "description": null
-    },
-    {
-      "title": "Darwin Show Day",
       "description": null
     },
     {
@@ -43,7 +43,15 @@
       "description": null
     },
     {
+      "title": "International Decora Day",
+      "description": null
+    },
+    {
       "title": "International Red Shoe Day",
+      "description": null
+    },
+    {
+      "title": "National Day of the Cowboy",
       "description": null
     },
     {
@@ -59,10 +67,6 @@
       "description": null
     },
     {
-      "title": "National Talk in an Elevator Day",
-      "description": null
-    },
-    {
       "title": "National Thread the Needle Day",
       "description": null
     },
@@ -71,15 +75,15 @@
       "description": null
     },
     {
+      "title": "Paddle for Perthes Disease Awareness Day",
+      "description": null
+    },
+    {
       "title": "Puerto Rico Constitution Day",
       "description": null
     },
     {
       "title": "St James TG",
-      "description": null
-    },
-    {
-      "title": "System Administrator Appreciation Day",
       "description": null
     },
     {
