@@ -19,15 +19,11 @@
       "description": null
     },
     {
-      "title": "Commerce Day",
-      "description": null
-    },
-    {
       "title": "Cook Islands Constitution Day",
       "description": null
     },
     {
-      "title": "Festival Monday",
+      "title": "Culturama Day",
       "description": null
     },
     {
@@ -47,19 +43,15 @@
       "description": null
     },
     {
-      "title": "Kadooment Day",
-      "description": null
-    },
-    {
-      "title": "Kiribati Youth Day",
-      "description": null
-    },
-    {
       "title": "Matice Slovenska Day",
       "description": null
     },
     {
       "title": "Natal Day",
+      "description": null
+    },
+    {
+      "title": "National Night Out",
       "description": null
     },
     {
@@ -88,10 +80,6 @@
     },
     {
       "title": "U.S. Coast Guard Birthday",
-      "description": null
-    },
-    {
-      "title": "World Alternative Games",
       "description": null
     }
   ]
