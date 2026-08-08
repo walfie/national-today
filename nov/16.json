@@ -1,0 +1,42 @@
+{
+  "month": "nov",
+  "day": 16,
+  "holidays": [
+    {
+      "title": "International Day For Tolerance",
+      "description": null
+    },
+    {
+      "title": "Bhai Dooj",
+      "description": null
+    },
+    {
+      "title": "Have a Party with your Bear Day",
+      "description": null
+    },
+    {
+      "title": "National Black Marketers Day",
+      "description": null
+    },
+    {
+      "title": "National Button Day",
+      "description": null
+    },
+    {
+      "title": "National Charles Day",
+      "description": null
+    },
+    {
+      "title": "National Clarinet Day",
+      "description": null
+    },
+    {
+      "title": "National Fast Food Day",
+      "description": null
+    },
+    {
+      "title": "World Day of Remembrance for Road Traffic Victims",
+      "description": null
+    }
+  ]
+}

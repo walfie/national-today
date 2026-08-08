@@ -1,0 +1,46 @@
+{
+  "month": "dec",
+  "day": 20,
+  "holidays": [
+    {
+      "title": "National Sangria Day",
+      "description": null
+    },
+    {
+      "title": "Cathode-Ray Tube Day",
+      "description": null
+    },
+    {
+      "title": "Dot Your I’s Day",
+      "description": null
+    },
+    {
+      "title": "Festival of Winter Walks",
+      "description": null
+    },
+    {
+      "title": "Games Day",
+      "description": null
+    },
+    {
+      "title": "Go Caroling Day",
+      "description": null
+    },
+    {
+      "title": "Macao SARE Day",
+      "description": null
+    },
+    {
+      "title": "Mudd Day",
+      "description": null
+    },
+    {
+      "title": "National Wreaths Across America Day",
+      "description": null
+    },
+    {
+      "title": "Sacagawea Day",
+      "description": null
+    }
+  ]
+}
