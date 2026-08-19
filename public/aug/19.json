@@ -3,10 +3,6 @@
   "day": 19,
   "holidays": [
     {
-      "title": "National Patient Advocacy Day",
-      "description": null
-    },
-    {
       "title": "National Potato Day",
       "description": null
     },
@@ -31,6 +27,10 @@
       "description": null
     },
     {
+      "title": "JUVÉDERM Day",
+      "description": null
+    },
+    {
       "title": "National Aviation Day",
       "description": null
     },
@@ -40,6 +40,10 @@
     },
     {
       "title": "National Soft Ice Cream Day",
+      "description": null
+    },
+    {
+      "title": "Qixi Festival",
       "description": null
     },
     {
