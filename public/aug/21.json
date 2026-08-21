@@ -3,6 +3,10 @@
   "day": 21,
   "holidays": [
     {
+      "title": "Hawaiian Shirt Day",
+      "description": null
+    },
+    {
       "title": "International Day of Remembrance and Tribute to the Victims of Terrorism",
       "description": null
     },
@@ -12,6 +16,14 @@
     },
     {
       "title": "National Brazilian Blowout Day",
+      "description": null
+    },
+    {
+      "title": "National Kool Aid Day",
+      "description": null
+    },
+    {
+      "title": "National Men&#39;s Grooming Day",
       "description": null
     },
     {
