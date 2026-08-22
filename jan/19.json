@@ -1,0 +1,86 @@
+{
+  "month": "jan",
+  "day": 19,
+  "holidays": [
+    {
+      "title": "National Popcorn Day",
+      "description": null
+    },
+    {
+      "title": "Artist as Outlaw Day",
+      "description": "Get your paints and spray cans ready as we gear up to celebrate outlaw artists!"
+    },
+    {
+      "title": "Brew a Potion Day",
+      "description": "Get your cauldrons out and brew with us as we celebrate Brew a Potion Day!"
+    },
+    {
+      "title": "Brew Monday",
+      "description": "Time to schedule a meeting with someone who finds this cold, gray winter’s day an obstacle."
+    },
+    {
+      "title": "Cancertalk Week",
+      "description": "Help, support, and encourage those living with cancer, as well as their families."
+    },
+    {
+      "title": "Civil Rights Day",
+      "description": "In the words of Frederick Douglass: “If there is no struggle, there is no progress.”"
+    },
+    {
+      "title": "Elementary School Teacher Day",
+      "description": "Elementary school teachers leave a lasting impression on us with their warmth and kindness."
+    },
+    {
+      "title": "Good Memory Day",
+      "description": "What better way to celebrate Good Memory Day than to actually make good memories?"
+    },
+    {
+      "title": "Gun Appreciation Day",
+      "description": "Get ready to discuss gun safety and other ways to appreciate guns."
+    },
+    {
+      "title": "Idaho Human Rights Day",
+      "description": "Prepare for a parade honoring the life of Martin Luther King Jr., our favorite civil-rights activist."
+    },
+    {
+      "title": "Robert E. Lee Day",
+      "description": "Here’s everything you need to know about this state holiday and how to celebrate it."
+    },
+    {
+      "title": "Tenderness Toward Existence Day",
+      "description": "Open up your hearts and minds; get ready to celebrate and appreciate life."
+    },
+    {
+      "title": "Tin Can Day",
+      "description": "Crack open your favorite canned food as we celebrate the most functional food preservation tool!"
+    },
+    {
+      "title": "World Quark Day",
+      "description": "Get your spoons out to scoop up everything we’ve got for World Quark Day."
+    },
+    {
+      "title": "Dolly Parton’s Birthday",
+      "description": "This altruistic social butterfly and businesswoman who sings, acts, and writes songs is our star."
+    },
+    {
+      "title": "Edgar Allan Poe’s Birthday",
+      "description": "Cheers to the man who pioneered what we refer to as the ambiguous horror story."
+    },
+    {
+      "title": "Janis Joplin’s Birthday",
+      "description": "She was the world’s first true female rock star, the “queen of rock ‘n’ roll.”"
+    },
+    {
+      "title": "Lil Scrappy’s Birthday",
+      "description": "Celebrating a well-respected rapper and a household name in the Southern hip-hop arena."
+    },
+    {
+      "title": "Mac Miller’s Birthday",
+      "description": "He was one of the leaders of the “new school” of young and talented rappers."
+    },
+    {
+      "title": "Paula Deen’s Birthday",
+      "description": "The “queen of Southern cooking” always works her magic in the kitchen."
+    }
+  ]
+}

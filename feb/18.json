@@ -1,0 +1,50 @@
+{
+  "month": "feb",
+  "day": 18,
+  "holidays": [
+    {
+      "title": "Ash Wednesday",
+      "description": null
+    },
+    {
+      "title": "National Drink Wine Day",
+      "description": null
+    },
+    {
+      "title": "Cow Milked While Flying in an Airplane Day",
+      "description": null
+    },
+    {
+      "title": "Gambia Independence Day",
+      "description": null
+    },
+    {
+      "title": "Losar",
+      "description": null
+    },
+    {
+      "title": "National Battery Day",
+      "description": null
+    },
+    {
+      "title": "National Crab Stuffed Flounder Day",
+      "description": null
+    },
+    {
+      "title": "Pluto Day",
+      "description": null
+    },
+    {
+      "title": "Ramadan Begins",
+      "description": null
+    },
+    {
+      "title": "Thumb Appreciation Day",
+      "description": null
+    },
+    {
+      "title": "Tsagaan Sar",
+      "description": null
+    }
+  ]
+}

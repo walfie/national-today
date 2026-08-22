@@ -1,0 +1,62 @@
+{
+  "month": "jun",
+  "day": 19,
+  "holidays": [
+    {
+      "title": "Juneteenth",
+      "description": null
+    },
+    {
+      "title": "National Martini Day",
+      "description": null
+    },
+    {
+      "title": "Artigas Day",
+      "description": null
+    },
+    {
+      "title": "Dragon Boat Festival",
+      "description": null
+    },
+    {
+      "title": "Find a Leak Day",
+      "description": null
+    },
+    {
+      "title": "International Box Day",
+      "description": null
+    },
+    {
+      "title": "International Day for the Elimination of Sexual Violence in Conflict",
+      "description": null
+    },
+    {
+      "title": "National Flip Flop Day",
+      "description": null
+    },
+    {
+      "title": "National FreeBSD Day",
+      "description": null
+    },
+    {
+      "title": "National Garfield the Cat Day",
+      "description": null
+    },
+    {
+      "title": "National Take Back the Lunch Break Day",
+      "description": null
+    },
+    {
+      "title": "National Watch Day",
+      "description": null
+    },
+    {
+      "title": "World Sauntering Day",
+      "description": null
+    },
+    {
+      "title": "World Sickle Cell Day",
+      "description": null
+    }
+  ]
+}
