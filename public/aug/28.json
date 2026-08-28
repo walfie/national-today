@@ -3,6 +3,10 @@
   "day": 28,
   "holidays": [
     {
+      "title": "August Moon Festival",
+      "description": null
+    },
+    {
       "title": "Crackers Over The Keyboard Day",
       "description": null
     },
@@ -11,15 +15,7 @@
       "description": null
     },
     {
-      "title": "International Cabernet Day",
-      "description": null
-    },
-    {
       "title": "National Bow Tie Day",
-      "description": null
-    },
-    {
-      "title": "National Burger Day",
       "description": null
     },
     {
@@ -36,6 +32,10 @@
     },
     {
       "title": "Rainbow Bridge Remembrance Day",
+      "description": null
+    },
+    {
+      "title": "Raksha Bandhan",
       "description": null
     }
   ]
