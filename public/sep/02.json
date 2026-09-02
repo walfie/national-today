@@ -3,11 +3,11 @@
   "day": 2,
   "holidays": [
     {
-      "title": "Telephone Tuesday",
+      "title": "Labor Day",
       "description": null
     },
     {
-      "title": "Another Look Unlimited Day",
+      "title": "Telephone Tuesday",
       "description": null
     },
     {
@@ -20,6 +20,10 @@
     },
     {
       "title": "Ceuta Day",
+      "description": null
+    },
+    {
+      "title": "Global Talent Acquisition Day",
       "description": null
     },
     {
