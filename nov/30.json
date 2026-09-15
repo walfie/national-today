@@ -1,0 +1,74 @@
+{
+  "month": "nov",
+  "day": 30,
+  "holidays": [
+    {
+      "title": "Cyber Safety Sunday",
+      "description": null
+    },
+    {
+      "title": "National Computer Security Day",
+      "description": null
+    },
+    {
+      "title": "St. Andrew&#39;s Day",
+      "description": null
+    },
+    {
+      "title": "Barbados Independence Day",
+      "description": null
+    },
+    {
+      "title": "Bonifacio Day",
+      "description": null
+    },
+    {
+      "title": "Cities for Life Day",
+      "description": null
+    },
+    {
+      "title": "Day of Remembrance for all Victims of Chemical Warfare",
+      "description": null
+    },
+    {
+      "title": "Guru Nanak Jayanti",
+      "description": null
+    },
+    {
+      "title": "International Shift Worker Sunday",
+      "description": null
+    },
+    {
+      "title": "Meth Awareness Day",
+      "description": null
+    },
+    {
+      "title": "National Mason Jar Day",
+      "description": null
+    },
+    {
+      "title": "National Mississippi Day",
+      "description": null
+    },
+    {
+      "title": "National Mousse Day",
+      "description": null
+    },
+    {
+      "title": "National Personal Space Day",
+      "description": null
+    },
+    {
+      "title": "National Stay at Home Because You&#39;re Well Day",
+      "description": null
+    },
+    {
+      "title": "Native Women&#39;s Equal Pay Day",
+      "description": null
+    },
+    {
+      "title": "Perpetual Youth Day",
+      "description": null
+    }
+  ]
+}
