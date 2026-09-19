@@ -1,0 +1,46 @@
+{
+  "month": "dec",
+  "day": 11,
+  "holidays": [
+    {
+      "title": "International Mountain Day",
+      "description": null
+    },
+    {
+      "title": "Anniversary of the Statute of Westminster",
+      "description": null
+    },
+    {
+      "title": "Burkina Faso Republic Day",
+      "description": null
+    },
+    {
+      "title": "Christmas Jumper Day",
+      "description": null
+    },
+    {
+      "title": "Holiday Food Drive for Needy Animals Day",
+      "description": null
+    },
+    {
+      "title": "National App Day",
+      "description": null
+    },
+    {
+      "title": "National Jon Day",
+      "description": null
+    },
+    {
+      "title": "Noodle Ring Day",
+      "description": null
+    },
+    {
+      "title": "UNICEF Birthday",
+      "description": null
+    },
+    {
+      "title": "UNICEF Day for Change",
+      "description": null
+    }
+  ]
+}
