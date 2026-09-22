@@ -3,14 +3,6 @@
   "day": 22,
   "holidays": [
     {
-      "title": "Fall Equinox",
-      "description": null
-    },
-    {
-      "title": "National Family Day",
-      "description": null
-    },
-    {
       "title": "National Ice Cream Cone Day",
       "description": null
     },
@@ -39,10 +31,6 @@
       "description": null
     },
     {
-      "title": "First Day of Autumn",
-      "description": null
-    },
-    {
       "title": "Hobbit Day",
       "description": null
     },
@@ -51,19 +39,7 @@
       "description": null
     },
     {
-      "title": "Maharaja Agrasen Jayanti",
-      "description": null
-    },
-    {
       "title": "Mali Independence Day",
-      "description": null
-    },
-    {
-      "title": "Mera Chaoren Houba",
-      "description": null
-    },
-    {
-      "title": "Mysore Dasara",
       "description": null
     },
     {
@@ -88,22 +64,6 @@
     },
     {
       "title": "National White Chocolate Day",
-      "description": null
-    },
-    {
-      "title": "Navratri",
-      "description": null
-    },
-    {
-      "title": "Rosh Hashanah",
-      "description": null
-    },
-    {
-      "title": "September Equinox",
-      "description": null
-    },
-    {
-      "title": "The September Equinox",
       "description": null
     },
     {
