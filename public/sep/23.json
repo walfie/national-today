@@ -3,6 +3,10 @@
   "day": 23,
   "holidays": [
     {
+      "title": "Fall Equinox",
+      "description": null
+    },
+    {
       "title": "Celebrate Bisexuality Day",
       "description": null
     },
@@ -15,11 +19,11 @@
       "description": null
     },
     {
-      "title": "Go With Your Gut Day",
+      "title": "First Day of Autumn",
       "description": null
     },
     {
-      "title": "Innergize Day",
+      "title": "Go With Your Gut Day",
       "description": null
     },
     {
@@ -59,10 +63,6 @@
       "description": null
     },
     {
-      "title": "​National Voter Registration Day",
-      "description": null
-    },
-    {
       "title": "Restless Legs Awareness Day",
       "description": null
     },
@@ -71,7 +71,15 @@
       "description": null
     },
     {
+      "title": "September Equinox",
+      "description": null
+    },
+    {
       "title": "Teal Talk Day",
+      "description": null
+    },
+    {
+      "title": "The September Equinox",
       "description": null
     },
     {
