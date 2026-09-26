@@ -3,15 +3,11 @@
   "day": 26,
   "holidays": [
     {
-      "title": "AFL Grand Final Friday",
+      "title": "National Singles Day",
       "description": null
     },
     {
       "title": "Alpaca Day",
-      "description": null
-    },
-    {
-      "title": "American Indian Day",
       "description": null
     },
     {
@@ -31,7 +27,11 @@
       "description": null
     },
     {
-      "title": "German Sandwich Day",
+      "title": "Family Health &amp; Fitness Day USA",
+      "description": null
+    },
+    {
+      "title": "Fish Amnesty Day",
       "description": null
     },
     {
@@ -39,11 +39,19 @@
       "description": null
     },
     {
-      "title": "Hug A Vegetarian Day",
+      "title": "International Day for the Total Elimination of Nuclear Weapons",
       "description": null
     },
     {
-      "title": "International Day for the Total Elimination of Nuclear Weapons",
+      "title": "International Lace Day",
+      "description": null
+    },
+    {
+      "title": "International Rabbit Day",
+      "description": null
+    },
+    {
+      "title": "International Rabbit Day",
       "description": null
     },
     {
@@ -59,11 +67,11 @@
       "description": null
     },
     {
-      "title": "Michigan Indian Day",
+      "title": "Mera Chaoren Houba",
       "description": null
     },
     {
-      "title": "National BRAVE Day",
+      "title": "National Bunny Day",
       "description": null
     },
     {
@@ -79,11 +87,15 @@
       "description": null
     },
     {
-      "title": "National Doodle Day",
+      "title": "National Dumpling Day",
       "description": null
     },
     {
-      "title": "National Dumpling Day",
+      "title": "National Ghost Hunting Day",
+      "description": null
+    },
+    {
+      "title": "National Hunting and Fishing Day",
       "description": null
     },
     {
@@ -103,15 +115,23 @@
       "description": null
     },
     {
+      "title": "National Public Lands Day",
+      "description": null
+    },
+    {
+      "title": "National Seat Check Saturday",
+      "description": null
+    },
+    {
       "title": "National Situational Awareness Day",
       "description": null
     },
     {
-      "title": "Native American Day",
+      "title": "Pitru Paksha",
       "description": null
     },
     {
-      "title": "Save The Koala Day",
+      "title": "Save Your Photos Day",
       "description": null
     },
     {
@@ -119,11 +139,7 @@
       "description": null
     },
     {
-      "title": "Sport Purple for Platelets Day",
-      "description": null
-    },
-    {
-      "title": "World’s Biggest Coffee Morning",
+      "title": "World’s Largest Pet Walk",
       "description": null
     }
   ]
