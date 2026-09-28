@@ -3,19 +3,19 @@
   "day": 28,
   "holidays": [
     {
+      "title": "National Family Day",
+      "description": null
+    },
+    {
       "title": "Ask a Stupid Question Day",
       "description": null
     },
     {
-      "title": "Durga Ashtami",
+      "title": "FAMILY AND COMMUNITY DAY",
       "description": null
     },
     {
       "title": "Fish Tank Floorshow Night",
-      "description": null
-    },
-    {
-      "title": "Gold Star Mother’s and Family Day",
       "description": null
     },
     {
@@ -43,10 +43,6 @@
       "description": null
     },
     {
-      "title": "National Police Memorial Day",
-      "description": null
-    },
-    {
       "title": "National Self Awareness Day",
       "description": null
     },
@@ -59,19 +55,7 @@
       "description": null
     },
     {
-      "title": "World Day of Migrants and Refugees",
-      "description": null
-    },
-    {
-      "title": "World Deaf Day",
-      "description": null
-    },
-    {
       "title": "World Rabies Day",
-      "description": null
-    },
-    {
-      "title": "World Rivers Day",
       "description": null
     }
   ]
