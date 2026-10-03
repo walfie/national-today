@@ -1,0 +1,110 @@
+{
+  "month": "jan",
+  "day": 1,
+  "holidays": [
+    {
+      "title": "Apple Gifting Day",
+      "description": null
+    },
+    {
+      "title": "Commitment Day",
+      "description": null
+    },
+    {
+      "title": "Copyright Law Day",
+      "description": null
+    },
+    {
+      "title": "Ellis Island Day",
+      "description": null
+    },
+    {
+      "title": "Euro Day",
+      "description": null
+    },
+    {
+      "title": "First-Foot Day",
+      "description": null
+    },
+    {
+      "title": "Global Family Day",
+      "description": null
+    },
+    {
+      "title": "Haitian Independence Day",
+      "description": null
+    },
+    {
+      "title": "International Public Domain Day",
+      "description": null
+    },
+    {
+      "title": "Mummer&#39;s Parade",
+      "description": null
+    },
+    {
+      "title": "National Bloody Mary Day",
+      "description": null
+    },
+    {
+      "title": "National Hangover Day",
+      "description": null
+    },
+    {
+      "title": "National Shepherd Day",
+      "description": null
+    },
+    {
+      "title": "New Year&#39;s Day",
+      "description": null
+    },
+    {
+      "title": "New Year’s Dishonor List Day",
+      "description": null
+    },
+    {
+      "title": "Polar Bear Plunge Day",
+      "description": null
+    },
+    {
+      "title": "Public Domain Day",
+      "description": null
+    },
+    {
+      "title": "Ring a Bell Day",
+      "description": null
+    },
+    {
+      "title": "Rose Bowl Game",
+      "description": null
+    },
+    {
+      "title": "Solemnity of Mary",
+      "description": null
+    },
+    {
+      "title": "Sudan Independence Day",
+      "description": null
+    },
+    {
+      "title": "Tournament of Roses Parade",
+      "description": null
+    },
+    {
+      "title": "Triumph of the Revolution",
+      "description": null
+    },
+    {
+      "title": "Universal Hour of Peace",
+      "description": null
+    },
+    {
+      "title": "World Day of Peace",
+      "description": null
+    },
+    {
+      "title": "Z Day",
+      "description": null
+    }
+  ]
+}

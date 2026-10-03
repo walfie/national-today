@@ -1,0 +1,46 @@
+{
+  "month": "jan",
+  "day": 29,
+  "holidays": [
+    {
+      "title": "National Puzzle Day",
+      "description": null
+    },
+    {
+      "title": "Auckland Anniversary Day",
+      "description": null
+    },
+    {
+      "title": "Curmudgeons Day",
+      "description": null
+    },
+    {
+      "title": "Freethinkers Day",
+      "description": null
+    },
+    {
+      "title": "Kansas Day",
+      "description": null
+    },
+    {
+      "title": "NASA&#39;s Day of Remembrance",
+      "description": null
+    },
+    {
+      "title": "National Carnation Day",
+      "description": null
+    },
+    {
+      "title": "National Corn Chip Day",
+      "description": null
+    },
+    {
+      "title": "RNLI SOS day",
+      "description": null
+    },
+    {
+      "title": "Seeing-Eye Guide Dog Anniversary",
+      "description": null
+    }
+  ]
+}

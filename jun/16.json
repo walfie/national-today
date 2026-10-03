@@ -1,0 +1,50 @@
+{
+  "month": "jun",
+  "day": 16,
+  "holidays": [
+    {
+      "title": "National Fudge Day",
+      "description": null
+    },
+    {
+      "title": "Arborist Appreciation Day",
+      "description": null
+    },
+    {
+      "title": "Bloomsday",
+      "description": null
+    },
+    {
+      "title": "Fresh Veggies Day",
+      "description": null
+    },
+    {
+      "title": "International Day of Family Remittances",
+      "description": null
+    },
+    {
+      "title": "International Day of the African Child",
+      "description": null
+    },
+    {
+      "title": "International WaterFall Day",
+      "description": null
+    },
+    {
+      "title": "Martyrdom of Guru Arjan Dev Sahib",
+      "description": null
+    },
+    {
+      "title": "Royal Ascot",
+      "description": null
+    },
+    {
+      "title": "World Sea Turtle Day",
+      "description": null
+    },
+    {
+      "title": "Youth Day",
+      "description": null
+    }
+  ]
+}

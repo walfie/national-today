@@ -1,0 +1,58 @@
+{
+  "month": "nov",
+  "day": 10,
+  "holidays": [
+    {
+      "title": "International Accounting Day",
+      "description": null
+    },
+    {
+      "title": "Marine Corps Birthday",
+      "description": null
+    },
+    {
+      "title": "National Vanilla Cupcake Day",
+      "description": null
+    },
+    {
+      "title": "Sesame Street Day",
+      "description": null
+    },
+    {
+      "title": "Area Code Day",
+      "description": null
+    },
+    {
+      "title": "Constitution Day (Dominican Republic)",
+      "description": null
+    },
+    {
+      "title": "Day of the “Primer Grito de Independencia”",
+      "description": null
+    },
+    {
+      "title": "Forget Me Not Day",
+      "description": null
+    },
+    {
+      "title": "USMC Day",
+      "description": null
+    },
+    {
+      "title": "World Immunization Day",
+      "description": null
+    },
+    {
+      "title": "World Keratoconus Day",
+      "description": null
+    },
+    {
+      "title": "World Orphans Day",
+      "description": null
+    },
+    {
+      "title": "World Science Day",
+      "description": null
+    }
+  ]
+}
