@@ -3,10 +3,6 @@
   "day": 8,
   "holidays": [
     {
-      "title": "National Pet Obesity Awareness Day",
-      "description": null
-    },
-    {
       "title": "National Pierogi Day",
       "description": null
     },
@@ -23,15 +19,11 @@
       "description": null
     },
     {
-      "title": "Boat Racing Festival Laos",
+      "title": "Bring Your Bible To School Day",
       "description": null
     },
     {
       "title": "Dyslexia Day",
-      "description": null
-    },
-    {
-      "title": "Emergency Nurses Day",
       "description": null
     },
     {
@@ -51,15 +43,7 @@
       "description": null
     },
     {
-      "title": "International Top Spinning Day",
-      "description": null
-    },
-    {
-      "title": "National Bring Your Teddy Bear to School Day",
-      "description": null
-    },
-    {
-      "title": "National Curves Day",
+      "title": "National Depression Screening Day",
       "description": null
     },
     {
@@ -79,11 +63,11 @@
       "description": null
     },
     {
-      "title": "National Stop Bullying Day",
+      "title": "World Octopus Day",
       "description": null
     },
     {
-      "title": "World Octopus Day",
+      "title": "World Sight Day",
       "description": null
     }
   ]
