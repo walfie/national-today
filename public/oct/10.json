@@ -3,11 +3,19 @@
   "day": 10,
   "holidays": [
     {
-      "title": "MISTR&#39;s National PrEP Day",
+      "title": "National PrEP Day",
       "description": null
     },
     {
       "title": "World Mental Health Day",
+      "description": null
+    },
+    {
+      "title": "Ancestors&#39; Day",
+      "description": null
+    },
+    {
+      "title": "Bathukamma Starting Day",
       "description": null
     },
     {
@@ -27,7 +35,15 @@
       "description": null
     },
     {
+      "title": "I Love Yarn Day",
+      "description": null
+    },
+    {
       "title": "Inclusion Day",
+      "description": null
+    },
+    {
+      "title": "International African Penguin Awareness Day",
       "description": null
     },
     {
@@ -55,11 +71,27 @@
       "description": null
     },
     {
+      "title": "National Chess Day",
+      "description": null
+    },
+    {
+      "title": "National Costume Swap Day",
+      "description": null
+    },
+    {
       "title": "National Handbag Day",
       "description": null
     },
     {
       "title": "National Hug a Kevin Day",
+      "description": null
+    },
+    {
+      "title": "National Motorcycle Ride Day",
+      "description": null
+    },
+    {
+      "title": "Pchum Ben",
       "description": null
     },
     {
@@ -71,7 +103,7 @@
       "description": null
     },
     {
-      "title": "Vet Nurse Day",
+      "title": "Universal Music Day",
       "description": null
     },
     {
@@ -83,11 +115,11 @@
       "description": null
     },
     {
-      "title": "World Egg Day",
+      "title": "World Homeless Day",
       "description": null
     },
     {
-      "title": "World Homeless Day",
+      "title": "World Hospice and Palliative Care Day",
       "description": null
     },
     {
