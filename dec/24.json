@@ -1,0 +1,26 @@
+{
+  "month": "dec",
+  "day": 24,
+  "holidays": [
+    {
+      "title": "Christmas Eve",
+      "description": null
+    },
+    {
+      "title": "Last-Minute Shopper&#39;s Day",
+      "description": null
+    },
+    {
+      "title": "Libya Independence Day",
+      "description": null
+    },
+    {
+      "title": "National Consumer Rights Day",
+      "description": null
+    },
+    {
+      "title": "National Eggnog Day",
+      "description": null
+    }
+  ]
+}

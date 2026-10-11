@@ -1,0 +1,106 @@
+{
+  "month": "may",
+  "day": 22,
+  "holidays": [
+    {
+      "title": "STARs Day™",
+      "description": null
+    },
+    {
+      "title": "Bitcoin Pizza Day",
+      "description": null
+    },
+    {
+      "title": "Buy A Musical Instrument Day",
+      "description": null
+    },
+    {
+      "title": "Canadian Immigrants Day",
+      "description": null
+    },
+    {
+      "title": "Carb Day",
+      "description": null
+    },
+    {
+      "title": "Declaration of the Bab",
+      "description": null
+    },
+    {
+      "title": "Don’t Fry Day",
+      "description": null
+    },
+    {
+      "title": "Harvey Milk Day",
+      "description": null
+    },
+    {
+      "title": "International Coco Mom Day",
+      "description": null
+    },
+    {
+      "title": "International Day for Biological Diversity",
+      "description": null
+    },
+    {
+      "title": "National Boss Babe Day",
+      "description": null
+    },
+    {
+      "title": "National Cooler Day",
+      "description": null
+    },
+    {
+      "title": "National Craft Distillery Day",
+      "description": null
+    },
+    {
+      "title": "National Death Busters Day",
+      "description": null
+    },
+    {
+      "title": "National Maritime Day",
+      "description": null
+    },
+    {
+      "title": "National Road Trip Day",
+      "description": null
+    },
+    {
+      "title": "National Solitaire Day",
+      "description": null
+    },
+    {
+      "title": "National Title Track Day",
+      "description": null
+    },
+    {
+      "title": "National Vanilla Pudding Day",
+      "description": null
+    },
+    {
+      "title": "Shavuot",
+      "description": null
+    },
+    {
+      "title": "Sherlock Holmes Day",
+      "description": null
+    },
+    {
+      "title": "Slavery Abolition Day (Martinique)",
+      "description": null
+    },
+    {
+      "title": "World Goth Day",
+      "description": null
+    },
+    {
+      "title": "World Paloma Day",
+      "description": null
+    },
+    {
+      "title": "World Preeclampsia Day",
+      "description": null
+    }
+  ]
+}

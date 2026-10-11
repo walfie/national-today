@@ -1,0 +1,54 @@
+{
+  "month": "oct",
+  "day": 29,
+  "holidays": [
+    {
+      "title": "National Cat Day",
+      "description": null
+    },
+    {
+      "title": "National Internet Day",
+      "description": null
+    },
+    {
+      "title": "International: Chung Yeung Festival",
+      "description": null
+    },
+    {
+      "title": "Maha Saptami",
+      "description": null
+    },
+    {
+      "title": "National Hermit Day",
+      "description": null
+    },
+    {
+      "title": "National Indigenous People’s Thanksgiving Day",
+      "description": null
+    },
+    {
+      "title": "National Martina Day",
+      "description": null
+    },
+    {
+      "title": "National Oatmeal Day",
+      "description": null
+    },
+    {
+      "title": "Republic Day of Turkey",
+      "description": null
+    },
+    {
+      "title": "RSPB Feed the Birds Day",
+      "description": null
+    },
+    {
+      "title": "World Psoriasis Day",
+      "description": null
+    },
+    {
+      "title": "World Stroke Day",
+      "description": null
+    }
+  ]
+}

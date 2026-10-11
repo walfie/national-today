@@ -1,0 +1,54 @@
+{
+  "month": "mar",
+  "day": 12,
+  "holidays": [
+    {
+      "title": "National Girl Scout Day",
+      "description": null
+    },
+    {
+      "title": "Alfred Hitchcock Day",
+      "description": null
+    },
+    {
+      "title": "Aztec New Year",
+      "description": null
+    },
+    {
+      "title": "Independence Day Mauritius",
+      "description": null
+    },
+    {
+      "title": "International School Meals Day",
+      "description": null
+    },
+    {
+      "title": "National Baked Scallops Day",
+      "description": null
+    },
+    {
+      "title": "National Christian Day",
+      "description": null
+    },
+    {
+      "title": "National Plant a Flower Day",
+      "description": null
+    },
+    {
+      "title": "National Working Mom&#39;s day",
+      "description": null
+    },
+    {
+      "title": "Popcorn Lover&#39;s Day",
+      "description": null
+    },
+    {
+      "title": "World Day Against Cyber Censorship",
+      "description": null
+    },
+    {
+      "title": "World Glaucoma Day",
+      "description": null
+    }
+  ]
+}

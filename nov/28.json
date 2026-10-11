@@ -1,0 +1,62 @@
+{
+  "month": "nov",
+  "day": 28,
+  "holidays": [
+    {
+      "title": "Black Friday",
+      "description": null
+    },
+    {
+      "title": "National French Toast Day",
+      "description": null
+    },
+    {
+      "title": "Albania Independence Day",
+      "description": null
+    },
+    {
+      "title": "Buy Nothing Day",
+      "description": null
+    },
+    {
+      "title": "Flossing Day",
+      "description": null
+    },
+    {
+      "title": "Fur-Free Friday",
+      "description": null
+    },
+    {
+      "title": "Maize Day",
+      "description": null
+    },
+    {
+      "title": "Mauritania Independence Day",
+      "description": null
+    },
+    {
+      "title": "National Day of Listening",
+      "description": null
+    },
+    {
+      "title": "Native American Heritage Day",
+      "description": null
+    },
+    {
+      "title": "Red Planet Day",
+      "description": null
+    },
+    {
+      "title": "Sinkie Day",
+      "description": null
+    },
+    {
+      "title": "Systems Engineer Day",
+      "description": null
+    },
+    {
+      "title": "You’re Welcomegiving Day",
+      "description": null
+    }
+  ]
+}

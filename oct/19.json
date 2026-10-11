@@ -1,0 +1,42 @@
+{
+  "month": "oct",
+  "day": 19,
+  "holidays": [
+    {
+      "title": "National New Friends Day",
+      "description": null
+    },
+    {
+      "title": "Evaluate Your Life Day",
+      "description": null
+    },
+    {
+      "title": "LGBT Center Awareness Day",
+      "description": null
+    },
+    {
+      "title": "National Kentucky Day",
+      "description": null
+    },
+    {
+      "title": "National Seafood Bisque Day",
+      "description": null
+    },
+    {
+      "title": "Sunday School Teacher Appreciation Day",
+      "description": null
+    },
+    {
+      "title": "World Humanitarian Action Day",
+      "description": null
+    },
+    {
+      "title": "World Pediatric Bone and Joint Day",
+      "description": null
+    },
+    {
+      "title": "World Toy Camera Day",
+      "description": null
+    }
+  ]
+}

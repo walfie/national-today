@@ -1,0 +1,50 @@
+{
+  "month": "nov",
+  "day": 18,
+  "holidays": [
+    {
+      "title": "Mickey Mouse Birthday",
+      "description": null
+    },
+    {
+      "title": "Mickey Mouse Day",
+      "description": null
+    },
+    {
+      "title": "National Entrepreneur&#39;s Day",
+      "description": null
+    },
+    {
+      "title": "National Princess Day",
+      "description": null
+    },
+    {
+      "title": "Apple Cider Day",
+      "description": null
+    },
+    {
+      "title": "Battle of Vertières Day",
+      "description": null
+    },
+    {
+      "title": "International Occult Day",
+      "description": null
+    },
+    {
+      "title": "Latvia Independence Day",
+      "description": null
+    },
+    {
+      "title": "Married to a Scorpio Support Day",
+      "description": null
+    },
+    {
+      "title": "Minnie Mouse Birthday",
+      "description": null
+    },
+    {
+      "title": "National Vichyssoise Day",
+      "description": null
+    }
+  ]
+}

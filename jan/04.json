@@ -1,0 +1,54 @@
+{
+  "month": "jan",
+  "day": 4,
+  "holidays": [
+    {
+      "title": "National Trivia Day",
+      "description": null
+    },
+    {
+      "title": "Dimpled Chad Day",
+      "description": null
+    },
+    {
+      "title": "Free Flower Basket Day",
+      "description": null
+    },
+    {
+      "title": "National CanDo Day",
+      "description": null
+    },
+    {
+      "title": "National Clara Day",
+      "description": null
+    },
+    {
+      "title": "National Missouri Day",
+      "description": null
+    },
+    {
+      "title": "National Spaghetti Day",
+      "description": null
+    },
+    {
+      "title": "Pop Music Chart Day",
+      "description": null
+    },
+    {
+      "title": "Tom Thumb Day",
+      "description": null
+    },
+    {
+      "title": "Weigh-In Day",
+      "description": null
+    },
+    {
+      "title": "World Braille Day",
+      "description": null
+    },
+    {
+      "title": "World Hypnotism Day",
+      "description": null
+    }
+  ]
+}
