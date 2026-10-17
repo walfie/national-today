@@ -1,0 +1,50 @@
+{
+  "month": "nov",
+  "day": 4,
+  "holidays": [
+    {
+      "title": "National Candy Day",
+      "description": null
+    },
+    {
+      "title": "Election Day",
+      "description": null
+    },
+    {
+      "title": "Flag Day in Panama",
+      "description": null
+    },
+    {
+      "title": "Melbourne Cup Day",
+      "description": null
+    },
+    {
+      "title": "National Chicken Lady Day",
+      "description": null
+    },
+    {
+      "title": "National Day of Community Service",
+      "description": null
+    },
+    {
+      "title": "National Easy-Bake Oven Day",
+      "description": null
+    },
+    {
+      "title": "National Waiting for the Barbarians Day",
+      "description": null
+    },
+    {
+      "title": "Roast Dinner Day",
+      "description": null
+    },
+    {
+      "title": "Russia&#39;s Day of Unity",
+      "description": null
+    },
+    {
+      "title": "Use Your Common Sense Day",
+      "description": null
+    }
+  ]
+}

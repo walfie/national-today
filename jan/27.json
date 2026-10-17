@@ -1,0 +1,50 @@
+{
+  "month": "jan",
+  "day": 27,
+  "holidays": [
+    {
+      "title": "International Holocaust Remembrance Day",
+      "description": null
+    },
+    {
+      "title": "National Chocolate Cake Day",
+      "description": null
+    },
+    {
+      "title": "Auschwitz Liberation Day",
+      "description": null
+    },
+    {
+      "title": "Holocaust Memorial Day",
+      "description": null
+    },
+    {
+      "title": "National Geographic Day",
+      "description": null
+    },
+    {
+      "title": "National Plan for Vacation Day",
+      "description": null
+    },
+    {
+      "title": "Punch the Clock Day",
+      "description": null
+    },
+    {
+      "title": "Speak Up and Succeed Day",
+      "description": null
+    },
+    {
+      "title": "Thomas Crapper Day",
+      "description": null
+    },
+    {
+      "title": "Vietnam Peace Day",
+      "description": null
+    },
+    {
+      "title": "World Breast Pumping Day",
+      "description": null
+    }
+  ]
+}

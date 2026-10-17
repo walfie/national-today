@@ -1,0 +1,86 @@
+{
+  "month": "apr",
+  "day": 2,
+  "holidays": [
+    {
+      "title": "Maundy Thursday",
+      "description": null
+    },
+    {
+      "title": "National Burrito Day",
+      "description": null
+    },
+    {
+      "title": "National Peanut Butter and Jelly Day",
+      "description": null
+    },
+    {
+      "title": "Autism Acceptance Day",
+      "description": null
+    },
+    {
+      "title": "Autism Awareness Day",
+      "description": null
+    },
+    {
+      "title": "Children’s Picture Book Day",
+      "description": null
+    },
+    {
+      "title": "Day of the Veterans",
+      "description": null
+    },
+    {
+      "title": "Holy Thursday",
+      "description": null
+    },
+    {
+      "title": "International Children’s Book Day",
+      "description": null
+    },
+    {
+      "title": "International Fact-Checking Day",
+      "description": null
+    },
+    {
+      "title": "Näfelser Fahrt",
+      "description": null
+    },
+    {
+      "title": "National DIY Day",
+      "description": null
+    },
+    {
+      "title": "National Employee Benefits Day",
+      "description": null
+    },
+    {
+      "title": "National Ferret Day",
+      "description": null
+    },
+    {
+      "title": "National Love Your Produce Manager Day",
+      "description": null
+    },
+    {
+      "title": "National Reconciliation Day",
+      "description": null
+    },
+    {
+      "title": "National Ride Your Horse to a Bar Day",
+      "description": null
+    },
+    {
+      "title": "Nature Day",
+      "description": null
+    },
+    {
+      "title": "Pascua Florida Day",
+      "description": null
+    },
+    {
+      "title": "Union Day of Belarus and Russia",
+      "description": null
+    }
+  ]
+}
