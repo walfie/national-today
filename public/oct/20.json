@@ -3,27 +3,19 @@
   "day": 20,
   "holidays": [
     {
+      "title": "National Share the Warmth Day",
+      "description": null
+    },
+    {
       "title": "World Osteoporosis Day",
       "description": null
     },
     {
-      "title": "Day of the Races",
+      "title": "Dashain",
       "description": null
     },
     {
-      "title": "Deepavali",
-      "description": null
-    },
-    {
-      "title": "Diwali",
-      "description": null
-    },
-    {
-      "title": "Heroes and Forefathers Day",
-      "description": null
-    },
-    {
-      "title": "Heroes&#39; Day (In Jamaica)",
+      "title": "Durga Puja Navami",
       "description": null
     },
     {
@@ -35,15 +27,7 @@
       "description": null
     },
     {
-      "title": "Kali Puja",
-      "description": null
-    },
-    {
-      "title": "Lakshmi Puja",
-      "description": null
-    },
-    {
-      "title": "Laxmi Puja",
+      "title": "Maha Navami",
       "description": null
     },
     {
@@ -55,7 +39,7 @@
       "description": null
     },
     {
-      "title": "Naraka Chaturdashi",
+      "title": "Mysore Dasara",
       "description": null
     },
     {
@@ -71,7 +55,15 @@
       "description": null
     },
     {
+      "title": "Pharmacy Technician Day",
+      "description": null
+    },
+    {
       "title": "Philippine-British Friendship day",
+      "description": null
+    },
+    {
+      "title": "Pro-Life Day of Silent Solidarity",
       "description": null
     },
     {
@@ -80,6 +72,10 @@
     },
     {
       "title": "Talent Transformation Day",
+      "description": null
+    },
+    {
+      "title": "Vijayadashami",
       "description": null
     },
     {
