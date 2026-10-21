@@ -3,10 +3,6 @@
   "day": 21,
   "holidays": [
     {
-      "title": "National Share the Warmth Day",
-      "description": null
-    },
-    {
       "title": "American Frog Day",
       "description": null
     },
@@ -15,7 +11,7 @@
       "description": null
     },
     {
-      "title": "​Back to the Future Day",
+      "title": "Back to the Future Day",
       "description": null
     },
     {
@@ -35,7 +31,15 @@
       "description": null
     },
     {
+      "title": "Hagfish Day",
+      "description": null
+    },
+    {
       "title": "Honduran Army Day",
+      "description": null
+    },
+    {
+      "title": "Medical Assistant Day",
       "description": null
     },
     {
@@ -44,6 +48,10 @@
     },
     {
       "title": "National Archives Day",
+      "description": null
+    },
+    {
+      "title": "National BRA Day",
       "description": null
     },
     {
@@ -63,10 +71,6 @@
       "description": null
     },
     {
-      "title": "Pharmacy Technician Day",
-      "description": null
-    },
-    {
       "title": "Police Commemoration Day",
       "description": null
     },
@@ -75,15 +79,19 @@
       "description": null
     },
     {
-      "title": "Pro-Life Day of Silent Solidarity",
-      "description": null
-    },
-    {
       "title": "Reptile Awareness Day",
       "description": null
     },
     {
+      "title": "Support Your Local Chamber of Commerce Day",
+      "description": null
+    },
+    {
       "title": "Trafalgar Day",
+      "description": null
+    },
+    {
+      "title": "Unity Day",
       "description": null
     }
   ]
