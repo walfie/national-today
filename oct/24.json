@@ -1,0 +1,62 @@
+{
+  "month": "oct",
+  "day": 24,
+  "holidays": [
+    {
+      "title": "My Best Winter Skin Day",
+      "description": null
+    },
+    {
+      "title": "Disarmament Week",
+      "description": null
+    },
+    {
+      "title": "Make a Difference Day",
+      "description": null
+    },
+    {
+      "title": "National Bologna Day",
+      "description": null
+    },
+    {
+      "title": "National Food Day",
+      "description": null
+    },
+    {
+      "title": "National Jamaican Jerk Day",
+      "description": null
+    },
+    {
+      "title": "National Kangaroo Awareness Day",
+      "description": null
+    },
+    {
+      "title": "National One United Race Day",
+      "description": null
+    },
+    {
+      "title": "National Senior UTI Awareness Day",
+      "description": null
+    },
+    {
+      "title": "United Nations Day",
+      "description": null
+    },
+    {
+      "title": "World Development Information Day",
+      "description": null
+    },
+    {
+      "title": "World Polio Day",
+      "description": null
+    },
+    {
+      "title": "World Tripe Day",
+      "description": null
+    },
+    {
+      "title": "Zambia Independence Day",
+      "description": null
+    }
+  ]
+}

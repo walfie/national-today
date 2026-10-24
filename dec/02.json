@@ -1,0 +1,86 @@
+{
+  "month": "dec",
+  "day": 2,
+  "holidays": [
+    {
+      "title": "Cyber Monday",
+      "description": null
+    },
+    {
+      "title": "National Bartender Day",
+      "description": null
+    },
+    {
+      "title": "National Mutt Day",
+      "description": null
+    },
+    {
+      "title": "Asom Divas",
+      "description": null
+    },
+    {
+      "title": "Bartender Appreciation Day",
+      "description": null
+    },
+    {
+      "title": "Business of Popping Corn Day",
+      "description": null
+    },
+    {
+      "title": "Chatham Islands Anniversary Day",
+      "description": null
+    },
+    {
+      "title": "International Day for the Abolition of Slavery",
+      "description": null
+    },
+    {
+      "title": "International Sweater Vestival",
+      "description": null
+    },
+    {
+      "title": "Lao National Day",
+      "description": null
+    },
+    {
+      "title": "National Anytime Hawaiian Day",
+      "description": null
+    },
+    {
+      "title": "National Build Joy Day",
+      "description": null
+    },
+    {
+      "title": "National Fritters Day",
+      "description": null
+    },
+    {
+      "title": "National Skip School Day",
+      "description": null
+    },
+    {
+      "title": "Safety Razor Day",
+      "description": null
+    },
+    {
+      "title": "SKYWARN™ Recognition Day",
+      "description": null
+    },
+    {
+      "title": "Special Education Day",
+      "description": null
+    },
+    {
+      "title": "UAE National Day",
+      "description": null
+    },
+    {
+      "title": "World Computer Literacy Day",
+      "description": null
+    },
+    {
+      "title": "World Pollution Prevention Day",
+      "description": null
+    }
+  ]
+}

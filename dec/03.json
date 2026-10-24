@@ -1,0 +1,78 @@
+{
+  "month": "dec",
+  "day": 3,
+  "holidays": [
+    {
+      "title": "Giving Tuesday",
+      "description": null
+    },
+    {
+      "title": "International Day of Persons with Disabilities",
+      "description": null
+    },
+    {
+      "title": "Candle Day",
+      "description": null
+    },
+    {
+      "title": "Coats and Toys for Kids Day",
+      "description": null
+    },
+    {
+      "title": "Crate Day",
+      "description": null
+    },
+    {
+      "title": "Day of Navarre",
+      "description": null
+    },
+    {
+      "title": "Farmer’s Day in Ghana",
+      "description": null
+    },
+    {
+      "title": "Faux Fur Friday",
+      "description": null
+    },
+    {
+      "title": "Feast of St. Francis Xavier",
+      "description": null
+    },
+    {
+      "title": "First Sunday of Advent",
+      "description": null
+    },
+    {
+      "title": "Let’s Hug Day",
+      "description": null
+    },
+    {
+      "title": "National Day of Giving",
+      "description": null
+    },
+    {
+      "title": "National Green Bean Casserole Day",
+      "description": null
+    },
+    {
+      "title": "National Heather Day",
+      "description": null
+    },
+    {
+      "title": "National Make a Gift Day",
+      "description": null
+    },
+    {
+      "title": "National Rhubarb Vodka Day",
+      "description": null
+    },
+    {
+      "title": "National Roof Over Your Head Day",
+      "description": null
+    },
+    {
+      "title": "Saba Day in Saba",
+      "description": null
+    }
+  ]
+}
