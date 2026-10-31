@@ -1,0 +1,70 @@
+{
+  "month": "jan",
+  "day": 28,
+  "holidays": [
+    {
+      "title": "Lego Day",
+      "description": null
+    },
+    {
+      "title": "National Daisy Day",
+      "description": null
+    },
+    {
+      "title": "National Kazoo Day",
+      "description": null
+    },
+    {
+      "title": "American Immigration Lawyers Association Day of Action",
+      "description": null
+    },
+    {
+      "title": "Christa McAuliffe Day",
+      "description": null
+    },
+    {
+      "title": "Data Privacy Day",
+      "description": null
+    },
+    {
+      "title": "Global Community Engagement Day",
+      "description": null
+    },
+    {
+      "title": "International Reducing CO2 Emissions Day",
+      "description": null
+    },
+    {
+      "title": "José Martí&#39;s Birthday Memorial",
+      "description": null
+    },
+    {
+      "title": "Julian Felipe Day",
+      "description": null
+    },
+    {
+      "title": "Library Shelfie Day",
+      "description": null
+    },
+    {
+      "title": "National Blueberry Pancake Day",
+      "description": null
+    },
+    {
+      "title": "National Pediatrician Day",
+      "description": null
+    },
+    {
+      "title": "Pop Art Day",
+      "description": null
+    },
+    {
+      "title": "Rattlesnake Roundup Day",
+      "description": null
+    },
+    {
+      "title": "Thank a Plugin Developer Day",
+      "description": null
+    }
+  ]
+}
