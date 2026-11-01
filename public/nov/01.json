@@ -3,6 +3,10 @@
   "day": 1,
   "holidays": [
     {
+      "title": "Daylight Saving Day",
+      "description": null
+    },
+    {
       "title": "Deck the Everything Day",
       "description": null
     },
@@ -51,6 +55,10 @@
       "description": null
     },
     {
+      "title": "Daylight Savings Ends",
+      "description": null
+    },
+    {
       "title": "Extra Mile Day",
       "description": null
     },
@@ -79,15 +87,11 @@
       "description": null
     },
     {
-      "title": "National Bison Day",
-      "description": null
-    },
-    {
       "title": "National Brush Day",
       "description": null
     },
     {
-      "title": "​National Calzone Day",
+      "title": "National Calzone Day",
       "description": null
     },
     {
@@ -123,7 +127,7 @@
       "description": null
     },
     {
-      "title": "World Numbat Day",
+      "title": "Zero Tasking Day",
       "description": null
     }
   ]
