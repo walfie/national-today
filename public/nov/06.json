@@ -3,15 +3,11 @@
   "day": 6,
   "holidays": [
     {
-      "title": "National Men Make Dinner Day",
-      "description": null
-    },
-    {
       "title": "National Nacho Day",
       "description": null
     },
     {
-      "title": "Dog Film Festival",
+      "title": "Fountain Pen Day",
       "description": null
     },
     {
@@ -19,11 +15,7 @@
       "description": null
     },
     {
-      "title": "International Stout Day",
-      "description": null
-    },
-    {
-      "title": "Liberia Thanksgiving",
+      "title": "Love Your Lawyer Day",
       "description": null
     },
     {
@@ -32,10 +24,6 @@
     },
     {
       "title": "National Basketball Day",
-      "description": null
-    },
-    {
-      "title": "National Cash Back Day",
       "description": null
     },
     {
@@ -52,10 +40,6 @@
     },
     {
       "title": "National Team Manager Day",
-      "description": null
-    },
-    {
-      "title": "Project Management Day",
       "description": null
     }
   ]
