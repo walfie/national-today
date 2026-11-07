@@ -1,0 +1,38 @@
+{
+  "month": "dec",
+  "day": 23,
+  "holidays": [
+    {
+      "title": "Festivus",
+      "description": null
+    },
+    {
+      "title": "Birthday of Emperor Akihito",
+      "description": null
+    },
+    {
+      "title": "HumanLight",
+      "description": null
+    },
+    {
+      "title": "Kisan Diwas",
+      "description": null
+    },
+    {
+      "title": "National Christmas Movie Marathon Day",
+      "description": null
+    },
+    {
+      "title": "National Laura Day",
+      "description": null
+    },
+    {
+      "title": "National Pfeffernusse Day",
+      "description": null
+    },
+    {
+      "title": "National Roots Day",
+      "description": null
+    }
+  ]
+}

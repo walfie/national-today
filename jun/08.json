@@ -1,0 +1,54 @@
+{
+  "month": "jun",
+  "day": 8,
+  "holidays": [
+    {
+      "title": "World Oceans Day",
+      "description": null
+    },
+    {
+      "title": "Bounty Day",
+      "description": null
+    },
+    {
+      "title": "Columbia Corpus Christi Holiday",
+      "description": null
+    },
+    {
+      "title": "Eat Flexitarian Day",
+      "description": null
+    },
+    {
+      "title": "International Day of Action for Elephants in Zoos",
+      "description": null
+    },
+    {
+      "title": "Name Your Poison Day",
+      "description": null
+    },
+    {
+      "title": "National Best Friends Day",
+      "description": null
+    },
+    {
+      "title": "Team Green Britain Bike Week",
+      "description": null
+    },
+    {
+      "title": "Temotu Province Day",
+      "description": null
+    },
+    {
+      "title": "Thomas Paine Day",
+      "description": null
+    },
+    {
+      "title": "Upsy Daisy Day",
+      "description": null
+    },
+    {
+      "title": "World Brain Tumor Day",
+      "description": null
+    }
+  ]
+}
