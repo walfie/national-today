@@ -3,6 +3,10 @@
   "day": 8,
   "holidays": [
     {
+      "title": "National Pupusa Day",
+      "description": null
+    },
+    {
       "title": "National STEM/STEAM Day",
       "description": null
     },
@@ -15,11 +19,39 @@
       "description": null
     },
     {
+      "title": "Day of Mourning",
+      "description": null
+    },
+    {
+      "title": "Deepavali",
+      "description": null
+    },
+    {
+      "title": "Diwali",
+      "description": null
+    },
+    {
       "title": "International Day of Radiology",
       "description": null
     },
     {
-      "title": "​National Cappuccino Day",
+      "title": "International Tongue Twister Day",
+      "description": null
+    },
+    {
+      "title": "Lakshmi Puja",
+      "description": null
+    },
+    {
+      "title": "Laxmi Puja",
+      "description": null
+    },
+    {
+      "title": "Naraka Chaturdashi",
+      "description": null
+    },
+    {
+      "title": "National Cappuccino Day",
       "description": null
     },
     {
@@ -39,7 +71,15 @@
       "description": null
     },
     {
-      "title": "National Saddle Hunting Day",
+      "title": "Orphan Sunday",
+      "description": null
+    },
+    {
+      "title": "Remembrance Sunday",
+      "description": null
+    },
+    {
+      "title": "Sigd Day",
       "description": null
     },
     {
