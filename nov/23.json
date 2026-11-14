@@ -1,0 +1,42 @@
+{
+  "month": "nov",
+  "day": 23,
+  "holidays": [
+    {
+      "title": "National Espresso Day",
+      "description": null
+    },
+    {
+      "title": "Christ the King Feast",
+      "description": null
+    },
+    {
+      "title": "Eat A Cranberry Day",
+      "description": null
+    },
+    {
+      "title": "Fibonacci Day",
+      "description": null
+    },
+    {
+      "title": "Labor Appreciation Day",
+      "description": null
+    },
+    {
+      "title": "National Cashew Day",
+      "description": null
+    },
+    {
+      "title": "Stir-Up Sunday",
+      "description": null
+    },
+    {
+      "title": "Thankful For My Dog Day",
+      "description": null
+    },
+    {
+      "title": "Wolfenoot",
+      "description": null
+    }
+  ]
+}

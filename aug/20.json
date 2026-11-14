@@ -1,0 +1,34 @@
+{
+  "month": "aug",
+  "day": 20,
+  "holidays": [
+    {
+      "title": "Anniversary of the Revolution of the King and the People",
+      "description": null
+    },
+    {
+      "title": "Hungary National Day",
+      "description": null
+    },
+    {
+      "title": "National Bacon Lovers Day",
+      "description": null
+    },
+    {
+      "title": "National Chocolate Pecan Pie Day",
+      "description": null
+    },
+    {
+      "title": "National Radio Day",
+      "description": null
+    },
+    {
+      "title": "St. Stephen’s Day Hungary",
+      "description": null
+    },
+    {
+      "title": "World Mosquito Day",
+      "description": null
+    }
+  ]
+}

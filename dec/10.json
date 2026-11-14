@@ -1,0 +1,38 @@
+{
+  "month": "dec",
+  "day": 10,
+  "holidays": [
+    {
+      "title": "National Lager Day",
+      "description": null
+    },
+    {
+      "title": "Constitution Day in Thailand",
+      "description": null
+    },
+    {
+      "title": "Dewey Decimal System Day",
+      "description": null
+    },
+    {
+      "title": "Festival for the Souls of Dead Whales",
+      "description": null
+    },
+    {
+      "title": "Human Rights Day",
+      "description": null
+    },
+    {
+      "title": "International Animal Rights Day",
+      "description": null
+    },
+    {
+      "title": "Iraq Victory Day",
+      "description": null
+    },
+    {
+      "title": "Nobel Prize Day",
+      "description": null
+    }
+  ]
+}
