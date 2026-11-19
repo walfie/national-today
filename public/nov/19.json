@@ -3,11 +3,19 @@
   "day": 19,
   "holidays": [
     {
+      "title": "Great American Smokeout",
+      "description": null
+    },
+    {
       "title": "International Men’s Day",
       "description": null
     },
     {
-      "title": "BOTOX® Cosmetic (onabotulinumtoxinA) Day",
+      "title": "National Adoption Day",
+      "description": null
+    },
+    {
+      "title": "Beaujolais Nouveau Day",
       "description": null
     },
     {
@@ -15,19 +23,7 @@
       "description": null
     },
     {
-      "title": "Education Support Professionals Day",
-      "description": null
-    },
-    {
       "title": "Garifuna Settlement Day",
-      "description": null
-    },
-    {
-      "title": "Geographic Information Systems Day",
-      "description": null
-    },
-    {
-      "title": "GIS Day",
       "description": null
     },
     {
@@ -47,10 +43,6 @@
       "description": null
     },
     {
-      "title": "National Educational Support Professionals Day",
-      "description": null
-    },
-    {
       "title": "National Have A Bad Day Day",
       "description": null
     },
@@ -67,7 +59,15 @@
       "description": null
     },
     {
-      "title": "Sigd Day",
+      "title": "National Rural Health Day",
+      "description": null
+    },
+    {
+      "title": "Social Enterprise Day",
+      "description": null
+    },
+    {
+      "title": "Use Less Stuff Day",
       "description": null
     },
     {
@@ -79,7 +79,11 @@
       "description": null
     },
     {
-      "title": "World COPD Day",
+      "title": "World Pancreatic Cancer Day",
+      "description": null
+    },
+    {
+      "title": "World Philosophy Day",
       "description": null
     },
     {
