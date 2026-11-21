@@ -1,0 +1,94 @@
+{
+  "month": "nov",
+  "day": 19,
+  "holidays": [
+    {
+      "title": "Great American Smokeout",
+      "description": null
+    },
+    {
+      "title": "International Men’s Day",
+      "description": null
+    },
+    {
+      "title": "National Adoption Day",
+      "description": null
+    },
+    {
+      "title": "Beaujolais Nouveau Day",
+      "description": null
+    },
+    {
+      "title": "Discovery of Puerto Rico Day",
+      "description": null
+    },
+    {
+      "title": "Garifuna Settlement Day",
+      "description": null
+    },
+    {
+      "title": "International Journalist Day",
+      "description": null
+    },
+    {
+      "title": "Monaco National Day",
+      "description": null
+    },
+    {
+      "title": "National Camp Day",
+      "description": null
+    },
+    {
+      "title": "National Carbonated Beverage With Caffeine Day",
+      "description": null
+    },
+    {
+      "title": "National Have A Bad Day Day",
+      "description": null
+    },
+    {
+      "title": "National Integration Day",
+      "description": null
+    },
+    {
+      "title": "National Lewis Day",
+      "description": null
+    },
+    {
+      "title": "National Play Monopoly Day",
+      "description": null
+    },
+    {
+      "title": "National Rural Health Day",
+      "description": null
+    },
+    {
+      "title": "Social Enterprise Day",
+      "description": null
+    },
+    {
+      "title": "Use Less Stuff Day",
+      "description": null
+    },
+    {
+      "title": "Women Entrepreneurship Day",
+      "description": null
+    },
+    {
+      "title": "Women’s Entrepreneurship Day",
+      "description": null
+    },
+    {
+      "title": "World Pancreatic Cancer Day",
+      "description": null
+    },
+    {
+      "title": "World Philosophy Day",
+      "description": null
+    },
+    {
+      "title": "World Toilet Day",
+      "description": null
+    }
+  ]
+}

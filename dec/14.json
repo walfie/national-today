@@ -1,0 +1,54 @@
+{
+  "month": "dec",
+  "day": 14,
+  "holidays": [
+    {
+      "title": "Free Shipping Day",
+      "description": null
+    },
+    {
+      "title": "Monkey Day",
+      "description": null
+    },
+    {
+      "title": "Worldwide Candle Lighting Day",
+      "description": null
+    },
+    {
+      "title": "Choral Day",
+      "description": null
+    },
+    {
+      "title": "Halcyon Days",
+      "description": null
+    },
+    {
+      "title": "Hanukkah",
+      "description": null
+    },
+    {
+      "title": "Martyred Intellectuals Day",
+      "description": null
+    },
+    {
+      "title": "More Good Today Day",
+      "description": null
+    },
+    {
+      "title": "National Alabama Day",
+      "description": null
+    },
+    {
+      "title": "National Bouillabaisse Day",
+      "description": null
+    },
+    {
+      "title": "National Energy Conservation Day",
+      "description": null
+    },
+    {
+      "title": "Roast Chestnuts Day",
+      "description": null
+    }
+  ]
+}
