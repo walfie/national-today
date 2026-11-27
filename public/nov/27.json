@@ -3,11 +3,19 @@
   "day": 27,
   "holidays": [
     {
-      "title": "National Day of Mourning",
+      "title": "Black Friday",
       "description": null
     },
     {
-      "title": "Thanksgiving",
+      "title": "Buy Nothing Day",
+      "description": null
+    },
+    {
+      "title": "Flossing Day",
+      "description": null
+    },
+    {
+      "title": "Fur-Free Friday",
       "description": null
     },
     {
@@ -15,11 +23,7 @@
       "description": null
     },
     {
-      "title": "Macy’s Thanksgiving Day Parade",
-      "description": null
-    },
-    {
-      "title": "Mindanao Week of Peace",
+      "title": "Maize Day",
       "description": null
     },
     {
@@ -31,7 +35,7 @@
       "description": null
     },
     {
-      "title": "National Dog Show Broadcast",
+      "title": "National Day of Listening",
       "description": null
     },
     {
@@ -43,7 +47,11 @@
       "description": null
     },
     {
-      "title": "Turkey-free Thanksgiving",
+      "title": "Sinkie Day",
+      "description": null
+    },
+    {
+      "title": "Systems Engineer Day",
       "description": null
     },
     {
@@ -51,7 +59,7 @@
       "description": null
     },
     {
-      "title": "Unthanksgiving Day",
+      "title": "You’re Welcomegiving Day",
       "description": null
     }
   ]
