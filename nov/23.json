@@ -1,0 +1,42 @@
+{
+  "month": "nov",
+  "day": 23,
+  "holidays": [
+    {
+      "title": "National Espresso Day",
+      "description": null
+    },
+    {
+      "title": "Eat A Cranberry Day",
+      "description": null
+    },
+    {
+      "title": "Fibonacci Day",
+      "description": null
+    },
+    {
+      "title": "Labor Appreciation Day",
+      "description": null
+    },
+    {
+      "title": "National Brand Day",
+      "description": null
+    },
+    {
+      "title": "National Cashew Day",
+      "description": null
+    },
+    {
+      "title": "National Sovereignty Day Argentina",
+      "description": null
+    },
+    {
+      "title": "Thankful For My Dog Day",
+      "description": null
+    },
+    {
+      "title": "Wolfenoot",
+      "description": null
+    }
+  ]
+}

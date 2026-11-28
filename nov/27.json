@@ -1,0 +1,66 @@
+{
+  "month": "nov",
+  "day": 27,
+  "holidays": [
+    {
+      "title": "Black Friday",
+      "description": null
+    },
+    {
+      "title": "Buy Nothing Day",
+      "description": null
+    },
+    {
+      "title": "Flossing Day",
+      "description": null
+    },
+    {
+      "title": "Fur-Free Friday",
+      "description": null
+    },
+    {
+      "title": "Lancashire Day",
+      "description": null
+    },
+    {
+      "title": "Maize Day",
+      "description": null
+    },
+    {
+      "title": "National Bavarian Cream Pie Day",
+      "description": null
+    },
+    {
+      "title": "National Craft Jerky Day",
+      "description": null
+    },
+    {
+      "title": "National Day of Listening",
+      "description": null
+    },
+    {
+      "title": "National Family Health History Day",
+      "description": null
+    },
+    {
+      "title": "Pins and Needles Day",
+      "description": null
+    },
+    {
+      "title": "Sinkie Day",
+      "description": null
+    },
+    {
+      "title": "Systems Engineer Day",
+      "description": null
+    },
+    {
+      "title": "Turtle Adoption Day",
+      "description": null
+    },
+    {
+      "title": "You’re Welcomegiving Day",
+      "description": null
+    }
+  ]
+}

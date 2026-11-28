@@ -1,0 +1,66 @@
+{
+  "month": "mar",
+  "day": 24,
+  "holidays": [
+    {
+      "title": "American Diabetes Alert Day",
+      "description": null
+    },
+    {
+      "title": "Commonwealth Covenant Day",
+      "description": null
+    },
+    {
+      "title": "Day of Remembrance for Truth and Justice",
+      "description": null
+    },
+    {
+      "title": "Flatmates Day",
+      "description": null
+    },
+    {
+      "title": "Independent Accommodation Day",
+      "description": null
+    },
+    {
+      "title": "International Day For Achievers",
+      "description": null
+    },
+    {
+      "title": "International Day for the Right to the Truth concerning Gross Human Rights Violations and for the Dignity of Victims",
+      "description": null
+    },
+    {
+      "title": "National Adverse Drug Event Awareness Day",
+      "description": null
+    },
+    {
+      "title": "National Ag Day",
+      "description": null
+    },
+    {
+      "title": "National Cheesesteak Day",
+      "description": null
+    },
+    {
+      "title": "National Chocolate Covered Raisin Day",
+      "description": null
+    },
+    {
+      "title": "National Cocktail Day",
+      "description": null
+    },
+    {
+      "title": "National Each Person is A Person of Worth Day",
+      "description": null
+    },
+    {
+      "title": "National Stephanie Day",
+      "description": null
+    },
+    {
+      "title": "World Tuberculosis Day",
+      "description": null
+    }
+  ]
+}

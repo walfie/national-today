@@ -1,0 +1,62 @@
+{
+  "month": "nov",
+  "day": 26,
+  "holidays": [
+    {
+      "title": "National Cake Day",
+      "description": null
+    },
+    {
+      "title": "National Day of Mourning",
+      "description": null
+    },
+    {
+      "title": "Thanksgiving",
+      "description": null
+    },
+    {
+      "title": "Anti Obesity Day",
+      "description": null
+    },
+    {
+      "title": "Good Grief Day",
+      "description": null
+    },
+    {
+      "title": "International Cake Day",
+      "description": null
+    },
+    {
+      "title": "Macy’s Thanksgiving Day Parade",
+      "description": null
+    },
+    {
+      "title": "Mindanao Week of Peace",
+      "description": null
+    },
+    {
+      "title": "National Dog Show Broadcast",
+      "description": null
+    },
+    {
+      "title": "National Heath Day",
+      "description": null
+    },
+    {
+      "title": "National Law Day",
+      "description": null
+    },
+    {
+      "title": "Turkey-free Thanksgiving",
+      "description": null
+    },
+    {
+      "title": "Unthanksgiving Day",
+      "description": null
+    },
+    {
+      "title": "World Lewis Day",
+      "description": null
+    }
+  ]
+}

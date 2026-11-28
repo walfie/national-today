@@ -1,0 +1,70 @@
+{
+  "month": "nov",
+  "day": 18,
+  "holidays": [
+    {
+      "title": "Mickey Mouse Birthday",
+      "description": null
+    },
+    {
+      "title": "Mickey Mouse Day",
+      "description": null
+    },
+    {
+      "title": "National Princess Day",
+      "description": null
+    },
+    {
+      "title": "Apple Cider Day",
+      "description": null
+    },
+    {
+      "title": "Battle of Vertières Day",
+      "description": null
+    },
+    {
+      "title": "BOTOX® Cosmetic (onabotulinumtoxinA) Day",
+      "description": null
+    },
+    {
+      "title": "Education Support Professionals Day",
+      "description": null
+    },
+    {
+      "title": "Geographic Information Systems Day",
+      "description": null
+    },
+    {
+      "title": "GIS Day",
+      "description": null
+    },
+    {
+      "title": "International Occult Day",
+      "description": null
+    },
+    {
+      "title": "Latvia Independence Day",
+      "description": null
+    },
+    {
+      "title": "Married to a Scorpio Support Day",
+      "description": null
+    },
+    {
+      "title": "Minnie Mouse Birthday",
+      "description": null
+    },
+    {
+      "title": "National Educational Support Professionals Day",
+      "description": null
+    },
+    {
+      "title": "National Vichyssoise Day",
+      "description": null
+    },
+    {
+      "title": "World COPD Day",
+      "description": null
+    }
+  ]
+}

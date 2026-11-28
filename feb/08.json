@@ -1,0 +1,70 @@
+{
+  "month": "feb",
+  "day": 8,
+  "holidays": [
+    {
+      "title": "Super Bowl Sunday",
+      "description": null
+    },
+    {
+      "title": "Autism Sunday",
+      "description": null
+    },
+    {
+      "title": "Laugh and Get Rich Day",
+      "description": null
+    },
+    {
+      "title": "Man Day",
+      "description": null
+    },
+    {
+      "title": "Molasses Bar Day",
+      "description": null
+    },
+    {
+      "title": "Mother&#39;s Day Norway",
+      "description": null
+    },
+    {
+      "title": "National Boy Scout Day",
+      "description": null
+    },
+    {
+      "title": "National Homegating Day",
+      "description": null
+    },
+    {
+      "title": "National Iowa Day",
+      "description": null
+    },
+    {
+      "title": "National Kite-Flying Day",
+      "description": null
+    },
+    {
+      "title": "Opera Day",
+      "description": null
+    },
+    {
+      "title": "Prešeren Day",
+      "description": null
+    },
+    {
+      "title": "Propose Day",
+      "description": null
+    },
+    {
+      "title": "Scout Sunday",
+      "description": null
+    },
+    {
+      "title": "Super Chicken Wing Day",
+      "description": null
+    },
+    {
+      "title": "World Marriage Day",
+      "description": null
+    }
+  ]
+}

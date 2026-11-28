@@ -1,0 +1,38 @@
+{
+  "month": "may",
+  "day": 11,
+  "holidays": [
+    {
+      "title": "National Eat What You Want Day",
+      "description": null
+    },
+    {
+      "title": "Hostess CupCake Day",
+      "description": null
+    },
+    {
+      "title": "National Foam Rolling Day",
+      "description": null
+    },
+    {
+      "title": "National Technology Day",
+      "description": null
+    },
+    {
+      "title": "National Women’s Checkup Day",
+      "description": null
+    },
+    {
+      "title": "Somerset Day",
+      "description": null
+    },
+    {
+      "title": "Twilight Zone Day",
+      "description": null
+    },
+    {
+      "title": "World Ego Awareness Day",
+      "description": null
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "month": "jan",
+  "day": 6,
+  "holidays": [
+    {
+      "title": "Three Kings Day",
+      "description": null
+    },
+    {
+      "title": "Apple Tree Day",
+      "description": null
+    },
+    {
+      "title": "Armenian Christmas",
+      "description": null
+    },
+    {
+      "title": "Day of Los Reyes",
+      "description": null
+    },
+    {
+      "title": "Dry Bean Day",
+      "description": null
+    },
+    {
+      "title": "Epiphany",
+      "description": null
+    },
+    {
+      "title": "National Bean Day",
+      "description": null
+    },
+    {
+      "title": "National Cuddle Day",
+      "description": null
+    },
+    {
+      "title": "National Davis Day",
+      "description": null
+    },
+    {
+      "title": "National Samantha Day",
+      "description": null
+    },
+    {
+      "title": "National Smith Day",
+      "description": null
+    },
+    {
+      "title": "National Take a Poet to Lunch Day",
+      "description": null
+    },
+    {
+      "title": "National Take Down the Christmas Tree Day",
+      "description": null
+    },
+    {
+      "title": "National Walker’s Shortbread Day",
+      "description": null
+    },
+    {
+      "title": "Uruguay Children&#39;s Day/Ephiphany",
+      "description": null
+    },
+    {
+      "title": "World Day of War Orphans",
+      "description": null
+    }
+  ]
+}
